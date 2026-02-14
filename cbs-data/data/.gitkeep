@@ -1,0 +1,5 @@
+# CBS Data Directory
+
+Cached CBS data files worden hier opgeslagen (optioneel voor performance).
+
+`.gitignore` deze directory als je niet wilt dat data in git komt.
