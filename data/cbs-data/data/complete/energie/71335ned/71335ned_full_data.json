@@ -1,0 +1,317 @@
+[
+  {
+    "ID":0,
+    "LandVanHerkomst":"20",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":1,
+    "LandVanHerkomst":"20",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":30
+  },
+  {
+    "ID":2,
+    "LandVanHerkomst":"20",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":24
+  },
+  {
+    "ID":3,
+    "LandVanHerkomst":"20",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":20
+  },
+  {
+    "ID":4,
+    "LandVanHerkomst":"20",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":26
+  },
+  {
+    "ID":5,
+    "LandVanHerkomst":"12",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":6,
+    "LandVanHerkomst":"12",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":21
+  },
+  {
+    "ID":7,
+    "LandVanHerkomst":"12",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":14
+  },
+  {
+    "ID":8,
+    "LandVanHerkomst":"12",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":34
+  },
+  {
+    "ID":9,
+    "LandVanHerkomst":"12",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":30
+  },
+  {
+    "ID":10,
+    "LandVanHerkomst":"11",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":11,
+    "LandVanHerkomst":"11",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":20
+  },
+  {
+    "ID":12,
+    "LandVanHerkomst":"11",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":16
+  },
+  {
+    "ID":13,
+    "LandVanHerkomst":"11",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":39
+  },
+  {
+    "ID":14,
+    "LandVanHerkomst":"11",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":25
+  },
+  {
+    "ID":15,
+    "LandVanHerkomst":"14",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":16,
+    "LandVanHerkomst":"14",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":24
+  },
+  {
+    "ID":17,
+    "LandVanHerkomst":"14",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":33
+  },
+  {
+    "ID":18,
+    "LandVanHerkomst":"14",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":12
+  },
+  {
+    "ID":19,
+    "LandVanHerkomst":"14",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":30
+  },
+  {
+    "ID":20,
+    "LandVanHerkomst":"13",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":21,
+    "LandVanHerkomst":"13",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":31
+  },
+  {
+    "ID":22,
+    "LandVanHerkomst":"13",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":24
+  },
+  {
+    "ID":23,
+    "LandVanHerkomst":"13",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":8
+  },
+  {
+    "ID":24,
+    "LandVanHerkomst":"13",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":36
+  },
+  {
+    "ID":25,
+    "LandVanHerkomst":"15",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":26,
+    "LandVanHerkomst":"15",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":39
+  },
+  {
+    "ID":27,
+    "LandVanHerkomst":"15",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":33
+  },
+  {
+    "ID":28,
+    "LandVanHerkomst":"15",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":14
+  },
+  {
+    "ID":29,
+    "LandVanHerkomst":"15",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":14
+  },
+  {
+    "ID":30,
+    "LandVanHerkomst":"17",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":31,
+    "LandVanHerkomst":"17",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":30
+  },
+  {
+    "ID":32,
+    "LandVanHerkomst":"17",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":21
+  },
+  {
+    "ID":33,
+    "LandVanHerkomst":"17",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":14
+  },
+  {
+    "ID":34,
+    "LandVanHerkomst":"17",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":34
+  },
+  {
+    "ID":35,
+    "LandVanHerkomst":"18",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":36,
+    "LandVanHerkomst":"18",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":45
+  },
+  {
+    "ID":37,
+    "LandVanHerkomst":"18",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":28
+  },
+  {
+    "ID":38,
+    "LandVanHerkomst":"18",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":11
+  },
+  {
+    "ID":39,
+    "LandVanHerkomst":"18",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":15
+  },
+  {
+    "ID":40,
+    "LandVanHerkomst":"19",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":41,
+    "LandVanHerkomst":"19",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":45
+  },
+  {
+    "ID":42,
+    "LandVanHerkomst":"19",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":34
+  },
+  {
+    "ID":43,
+    "LandVanHerkomst":"19",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":5
+  },
+  {
+    "ID":44,
+    "LandVanHerkomst":"19",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":17
+  }
+]

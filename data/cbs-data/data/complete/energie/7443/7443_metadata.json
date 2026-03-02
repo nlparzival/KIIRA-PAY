@@ -1,0 +1,33 @@
+{
+  "odata.metadata": "https://opendata.cbs.nl/ODataApi/OData/7443/$metadata",
+  "value": [
+    {
+      "name": "TableInfos",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/7443/TableInfos"
+    },
+    {
+      "name": "UntypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/7443/UntypedDataSet"
+    },
+    {
+      "name": "TypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/7443/TypedDataSet"
+    },
+    {
+      "name": "DataProperties",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/7443/DataProperties"
+    },
+    {
+      "name": "CategoryGroups",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/7443/CategoryGroups"
+    },
+    {
+      "name": "EnergieverbruikIn",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/7443/EnergieverbruikIn"
+    },
+    {
+      "name": "Perioden",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/7443/Perioden"
+    }
+  ]
+}

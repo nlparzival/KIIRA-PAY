@@ -1,0 +1,2786 @@
+[
+  {
+    "ID":0,
+    "Energiedragers":"1 ",
+    "Perioden":"1955JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":58.0
+  },
+  {
+    "ID":1,
+    "Energiedragers":"1 ",
+    "Perioden":"1956JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":66.0
+  },
+  {
+    "ID":2,
+    "Energiedragers":"1 ",
+    "Perioden":"1957JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":68.0
+  },
+  {
+    "ID":3,
+    "Energiedragers":"1 ",
+    "Perioden":"1958JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":74.0
+  },
+  {
+    "ID":4,
+    "Energiedragers":"1 ",
+    "Perioden":"1959JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":81.0
+  },
+  {
+    "ID":5,
+    "Energiedragers":"1 ",
+    "Perioden":"1960JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":90.0
+  },
+  {
+    "ID":6,
+    "Energiedragers":"1 ",
+    "Perioden":"1961JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":96.0
+  },
+  {
+    "ID":7,
+    "Energiedragers":"1 ",
+    "Perioden":"1962JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":106.0
+  },
+  {
+    "ID":8,
+    "Energiedragers":"1 ",
+    "Perioden":"1963JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":115.0
+  },
+  {
+    "ID":9,
+    "Energiedragers":"1 ",
+    "Perioden":"1964JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":126.0
+  },
+  {
+    "ID":10,
+    "Energiedragers":"1 ",
+    "Perioden":"1965JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":137.0
+  },
+  {
+    "ID":11,
+    "Energiedragers":"1 ",
+    "Perioden":"1966JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":148.0
+  },
+  {
+    "ID":12,
+    "Energiedragers":"1 ",
+    "Perioden":"1967JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":158.0
+  },
+  {
+    "ID":13,
+    "Energiedragers":"1 ",
+    "Perioden":"1968JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":171.0
+  },
+  {
+    "ID":14,
+    "Energiedragers":"1 ",
+    "Perioden":"1969JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":180.0
+  },
+  {
+    "ID":15,
+    "Energiedragers":"1 ",
+    "Perioden":"1970JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":198.0
+  },
+  {
+    "ID":16,
+    "Energiedragers":"1 ",
+    "Perioden":"1971JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":212.0
+  },
+  {
+    "ID":17,
+    "Energiedragers":"1 ",
+    "Perioden":"1972JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":226.0
+  },
+  {
+    "ID":18,
+    "Energiedragers":"1 ",
+    "Perioden":"1973JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":236.0
+  },
+  {
+    "ID":19,
+    "Energiedragers":"1 ",
+    "Perioden":"1974JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":225.0
+  },
+  {
+    "ID":20,
+    "Energiedragers":"1 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":242.0
+  },
+  {
+    "ID":21,
+    "Energiedragers":"1 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":268.0
+  },
+  {
+    "ID":22,
+    "Energiedragers":"1 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":288.0
+  },
+  {
+    "ID":23,
+    "Energiedragers":"1 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":294.0
+  },
+  {
+    "ID":24,
+    "Energiedragers":"1 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":306.0
+  },
+  {
+    "ID":25,
+    "Energiedragers":"1 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":315.0
+  },
+  {
+    "ID":26,
+    "Energiedragers":"1 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":314.0
+  },
+  {
+    "ID":27,
+    "Energiedragers":"1 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":312.0
+  },
+  {
+    "ID":28,
+    "Energiedragers":"1 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":321.0
+  },
+  {
+    "ID":29,
+    "Energiedragers":"1 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":322.0
+  },
+  {
+    "ID":30,
+    "Energiedragers":"1 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":326.0
+  },
+  {
+    "ID":31,
+    "Energiedragers":"1 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":339.0
+  },
+  {
+    "ID":32,
+    "Energiedragers":"1 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":340.0
+  },
+  {
+    "ID":33,
+    "Energiedragers":"1 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":353.0
+  },
+  {
+    "ID":34,
+    "Energiedragers":"1 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":370.0
+  },
+  {
+    "ID":35,
+    "Energiedragers":"1 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":375.0
+  },
+  {
+    "ID":36,
+    "Energiedragers":"1 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":376.0
+  },
+  {
+    "ID":37,
+    "Energiedragers":"1 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":394.0
+  },
+  {
+    "ID":38,
+    "Energiedragers":"1 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":401.0
+  },
+  {
+    "ID":39,
+    "Energiedragers":"1 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":408.0
+  },
+  {
+    "ID":40,
+    "Energiedragers":"1 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":421.0
+  },
+  {
+    "ID":41,
+    "Energiedragers":"1 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":447.0
+  },
+  {
+    "ID":42,
+    "Energiedragers":"1 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":443.0
+  },
+  {
+    "ID":43,
+    "Energiedragers":"1 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":442.0
+  },
+  {
+    "ID":44,
+    "Energiedragers":"1 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorVervoer_1":109.0
+  },
+  {
+    "ID":45,
+    "Energiedragers":"1 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorVervoer_1":121.0
+  },
+  {
+    "ID":46,
+    "Energiedragers":"1 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorVervoer_1":112.0
+  },
+  {
+    "ID":47,
+    "Energiedragers":"1 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorVervoer_1":116.0
+  },
+  {
+    "ID":48,
+    "Energiedragers":"1 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":457.0
+  },
+  {
+    "ID":49,
+    "Energiedragers":"1 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorVervoer_1":116.0
+  },
+  {
+    "ID":50,
+    "Energiedragers":"1 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":51,
+    "Energiedragers":"1 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorVervoer_1":110.0
+  },
+  {
+    "ID":52,
+    "Energiedragers":"1 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":53,
+    "Energiedragers":"1 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":462.0
+  },
+  {
+    "ID":54,
+    "Energiedragers":"1 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorVervoer_1":114.0
+  },
+  {
+    "ID":55,
+    "Energiedragers":"1 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorVervoer_1":119.0
+  },
+  {
+    "ID":56,
+    "Energiedragers":"1 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorVervoer_1":111.0
+  },
+  {
+    "ID":57,
+    "Energiedragers":"1 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorVervoer_1":123.0
+  },
+  {
+    "ID":58,
+    "Energiedragers":"1 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":467.0
+  },
+  {
+    "ID":59,
+    "Energiedragers":"1 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorVervoer_1":116.0
+  },
+  {
+    "ID":60,
+    "Energiedragers":"1 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorVervoer_1":120.0
+  },
+  {
+    "ID":61,
+    "Energiedragers":"1 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorVervoer_1":116.0
+  },
+  {
+    "ID":62,
+    "Energiedragers":"1 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorVervoer_1":125.0
+  },
+  {
+    "ID":63,
+    "Energiedragers":"1 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":476.0
+  },
+  {
+    "ID":64,
+    "Energiedragers":"1 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorVervoer_1":116.0
+  },
+  {
+    "ID":65,
+    "Energiedragers":"1 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorVervoer_1":123.0
+  },
+  {
+    "ID":66,
+    "Energiedragers":"1 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":67,
+    "Energiedragers":"1 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorVervoer_1":125.0
+  },
+  {
+    "ID":68,
+    "Energiedragers":"1 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":482.0
+  },
+  {
+    "ID":69,
+    "Energiedragers":"1 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorVervoer_1":119.0
+  },
+  {
+    "ID":70,
+    "Energiedragers":"1 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorVervoer_1":124.0
+  },
+  {
+    "ID":71,
+    "Energiedragers":"1 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorVervoer_1":119.0
+  },
+  {
+    "ID":72,
+    "Energiedragers":"1 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorVervoer_1":127.0
+  },
+  {
+    "ID":73,
+    "Energiedragers":"1 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":488.0
+  },
+  {
+    "ID":74,
+    "Energiedragers":"1 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":75,
+    "Energiedragers":"1 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorVervoer_1":125.0
+  },
+  {
+    "ID":76,
+    "Energiedragers":"1 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":77,
+    "Energiedragers":"1 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorVervoer_1":126.0
+  },
+  {
+    "ID":78,
+    "Energiedragers":"1 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":486.0
+  },
+  {
+    "ID":79,
+    "Energiedragers":"1 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorVervoer_1":123.0
+  },
+  {
+    "ID":80,
+    "Energiedragers":"1 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorVervoer_1":128.0
+  },
+  {
+    "ID":81,
+    "Energiedragers":"1 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorVervoer_1":120.0
+  },
+  {
+    "ID":82,
+    "Energiedragers":"1 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorVervoer_1":129.0
+  },
+  {
+    "ID":83,
+    "Energiedragers":"1 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":500.0
+  },
+  {
+    "ID":84,
+    "Energiedragers":"1 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorVervoer_1":125.0
+  },
+  {
+    "ID":85,
+    "Energiedragers":"1 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorVervoer_1":127.0
+  },
+  {
+    "ID":86,
+    "Energiedragers":"1 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorVervoer_1":125.0
+  },
+  {
+    "ID":87,
+    "Energiedragers":"1 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorVervoer_1":128.0
+  },
+  {
+    "ID":88,
+    "Energiedragers":"1 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":505.0
+  },
+  {
+    "ID":89,
+    "Energiedragers":"1 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorVervoer_1":127.0
+  },
+  {
+    "ID":90,
+    "Energiedragers":"1 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorVervoer_1":128.0
+  },
+  {
+    "ID":91,
+    "Energiedragers":"1 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorVervoer_1":122.0
+  },
+  {
+    "ID":92,
+    "Energiedragers":"1 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorVervoer_1":127.0
+  },
+  {
+    "ID":93,
+    "Energiedragers":"1 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":504.0
+  },
+  {
+    "ID":94,
+    "Energiedragers":"1 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorVervoer_1":121.0
+  },
+  {
+    "ID":95,
+    "Energiedragers":"1 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorVervoer_1":124.0
+  },
+  {
+    "ID":96,
+    "Energiedragers":"1 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorVervoer_1":124.0
+  },
+  {
+    "ID":97,
+    "Energiedragers":"1 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorVervoer_1":119.0
+  },
+  {
+    "ID":98,
+    "Energiedragers":"1 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":489.0
+  },
+  {
+    "ID":99,
+    "Energiedragers":"1 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorVervoer_1":119.0
+  },
+  {
+    "ID":100,
+    "Energiedragers":"1 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorVervoer_1":126.0
+  },
+  {
+    "ID":101,
+    "Energiedragers":"1 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorVervoer_1":121.0
+  },
+  {
+    "ID":102,
+    "Energiedragers":"1 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorVervoer_1":126.0
+  },
+  {
+    "ID":103,
+    "Energiedragers":"1 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":492.0
+  },
+  {
+    "ID":104,
+    "Energiedragers":"1 ",
+    "Perioden":"2011KW01",
+    "EnergieverbruikInDeSectorVervoer_1":122.0
+  },
+  {
+    "ID":105,
+    "Energiedragers":"1 ",
+    "Perioden":"2011KW02",
+    "EnergieverbruikInDeSectorVervoer_1":128.0
+  },
+  {
+    "ID":106,
+    "Energiedragers":"1 ",
+    "Perioden":"2011KW03",
+    "EnergieverbruikInDeSectorVervoer_1":120.0
+  },
+  {
+    "ID":107,
+    "Energiedragers":"1 ",
+    "Perioden":"2011KW04",
+    "EnergieverbruikInDeSectorVervoer_1":129.0
+  },
+  {
+    "ID":108,
+    "Energiedragers":"1 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":499.0
+  },
+  {
+    "ID":109,
+    "Energiedragers":"1 ",
+    "Perioden":"2012KW01",
+    "EnergieverbruikInDeSectorVervoer_1":120.0
+  },
+  {
+    "ID":110,
+    "Energiedragers":"1 ",
+    "Perioden":"2012KW02",
+    "EnergieverbruikInDeSectorVervoer_1":123.0
+  },
+  {
+    "ID":111,
+    "Energiedragers":"1 ",
+    "Perioden":"2012KW03",
+    "EnergieverbruikInDeSectorVervoer_1":117.0
+  },
+  {
+    "ID":112,
+    "Energiedragers":"1 ",
+    "Perioden":"2012KW04",
+    "EnergieverbruikInDeSectorVervoer_1":121.0
+  },
+  {
+    "ID":113,
+    "Energiedragers":"1 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":481.0
+  },
+  {
+    "ID":114,
+    "Energiedragers":"1 ",
+    "Perioden":"2013KW01",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":115,
+    "Energiedragers":"1 ",
+    "Perioden":"2013KW02",
+    "EnergieverbruikInDeSectorVervoer_1":120.0
+  },
+  {
+    "ID":116,
+    "Energiedragers":"7 ",
+    "Perioden":"1955JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":117,
+    "Energiedragers":"7 ",
+    "Perioden":"1956JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":118,
+    "Energiedragers":"7 ",
+    "Perioden":"1957JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":119,
+    "Energiedragers":"7 ",
+    "Perioden":"1958JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":120,
+    "Energiedragers":"7 ",
+    "Perioden":"1959JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":121,
+    "Energiedragers":"7 ",
+    "Perioden":"1960JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":122,
+    "Energiedragers":"7 ",
+    "Perioden":"1961JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":123,
+    "Energiedragers":"7 ",
+    "Perioden":"1962JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":124,
+    "Energiedragers":"7 ",
+    "Perioden":"1963JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":125,
+    "Energiedragers":"7 ",
+    "Perioden":"1964JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":126,
+    "Energiedragers":"7 ",
+    "Perioden":"1965JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":127,
+    "Energiedragers":"7 ",
+    "Perioden":"1966JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":128,
+    "Energiedragers":"7 ",
+    "Perioden":"1967JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":129,
+    "Energiedragers":"7 ",
+    "Perioden":"1968JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":130,
+    "Energiedragers":"7 ",
+    "Perioden":"1969JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":131,
+    "Energiedragers":"7 ",
+    "Perioden":"1970JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":132,
+    "Energiedragers":"7 ",
+    "Perioden":"1971JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":133,
+    "Energiedragers":"7 ",
+    "Perioden":"1972JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":134,
+    "Energiedragers":"7 ",
+    "Perioden":"1973JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":135,
+    "Energiedragers":"7 ",
+    "Perioden":"1974JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":136,
+    "Energiedragers":"7 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":238.0
+  },
+  {
+    "ID":137,
+    "Energiedragers":"7 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":265.0
+  },
+  {
+    "ID":138,
+    "Energiedragers":"7 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":285.0
+  },
+  {
+    "ID":139,
+    "Energiedragers":"7 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":291.0
+  },
+  {
+    "ID":140,
+    "Energiedragers":"7 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":303.0
+  },
+  {
+    "ID":141,
+    "Energiedragers":"7 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":312.0
+  },
+  {
+    "ID":142,
+    "Energiedragers":"7 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":310.0
+  },
+  {
+    "ID":143,
+    "Energiedragers":"7 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":308.0
+  },
+  {
+    "ID":144,
+    "Energiedragers":"7 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":317.0
+  },
+  {
+    "ID":145,
+    "Energiedragers":"7 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":318.0
+  },
+  {
+    "ID":146,
+    "Energiedragers":"7 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":322.0
+  },
+  {
+    "ID":147,
+    "Energiedragers":"7 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":335.0
+  },
+  {
+    "ID":148,
+    "Energiedragers":"7 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":335.0
+  },
+  {
+    "ID":149,
+    "Energiedragers":"7 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":349.0
+  },
+  {
+    "ID":150,
+    "Energiedragers":"7 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":365.0
+  },
+  {
+    "ID":151,
+    "Energiedragers":"7 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":371.0
+  },
+  {
+    "ID":152,
+    "Energiedragers":"7 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":371.0
+  },
+  {
+    "ID":153,
+    "Energiedragers":"7 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":389.0
+  },
+  {
+    "ID":154,
+    "Energiedragers":"7 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":396.0
+  },
+  {
+    "ID":155,
+    "Energiedragers":"7 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":402.0
+  },
+  {
+    "ID":156,
+    "Energiedragers":"7 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":415.0
+  },
+  {
+    "ID":157,
+    "Energiedragers":"7 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":441.0
+  },
+  {
+    "ID":158,
+    "Energiedragers":"7 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":437.0
+  },
+  {
+    "ID":159,
+    "Energiedragers":"7 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":436.0
+  },
+  {
+    "ID":160,
+    "Energiedragers":"7 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorVervoer_1":107.0
+  },
+  {
+    "ID":161,
+    "Energiedragers":"7 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorVervoer_1":119.0
+  },
+  {
+    "ID":162,
+    "Energiedragers":"7 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorVervoer_1":110.0
+  },
+  {
+    "ID":163,
+    "Energiedragers":"7 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorVervoer_1":115.0
+  },
+  {
+    "ID":164,
+    "Energiedragers":"7 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":451.0
+  },
+  {
+    "ID":165,
+    "Energiedragers":"7 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorVervoer_1":114.0
+  },
+  {
+    "ID":166,
+    "Energiedragers":"7 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorVervoer_1":117.0
+  },
+  {
+    "ID":167,
+    "Energiedragers":"7 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorVervoer_1":109.0
+  },
+  {
+    "ID":168,
+    "Energiedragers":"7 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorVervoer_1":117.0
+  },
+  {
+    "ID":169,
+    "Energiedragers":"7 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":457.0
+  },
+  {
+    "ID":170,
+    "Energiedragers":"7 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorVervoer_1":112.0
+  },
+  {
+    "ID":171,
+    "Energiedragers":"7 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":172,
+    "Energiedragers":"7 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorVervoer_1":110.0
+  },
+  {
+    "ID":173,
+    "Energiedragers":"7 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorVervoer_1":122.0
+  },
+  {
+    "ID":174,
+    "Energiedragers":"7 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":462.0
+  },
+  {
+    "ID":175,
+    "Energiedragers":"7 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorVervoer_1":114.0
+  },
+  {
+    "ID":176,
+    "Energiedragers":"7 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":177,
+    "Energiedragers":"7 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorVervoer_1":115.0
+  },
+  {
+    "ID":178,
+    "Energiedragers":"7 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorVervoer_1":123.0
+  },
+  {
+    "ID":179,
+    "Energiedragers":"7 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":471.0
+  },
+  {
+    "ID":180,
+    "Energiedragers":"7 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorVervoer_1":114.0
+  },
+  {
+    "ID":181,
+    "Energiedragers":"7 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorVervoer_1":122.0
+  },
+  {
+    "ID":182,
+    "Energiedragers":"7 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorVervoer_1":117.0
+  },
+  {
+    "ID":183,
+    "Energiedragers":"7 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorVervoer_1":124.0
+  },
+  {
+    "ID":184,
+    "Energiedragers":"7 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":477.0
+  },
+  {
+    "ID":185,
+    "Energiedragers":"7 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":186,
+    "Energiedragers":"7 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorVervoer_1":122.0
+  },
+  {
+    "ID":187,
+    "Energiedragers":"7 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorVervoer_1":117.0
+  },
+  {
+    "ID":188,
+    "Energiedragers":"7 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorVervoer_1":125.0
+  },
+  {
+    "ID":189,
+    "Energiedragers":"7 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":482.0
+  },
+  {
+    "ID":190,
+    "Energiedragers":"7 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorVervoer_1":116.0
+  },
+  {
+    "ID":191,
+    "Energiedragers":"7 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorVervoer_1":123.0
+  },
+  {
+    "ID":192,
+    "Energiedragers":"7 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorVervoer_1":117.0
+  },
+  {
+    "ID":193,
+    "Energiedragers":"7 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorVervoer_1":124.0
+  },
+  {
+    "ID":194,
+    "Energiedragers":"7 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":481.0
+  },
+  {
+    "ID":195,
+    "Energiedragers":"7 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorVervoer_1":122.0
+  },
+  {
+    "ID":196,
+    "Energiedragers":"7 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorVervoer_1":127.0
+  },
+  {
+    "ID":197,
+    "Energiedragers":"7 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":198,
+    "Energiedragers":"7 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorVervoer_1":127.0
+  },
+  {
+    "ID":199,
+    "Energiedragers":"7 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":494.0
+  },
+  {
+    "ID":200,
+    "Energiedragers":"7 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorVervoer_1":123.0
+  },
+  {
+    "ID":201,
+    "Energiedragers":"7 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorVervoer_1":126.0
+  },
+  {
+    "ID":202,
+    "Energiedragers":"7 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorVervoer_1":123.0
+  },
+  {
+    "ID":203,
+    "Energiedragers":"7 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorVervoer_1":127.0
+  },
+  {
+    "ID":204,
+    "Energiedragers":"7 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":499.0
+  },
+  {
+    "ID":205,
+    "Energiedragers":"7 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorVervoer_1":125.0
+  },
+  {
+    "ID":206,
+    "Energiedragers":"7 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorVervoer_1":127.0
+  },
+  {
+    "ID":207,
+    "Energiedragers":"7 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorVervoer_1":121.0
+  },
+  {
+    "ID":208,
+    "Energiedragers":"7 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorVervoer_1":126.0
+  },
+  {
+    "ID":209,
+    "Energiedragers":"7 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":499.0
+  },
+  {
+    "ID":210,
+    "Energiedragers":"7 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorVervoer_1":119.0
+  },
+  {
+    "ID":211,
+    "Energiedragers":"7 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorVervoer_1":123.0
+  },
+  {
+    "ID":212,
+    "Energiedragers":"7 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorVervoer_1":123.0
+  },
+  {
+    "ID":213,
+    "Energiedragers":"7 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":214,
+    "Energiedragers":"7 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":483.0
+  },
+  {
+    "ID":215,
+    "Energiedragers":"7 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorVervoer_1":117.0
+  },
+  {
+    "ID":216,
+    "Energiedragers":"7 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorVervoer_1":125.0
+  },
+  {
+    "ID":217,
+    "Energiedragers":"7 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorVervoer_1":119.0
+  },
+  {
+    "ID":218,
+    "Energiedragers":"7 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorVervoer_1":124.0
+  },
+  {
+    "ID":219,
+    "Energiedragers":"7 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":485.0
+  },
+  {
+    "ID":220,
+    "Energiedragers":"7 ",
+    "Perioden":"2011KW01",
+    "EnergieverbruikInDeSectorVervoer_1":121.0
+  },
+  {
+    "ID":221,
+    "Energiedragers":"7 ",
+    "Perioden":"2011KW02",
+    "EnergieverbruikInDeSectorVervoer_1":126.0
+  },
+  {
+    "ID":222,
+    "Energiedragers":"7 ",
+    "Perioden":"2011KW03",
+    "EnergieverbruikInDeSectorVervoer_1":119.0
+  },
+  {
+    "ID":223,
+    "Energiedragers":"7 ",
+    "Perioden":"2011KW04",
+    "EnergieverbruikInDeSectorVervoer_1":127.0
+  },
+  {
+    "ID":224,
+    "Energiedragers":"7 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":493.0
+  },
+  {
+    "ID":225,
+    "Energiedragers":"7 ",
+    "Perioden":"2012KW01",
+    "EnergieverbruikInDeSectorVervoer_1":118.0
+  },
+  {
+    "ID":226,
+    "Energiedragers":"7 ",
+    "Perioden":"2012KW02",
+    "EnergieverbruikInDeSectorVervoer_1":122.0
+  },
+  {
+    "ID":227,
+    "Energiedragers":"7 ",
+    "Perioden":"2012KW03",
+    "EnergieverbruikInDeSectorVervoer_1":115.0
+  },
+  {
+    "ID":228,
+    "Energiedragers":"7 ",
+    "Perioden":"2012KW04",
+    "EnergieverbruikInDeSectorVervoer_1":120.0
+  },
+  {
+    "ID":229,
+    "Energiedragers":"7 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":474.0
+  },
+  {
+    "ID":230,
+    "Energiedragers":"7 ",
+    "Perioden":"2013KW01",
+    "EnergieverbruikInDeSectorVervoer_1":116.0
+  },
+  {
+    "ID":231,
+    "Energiedragers":"7 ",
+    "Perioden":"2013KW02",
+    "EnergieverbruikInDeSectorVervoer_1":119.0
+  },
+  {
+    "ID":232,
+    "Energiedragers":"8 ",
+    "Perioden":"1955JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":233,
+    "Energiedragers":"8 ",
+    "Perioden":"1956JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":234,
+    "Energiedragers":"8 ",
+    "Perioden":"1957JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":235,
+    "Energiedragers":"8 ",
+    "Perioden":"1958JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":236,
+    "Energiedragers":"8 ",
+    "Perioden":"1959JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":237,
+    "Energiedragers":"8 ",
+    "Perioden":"1960JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":238,
+    "Energiedragers":"8 ",
+    "Perioden":"1961JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":239,
+    "Energiedragers":"8 ",
+    "Perioden":"1962JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":240,
+    "Energiedragers":"8 ",
+    "Perioden":"1963JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":241,
+    "Energiedragers":"8 ",
+    "Perioden":"1964JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":242,
+    "Energiedragers":"8 ",
+    "Perioden":"1965JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":243,
+    "Energiedragers":"8 ",
+    "Perioden":"1966JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":244,
+    "Energiedragers":"8 ",
+    "Perioden":"1967JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":245,
+    "Energiedragers":"8 ",
+    "Perioden":"1968JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":246,
+    "Energiedragers":"8 ",
+    "Perioden":"1969JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":247,
+    "Energiedragers":"8 ",
+    "Perioden":"1970JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":248,
+    "Energiedragers":"8 ",
+    "Perioden":"1971JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":249,
+    "Energiedragers":"8 ",
+    "Perioden":"1972JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":250,
+    "Energiedragers":"8 ",
+    "Perioden":"1973JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":251,
+    "Energiedragers":"8 ",
+    "Perioden":"1974JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":252,
+    "Energiedragers":"8 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":253,
+    "Energiedragers":"8 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":254,
+    "Energiedragers":"8 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":255,
+    "Energiedragers":"8 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":256,
+    "Energiedragers":"8 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":257,
+    "Energiedragers":"8 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":258,
+    "Energiedragers":"8 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":259,
+    "Energiedragers":"8 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":260,
+    "Energiedragers":"8 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":261,
+    "Energiedragers":"8 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":262,
+    "Energiedragers":"8 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":263,
+    "Energiedragers":"8 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":264,
+    "Energiedragers":"8 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":265,
+    "Energiedragers":"8 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":266,
+    "Energiedragers":"8 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":267,
+    "Energiedragers":"8 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":268,
+    "Energiedragers":"8 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":269,
+    "Energiedragers":"8 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":270,
+    "Energiedragers":"8 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":271,
+    "Energiedragers":"8 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":272,
+    "Energiedragers":"8 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":273,
+    "Energiedragers":"8 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":274,
+    "Energiedragers":"8 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":275,
+    "Energiedragers":"8 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":276,
+    "Energiedragers":"8 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":277,
+    "Energiedragers":"8 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":278,
+    "Energiedragers":"8 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":279,
+    "Energiedragers":"8 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":280,
+    "Energiedragers":"8 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":281,
+    "Energiedragers":"8 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":282,
+    "Energiedragers":"8 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":283,
+    "Energiedragers":"8 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":284,
+    "Energiedragers":"8 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":285,
+    "Energiedragers":"8 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":286,
+    "Energiedragers":"8 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":287,
+    "Energiedragers":"8 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":288,
+    "Energiedragers":"8 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":289,
+    "Energiedragers":"8 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":290,
+    "Energiedragers":"8 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":291,
+    "Energiedragers":"8 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":292,
+    "Energiedragers":"8 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":293,
+    "Energiedragers":"8 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":294,
+    "Energiedragers":"8 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":295,
+    "Energiedragers":"8 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":296,
+    "Energiedragers":"8 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":297,
+    "Energiedragers":"8 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":298,
+    "Energiedragers":"8 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":299,
+    "Energiedragers":"8 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":300,
+    "Energiedragers":"8 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":301,
+    "Energiedragers":"8 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":302,
+    "Energiedragers":"8 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":303,
+    "Energiedragers":"8 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":304,
+    "Energiedragers":"8 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":305,
+    "Energiedragers":"8 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":306,
+    "Energiedragers":"8 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":307,
+    "Energiedragers":"8 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":308,
+    "Energiedragers":"8 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":309,
+    "Energiedragers":"8 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":310,
+    "Energiedragers":"8 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":311,
+    "Energiedragers":"8 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":312,
+    "Energiedragers":"8 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":313,
+    "Energiedragers":"8 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":314,
+    "Energiedragers":"8 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":315,
+    "Energiedragers":"8 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":316,
+    "Energiedragers":"8 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":317,
+    "Energiedragers":"8 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":318,
+    "Energiedragers":"8 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":319,
+    "Energiedragers":"8 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":320,
+    "Energiedragers":"8 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":321,
+    "Energiedragers":"8 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":322,
+    "Energiedragers":"8 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":323,
+    "Energiedragers":"8 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":324,
+    "Energiedragers":"8 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":325,
+    "Energiedragers":"8 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":326,
+    "Energiedragers":"8 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":327,
+    "Energiedragers":"8 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":328,
+    "Energiedragers":"8 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":329,
+    "Energiedragers":"8 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":330,
+    "Energiedragers":"8 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":331,
+    "Energiedragers":"8 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":332,
+    "Energiedragers":"8 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":333,
+    "Energiedragers":"8 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":334,
+    "Energiedragers":"8 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":335,
+    "Energiedragers":"8 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":336,
+    "Energiedragers":"8 ",
+    "Perioden":"2011KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":337,
+    "Energiedragers":"8 ",
+    "Perioden":"2011KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":338,
+    "Energiedragers":"8 ",
+    "Perioden":"2011KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":339,
+    "Energiedragers":"8 ",
+    "Perioden":"2011KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":340,
+    "Energiedragers":"8 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":341,
+    "Energiedragers":"8 ",
+    "Perioden":"2012KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":342,
+    "Energiedragers":"8 ",
+    "Perioden":"2012KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":343,
+    "Energiedragers":"8 ",
+    "Perioden":"2012KW03",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":344,
+    "Energiedragers":"8 ",
+    "Perioden":"2012KW04",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":345,
+    "Energiedragers":"8 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":346,
+    "Energiedragers":"8 ",
+    "Perioden":"2013KW01",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":347,
+    "Energiedragers":"8 ",
+    "Perioden":"2013KW02",
+    "EnergieverbruikInDeSectorVervoer_1":0.0
+  },
+  {
+    "ID":348,
+    "Energiedragers":"11",
+    "Perioden":"1955JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":349,
+    "Energiedragers":"11",
+    "Perioden":"1956JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":350,
+    "Energiedragers":"11",
+    "Perioden":"1957JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":351,
+    "Energiedragers":"11",
+    "Perioden":"1958JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":352,
+    "Energiedragers":"11",
+    "Perioden":"1959JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":353,
+    "Energiedragers":"11",
+    "Perioden":"1960JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":354,
+    "Energiedragers":"11",
+    "Perioden":"1961JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":355,
+    "Energiedragers":"11",
+    "Perioden":"1962JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":356,
+    "Energiedragers":"11",
+    "Perioden":"1963JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":357,
+    "Energiedragers":"11",
+    "Perioden":"1964JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":358,
+    "Energiedragers":"11",
+    "Perioden":"1965JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":359,
+    "Energiedragers":"11",
+    "Perioden":"1966JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":360,
+    "Energiedragers":"11",
+    "Perioden":"1967JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":361,
+    "Energiedragers":"11",
+    "Perioden":"1968JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":362,
+    "Energiedragers":"11",
+    "Perioden":"1969JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":363,
+    "Energiedragers":"11",
+    "Perioden":"1970JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":364,
+    "Energiedragers":"11",
+    "Perioden":"1971JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":365,
+    "Energiedragers":"11",
+    "Perioden":"1972JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":366,
+    "Energiedragers":"11",
+    "Perioden":"1973JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":367,
+    "Energiedragers":"11",
+    "Perioden":"1974JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":null
+  },
+  {
+    "ID":368,
+    "Energiedragers":"11",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":3.0
+  },
+  {
+    "ID":369,
+    "Energiedragers":"11",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":3.0
+  },
+  {
+    "ID":370,
+    "Energiedragers":"11",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":3.0
+  },
+  {
+    "ID":371,
+    "Energiedragers":"11",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":3.0
+  },
+  {
+    "ID":372,
+    "Energiedragers":"11",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":3.0
+  },
+  {
+    "ID":373,
+    "Energiedragers":"11",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":4.0
+  },
+  {
+    "ID":374,
+    "Energiedragers":"11",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":4.0
+  },
+  {
+    "ID":375,
+    "Energiedragers":"11",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":4.0
+  },
+  {
+    "ID":376,
+    "Energiedragers":"11",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":4.0
+  },
+  {
+    "ID":377,
+    "Energiedragers":"11",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":4.0
+  },
+  {
+    "ID":378,
+    "Energiedragers":"11",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":4.0
+  },
+  {
+    "ID":379,
+    "Energiedragers":"11",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":4.0
+  },
+  {
+    "ID":380,
+    "Energiedragers":"11",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":4.0
+  },
+  {
+    "ID":381,
+    "Energiedragers":"11",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":4.0
+  },
+  {
+    "ID":382,
+    "Energiedragers":"11",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":4.0
+  },
+  {
+    "ID":383,
+    "Energiedragers":"11",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":5.0
+  },
+  {
+    "ID":384,
+    "Energiedragers":"11",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":5.0
+  },
+  {
+    "ID":385,
+    "Energiedragers":"11",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":5.0
+  },
+  {
+    "ID":386,
+    "Energiedragers":"11",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":5.0
+  },
+  {
+    "ID":387,
+    "Energiedragers":"11",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":5.0
+  },
+  {
+    "ID":388,
+    "Energiedragers":"11",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":5.0
+  },
+  {
+    "ID":389,
+    "Energiedragers":"11",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":390,
+    "Energiedragers":"11",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":391,
+    "Energiedragers":"11",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":392,
+    "Energiedragers":"11",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":393,
+    "Energiedragers":"11",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":394,
+    "Energiedragers":"11",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":395,
+    "Energiedragers":"11",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":396,
+    "Energiedragers":"11",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":397,
+    "Energiedragers":"11",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":398,
+    "Energiedragers":"11",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":399,
+    "Energiedragers":"11",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":400,
+    "Energiedragers":"11",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":401,
+    "Energiedragers":"11",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":402,
+    "Energiedragers":"11",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":403,
+    "Energiedragers":"11",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":404,
+    "Energiedragers":"11",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":405,
+    "Energiedragers":"11",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":406,
+    "Energiedragers":"11",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":407,
+    "Energiedragers":"11",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":408,
+    "Energiedragers":"11",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":409,
+    "Energiedragers":"11",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":410,
+    "Energiedragers":"11",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":411,
+    "Energiedragers":"11",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":412,
+    "Energiedragers":"11",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":413,
+    "Energiedragers":"11",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":414,
+    "Energiedragers":"11",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":415,
+    "Energiedragers":"11",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":416,
+    "Energiedragers":"11",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":417,
+    "Energiedragers":"11",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":418,
+    "Energiedragers":"11",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":419,
+    "Energiedragers":"11",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":420,
+    "Energiedragers":"11",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":421,
+    "Energiedragers":"11",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":422,
+    "Energiedragers":"11",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":423,
+    "Energiedragers":"11",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":424,
+    "Energiedragers":"11",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":425,
+    "Energiedragers":"11",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":426,
+    "Energiedragers":"11",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":427,
+    "Energiedragers":"11",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":428,
+    "Energiedragers":"11",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":429,
+    "Energiedragers":"11",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":430,
+    "Energiedragers":"11",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":431,
+    "Energiedragers":"11",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":432,
+    "Energiedragers":"11",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":433,
+    "Energiedragers":"11",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":434,
+    "Energiedragers":"11",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":435,
+    "Energiedragers":"11",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":436,
+    "Energiedragers":"11",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":437,
+    "Energiedragers":"11",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":438,
+    "Energiedragers":"11",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":439,
+    "Energiedragers":"11",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":440,
+    "Energiedragers":"11",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":441,
+    "Energiedragers":"11",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":442,
+    "Energiedragers":"11",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":443,
+    "Energiedragers":"11",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":444,
+    "Energiedragers":"11",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":445,
+    "Energiedragers":"11",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":446,
+    "Energiedragers":"11",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":447,
+    "Energiedragers":"11",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":448,
+    "Energiedragers":"11",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":449,
+    "Energiedragers":"11",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":450,
+    "Energiedragers":"11",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":451,
+    "Energiedragers":"11",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":452,
+    "Energiedragers":"11",
+    "Perioden":"2011KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":453,
+    "Energiedragers":"11",
+    "Perioden":"2011KW02",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":454,
+    "Energiedragers":"11",
+    "Perioden":"2011KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":455,
+    "Energiedragers":"11",
+    "Perioden":"2011KW04",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":456,
+    "Energiedragers":"11",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":457,
+    "Energiedragers":"11",
+    "Perioden":"2012KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":458,
+    "Energiedragers":"11",
+    "Perioden":"2012KW02",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":459,
+    "Energiedragers":"11",
+    "Perioden":"2012KW03",
+    "EnergieverbruikInDeSectorVervoer_1":1.0
+  },
+  {
+    "ID":460,
+    "Energiedragers":"11",
+    "Perioden":"2012KW04",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":461,
+    "Energiedragers":"11",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorVervoer_1":6.0
+  },
+  {
+    "ID":462,
+    "Energiedragers":"11",
+    "Perioden":"2013KW01",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  },
+  {
+    "ID":463,
+    "Energiedragers":"11",
+    "Perioden":"2013KW02",
+    "EnergieverbruikInDeSectorVervoer_1":2.0
+  }
+]

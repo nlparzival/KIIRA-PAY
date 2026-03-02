@@ -1,0 +1,6194 @@
+[
+  {
+    "ID":0,
+    "EnergyCommodities":"1 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":884.0
+  },
+  {
+    "ID":1,
+    "EnergyCommodities":"1 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":970.0
+  },
+  {
+    "ID":2,
+    "EnergyCommodities":"1 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":974.0
+  },
+  {
+    "ID":3,
+    "EnergyCommodities":"1 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1026.0
+  },
+  {
+    "ID":4,
+    "EnergyCommodities":"1 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1079.0
+  },
+  {
+    "ID":5,
+    "EnergyCommodities":"1 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":947.0
+  },
+  {
+    "ID":6,
+    "EnergyCommodities":"1 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":881.0
+  },
+  {
+    "ID":7,
+    "EnergyCommodities":"1 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":784.0
+  },
+  {
+    "ID":8,
+    "EnergyCommodities":"1 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":821.0
+  },
+  {
+    "ID":9,
+    "EnergyCommodities":"1 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":871.0
+  },
+  {
+    "ID":10,
+    "EnergyCommodities":"1 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":880.0
+  },
+  {
+    "ID":11,
+    "EnergyCommodities":"1 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":898.0
+  },
+  {
+    "ID":12,
+    "EnergyCommodities":"1 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":940.0
+  },
+  {
+    "ID":13,
+    "EnergyCommodities":"1 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":972.0
+  },
+  {
+    "ID":14,
+    "EnergyCommodities":"1 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":937.0
+  },
+  {
+    "ID":15,
+    "EnergyCommodities":"1 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":978.0
+  },
+  {
+    "ID":16,
+    "EnergyCommodities":"1 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":990.0
+  },
+  {
+    "ID":17,
+    "EnergyCommodities":"1 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":996.0
+  },
+  {
+    "ID":18,
+    "EnergyCommodities":"1 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":956.0
+  },
+  {
+    "ID":19,
+    "EnergyCommodities":"1 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":983.0
+  },
+  {
+    "ID":20,
+    "EnergyCommodities":"1 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1047.0
+  },
+  {
+    "ID":21,
+    "EnergyCommodities":"1 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1031.0
+  },
+  {
+    "ID":22,
+    "EnergyCommodities":"1 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1050.0
+  },
+  {
+    "ID":23,
+    "EnergyCommodities":"1 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1040.0
+  },
+  {
+    "ID":24,
+    "EnergyCommodities":"1 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":272.0
+  },
+  {
+    "ID":25,
+    "EnergyCommodities":"1 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":267.0
+  },
+  {
+    "ID":26,
+    "EnergyCommodities":"1 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":256.0
+  },
+  {
+    "ID":27,
+    "EnergyCommodities":"1 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":291.0
+  },
+  {
+    "ID":28,
+    "EnergyCommodities":"1 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1085.0
+  },
+  {
+    "ID":29,
+    "EnergyCommodities":"1 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":283.0
+  },
+  {
+    "ID":30,
+    "EnergyCommodities":"1 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":270.0
+  },
+  {
+    "ID":31,
+    "EnergyCommodities":"1 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":274.0
+  },
+  {
+    "ID":32,
+    "EnergyCommodities":"1 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":286.0
+  },
+  {
+    "ID":33,
+    "EnergyCommodities":"1 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1113.0
+  },
+  {
+    "ID":34,
+    "EnergyCommodities":"1 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":287.0
+  },
+  {
+    "ID":35,
+    "EnergyCommodities":"1 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":271.0
+  },
+  {
+    "ID":36,
+    "EnergyCommodities":"1 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":273.0
+  },
+  {
+    "ID":37,
+    "EnergyCommodities":"1 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":281.0
+  },
+  {
+    "ID":38,
+    "EnergyCommodities":"1 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1112.0
+  },
+  {
+    "ID":39,
+    "EnergyCommodities":"1 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":284.0
+  },
+  {
+    "ID":40,
+    "EnergyCommodities":"1 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":270.0
+  },
+  {
+    "ID":41,
+    "EnergyCommodities":"1 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":269.0
+  },
+  {
+    "ID":42,
+    "EnergyCommodities":"1 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":303.0
+  },
+  {
+    "ID":43,
+    "EnergyCommodities":"1 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1127.0
+  },
+  {
+    "ID":44,
+    "EnergyCommodities":"1 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":290.0
+  },
+  {
+    "ID":45,
+    "EnergyCommodities":"1 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":283.0
+  },
+  {
+    "ID":46,
+    "EnergyCommodities":"1 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":285.0
+  },
+  {
+    "ID":47,
+    "EnergyCommodities":"1 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":312.0
+  },
+  {
+    "ID":48,
+    "EnergyCommodities":"1 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1171.0
+  },
+  {
+    "ID":49,
+    "EnergyCommodities":"1 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":315.0
+  },
+  {
+    "ID":50,
+    "EnergyCommodities":"1 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":296.0
+  },
+  {
+    "ID":51,
+    "EnergyCommodities":"1 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":300.0
+  },
+  {
+    "ID":52,
+    "EnergyCommodities":"1 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":297.0
+  },
+  {
+    "ID":53,
+    "EnergyCommodities":"1 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1208.0
+  },
+  {
+    "ID":54,
+    "EnergyCommodities":"1 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":329.0
+  },
+  {
+    "ID":55,
+    "EnergyCommodities":"1 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":312.0
+  },
+  {
+    "ID":56,
+    "EnergyCommodities":"1 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":301.0
+  },
+  {
+    "ID":57,
+    "EnergyCommodities":"1 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":318.0
+  },
+  {
+    "ID":58,
+    "EnergyCommodities":"1 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1261.0
+  },
+  {
+    "ID":59,
+    "EnergyCommodities":"1 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":312.0
+  },
+  {
+    "ID":60,
+    "EnergyCommodities":"1 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":285.0
+  },
+  {
+    "ID":61,
+    "EnergyCommodities":"1 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":288.0
+  },
+  {
+    "ID":62,
+    "EnergyCommodities":"1 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":301.0
+  },
+  {
+    "ID":63,
+    "EnergyCommodities":"1 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1186.0
+  },
+  {
+    "ID":64,
+    "EnergyCommodities":"1 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":313.0
+  },
+  {
+    "ID":65,
+    "EnergyCommodities":"1 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":320.0
+  },
+  {
+    "ID":66,
+    "EnergyCommodities":"1 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":332.0
+  },
+  {
+    "ID":67,
+    "EnergyCommodities":"1 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":351.0
+  },
+  {
+    "ID":68,
+    "EnergyCommodities":"1 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1316.0
+  },
+  {
+    "ID":69,
+    "EnergyCommodities":"1 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":335.0
+  },
+  {
+    "ID":70,
+    "EnergyCommodities":"1 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":303.0
+  },
+  {
+    "ID":71,
+    "EnergyCommodities":"1 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":315.0
+  },
+  {
+    "ID":72,
+    "EnergyCommodities":"1 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":289.0
+  },
+  {
+    "ID":73,
+    "EnergyCommodities":"1 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1243.0
+  },
+  {
+    "ID":74,
+    "EnergyCommodities":"1 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":281.0
+  },
+  {
+    "ID":75,
+    "EnergyCommodities":"1 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":273.0
+  },
+  {
+    "ID":76,
+    "EnergyCommodities":"1 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":300.0
+  },
+  {
+    "ID":77,
+    "EnergyCommodities":"1 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":314.0
+  },
+  {
+    "ID":78,
+    "EnergyCommodities":"1 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1168.0
+  },
+  {
+    "ID":79,
+    "EnergyCommodities":"1 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":326.0
+  },
+  {
+    "ID":80,
+    "EnergyCommodities":"1 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":318.0
+  },
+  {
+    "ID":81,
+    "EnergyCommodities":"1 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":313.0
+  },
+  {
+    "ID":82,
+    "EnergyCommodities":"1 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":335.0
+  },
+  {
+    "ID":83,
+    "EnergyCommodities":"1 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1294.0
+  },
+  {
+    "ID":84,
+    "EnergyCommodities":"1 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1213.0
+  },
+  {
+    "ID":85,
+    "EnergyCommodities":"1 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1231.0
+  },
+  {
+    "ID":86,
+    "EnergyCommodities":"2 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":65.0
+  },
+  {
+    "ID":87,
+    "EnergyCommodities":"2 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":67.0
+  },
+  {
+    "ID":88,
+    "EnergyCommodities":"2 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":64.0
+  },
+  {
+    "ID":89,
+    "EnergyCommodities":"2 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":70.0
+  },
+  {
+    "ID":90,
+    "EnergyCommodities":"2 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":77.0
+  },
+  {
+    "ID":91,
+    "EnergyCommodities":"2 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":73.0
+  },
+  {
+    "ID":92,
+    "EnergyCommodities":"2 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":79.0
+  },
+  {
+    "ID":93,
+    "EnergyCommodities":"2 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":71.0
+  },
+  {
+    "ID":94,
+    "EnergyCommodities":"2 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":70.0
+  },
+  {
+    "ID":95,
+    "EnergyCommodities":"2 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":92.0
+  },
+  {
+    "ID":96,
+    "EnergyCommodities":"2 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":92.0
+  },
+  {
+    "ID":97,
+    "EnergyCommodities":"2 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":90.0
+  },
+  {
+    "ID":98,
+    "EnergyCommodities":"2 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":91.0
+  },
+  {
+    "ID":99,
+    "EnergyCommodities":"2 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":97.0
+  },
+  {
+    "ID":100,
+    "EnergyCommodities":"2 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":96.0
+  },
+  {
+    "ID":101,
+    "EnergyCommodities":"2 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":96.0
+  },
+  {
+    "ID":102,
+    "EnergyCommodities":"2 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":89.0
+  },
+  {
+    "ID":103,
+    "EnergyCommodities":"2 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":89.0
+  },
+  {
+    "ID":104,
+    "EnergyCommodities":"2 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":95.0
+  },
+  {
+    "ID":105,
+    "EnergyCommodities":"2 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":87.0
+  },
+  {
+    "ID":106,
+    "EnergyCommodities":"2 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":94.0
+  },
+  {
+    "ID":107,
+    "EnergyCommodities":"2 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":95.0
+  },
+  {
+    "ID":108,
+    "EnergyCommodities":"2 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":99.0
+  },
+  {
+    "ID":109,
+    "EnergyCommodities":"2 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":93.0
+  },
+  {
+    "ID":110,
+    "EnergyCommodities":"2 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":111,
+    "EnergyCommodities":"2 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":21.0
+  },
+  {
+    "ID":112,
+    "EnergyCommodities":"2 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":113,
+    "EnergyCommodities":"2 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":114,
+    "EnergyCommodities":"2 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":89.0
+  },
+  {
+    "ID":115,
+    "EnergyCommodities":"2 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":116,
+    "EnergyCommodities":"2 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":20.0
+  },
+  {
+    "ID":117,
+    "EnergyCommodities":"2 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":118,
+    "EnergyCommodities":"2 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":20.0
+  },
+  {
+    "ID":119,
+    "EnergyCommodities":"2 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":83.0
+  },
+  {
+    "ID":120,
+    "EnergyCommodities":"2 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":20.0
+  },
+  {
+    "ID":121,
+    "EnergyCommodities":"2 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":21.0
+  },
+  {
+    "ID":122,
+    "EnergyCommodities":"2 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":123,
+    "EnergyCommodities":"2 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":124,
+    "EnergyCommodities":"2 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":88.0
+  },
+  {
+    "ID":125,
+    "EnergyCommodities":"2 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":126,
+    "EnergyCommodities":"2 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":18.0
+  },
+  {
+    "ID":127,
+    "EnergyCommodities":"2 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":128,
+    "EnergyCommodities":"2 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":129,
+    "EnergyCommodities":"2 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":89.0
+  },
+  {
+    "ID":130,
+    "EnergyCommodities":"2 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":21.0
+  },
+  {
+    "ID":131,
+    "EnergyCommodities":"2 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":132,
+    "EnergyCommodities":"2 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":133,
+    "EnergyCommodities":"2 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":134,
+    "EnergyCommodities":"2 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":94.0
+  },
+  {
+    "ID":135,
+    "EnergyCommodities":"2 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":136,
+    "EnergyCommodities":"2 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":137,
+    "EnergyCommodities":"2 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":138,
+    "EnergyCommodities":"2 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":139,
+    "EnergyCommodities":"2 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":96.0
+  },
+  {
+    "ID":140,
+    "EnergyCommodities":"2 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":141,
+    "EnergyCommodities":"2 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":142,
+    "EnergyCommodities":"2 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":143,
+    "EnergyCommodities":"2 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":144,
+    "EnergyCommodities":"2 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":95.0
+  },
+  {
+    "ID":145,
+    "EnergyCommodities":"2 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":146,
+    "EnergyCommodities":"2 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":26.0
+  },
+  {
+    "ID":147,
+    "EnergyCommodities":"2 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":21.0
+  },
+  {
+    "ID":148,
+    "EnergyCommodities":"2 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":16.0
+  },
+  {
+    "ID":149,
+    "EnergyCommodities":"2 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":86.0
+  },
+  {
+    "ID":150,
+    "EnergyCommodities":"2 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":151,
+    "EnergyCommodities":"2 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":152,
+    "EnergyCommodities":"2 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":26.0
+  },
+  {
+    "ID":153,
+    "EnergyCommodities":"2 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":26.0
+  },
+  {
+    "ID":154,
+    "EnergyCommodities":"2 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":100.0
+  },
+  {
+    "ID":155,
+    "EnergyCommodities":"2 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":156,
+    "EnergyCommodities":"2 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":157,
+    "EnergyCommodities":"2 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":158,
+    "EnergyCommodities":"2 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":21.0
+  },
+  {
+    "ID":159,
+    "EnergyCommodities":"2 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":94.0
+  },
+  {
+    "ID":160,
+    "EnergyCommodities":"2 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":15.0
+  },
+  {
+    "ID":161,
+    "EnergyCommodities":"2 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":162,
+    "EnergyCommodities":"2 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":163,
+    "EnergyCommodities":"2 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":164,
+    "EnergyCommodities":"2 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":74.0
+  },
+  {
+    "ID":165,
+    "EnergyCommodities":"2 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":21.0
+  },
+  {
+    "ID":166,
+    "EnergyCommodities":"2 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":20.0
+  },
+  {
+    "ID":167,
+    "EnergyCommodities":"2 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":168,
+    "EnergyCommodities":"2 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":21.0
+  },
+  {
+    "ID":169,
+    "EnergyCommodities":"2 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":84.0
+  },
+  {
+    "ID":170,
+    "EnergyCommodities":"2 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":90.0
+  },
+  {
+    "ID":171,
+    "EnergyCommodities":"2 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":93.0
+  },
+  {
+    "ID":172,
+    "EnergyCommodities":"3 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":4.0
+  },
+  {
+    "ID":173,
+    "EnergyCommodities":"3 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":174,
+    "EnergyCommodities":"3 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":175,
+    "EnergyCommodities":"3 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":176,
+    "EnergyCommodities":"3 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":177,
+    "EnergyCommodities":"3 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":178,
+    "EnergyCommodities":"3 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":179,
+    "EnergyCommodities":"3 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":180,
+    "EnergyCommodities":"3 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":181,
+    "EnergyCommodities":"3 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":182,
+    "EnergyCommodities":"3 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":183,
+    "EnergyCommodities":"3 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":21.0
+  },
+  {
+    "ID":184,
+    "EnergyCommodities":"3 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":29.0
+  },
+  {
+    "ID":185,
+    "EnergyCommodities":"3 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":30.0
+  },
+  {
+    "ID":186,
+    "EnergyCommodities":"3 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":33.0
+  },
+  {
+    "ID":187,
+    "EnergyCommodities":"3 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":35.0
+  },
+  {
+    "ID":188,
+    "EnergyCommodities":"3 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":189,
+    "EnergyCommodities":"3 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":35.0
+  },
+  {
+    "ID":190,
+    "EnergyCommodities":"3 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":37.0
+  },
+  {
+    "ID":191,
+    "EnergyCommodities":"3 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":28.0
+  },
+  {
+    "ID":192,
+    "EnergyCommodities":"3 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":27.0
+  },
+  {
+    "ID":193,
+    "EnergyCommodities":"3 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":194,
+    "EnergyCommodities":"3 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":38.0
+  },
+  {
+    "ID":195,
+    "EnergyCommodities":"3 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":38.0
+  },
+  {
+    "ID":196,
+    "EnergyCommodities":"3 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":197,
+    "EnergyCommodities":"3 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":198,
+    "EnergyCommodities":"3 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":199,
+    "EnergyCommodities":"3 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":200,
+    "EnergyCommodities":"3 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":37.0
+  },
+  {
+    "ID":201,
+    "EnergyCommodities":"3 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":202,
+    "EnergyCommodities":"3 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":8.0
+  },
+  {
+    "ID":203,
+    "EnergyCommodities":"3 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":204,
+    "EnergyCommodities":"3 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":7.0
+  },
+  {
+    "ID":205,
+    "EnergyCommodities":"3 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":33.0
+  },
+  {
+    "ID":206,
+    "EnergyCommodities":"3 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":8.0
+  },
+  {
+    "ID":207,
+    "EnergyCommodities":"3 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":208,
+    "EnergyCommodities":"3 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":209,
+    "EnergyCommodities":"3 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":210,
+    "EnergyCommodities":"3 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":37.0
+  },
+  {
+    "ID":211,
+    "EnergyCommodities":"3 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":212,
+    "EnergyCommodities":"3 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":7.0
+  },
+  {
+    "ID":213,
+    "EnergyCommodities":"3 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":214,
+    "EnergyCommodities":"3 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":215,
+    "EnergyCommodities":"3 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":38.0
+  },
+  {
+    "ID":216,
+    "EnergyCommodities":"3 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":217,
+    "EnergyCommodities":"3 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":218,
+    "EnergyCommodities":"3 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":219,
+    "EnergyCommodities":"3 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":220,
+    "EnergyCommodities":"3 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":40.0
+  },
+  {
+    "ID":221,
+    "EnergyCommodities":"3 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":222,
+    "EnergyCommodities":"3 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":223,
+    "EnergyCommodities":"3 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":224,
+    "EnergyCommodities":"3 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":225,
+    "EnergyCommodities":"3 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":43.0
+  },
+  {
+    "ID":226,
+    "EnergyCommodities":"3 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":227,
+    "EnergyCommodities":"3 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":228,
+    "EnergyCommodities":"3 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":229,
+    "EnergyCommodities":"3 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":230,
+    "EnergyCommodities":"3 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":45.0
+  },
+  {
+    "ID":231,
+    "EnergyCommodities":"3 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":232,
+    "EnergyCommodities":"3 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":233,
+    "EnergyCommodities":"3 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":234,
+    "EnergyCommodities":"3 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":7.0
+  },
+  {
+    "ID":235,
+    "EnergyCommodities":"3 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":39.0
+  },
+  {
+    "ID":236,
+    "EnergyCommodities":"3 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":237,
+    "EnergyCommodities":"3 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":238,
+    "EnergyCommodities":"3 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":239,
+    "EnergyCommodities":"3 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":240,
+    "EnergyCommodities":"3 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":48.0
+  },
+  {
+    "ID":241,
+    "EnergyCommodities":"3 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":242,
+    "EnergyCommodities":"3 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":243,
+    "EnergyCommodities":"3 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":244,
+    "EnergyCommodities":"3 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":245,
+    "EnergyCommodities":"3 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":40.0
+  },
+  {
+    "ID":246,
+    "EnergyCommodities":"3 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":247,
+    "EnergyCommodities":"3 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":248,
+    "EnergyCommodities":"3 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":249,
+    "EnergyCommodities":"3 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":250,
+    "EnergyCommodities":"3 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":29.0
+  },
+  {
+    "ID":251,
+    "EnergyCommodities":"3 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":7.0
+  },
+  {
+    "ID":252,
+    "EnergyCommodities":"3 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":8.0
+  },
+  {
+    "ID":253,
+    "EnergyCommodities":"3 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":254,
+    "EnergyCommodities":"3 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":8.0
+  },
+  {
+    "ID":255,
+    "EnergyCommodities":"3 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":256,
+    "EnergyCommodities":"3 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":38.0
+  },
+  {
+    "ID":257,
+    "EnergyCommodities":"3 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":43.0
+  },
+  {
+    "ID":258,
+    "EnergyCommodities":"4 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":61.0
+  },
+  {
+    "ID":259,
+    "EnergyCommodities":"4 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":62.0
+  },
+  {
+    "ID":260,
+    "EnergyCommodities":"4 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":59.0
+  },
+  {
+    "ID":261,
+    "EnergyCommodities":"4 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":65.0
+  },
+  {
+    "ID":262,
+    "EnergyCommodities":"4 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":73.0
+  },
+  {
+    "ID":263,
+    "EnergyCommodities":"4 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":68.0
+  },
+  {
+    "ID":264,
+    "EnergyCommodities":"4 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":75.0
+  },
+  {
+    "ID":265,
+    "EnergyCommodities":"4 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":59.0
+  },
+  {
+    "ID":266,
+    "EnergyCommodities":"4 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":60.0
+  },
+  {
+    "ID":267,
+    "EnergyCommodities":"4 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":71.0
+  },
+  {
+    "ID":268,
+    "EnergyCommodities":"4 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":71.0
+  },
+  {
+    "ID":269,
+    "EnergyCommodities":"4 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":68.0
+  },
+  {
+    "ID":270,
+    "EnergyCommodities":"4 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":62.0
+  },
+  {
+    "ID":271,
+    "EnergyCommodities":"4 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":66.0
+  },
+  {
+    "ID":272,
+    "EnergyCommodities":"4 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":63.0
+  },
+  {
+    "ID":273,
+    "EnergyCommodities":"4 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":61.0
+  },
+  {
+    "ID":274,
+    "EnergyCommodities":"4 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":58.0
+  },
+  {
+    "ID":275,
+    "EnergyCommodities":"4 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":54.0
+  },
+  {
+    "ID":276,
+    "EnergyCommodities":"4 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":57.0
+  },
+  {
+    "ID":277,
+    "EnergyCommodities":"4 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":58.0
+  },
+  {
+    "ID":278,
+    "EnergyCommodities":"4 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":68.0
+  },
+  {
+    "ID":279,
+    "EnergyCommodities":"4 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":64.0
+  },
+  {
+    "ID":280,
+    "EnergyCommodities":"4 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":61.0
+  },
+  {
+    "ID":281,
+    "EnergyCommodities":"4 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":56.0
+  },
+  {
+    "ID":282,
+    "EnergyCommodities":"4 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":283,
+    "EnergyCommodities":"4 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":284,
+    "EnergyCommodities":"4 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":285,
+    "EnergyCommodities":"4 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":286,
+    "EnergyCommodities":"4 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":51.0
+  },
+  {
+    "ID":287,
+    "EnergyCommodities":"4 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":288,
+    "EnergyCommodities":"4 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":289,
+    "EnergyCommodities":"4 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":290,
+    "EnergyCommodities":"4 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":291,
+    "EnergyCommodities":"4 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":51.0
+  },
+  {
+    "ID":292,
+    "EnergyCommodities":"4 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":293,
+    "EnergyCommodities":"4 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":294,
+    "EnergyCommodities":"4 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":295,
+    "EnergyCommodities":"4 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":296,
+    "EnergyCommodities":"4 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":51.0
+  },
+  {
+    "ID":297,
+    "EnergyCommodities":"4 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":298,
+    "EnergyCommodities":"4 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":299,
+    "EnergyCommodities":"4 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":300,
+    "EnergyCommodities":"4 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":301,
+    "EnergyCommodities":"4 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":52.0
+  },
+  {
+    "ID":302,
+    "EnergyCommodities":"4 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":303,
+    "EnergyCommodities":"4 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":304,
+    "EnergyCommodities":"4 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":305,
+    "EnergyCommodities":"4 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":306,
+    "EnergyCommodities":"4 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":54.0
+  },
+  {
+    "ID":307,
+    "EnergyCommodities":"4 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":308,
+    "EnergyCommodities":"4 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":309,
+    "EnergyCommodities":"4 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":310,
+    "EnergyCommodities":"4 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":311,
+    "EnergyCommodities":"4 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":53.0
+  },
+  {
+    "ID":312,
+    "EnergyCommodities":"4 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":313,
+    "EnergyCommodities":"4 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":314,
+    "EnergyCommodities":"4 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":315,
+    "EnergyCommodities":"4 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":316,
+    "EnergyCommodities":"4 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":50.0
+  },
+  {
+    "ID":317,
+    "EnergyCommodities":"4 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":318,
+    "EnergyCommodities":"4 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":319,
+    "EnergyCommodities":"4 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":11.0
+  },
+  {
+    "ID":320,
+    "EnergyCommodities":"4 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":321,
+    "EnergyCommodities":"4 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":47.0
+  },
+  {
+    "ID":322,
+    "EnergyCommodities":"4 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":323,
+    "EnergyCommodities":"4 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":324,
+    "EnergyCommodities":"4 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":325,
+    "EnergyCommodities":"4 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":326,
+    "EnergyCommodities":"4 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":52.0
+  },
+  {
+    "ID":327,
+    "EnergyCommodities":"4 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":12.0
+  },
+  {
+    "ID":328,
+    "EnergyCommodities":"4 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":329,
+    "EnergyCommodities":"4 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":15.0
+  },
+  {
+    "ID":330,
+    "EnergyCommodities":"4 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":331,
+    "EnergyCommodities":"4 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":54.0
+  },
+  {
+    "ID":332,
+    "EnergyCommodities":"4 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":10.0
+  },
+  {
+    "ID":333,
+    "EnergyCommodities":"4 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":9.0
+  },
+  {
+    "ID":334,
+    "EnergyCommodities":"4 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":335,
+    "EnergyCommodities":"4 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":15.0
+  },
+  {
+    "ID":336,
+    "EnergyCommodities":"4 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":46.0
+  },
+  {
+    "ID":337,
+    "EnergyCommodities":"4 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":338,
+    "EnergyCommodities":"4 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":339,
+    "EnergyCommodities":"4 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":340,
+    "EnergyCommodities":"4 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":341,
+    "EnergyCommodities":"4 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":53.0
+  },
+  {
+    "ID":342,
+    "EnergyCommodities":"4 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":51.0
+  },
+  {
+    "ID":343,
+    "EnergyCommodities":"4 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":49.0
+  },
+  {
+    "ID":344,
+    "EnergyCommodities":"5 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":338.0
+  },
+  {
+    "ID":345,
+    "EnergyCommodities":"5 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":413.0
+  },
+  {
+    "ID":346,
+    "EnergyCommodities":"5 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":377.0
+  },
+  {
+    "ID":347,
+    "EnergyCommodities":"5 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":419.0
+  },
+  {
+    "ID":348,
+    "EnergyCommodities":"5 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":447.0
+  },
+  {
+    "ID":349,
+    "EnergyCommodities":"5 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":375.0
+  },
+  {
+    "ID":350,
+    "EnergyCommodities":"5 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":304.0
+  },
+  {
+    "ID":351,
+    "EnergyCommodities":"5 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":246.0
+  },
+  {
+    "ID":352,
+    "EnergyCommodities":"5 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":273.0
+  },
+  {
+    "ID":353,
+    "EnergyCommodities":"5 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":273.0
+  },
+  {
+    "ID":354,
+    "EnergyCommodities":"5 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":272.0
+  },
+  {
+    "ID":355,
+    "EnergyCommodities":"5 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":321.0
+  },
+  {
+    "ID":356,
+    "EnergyCommodities":"5 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":320.0
+  },
+  {
+    "ID":357,
+    "EnergyCommodities":"5 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":349.0
+  },
+  {
+    "ID":358,
+    "EnergyCommodities":"5 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":318.0
+  },
+  {
+    "ID":359,
+    "EnergyCommodities":"5 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":336.0
+  },
+  {
+    "ID":360,
+    "EnergyCommodities":"5 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":340.0
+  },
+  {
+    "ID":361,
+    "EnergyCommodities":"5 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":348.0
+  },
+  {
+    "ID":362,
+    "EnergyCommodities":"5 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":293.0
+  },
+  {
+    "ID":363,
+    "EnergyCommodities":"5 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":304.0
+  },
+  {
+    "ID":364,
+    "EnergyCommodities":"5 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":341.0
+  },
+  {
+    "ID":365,
+    "EnergyCommodities":"5 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":313.0
+  },
+  {
+    "ID":366,
+    "EnergyCommodities":"5 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":325.0
+  },
+  {
+    "ID":367,
+    "EnergyCommodities":"5 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":319.0
+  },
+  {
+    "ID":368,
+    "EnergyCommodities":"5 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":83.0
+  },
+  {
+    "ID":369,
+    "EnergyCommodities":"5 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":91.0
+  },
+  {
+    "ID":370,
+    "EnergyCommodities":"5 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":86.0
+  },
+  {
+    "ID":371,
+    "EnergyCommodities":"5 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":98.0
+  },
+  {
+    "ID":372,
+    "EnergyCommodities":"5 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":358.0
+  },
+  {
+    "ID":373,
+    "EnergyCommodities":"5 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":90.0
+  },
+  {
+    "ID":374,
+    "EnergyCommodities":"5 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":94.0
+  },
+  {
+    "ID":375,
+    "EnergyCommodities":"5 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":102.0
+  },
+  {
+    "ID":376,
+    "EnergyCommodities":"5 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":100.0
+  },
+  {
+    "ID":377,
+    "EnergyCommodities":"5 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":386.0
+  },
+  {
+    "ID":378,
+    "EnergyCommodities":"5 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":102.0
+  },
+  {
+    "ID":379,
+    "EnergyCommodities":"5 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":98.0
+  },
+  {
+    "ID":380,
+    "EnergyCommodities":"5 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":105.0
+  },
+  {
+    "ID":381,
+    "EnergyCommodities":"5 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":99.0
+  },
+  {
+    "ID":382,
+    "EnergyCommodities":"5 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":403.0
+  },
+  {
+    "ID":383,
+    "EnergyCommodities":"5 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":105.0
+  },
+  {
+    "ID":384,
+    "EnergyCommodities":"5 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":102.0
+  },
+  {
+    "ID":385,
+    "EnergyCommodities":"5 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":99.0
+  },
+  {
+    "ID":386,
+    "EnergyCommodities":"5 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":114.0
+  },
+  {
+    "ID":387,
+    "EnergyCommodities":"5 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":420.0
+  },
+  {
+    "ID":388,
+    "EnergyCommodities":"5 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":107.0
+  },
+  {
+    "ID":389,
+    "EnergyCommodities":"5 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":113.0
+  },
+  {
+    "ID":390,
+    "EnergyCommodities":"5 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":118.0
+  },
+  {
+    "ID":391,
+    "EnergyCommodities":"5 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":126.0
+  },
+  {
+    "ID":392,
+    "EnergyCommodities":"5 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":463.0
+  },
+  {
+    "ID":393,
+    "EnergyCommodities":"5 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":132.0
+  },
+  {
+    "ID":394,
+    "EnergyCommodities":"5 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":124.0
+  },
+  {
+    "ID":395,
+    "EnergyCommodities":"5 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":126.0
+  },
+  {
+    "ID":396,
+    "EnergyCommodities":"5 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":107.0
+  },
+  {
+    "ID":397,
+    "EnergyCommodities":"5 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":489.0
+  },
+  {
+    "ID":398,
+    "EnergyCommodities":"5 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":140.0
+  },
+  {
+    "ID":399,
+    "EnergyCommodities":"5 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":138.0
+  },
+  {
+    "ID":400,
+    "EnergyCommodities":"5 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":129.0
+  },
+  {
+    "ID":401,
+    "EnergyCommodities":"5 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":133.0
+  },
+  {
+    "ID":402,
+    "EnergyCommodities":"5 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":540.0
+  },
+  {
+    "ID":403,
+    "EnergyCommodities":"5 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":134.0
+  },
+  {
+    "ID":404,
+    "EnergyCommodities":"5 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":121.0
+  },
+  {
+    "ID":405,
+    "EnergyCommodities":"5 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":135.0
+  },
+  {
+    "ID":406,
+    "EnergyCommodities":"5 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":136.0
+  },
+  {
+    "ID":407,
+    "EnergyCommodities":"5 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":525.0
+  },
+  {
+    "ID":408,
+    "EnergyCommodities":"5 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":143.0
+  },
+  {
+    "ID":409,
+    "EnergyCommodities":"5 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":157.0
+  },
+  {
+    "ID":410,
+    "EnergyCommodities":"5 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":169.0
+  },
+  {
+    "ID":411,
+    "EnergyCommodities":"5 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":176.0
+  },
+  {
+    "ID":412,
+    "EnergyCommodities":"5 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":645.0
+  },
+  {
+    "ID":413,
+    "EnergyCommodities":"5 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":163.0
+  },
+  {
+    "ID":414,
+    "EnergyCommodities":"5 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":144.0
+  },
+  {
+    "ID":415,
+    "EnergyCommodities":"5 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":160.0
+  },
+  {
+    "ID":416,
+    "EnergyCommodities":"5 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":126.0
+  },
+  {
+    "ID":417,
+    "EnergyCommodities":"5 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":593.0
+  },
+  {
+    "ID":418,
+    "EnergyCommodities":"5 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":143.0
+  },
+  {
+    "ID":419,
+    "EnergyCommodities":"5 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":143.0
+  },
+  {
+    "ID":420,
+    "EnergyCommodities":"5 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":154.0
+  },
+  {
+    "ID":421,
+    "EnergyCommodities":"5 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":154.0
+  },
+  {
+    "ID":422,
+    "EnergyCommodities":"5 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":594.0
+  },
+  {
+    "ID":423,
+    "EnergyCommodities":"5 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":163.0
+  },
+  {
+    "ID":424,
+    "EnergyCommodities":"5 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":169.0
+  },
+  {
+    "ID":425,
+    "EnergyCommodities":"5 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":162.0
+  },
+  {
+    "ID":426,
+    "EnergyCommodities":"5 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":169.0
+  },
+  {
+    "ID":427,
+    "EnergyCommodities":"5 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":664.0
+  },
+  {
+    "ID":428,
+    "EnergyCommodities":"5 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":596.0
+  },
+  {
+    "ID":429,
+    "EnergyCommodities":"5 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":632.0
+  },
+  {
+    "ID":430,
+    "EnergyCommodities":"6 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":0.0
+  },
+  {
+    "ID":431,
+    "EnergyCommodities":"6 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":0.0
+  },
+  {
+    "ID":432,
+    "EnergyCommodities":"6 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":0.0
+  },
+  {
+    "ID":433,
+    "EnergyCommodities":"6 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":0.0
+  },
+  {
+    "ID":434,
+    "EnergyCommodities":"6 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":0.0
+  },
+  {
+    "ID":435,
+    "EnergyCommodities":"6 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":0.0
+  },
+  {
+    "ID":436,
+    "EnergyCommodities":"6 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":0.0
+  },
+  {
+    "ID":437,
+    "EnergyCommodities":"6 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":438,
+    "EnergyCommodities":"6 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":4.0
+  },
+  {
+    "ID":439,
+    "EnergyCommodities":"6 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":61.0
+  },
+  {
+    "ID":440,
+    "EnergyCommodities":"6 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":80.0
+  },
+  {
+    "ID":441,
+    "EnergyCommodities":"6 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":98.0
+  },
+  {
+    "ID":442,
+    "EnergyCommodities":"6 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":106.0
+  },
+  {
+    "ID":443,
+    "EnergyCommodities":"6 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":115.0
+  },
+  {
+    "ID":444,
+    "EnergyCommodities":"6 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":115.0
+  },
+  {
+    "ID":445,
+    "EnergyCommodities":"6 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":141.0
+  },
+  {
+    "ID":446,
+    "EnergyCommodities":"6 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":141.0
+  },
+  {
+    "ID":447,
+    "EnergyCommodities":"6 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":126.0
+  },
+  {
+    "ID":448,
+    "EnergyCommodities":"6 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":158.0
+  },
+  {
+    "ID":449,
+    "EnergyCommodities":"6 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":160.0
+  },
+  {
+    "ID":450,
+    "EnergyCommodities":"6 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":156.0
+  },
+  {
+    "ID":451,
+    "EnergyCommodities":"6 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":143.0
+  },
+  {
+    "ID":452,
+    "EnergyCommodities":"6 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":142.0
+  },
+  {
+    "ID":453,
+    "EnergyCommodities":"6 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":133.0
+  },
+  {
+    "ID":454,
+    "EnergyCommodities":"6 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":37.0
+  },
+  {
+    "ID":455,
+    "EnergyCommodities":"6 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":41.0
+  },
+  {
+    "ID":456,
+    "EnergyCommodities":"6 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":40.0
+  },
+  {
+    "ID":457,
+    "EnergyCommodities":"6 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":37.0
+  },
+  {
+    "ID":458,
+    "EnergyCommodities":"6 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":155.0
+  },
+  {
+    "ID":459,
+    "EnergyCommodities":"6 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":48.0
+  },
+  {
+    "ID":460,
+    "EnergyCommodities":"6 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":37.0
+  },
+  {
+    "ID":461,
+    "EnergyCommodities":"6 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":46.0
+  },
+  {
+    "ID":462,
+    "EnergyCommodities":"6 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":43.0
+  },
+  {
+    "ID":463,
+    "EnergyCommodities":"6 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":172.0
+  },
+  {
+    "ID":464,
+    "EnergyCommodities":"6 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":44.0
+  },
+  {
+    "ID":465,
+    "EnergyCommodities":"6 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":48.0
+  },
+  {
+    "ID":466,
+    "EnergyCommodities":"6 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":52.0
+  },
+  {
+    "ID":467,
+    "EnergyCommodities":"6 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":41.0
+  },
+  {
+    "ID":468,
+    "EnergyCommodities":"6 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":185.0
+  },
+  {
+    "ID":469,
+    "EnergyCommodities":"6 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":63.0
+  },
+  {
+    "ID":470,
+    "EnergyCommodities":"6 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":53.0
+  },
+  {
+    "ID":471,
+    "EnergyCommodities":"6 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":58.0
+  },
+  {
+    "ID":472,
+    "EnergyCommodities":"6 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":53.0
+  },
+  {
+    "ID":473,
+    "EnergyCommodities":"6 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":226.0
+  },
+  {
+    "ID":474,
+    "EnergyCommodities":"6 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":45.0
+  },
+  {
+    "ID":475,
+    "EnergyCommodities":"6 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":41.0
+  },
+  {
+    "ID":476,
+    "EnergyCommodities":"6 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":49.0
+  },
+  {
+    "ID":477,
+    "EnergyCommodities":"6 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":54.0
+  },
+  {
+    "ID":478,
+    "EnergyCommodities":"6 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":188.0
+  },
+  {
+    "ID":479,
+    "EnergyCommodities":"6 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":48.0
+  },
+  {
+    "ID":480,
+    "EnergyCommodities":"6 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":51.0
+  },
+  {
+    "ID":481,
+    "EnergyCommodities":"6 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":54.0
+  },
+  {
+    "ID":482,
+    "EnergyCommodities":"6 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":52.0
+  },
+  {
+    "ID":483,
+    "EnergyCommodities":"6 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":205.0
+  },
+  {
+    "ID":484,
+    "EnergyCommodities":"6 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":49.0
+  },
+  {
+    "ID":485,
+    "EnergyCommodities":"6 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":55.0
+  },
+  {
+    "ID":486,
+    "EnergyCommodities":"6 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":52.0
+  },
+  {
+    "ID":487,
+    "EnergyCommodities":"6 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":56.0
+  },
+  {
+    "ID":488,
+    "EnergyCommodities":"6 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":212.0
+  },
+  {
+    "ID":489,
+    "EnergyCommodities":"6 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":62.0
+  },
+  {
+    "ID":490,
+    "EnergyCommodities":"6 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":58.0
+  },
+  {
+    "ID":491,
+    "EnergyCommodities":"6 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":55.0
+  },
+  {
+    "ID":492,
+    "EnergyCommodities":"6 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":68.0
+  },
+  {
+    "ID":493,
+    "EnergyCommodities":"6 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":244.0
+  },
+  {
+    "ID":494,
+    "EnergyCommodities":"6 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":54.0
+  },
+  {
+    "ID":495,
+    "EnergyCommodities":"6 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":46.0
+  },
+  {
+    "ID":496,
+    "EnergyCommodities":"6 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":48.0
+  },
+  {
+    "ID":497,
+    "EnergyCommodities":"6 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":54.0
+  },
+  {
+    "ID":498,
+    "EnergyCommodities":"6 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":203.0
+  },
+  {
+    "ID":499,
+    "EnergyCommodities":"6 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":60.0
+  },
+  {
+    "ID":500,
+    "EnergyCommodities":"6 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":50.0
+  },
+  {
+    "ID":501,
+    "EnergyCommodities":"6 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":48.0
+  },
+  {
+    "ID":502,
+    "EnergyCommodities":"6 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":38.0
+  },
+  {
+    "ID":503,
+    "EnergyCommodities":"6 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":196.0
+  },
+  {
+    "ID":504,
+    "EnergyCommodities":"6 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":42.0
+  },
+  {
+    "ID":505,
+    "EnergyCommodities":"6 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":40.0
+  },
+  {
+    "ID":506,
+    "EnergyCommodities":"6 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":48.0
+  },
+  {
+    "ID":507,
+    "EnergyCommodities":"6 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":55.0
+  },
+  {
+    "ID":508,
+    "EnergyCommodities":"6 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":185.0
+  },
+  {
+    "ID":509,
+    "EnergyCommodities":"6 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":52.0
+  },
+  {
+    "ID":510,
+    "EnergyCommodities":"6 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":46.0
+  },
+  {
+    "ID":511,
+    "EnergyCommodities":"6 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":41.0
+  },
+  {
+    "ID":512,
+    "EnergyCommodities":"6 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":51.0
+  },
+  {
+    "ID":513,
+    "EnergyCommodities":"6 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":191.0
+  },
+  {
+    "ID":514,
+    "EnergyCommodities":"6 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":190.0
+  },
+  {
+    "ID":515,
+    "EnergyCommodities":"6 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":161.0
+  },
+  {
+    "ID":516,
+    "EnergyCommodities":"7 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":338.0
+  },
+  {
+    "ID":517,
+    "EnergyCommodities":"7 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":413.0
+  },
+  {
+    "ID":518,
+    "EnergyCommodities":"7 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":377.0
+  },
+  {
+    "ID":519,
+    "EnergyCommodities":"7 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":419.0
+  },
+  {
+    "ID":520,
+    "EnergyCommodities":"7 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":447.0
+  },
+  {
+    "ID":521,
+    "EnergyCommodities":"7 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":375.0
+  },
+  {
+    "ID":522,
+    "EnergyCommodities":"7 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":304.0
+  },
+  {
+    "ID":523,
+    "EnergyCommodities":"7 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":245.0
+  },
+  {
+    "ID":524,
+    "EnergyCommodities":"7 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":268.0
+  },
+  {
+    "ID":525,
+    "EnergyCommodities":"7 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":212.0
+  },
+  {
+    "ID":526,
+    "EnergyCommodities":"7 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":192.0
+  },
+  {
+    "ID":527,
+    "EnergyCommodities":"7 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":222.0
+  },
+  {
+    "ID":528,
+    "EnergyCommodities":"7 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":214.0
+  },
+  {
+    "ID":529,
+    "EnergyCommodities":"7 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":234.0
+  },
+  {
+    "ID":530,
+    "EnergyCommodities":"7 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":202.0
+  },
+  {
+    "ID":531,
+    "EnergyCommodities":"7 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":195.0
+  },
+  {
+    "ID":532,
+    "EnergyCommodities":"7 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":199.0
+  },
+  {
+    "ID":533,
+    "EnergyCommodities":"7 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":222.0
+  },
+  {
+    "ID":534,
+    "EnergyCommodities":"7 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":135.0
+  },
+  {
+    "ID":535,
+    "EnergyCommodities":"7 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":143.0
+  },
+  {
+    "ID":536,
+    "EnergyCommodities":"7 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":185.0
+  },
+  {
+    "ID":537,
+    "EnergyCommodities":"7 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":170.0
+  },
+  {
+    "ID":538,
+    "EnergyCommodities":"7 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":182.0
+  },
+  {
+    "ID":539,
+    "EnergyCommodities":"7 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":185.0
+  },
+  {
+    "ID":540,
+    "EnergyCommodities":"7 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":46.0
+  },
+  {
+    "ID":541,
+    "EnergyCommodities":"7 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":50.0
+  },
+  {
+    "ID":542,
+    "EnergyCommodities":"7 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":47.0
+  },
+  {
+    "ID":543,
+    "EnergyCommodities":"7 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":60.0
+  },
+  {
+    "ID":544,
+    "EnergyCommodities":"7 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":203.0
+  },
+  {
+    "ID":545,
+    "EnergyCommodities":"7 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":43.0
+  },
+  {
+    "ID":546,
+    "EnergyCommodities":"7 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":57.0
+  },
+  {
+    "ID":547,
+    "EnergyCommodities":"7 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":57.0
+  },
+  {
+    "ID":548,
+    "EnergyCommodities":"7 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":57.0
+  },
+  {
+    "ID":549,
+    "EnergyCommodities":"7 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":214.0
+  },
+  {
+    "ID":550,
+    "EnergyCommodities":"7 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":58.0
+  },
+  {
+    "ID":551,
+    "EnergyCommodities":"7 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":50.0
+  },
+  {
+    "ID":552,
+    "EnergyCommodities":"7 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":53.0
+  },
+  {
+    "ID":553,
+    "EnergyCommodities":"7 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":57.0
+  },
+  {
+    "ID":554,
+    "EnergyCommodities":"7 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":219.0
+  },
+  {
+    "ID":555,
+    "EnergyCommodities":"7 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":42.0
+  },
+  {
+    "ID":556,
+    "EnergyCommodities":"7 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":48.0
+  },
+  {
+    "ID":557,
+    "EnergyCommodities":"7 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":41.0
+  },
+  {
+    "ID":558,
+    "EnergyCommodities":"7 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":62.0
+  },
+  {
+    "ID":559,
+    "EnergyCommodities":"7 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":193.0
+  },
+  {
+    "ID":560,
+    "EnergyCommodities":"7 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":62.0
+  },
+  {
+    "ID":561,
+    "EnergyCommodities":"7 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":72.0
+  },
+  {
+    "ID":562,
+    "EnergyCommodities":"7 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":69.0
+  },
+  {
+    "ID":563,
+    "EnergyCommodities":"7 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":72.0
+  },
+  {
+    "ID":564,
+    "EnergyCommodities":"7 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":274.0
+  },
+  {
+    "ID":565,
+    "EnergyCommodities":"7 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":84.0
+  },
+  {
+    "ID":566,
+    "EnergyCommodities":"7 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":74.0
+  },
+  {
+    "ID":567,
+    "EnergyCommodities":"7 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":72.0
+  },
+  {
+    "ID":568,
+    "EnergyCommodities":"7 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":55.0
+  },
+  {
+    "ID":569,
+    "EnergyCommodities":"7 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":284.0
+  },
+  {
+    "ID":570,
+    "EnergyCommodities":"7 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":90.0
+  },
+  {
+    "ID":571,
+    "EnergyCommodities":"7 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":82.0
+  },
+  {
+    "ID":572,
+    "EnergyCommodities":"7 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":77.0
+  },
+  {
+    "ID":573,
+    "EnergyCommodities":"7 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":77.0
+  },
+  {
+    "ID":574,
+    "EnergyCommodities":"7 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":327.0
+  },
+  {
+    "ID":575,
+    "EnergyCommodities":"7 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":72.0
+  },
+  {
+    "ID":576,
+    "EnergyCommodities":"7 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":62.0
+  },
+  {
+    "ID":577,
+    "EnergyCommodities":"7 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":79.0
+  },
+  {
+    "ID":578,
+    "EnergyCommodities":"7 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":67.0
+  },
+  {
+    "ID":579,
+    "EnergyCommodities":"7 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":281.0
+  },
+  {
+    "ID":580,
+    "EnergyCommodities":"7 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":89.0
+  },
+  {
+    "ID":581,
+    "EnergyCommodities":"7 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":111.0
+  },
+  {
+    "ID":582,
+    "EnergyCommodities":"7 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":121.0
+  },
+  {
+    "ID":583,
+    "EnergyCommodities":"7 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":122.0
+  },
+  {
+    "ID":584,
+    "EnergyCommodities":"7 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":443.0
+  },
+  {
+    "ID":585,
+    "EnergyCommodities":"7 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":103.0
+  },
+  {
+    "ID":586,
+    "EnergyCommodities":"7 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":94.0
+  },
+  {
+    "ID":587,
+    "EnergyCommodities":"7 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":111.0
+  },
+  {
+    "ID":588,
+    "EnergyCommodities":"7 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":88.0
+  },
+  {
+    "ID":589,
+    "EnergyCommodities":"7 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":397.0
+  },
+  {
+    "ID":590,
+    "EnergyCommodities":"7 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":100.0
+  },
+  {
+    "ID":591,
+    "EnergyCommodities":"7 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":103.0
+  },
+  {
+    "ID":592,
+    "EnergyCommodities":"7 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":107.0
+  },
+  {
+    "ID":593,
+    "EnergyCommodities":"7 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":99.0
+  },
+  {
+    "ID":594,
+    "EnergyCommodities":"7 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":410.0
+  },
+  {
+    "ID":595,
+    "EnergyCommodities":"7 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":111.0
+  },
+  {
+    "ID":596,
+    "EnergyCommodities":"7 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":123.0
+  },
+  {
+    "ID":597,
+    "EnergyCommodities":"7 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":121.0
+  },
+  {
+    "ID":598,
+    "EnergyCommodities":"7 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":119.0
+  },
+  {
+    "ID":599,
+    "EnergyCommodities":"7 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":473.0
+  },
+  {
+    "ID":600,
+    "EnergyCommodities":"7 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":406.0
+  },
+  {
+    "ID":601,
+    "EnergyCommodities":"7 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":471.0
+  },
+  {
+    "ID":602,
+    "EnergyCommodities":"8 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":385.0
+  },
+  {
+    "ID":603,
+    "EnergyCommodities":"8 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":390.0
+  },
+  {
+    "ID":604,
+    "EnergyCommodities":"8 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":427.0
+  },
+  {
+    "ID":605,
+    "EnergyCommodities":"8 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":425.0
+  },
+  {
+    "ID":606,
+    "EnergyCommodities":"8 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":445.0
+  },
+  {
+    "ID":607,
+    "EnergyCommodities":"8 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":403.0
+  },
+  {
+    "ID":608,
+    "EnergyCommodities":"8 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":402.0
+  },
+  {
+    "ID":609,
+    "EnergyCommodities":"8 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":366.0
+  },
+  {
+    "ID":610,
+    "EnergyCommodities":"8 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":371.0
+  },
+  {
+    "ID":611,
+    "EnergyCommodities":"8 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":400.0
+  },
+  {
+    "ID":612,
+    "EnergyCommodities":"8 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":405.0
+  },
+  {
+    "ID":613,
+    "EnergyCommodities":"8 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":384.0
+  },
+  {
+    "ID":614,
+    "EnergyCommodities":"8 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":426.0
+  },
+  {
+    "ID":615,
+    "EnergyCommodities":"8 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":418.0
+  },
+  {
+    "ID":616,
+    "EnergyCommodities":"8 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":418.0
+  },
+  {
+    "ID":617,
+    "EnergyCommodities":"8 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":438.0
+  },
+  {
+    "ID":618,
+    "EnergyCommodities":"8 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":450.0
+  },
+  {
+    "ID":619,
+    "EnergyCommodities":"8 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":446.0
+  },
+  {
+    "ID":620,
+    "EnergyCommodities":"8 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":422.0
+  },
+  {
+    "ID":621,
+    "EnergyCommodities":"8 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":426.0
+  },
+  {
+    "ID":622,
+    "EnergyCommodities":"8 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":418.0
+  },
+  {
+    "ID":623,
+    "EnergyCommodities":"8 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":421.0
+  },
+  {
+    "ID":624,
+    "EnergyCommodities":"8 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":418.0
+  },
+  {
+    "ID":625,
+    "EnergyCommodities":"8 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":413.0
+  },
+  {
+    "ID":626,
+    "EnergyCommodities":"8 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":108.0
+  },
+  {
+    "ID":627,
+    "EnergyCommodities":"8 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":97.0
+  },
+  {
+    "ID":628,
+    "EnergyCommodities":"8 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":91.0
+  },
+  {
+    "ID":629,
+    "EnergyCommodities":"8 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":111.0
+  },
+  {
+    "ID":630,
+    "EnergyCommodities":"8 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":407.0
+  },
+  {
+    "ID":631,
+    "EnergyCommodities":"8 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":112.0
+  },
+  {
+    "ID":632,
+    "EnergyCommodities":"8 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":101.0
+  },
+  {
+    "ID":633,
+    "EnergyCommodities":"8 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":94.0
+  },
+  {
+    "ID":634,
+    "EnergyCommodities":"8 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":108.0
+  },
+  {
+    "ID":635,
+    "EnergyCommodities":"8 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":415.0
+  },
+  {
+    "ID":636,
+    "EnergyCommodities":"8 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":105.0
+  },
+  {
+    "ID":637,
+    "EnergyCommodities":"8 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":94.0
+  },
+  {
+    "ID":638,
+    "EnergyCommodities":"8 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":87.0
+  },
+  {
+    "ID":639,
+    "EnergyCommodities":"8 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":101.0
+  },
+  {
+    "ID":640,
+    "EnergyCommodities":"8 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":387.0
+  },
+  {
+    "ID":641,
+    "EnergyCommodities":"8 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":97.0
+  },
+  {
+    "ID":642,
+    "EnergyCommodities":"8 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":92.0
+  },
+  {
+    "ID":643,
+    "EnergyCommodities":"8 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":88.0
+  },
+  {
+    "ID":644,
+    "EnergyCommodities":"8 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":104.0
+  },
+  {
+    "ID":645,
+    "EnergyCommodities":"8 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":380.0
+  },
+  {
+    "ID":646,
+    "EnergyCommodities":"8 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":99.0
+  },
+  {
+    "ID":647,
+    "EnergyCommodities":"8 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":86.0
+  },
+  {
+    "ID":648,
+    "EnergyCommodities":"8 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":85.0
+  },
+  {
+    "ID":649,
+    "EnergyCommodities":"8 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":101.0
+  },
+  {
+    "ID":650,
+    "EnergyCommodities":"8 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":371.0
+  },
+  {
+    "ID":651,
+    "EnergyCommodities":"8 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":98.0
+  },
+  {
+    "ID":652,
+    "EnergyCommodities":"8 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":85.0
+  },
+  {
+    "ID":653,
+    "EnergyCommodities":"8 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":85.0
+  },
+  {
+    "ID":654,
+    "EnergyCommodities":"8 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":101.0
+  },
+  {
+    "ID":655,
+    "EnergyCommodities":"8 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":369.0
+  },
+  {
+    "ID":656,
+    "EnergyCommodities":"8 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":101.0
+  },
+  {
+    "ID":657,
+    "EnergyCommodities":"8 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":90.0
+  },
+  {
+    "ID":658,
+    "EnergyCommodities":"8 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":87.0
+  },
+  {
+    "ID":659,
+    "EnergyCommodities":"8 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":96.0
+  },
+  {
+    "ID":660,
+    "EnergyCommodities":"8 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":375.0
+  },
+  {
+    "ID":661,
+    "EnergyCommodities":"8 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":95.0
+  },
+  {
+    "ID":662,
+    "EnergyCommodities":"8 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":83.0
+  },
+  {
+    "ID":663,
+    "EnergyCommodities":"8 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":76.0
+  },
+  {
+    "ID":664,
+    "EnergyCommodities":"8 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":92.0
+  },
+  {
+    "ID":665,
+    "EnergyCommodities":"8 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":346.0
+  },
+  {
+    "ID":666,
+    "EnergyCommodities":"8 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":88.0
+  },
+  {
+    "ID":667,
+    "EnergyCommodities":"8 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":82.0
+  },
+  {
+    "ID":668,
+    "EnergyCommodities":"8 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":80.0
+  },
+  {
+    "ID":669,
+    "EnergyCommodities":"8 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":91.0
+  },
+  {
+    "ID":670,
+    "EnergyCommodities":"8 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":340.0
+  },
+  {
+    "ID":671,
+    "EnergyCommodities":"8 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":92.0
+  },
+  {
+    "ID":672,
+    "EnergyCommodities":"8 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":78.0
+  },
+  {
+    "ID":673,
+    "EnergyCommodities":"8 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":74.0
+  },
+  {
+    "ID":674,
+    "EnergyCommodities":"8 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":82.0
+  },
+  {
+    "ID":675,
+    "EnergyCommodities":"8 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":326.0
+  },
+  {
+    "ID":676,
+    "EnergyCommodities":"8 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":75.0
+  },
+  {
+    "ID":677,
+    "EnergyCommodities":"8 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":70.0
+  },
+  {
+    "ID":678,
+    "EnergyCommodities":"8 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":74.0
+  },
+  {
+    "ID":679,
+    "EnergyCommodities":"8 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":85.0
+  },
+  {
+    "ID":680,
+    "EnergyCommodities":"8 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":304.0
+  },
+  {
+    "ID":681,
+    "EnergyCommodities":"8 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":91.0
+  },
+  {
+    "ID":682,
+    "EnergyCommodities":"8 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":79.0
+  },
+  {
+    "ID":683,
+    "EnergyCommodities":"8 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":77.0
+  },
+  {
+    "ID":684,
+    "EnergyCommodities":"8 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":92.0
+  },
+  {
+    "ID":685,
+    "EnergyCommodities":"8 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":339.0
+  },
+  {
+    "ID":686,
+    "EnergyCommodities":"8 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":323.0
+  },
+  {
+    "ID":687,
+    "EnergyCommodities":"8 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":319.0
+  },
+  {
+    "ID":688,
+    "EnergyCommodities":"9 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":689,
+    "EnergyCommodities":"9 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":690,
+    "EnergyCommodities":"9 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":691,
+    "EnergyCommodities":"9 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":692,
+    "EnergyCommodities":"9 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":693,
+    "EnergyCommodities":"9 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":694,
+    "EnergyCommodities":"9 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":695,
+    "EnergyCommodities":"9 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":696,
+    "EnergyCommodities":"9 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":697,
+    "EnergyCommodities":"9 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":698,
+    "EnergyCommodities":"9 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":699,
+    "EnergyCommodities":"9 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":700,
+    "EnergyCommodities":"9 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":701,
+    "EnergyCommodities":"9 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":702,
+    "EnergyCommodities":"9 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":703,
+    "EnergyCommodities":"9 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":704,
+    "EnergyCommodities":"9 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":705,
+    "EnergyCommodities":"9 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":706,
+    "EnergyCommodities":"9 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":707,
+    "EnergyCommodities":"9 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":708,
+    "EnergyCommodities":"9 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":4.0
+  },
+  {
+    "ID":709,
+    "EnergyCommodities":"9 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":4.0
+  },
+  {
+    "ID":710,
+    "EnergyCommodities":"9 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":4.0
+  },
+  {
+    "ID":711,
+    "EnergyCommodities":"9 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":4.0
+  },
+  {
+    "ID":712,
+    "EnergyCommodities":"9 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":713,
+    "EnergyCommodities":"9 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":714,
+    "EnergyCommodities":"9 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":715,
+    "EnergyCommodities":"9 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":716,
+    "EnergyCommodities":"9 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":4.0
+  },
+  {
+    "ID":717,
+    "EnergyCommodities":"9 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":718,
+    "EnergyCommodities":"9 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":719,
+    "EnergyCommodities":"9 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":720,
+    "EnergyCommodities":"9 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":721,
+    "EnergyCommodities":"9 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":4.0
+  },
+  {
+    "ID":722,
+    "EnergyCommodities":"9 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":723,
+    "EnergyCommodities":"9 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":724,
+    "EnergyCommodities":"9 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":725,
+    "EnergyCommodities":"9 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":726,
+    "EnergyCommodities":"9 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":4.0
+  },
+  {
+    "ID":727,
+    "EnergyCommodities":"9 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":728,
+    "EnergyCommodities":"9 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":729,
+    "EnergyCommodities":"9 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":730,
+    "EnergyCommodities":"9 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":731,
+    "EnergyCommodities":"9 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":4.0
+  },
+  {
+    "ID":732,
+    "EnergyCommodities":"9 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":733,
+    "EnergyCommodities":"9 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":734,
+    "EnergyCommodities":"9 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":735,
+    "EnergyCommodities":"9 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":736,
+    "EnergyCommodities":"9 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":4.0
+  },
+  {
+    "ID":737,
+    "EnergyCommodities":"9 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":738,
+    "EnergyCommodities":"9 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":739,
+    "EnergyCommodities":"9 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":740,
+    "EnergyCommodities":"9 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":741,
+    "EnergyCommodities":"9 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":742,
+    "EnergyCommodities":"9 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":743,
+    "EnergyCommodities":"9 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":744,
+    "EnergyCommodities":"9 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":745,
+    "EnergyCommodities":"9 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":746,
+    "EnergyCommodities":"9 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":747,
+    "EnergyCommodities":"9 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":748,
+    "EnergyCommodities":"9 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":749,
+    "EnergyCommodities":"9 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":750,
+    "EnergyCommodities":"9 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":751,
+    "EnergyCommodities":"9 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":752,
+    "EnergyCommodities":"9 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":753,
+    "EnergyCommodities":"9 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":754,
+    "EnergyCommodities":"9 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":755,
+    "EnergyCommodities":"9 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":756,
+    "EnergyCommodities":"9 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":757,
+    "EnergyCommodities":"9 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":758,
+    "EnergyCommodities":"9 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":759,
+    "EnergyCommodities":"9 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":760,
+    "EnergyCommodities":"9 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":761,
+    "EnergyCommodities":"9 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":762,
+    "EnergyCommodities":"9 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":763,
+    "EnergyCommodities":"9 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":764,
+    "EnergyCommodities":"9 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":765,
+    "EnergyCommodities":"9 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":766,
+    "EnergyCommodities":"9 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":767,
+    "EnergyCommodities":"9 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":768,
+    "EnergyCommodities":"9 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":769,
+    "EnergyCommodities":"9 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":770,
+    "EnergyCommodities":"9 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":771,
+    "EnergyCommodities":"9 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":772,
+    "EnergyCommodities":"9 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":773,
+    "EnergyCommodities":"9 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":774,
+    "EnergyCommodities":"10",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":775,
+    "EnergyCommodities":"10",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":776,
+    "EnergyCommodities":"10",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":777,
+    "EnergyCommodities":"10",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":778,
+    "EnergyCommodities":"10",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":779,
+    "EnergyCommodities":"10",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":780,
+    "EnergyCommodities":"10",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":781,
+    "EnergyCommodities":"10",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":782,
+    "EnergyCommodities":"10",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":783,
+    "EnergyCommodities":"10",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":784,
+    "EnergyCommodities":"10",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":785,
+    "EnergyCommodities":"10",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":786,
+    "EnergyCommodities":"10",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":787,
+    "EnergyCommodities":"10",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":788,
+    "EnergyCommodities":"10",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":789,
+    "EnergyCommodities":"10",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":790,
+    "EnergyCommodities":"10",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":791,
+    "EnergyCommodities":"10",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":792,
+    "EnergyCommodities":"10",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":793,
+    "EnergyCommodities":"10",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":null
+  },
+  {
+    "ID":794,
+    "EnergyCommodities":"10",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":7.0
+  },
+  {
+    "ID":795,
+    "EnergyCommodities":"10",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":7.0
+  },
+  {
+    "ID":796,
+    "EnergyCommodities":"10",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":8.0
+  },
+  {
+    "ID":797,
+    "EnergyCommodities":"10",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":8.0
+  },
+  {
+    "ID":798,
+    "EnergyCommodities":"10",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":799,
+    "EnergyCommodities":"10",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":800,
+    "EnergyCommodities":"10",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":801,
+    "EnergyCommodities":"10",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":802,
+    "EnergyCommodities":"10",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":7.0
+  },
+  {
+    "ID":803,
+    "EnergyCommodities":"10",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":804,
+    "EnergyCommodities":"10",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":805,
+    "EnergyCommodities":"10",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":806,
+    "EnergyCommodities":"10",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":807,
+    "EnergyCommodities":"10",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":808,
+    "EnergyCommodities":"10",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":809,
+    "EnergyCommodities":"10",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":810,
+    "EnergyCommodities":"10",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":811,
+    "EnergyCommodities":"10",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":812,
+    "EnergyCommodities":"10",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":813,
+    "EnergyCommodities":"10",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":814,
+    "EnergyCommodities":"10",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":815,
+    "EnergyCommodities":"10",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":816,
+    "EnergyCommodities":"10",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":817,
+    "EnergyCommodities":"10",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":818,
+    "EnergyCommodities":"10",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":819,
+    "EnergyCommodities":"10",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":820,
+    "EnergyCommodities":"10",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":821,
+    "EnergyCommodities":"10",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":822,
+    "EnergyCommodities":"10",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":823,
+    "EnergyCommodities":"10",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":824,
+    "EnergyCommodities":"10",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":825,
+    "EnergyCommodities":"10",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":826,
+    "EnergyCommodities":"10",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":827,
+    "EnergyCommodities":"10",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":828,
+    "EnergyCommodities":"10",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":829,
+    "EnergyCommodities":"10",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":830,
+    "EnergyCommodities":"10",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":831,
+    "EnergyCommodities":"10",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":832,
+    "EnergyCommodities":"10",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":833,
+    "EnergyCommodities":"10",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":834,
+    "EnergyCommodities":"10",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":835,
+    "EnergyCommodities":"10",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":836,
+    "EnergyCommodities":"10",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":837,
+    "EnergyCommodities":"10",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":838,
+    "EnergyCommodities":"10",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":839,
+    "EnergyCommodities":"10",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":2.0
+  },
+  {
+    "ID":840,
+    "EnergyCommodities":"10",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":841,
+    "EnergyCommodities":"10",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":842,
+    "EnergyCommodities":"10",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":843,
+    "EnergyCommodities":"10",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":844,
+    "EnergyCommodities":"10",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":845,
+    "EnergyCommodities":"10",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":846,
+    "EnergyCommodities":"10",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":847,
+    "EnergyCommodities":"10",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":6.0
+  },
+  {
+    "ID":848,
+    "EnergyCommodities":"10",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":849,
+    "EnergyCommodities":"10",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":850,
+    "EnergyCommodities":"10",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":851,
+    "EnergyCommodities":"10",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":852,
+    "EnergyCommodities":"10",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":853,
+    "EnergyCommodities":"10",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":854,
+    "EnergyCommodities":"10",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":855,
+    "EnergyCommodities":"10",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":856,
+    "EnergyCommodities":"10",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":1.0
+  },
+  {
+    "ID":857,
+    "EnergyCommodities":"10",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":858,
+    "EnergyCommodities":"10",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":859,
+    "EnergyCommodities":"10",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":5.0
+  },
+  {
+    "ID":860,
+    "EnergyCommodities":"11",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":66.0
+  },
+  {
+    "ID":861,
+    "EnergyCommodities":"11",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":70.0
+  },
+  {
+    "ID":862,
+    "EnergyCommodities":"11",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":77.0
+  },
+  {
+    "ID":863,
+    "EnergyCommodities":"11",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":82.0
+  },
+  {
+    "ID":864,
+    "EnergyCommodities":"11",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":86.0
+  },
+  {
+    "ID":865,
+    "EnergyCommodities":"11",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":82.0
+  },
+  {
+    "ID":866,
+    "EnergyCommodities":"11",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":81.0
+  },
+  {
+    "ID":867,
+    "EnergyCommodities":"11",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":79.0
+  },
+  {
+    "ID":868,
+    "EnergyCommodities":"11",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":83.0
+  },
+  {
+    "ID":869,
+    "EnergyCommodities":"11",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":84.0
+  },
+  {
+    "ID":870,
+    "EnergyCommodities":"11",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":85.0
+  },
+  {
+    "ID":871,
+    "EnergyCommodities":"11",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":86.0
+  },
+  {
+    "ID":872,
+    "EnergyCommodities":"11",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":85.0
+  },
+  {
+    "ID":873,
+    "EnergyCommodities":"11",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":88.0
+  },
+  {
+    "ID":874,
+    "EnergyCommodities":"11",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":92.0
+  },
+  {
+    "ID":875,
+    "EnergyCommodities":"11",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":93.0
+  },
+  {
+    "ID":876,
+    "EnergyCommodities":"11",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":94.0
+  },
+  {
+    "ID":877,
+    "EnergyCommodities":"11",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":93.0
+  },
+  {
+    "ID":878,
+    "EnergyCommodities":"11",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":97.0
+  },
+  {
+    "ID":879,
+    "EnergyCommodities":"11",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":101.0
+  },
+  {
+    "ID":880,
+    "EnergyCommodities":"11",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":108.0
+  },
+  {
+    "ID":881,
+    "EnergyCommodities":"11",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":110.0
+  },
+  {
+    "ID":882,
+    "EnergyCommodities":"11",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":114.0
+  },
+  {
+    "ID":883,
+    "EnergyCommodities":"11",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":117.0
+  },
+  {
+    "ID":884,
+    "EnergyCommodities":"11",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":30.0
+  },
+  {
+    "ID":885,
+    "EnergyCommodities":"11",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":886,
+    "EnergyCommodities":"11",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":30.0
+  },
+  {
+    "ID":887,
+    "EnergyCommodities":"11",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":888,
+    "EnergyCommodities":"11",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":122.0
+  },
+  {
+    "ID":889,
+    "EnergyCommodities":"11",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":890,
+    "EnergyCommodities":"11",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":891,
+    "EnergyCommodities":"11",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":892,
+    "EnergyCommodities":"11",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":893,
+    "EnergyCommodities":"11",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":124.0
+  },
+  {
+    "ID":894,
+    "EnergyCommodities":"11",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":895,
+    "EnergyCommodities":"11",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":896,
+    "EnergyCommodities":"11",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":897,
+    "EnergyCommodities":"11",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":898,
+    "EnergyCommodities":"11",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":126.0
+  },
+  {
+    "ID":899,
+    "EnergyCommodities":"11",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":900,
+    "EnergyCommodities":"11",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":901,
+    "EnergyCommodities":"11",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":902,
+    "EnergyCommodities":"11",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":903,
+    "EnergyCommodities":"11",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":127.0
+  },
+  {
+    "ID":904,
+    "EnergyCommodities":"11",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":905,
+    "EnergyCommodities":"11",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":906,
+    "EnergyCommodities":"11",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":907,
+    "EnergyCommodities":"11",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":908,
+    "EnergyCommodities":"11",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":126.0
+  },
+  {
+    "ID":909,
+    "EnergyCommodities":"11",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":910,
+    "EnergyCommodities":"11",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":911,
+    "EnergyCommodities":"11",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":33.0
+  },
+  {
+    "ID":912,
+    "EnergyCommodities":"11",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":913,
+    "EnergyCommodities":"11",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":129.0
+  },
+  {
+    "ID":914,
+    "EnergyCommodities":"11",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":915,
+    "EnergyCommodities":"11",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":916,
+    "EnergyCommodities":"11",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":917,
+    "EnergyCommodities":"11",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":33.0
+  },
+  {
+    "ID":918,
+    "EnergyCommodities":"11",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":129.0
+  },
+  {
+    "ID":919,
+    "EnergyCommodities":"11",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":33.0
+  },
+  {
+    "ID":920,
+    "EnergyCommodities":"11",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":33.0
+  },
+  {
+    "ID":921,
+    "EnergyCommodities":"11",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":33.0
+  },
+  {
+    "ID":922,
+    "EnergyCommodities":"11",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":33.0
+  },
+  {
+    "ID":923,
+    "EnergyCommodities":"11",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":130.0
+  },
+  {
+    "ID":924,
+    "EnergyCommodities":"11",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":33.0
+  },
+  {
+    "ID":925,
+    "EnergyCommodities":"11",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":34.0
+  },
+  {
+    "ID":926,
+    "EnergyCommodities":"11",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":34.0
+  },
+  {
+    "ID":927,
+    "EnergyCommodities":"11",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":34.0
+  },
+  {
+    "ID":928,
+    "EnergyCommodities":"11",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":134.0
+  },
+  {
+    "ID":929,
+    "EnergyCommodities":"11",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":34.0
+  },
+  {
+    "ID":930,
+    "EnergyCommodities":"11",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":34.0
+  },
+  {
+    "ID":931,
+    "EnergyCommodities":"11",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":34.0
+  },
+  {
+    "ID":932,
+    "EnergyCommodities":"11",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":933,
+    "EnergyCommodities":"11",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":133.0
+  },
+  {
+    "ID":934,
+    "EnergyCommodities":"11",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":28.0
+  },
+  {
+    "ID":935,
+    "EnergyCommodities":"11",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":27.0
+  },
+  {
+    "ID":936,
+    "EnergyCommodities":"11",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":30.0
+  },
+  {
+    "ID":937,
+    "EnergyCommodities":"11",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":30.0
+  },
+  {
+    "ID":938,
+    "EnergyCommodities":"11",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":115.0
+  },
+  {
+    "ID":939,
+    "EnergyCommodities":"11",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":30.0
+  },
+  {
+    "ID":940,
+    "EnergyCommodities":"11",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":30.0
+  },
+  {
+    "ID":941,
+    "EnergyCommodities":"11",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":942,
+    "EnergyCommodities":"11",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":32.0
+  },
+  {
+    "ID":943,
+    "EnergyCommodities":"11",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":124.0
+  },
+  {
+    "ID":944,
+    "EnergyCommodities":"11",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":123.0
+  },
+  {
+    "ID":945,
+    "EnergyCommodities":"11",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":109.0
+  },
+  {
+    "ID":946,
+    "EnergyCommodities":"12",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":947,
+    "EnergyCommodities":"12",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorIndustry_1":29.0
+  },
+  {
+    "ID":948,
+    "EnergyCommodities":"12",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorIndustry_1":29.0
+  },
+  {
+    "ID":949,
+    "EnergyCommodities":"12",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorIndustry_1":31.0
+  },
+  {
+    "ID":950,
+    "EnergyCommodities":"12",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":951,
+    "EnergyCommodities":"12",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":952,
+    "EnergyCommodities":"12",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorIndustry_1":14.0
+  },
+  {
+    "ID":953,
+    "EnergyCommodities":"12",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":954,
+    "EnergyCommodities":"12",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":955,
+    "EnergyCommodities":"12",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":956,
+    "EnergyCommodities":"12",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":957,
+    "EnergyCommodities":"12",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorIndustry_1":18.0
+  },
+  {
+    "ID":958,
+    "EnergyCommodities":"12",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorIndustry_1":18.0
+  },
+  {
+    "ID":959,
+    "EnergyCommodities":"12",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorIndustry_1":20.0
+  },
+  {
+    "ID":960,
+    "EnergyCommodities":"12",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorIndustry_1":13.0
+  },
+  {
+    "ID":961,
+    "EnergyCommodities":"12",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorIndustry_1":15.0
+  },
+  {
+    "ID":962,
+    "EnergyCommodities":"12",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorIndustry_1":18.0
+  },
+  {
+    "ID":963,
+    "EnergyCommodities":"12",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorIndustry_1":20.0
+  },
+  {
+    "ID":964,
+    "EnergyCommodities":"12",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorIndustry_1":49.0
+  },
+  {
+    "ID":965,
+    "EnergyCommodities":"12",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorIndustry_1":65.0
+  },
+  {
+    "ID":966,
+    "EnergyCommodities":"12",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorIndustry_1":75.0
+  },
+  {
+    "ID":967,
+    "EnergyCommodities":"12",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorIndustry_1":80.0
+  },
+  {
+    "ID":968,
+    "EnergyCommodities":"12",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorIndustry_1":82.0
+  },
+  {
+    "ID":969,
+    "EnergyCommodities":"12",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorIndustry_1":87.0
+  },
+  {
+    "ID":970,
+    "EnergyCommodities":"12",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":971,
+    "EnergyCommodities":"12",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":972,
+    "EnergyCommodities":"12",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":973,
+    "EnergyCommodities":"12",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorIndustry_1":26.0
+  },
+  {
+    "ID":974,
+    "EnergyCommodities":"12",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorIndustry_1":100.0
+  },
+  {
+    "ID":975,
+    "EnergyCommodities":"12",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":976,
+    "EnergyCommodities":"12",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":977,
+    "EnergyCommodities":"12",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":978,
+    "EnergyCommodities":"12",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":979,
+    "EnergyCommodities":"12",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorIndustry_1":95.0
+  },
+  {
+    "ID":980,
+    "EnergyCommodities":"12",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorIndustry_1":26.0
+  },
+  {
+    "ID":981,
+    "EnergyCommodities":"12",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":982,
+    "EnergyCommodities":"12",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":983,
+    "EnergyCommodities":"12",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":984,
+    "EnergyCommodities":"12",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorIndustry_1":98.0
+  },
+  {
+    "ID":985,
+    "EnergyCommodities":"12",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorIndustry_1":26.0
+  },
+  {
+    "ID":986,
+    "EnergyCommodities":"12",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":987,
+    "EnergyCommodities":"12",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorIndustry_1":24.0
+  },
+  {
+    "ID":988,
+    "EnergyCommodities":"12",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorIndustry_1":27.0
+  },
+  {
+    "ID":989,
+    "EnergyCommodities":"12",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorIndustry_1":101.0
+  },
+  {
+    "ID":990,
+    "EnergyCommodities":"12",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorIndustry_1":28.0
+  },
+  {
+    "ID":991,
+    "EnergyCommodities":"12",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorIndustry_1":27.0
+  },
+  {
+    "ID":992,
+    "EnergyCommodities":"12",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorIndustry_1":25.0
+  },
+  {
+    "ID":993,
+    "EnergyCommodities":"12",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorIndustry_1":27.0
+  },
+  {
+    "ID":994,
+    "EnergyCommodities":"12",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorIndustry_1":107.0
+  },
+  {
+    "ID":995,
+    "EnergyCommodities":"12",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorIndustry_1":28.0
+  },
+  {
+    "ID":996,
+    "EnergyCommodities":"12",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorIndustry_1":29.0
+  },
+  {
+    "ID":997,
+    "EnergyCommodities":"12",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorIndustry_1":29.0
+  },
+  {
+    "ID":998,
+    "EnergyCommodities":"12",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorIndustry_1":29.0
+  },
+  {
+    "ID":999,
+    "EnergyCommodities":"12",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorIndustry_1":114.0
+  },
+  {
+    "ID":1000,
+    "EnergyCommodities":"12",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorIndustry_1":29.0
+  },
+  {
+    "ID":1001,
+    "EnergyCommodities":"12",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorIndustry_1":26.0
+  },
+  {
+    "ID":1002,
+    "EnergyCommodities":"12",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorIndustry_1":27.0
+  },
+  {
+    "ID":1003,
+    "EnergyCommodities":"12",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorIndustry_1":29.0
+  },
+  {
+    "ID":1004,
+    "EnergyCommodities":"12",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorIndustry_1":111.0
+  },
+  {
+    "ID":1005,
+    "EnergyCommodities":"12",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorIndustry_1":23.0
+  },
+  {
+    "ID":1006,
+    "EnergyCommodities":"12",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorIndustry_1":20.0
+  },
+  {
+    "ID":1007,
+    "EnergyCommodities":"12",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorIndustry_1":21.0
+  },
+  {
+    "ID":1008,
+    "EnergyCommodities":"12",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":1009,
+    "EnergyCommodities":"12",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorIndustry_1":86.0
+  },
+  {
+    "ID":1010,
+    "EnergyCommodities":"12",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":1011,
+    "EnergyCommodities":"12",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorIndustry_1":20.0
+  },
+  {
+    "ID":1012,
+    "EnergyCommodities":"12",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorIndustry_1":21.0
+  },
+  {
+    "ID":1013,
+    "EnergyCommodities":"12",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorIndustry_1":22.0
+  },
+  {
+    "ID":1014,
+    "EnergyCommodities":"12",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorIndustry_1":85.0
+  },
+  {
+    "ID":1015,
+    "EnergyCommodities":"12",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorIndustry_1":20.0
+  },
+  {
+    "ID":1016,
+    "EnergyCommodities":"12",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorIndustry_1":19.0
+  },
+  {
+    "ID":1017,
+    "EnergyCommodities":"12",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorIndustry_1":19.0
+  },
+  {
+    "ID":1018,
+    "EnergyCommodities":"12",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorIndustry_1":26.0
+  },
+  {
+    "ID":1019,
+    "EnergyCommodities":"12",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorIndustry_1":85.0
+  },
+  {
+    "ID":1020,
+    "EnergyCommodities":"12",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorIndustry_1":18.0
+  },
+  {
+    "ID":1021,
+    "EnergyCommodities":"12",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorIndustry_1":16.0
+  },
+  {
+    "ID":1022,
+    "EnergyCommodities":"12",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorIndustry_1":17.0
+  },
+  {
+    "ID":1023,
+    "EnergyCommodities":"12",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorIndustry_1":18.0
+  },
+  {
+    "ID":1024,
+    "EnergyCommodities":"12",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorIndustry_1":69.0
+  },
+  {
+    "ID":1025,
+    "EnergyCommodities":"12",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorIndustry_1":20.0
+  },
+  {
+    "ID":1026,
+    "EnergyCommodities":"12",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorIndustry_1":17.0
+  },
+  {
+    "ID":1027,
+    "EnergyCommodities":"12",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorIndustry_1":18.0
+  },
+  {
+    "ID":1028,
+    "EnergyCommodities":"12",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorIndustry_1":18.0
+  },
+  {
+    "ID":1029,
+    "EnergyCommodities":"12",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorIndustry_1":72.0
+  },
+  {
+    "ID":1030,
+    "EnergyCommodities":"12",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorIndustry_1":71.0
+  },
+  {
+    "ID":1031,
+    "EnergyCommodities":"12",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorIndustry_1":68.0
+  }
+]

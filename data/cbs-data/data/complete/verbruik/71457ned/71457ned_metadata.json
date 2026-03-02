@@ -1,0 +1,33 @@
+{
+  "odata.metadata": "https://opendata.cbs.nl/ODataApi/OData/71457ned/$metadata",
+  "value": [
+    {
+      "name": "TableInfos",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/71457ned/TableInfos"
+    },
+    {
+      "name": "UntypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/71457ned/UntypedDataSet"
+    },
+    {
+      "name": "TypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/71457ned/TypedDataSet"
+    },
+    {
+      "name": "DataProperties",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/71457ned/DataProperties"
+    },
+    {
+      "name": "CategoryGroups",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/71457ned/CategoryGroups"
+    },
+    {
+      "name": "BronTechniek",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/71457ned/BronTechniek"
+    },
+    {
+      "name": "Perioden",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/71457ned/Perioden"
+    }
+  ]
+}

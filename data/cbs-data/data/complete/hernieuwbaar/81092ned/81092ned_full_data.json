@@ -1,0 +1,914 @@
+[
+  {
+    "ID":0,
+    "Persoonskenmerken":"  1100",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":3115.0,
+    "PersonenMetVUTPrePensioen_2":414.0,
+    "PersonenZonderVUTPrePensioen_3":2701.0
+  },
+  {
+    "ID":1,
+    "Persoonskenmerken":"  1100",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":3175.0,
+    "PersonenMetVUTPrePensioen_2":434.0,
+    "PersonenZonderVUTPrePensioen_3":2741.0
+  },
+  {
+    "ID":2,
+    "Persoonskenmerken":"  1100",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":3230.0,
+    "PersonenMetVUTPrePensioen_2":421.0,
+    "PersonenZonderVUTPrePensioen_3":2809.0
+  },
+  {
+    "ID":3,
+    "Persoonskenmerken":"  1100",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":3280.0,
+    "PersonenMetVUTPrePensioen_2":397.0,
+    "PersonenZonderVUTPrePensioen_3":2882.0
+  },
+  {
+    "ID":4,
+    "Persoonskenmerken":"  1100",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":3331.0,
+    "PersonenMetVUTPrePensioen_2":405.0,
+    "PersonenZonderVUTPrePensioen_3":2926.0
+  },
+  {
+    "ID":5,
+    "Persoonskenmerken":"  1100",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":3359.0,
+    "PersonenMetVUTPrePensioen_2":379.0,
+    "PersonenZonderVUTPrePensioen_3":2979.0
+  },
+  {
+    "ID":6,
+    "Persoonskenmerken":" 15400",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1567.0,
+    "PersonenMetVUTPrePensioen_2":286.0,
+    "PersonenZonderVUTPrePensioen_3":1281.0
+  },
+  {
+    "ID":7,
+    "Persoonskenmerken":" 15400",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1596.0,
+    "PersonenMetVUTPrePensioen_2":282.0,
+    "PersonenZonderVUTPrePensioen_3":1314.0
+  },
+  {
+    "ID":8,
+    "Persoonskenmerken":" 15400",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1622.0,
+    "PersonenMetVUTPrePensioen_2":276.0,
+    "PersonenZonderVUTPrePensioen_3":1346.0
+  },
+  {
+    "ID":9,
+    "Persoonskenmerken":" 15400",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1645.0,
+    "PersonenMetVUTPrePensioen_2":259.0,
+    "PersonenZonderVUTPrePensioen_3":1386.0
+  },
+  {
+    "ID":10,
+    "Persoonskenmerken":" 15400",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1669.0,
+    "PersonenMetVUTPrePensioen_2":262.0,
+    "PersonenZonderVUTPrePensioen_3":1407.0
+  },
+  {
+    "ID":11,
+    "Persoonskenmerken":" 15400",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1682.0,
+    "PersonenMetVUTPrePensioen_2":244.0,
+    "PersonenZonderVUTPrePensioen_3":1438.0
+  },
+  {
+    "ID":12,
+    "Persoonskenmerken":" 15450",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1548.0,
+    "PersonenMetVUTPrePensioen_2":128.0,
+    "PersonenZonderVUTPrePensioen_3":1420.0
+  },
+  {
+    "ID":13,
+    "Persoonskenmerken":" 15450",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1579.0,
+    "PersonenMetVUTPrePensioen_2":152.0,
+    "PersonenZonderVUTPrePensioen_3":1428.0
+  },
+  {
+    "ID":14,
+    "Persoonskenmerken":" 15450",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1608.0,
+    "PersonenMetVUTPrePensioen_2":146.0,
+    "PersonenZonderVUTPrePensioen_3":1463.0
+  },
+  {
+    "ID":15,
+    "Persoonskenmerken":" 15450",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1634.0,
+    "PersonenMetVUTPrePensioen_2":138.0,
+    "PersonenZonderVUTPrePensioen_3":1496.0
+  },
+  {
+    "ID":16,
+    "Persoonskenmerken":" 15450",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1662.0,
+    "PersonenMetVUTPrePensioen_2":142.0,
+    "PersonenZonderVUTPrePensioen_3":1519.0
+  },
+  {
+    "ID":17,
+    "Persoonskenmerken":" 15450",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1677.0,
+    "PersonenMetVUTPrePensioen_2":135.0,
+    "PersonenZonderVUTPrePensioen_3":1542.0
+  },
+  {
+    "ID":18,
+    "Persoonskenmerken":" 16250",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1118.0,
+    "PersonenMetVUTPrePensioen_2":13.0,
+    "PersonenZonderVUTPrePensioen_3":1105.0
+  },
+  {
+    "ID":19,
+    "Persoonskenmerken":" 16250",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1129.0,
+    "PersonenMetVUTPrePensioen_2":14.0,
+    "PersonenZonderVUTPrePensioen_3":1114.0
+  },
+  {
+    "ID":20,
+    "Persoonskenmerken":" 16250",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1141.0,
+    "PersonenMetVUTPrePensioen_2":16.0,
+    "PersonenZonderVUTPrePensioen_3":1126.0
+  },
+  {
+    "ID":21,
+    "Persoonskenmerken":" 16250",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1159.0,
+    "PersonenMetVUTPrePensioen_2":11.0,
+    "PersonenZonderVUTPrePensioen_3":1148.0
+  },
+  {
+    "ID":22,
+    "Persoonskenmerken":" 16250",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1177.0,
+    "PersonenMetVUTPrePensioen_2":17.0,
+    "PersonenZonderVUTPrePensioen_3":1160.0
+  },
+  {
+    "ID":23,
+    "Persoonskenmerken":" 16250",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1195.0,
+    "PersonenMetVUTPrePensioen_2":15.0,
+    "PersonenZonderVUTPrePensioen_3":1180.0
+  },
+  {
+    "ID":24,
+    "Persoonskenmerken":" 16300",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1122.0,
+    "PersonenMetVUTPrePensioen_2":91.0,
+    "PersonenZonderVUTPrePensioen_3":1031.0
+  },
+  {
+    "ID":25,
+    "Persoonskenmerken":" 16300",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1093.0,
+    "PersonenMetVUTPrePensioen_2":74.0,
+    "PersonenZonderVUTPrePensioen_3":1019.0
+  },
+  {
+    "ID":26,
+    "Persoonskenmerken":" 16300",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1078.0,
+    "PersonenMetVUTPrePensioen_2":60.0,
+    "PersonenZonderVUTPrePensioen_3":1017.0
+  },
+  {
+    "ID":27,
+    "Persoonskenmerken":" 16300",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1073.0,
+    "PersonenMetVUTPrePensioen_2":47.0,
+    "PersonenZonderVUTPrePensioen_3":1026.0
+  },
+  {
+    "ID":28,
+    "Persoonskenmerken":" 16300",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1077.0,
+    "PersonenMetVUTPrePensioen_2":42.0,
+    "PersonenZonderVUTPrePensioen_3":1035.0
+  },
+  {
+    "ID":29,
+    "Persoonskenmerken":" 16300",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1087.0,
+    "PersonenMetVUTPrePensioen_2":31.0,
+    "PersonenZonderVUTPrePensioen_3":1056.0
+  },
+  {
+    "ID":30,
+    "Persoonskenmerken":" 16350",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":876.0,
+    "PersonenMetVUTPrePensioen_2":311.0,
+    "PersonenZonderVUTPrePensioen_3":565.0
+  },
+  {
+    "ID":31,
+    "Persoonskenmerken":" 16350",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":954.0,
+    "PersonenMetVUTPrePensioen_2":346.0,
+    "PersonenZonderVUTPrePensioen_3":608.0
+  },
+  {
+    "ID":32,
+    "Persoonskenmerken":" 16350",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1011.0,
+    "PersonenMetVUTPrePensioen_2":346.0,
+    "PersonenZonderVUTPrePensioen_3":666.0
+  },
+  {
+    "ID":33,
+    "Persoonskenmerken":" 16350",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1048.0,
+    "PersonenMetVUTPrePensioen_2":339.0,
+    "PersonenZonderVUTPrePensioen_3":708.0
+  },
+  {
+    "ID":34,
+    "Persoonskenmerken":" 16350",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1078.0,
+    "PersonenMetVUTPrePensioen_2":346.0,
+    "PersonenZonderVUTPrePensioen_3":731.0
+  },
+  {
+    "ID":35,
+    "Persoonskenmerken":" 16350",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1077.0,
+    "PersonenMetVUTPrePensioen_2":333.0,
+    "PersonenZonderVUTPrePensioen_3":744.0
+  },
+  {
+    "ID":36,
+    "Persoonskenmerken":" 18700",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1215.0,
+    "PersonenMetVUTPrePensioen_2":132.0,
+    "PersonenZonderVUTPrePensioen_3":1083.0
+  },
+  {
+    "ID":37,
+    "Persoonskenmerken":" 18700",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1161.0,
+    "PersonenMetVUTPrePensioen_2":127.0,
+    "PersonenZonderVUTPrePensioen_3":1034.0
+  },
+  {
+    "ID":38,
+    "Persoonskenmerken":" 18700",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1231.0,
+    "PersonenMetVUTPrePensioen_2":136.0,
+    "PersonenZonderVUTPrePensioen_3":1095.0
+  },
+  {
+    "ID":39,
+    "Persoonskenmerken":" 18700",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1194.0,
+    "PersonenMetVUTPrePensioen_2":112.0,
+    "PersonenZonderVUTPrePensioen_3":1082.0
+  },
+  {
+    "ID":40,
+    "Persoonskenmerken":" 18700",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1172.0,
+    "PersonenMetVUTPrePensioen_2":123.0,
+    "PersonenZonderVUTPrePensioen_3":1049.0
+  },
+  {
+    "ID":41,
+    "Persoonskenmerken":" 18700",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1183.0,
+    "PersonenMetVUTPrePensioen_2":122.0,
+    "PersonenZonderVUTPrePensioen_3":1061.0
+  },
+  {
+    "ID":42,
+    "Persoonskenmerken":" 18740",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1127.0,
+    "PersonenMetVUTPrePensioen_2":158.0,
+    "PersonenZonderVUTPrePensioen_3":969.0
+  },
+  {
+    "ID":43,
+    "Persoonskenmerken":" 18740",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1176.0,
+    "PersonenMetVUTPrePensioen_2":169.0,
+    "PersonenZonderVUTPrePensioen_3":1007.0
+  },
+  {
+    "ID":44,
+    "Persoonskenmerken":" 18740",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1158.0,
+    "PersonenMetVUTPrePensioen_2":165.0,
+    "PersonenZonderVUTPrePensioen_3":993.0
+  },
+  {
+    "ID":45,
+    "Persoonskenmerken":" 18740",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1205.0,
+    "PersonenMetVUTPrePensioen_2":163.0,
+    "PersonenZonderVUTPrePensioen_3":1041.0
+  },
+  {
+    "ID":46,
+    "Persoonskenmerken":" 18740",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1216.0,
+    "PersonenMetVUTPrePensioen_2":153.0,
+    "PersonenZonderVUTPrePensioen_3":1063.0
+  },
+  {
+    "ID":47,
+    "Persoonskenmerken":" 18740",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1221.0,
+    "PersonenMetVUTPrePensioen_2":146.0,
+    "PersonenZonderVUTPrePensioen_3":1074.0
+  },
+  {
+    "ID":48,
+    "Persoonskenmerken":" 18790",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":750.0,
+    "PersonenMetVUTPrePensioen_2":122.0,
+    "PersonenZonderVUTPrePensioen_3":628.0
+  },
+  {
+    "ID":49,
+    "Persoonskenmerken":" 18790",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":817.0,
+    "PersonenMetVUTPrePensioen_2":137.0,
+    "PersonenZonderVUTPrePensioen_3":680.0
+  },
+  {
+    "ID":50,
+    "Persoonskenmerken":" 18790",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":834.0,
+    "PersonenMetVUTPrePensioen_2":120.0,
+    "PersonenZonderVUTPrePensioen_3":714.0
+  },
+  {
+    "ID":51,
+    "Persoonskenmerken":" 18790",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":869.0,
+    "PersonenMetVUTPrePensioen_2":121.0,
+    "PersonenZonderVUTPrePensioen_3":748.0
+  },
+  {
+    "ID":52,
+    "Persoonskenmerken":" 18790",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":927.0,
+    "PersonenMetVUTPrePensioen_2":128.0,
+    "PersonenZonderVUTPrePensioen_3":799.0
+  },
+  {
+    "ID":53,
+    "Persoonskenmerken":" 18790",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":932.0,
+    "PersonenMetVUTPrePensioen_2":108.0,
+    "PersonenZonderVUTPrePensioen_3":824.0
+  },
+  {
+    "ID":54,
+    "Persoonskenmerken":" 18820",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":23.0,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":55,
+    "Persoonskenmerken":" 18820",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":21.0,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":56,
+    "Persoonskenmerken":" 18820",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":8.0,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":57,
+    "Persoonskenmerken":" 18820",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":12.0,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":58,
+    "Persoonskenmerken":" 18820",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":16.0,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":59,
+    "Persoonskenmerken":" 18820",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":23.0,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":60,
+    "Persoonskenmerken":" 12600",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":2642.0,
+    "PersonenMetVUTPrePensioen_2":363.0,
+    "PersonenZonderVUTPrePensioen_3":2279.0
+  },
+  {
+    "ID":61,
+    "Persoonskenmerken":" 12600",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":2676.0,
+    "PersonenMetVUTPrePensioen_2":383.0,
+    "PersonenZonderVUTPrePensioen_3":2293.0
+  },
+  {
+    "ID":62,
+    "Persoonskenmerken":" 12600",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":2740.0,
+    "PersonenMetVUTPrePensioen_2":375.0,
+    "PersonenZonderVUTPrePensioen_3":2365.0
+  },
+  {
+    "ID":63,
+    "Persoonskenmerken":" 12600",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":2755.0,
+    "PersonenMetVUTPrePensioen_2":351.0,
+    "PersonenZonderVUTPrePensioen_3":2404.0
+  },
+  {
+    "ID":64,
+    "Persoonskenmerken":" 12600",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":2801.0,
+    "PersonenMetVUTPrePensioen_2":352.0,
+    "PersonenZonderVUTPrePensioen_3":2450.0
+  },
+  {
+    "ID":65,
+    "Persoonskenmerken":" 12600",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":2787.0,
+    "PersonenMetVUTPrePensioen_2":324.0,
+    "PersonenZonderVUTPrePensioen_3":2462.0
+  },
+  {
+    "ID":66,
+    "Persoonskenmerken":" 12650",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":322.0,
+    "PersonenMetVUTPrePensioen_2":40.0,
+    "PersonenZonderVUTPrePensioen_3":281.0
+  },
+  {
+    "ID":67,
+    "Persoonskenmerken":" 12650",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":329.0,
+    "PersonenMetVUTPrePensioen_2":39.0,
+    "PersonenZonderVUTPrePensioen_3":290.0
+  },
+  {
+    "ID":68,
+    "Persoonskenmerken":" 12650",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":320.0,
+    "PersonenMetVUTPrePensioen_2":38.0,
+    "PersonenZonderVUTPrePensioen_3":282.0
+  },
+  {
+    "ID":69,
+    "Persoonskenmerken":" 12650",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":337.0,
+    "PersonenMetVUTPrePensioen_2":37.0,
+    "PersonenZonderVUTPrePensioen_3":300.0
+  },
+  {
+    "ID":70,
+    "Persoonskenmerken":" 12650",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":350.0,
+    "PersonenMetVUTPrePensioen_2":45.0,
+    "PersonenZonderVUTPrePensioen_3":305.0
+  },
+  {
+    "ID":71,
+    "Persoonskenmerken":" 12650",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":360.0,
+    "PersonenMetVUTPrePensioen_2":42.0,
+    "PersonenZonderVUTPrePensioen_3":318.0
+  },
+  {
+    "ID":72,
+    "Persoonskenmerken":" 13000",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":152.0,
+    "PersonenMetVUTPrePensioen_2":11.0,
+    "PersonenZonderVUTPrePensioen_3":141.0
+  },
+  {
+    "ID":73,
+    "Persoonskenmerken":" 13000",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":170.0,
+    "PersonenMetVUTPrePensioen_2":12.0,
+    "PersonenZonderVUTPrePensioen_3":158.0
+  },
+  {
+    "ID":74,
+    "Persoonskenmerken":" 13000",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":170.0,
+    "PersonenMetVUTPrePensioen_2":9.0,
+    "PersonenZonderVUTPrePensioen_3":162.0
+  },
+  {
+    "ID":75,
+    "Persoonskenmerken":" 13000",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":188.0,
+    "PersonenMetVUTPrePensioen_2":10.0,
+    "PersonenZonderVUTPrePensioen_3":178.0
+  },
+  {
+    "ID":76,
+    "Persoonskenmerken":" 13000",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":179.0,
+    "PersonenMetVUTPrePensioen_2":8.0,
+    "PersonenZonderVUTPrePensioen_3":171.0
+  },
+  {
+    "ID":77,
+    "Persoonskenmerken":" 13000",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":211.0,
+    "PersonenMetVUTPrePensioen_2":13.0,
+    "PersonenZonderVUTPrePensioen_3":198.0
+  },
+  {
+    "ID":78,
+    "Persoonskenmerken":" 13355",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":null,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":79,
+    "Persoonskenmerken":" 13355",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":null,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":80,
+    "Persoonskenmerken":" 13355",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":null,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":81,
+    "Persoonskenmerken":" 13355",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":null,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":82,
+    "Persoonskenmerken":" 13355",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":null,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":83,
+    "Persoonskenmerken":" 13355",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":null,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":84,
+    "Persoonskenmerken":" 21590",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":505.0,
+    "PersonenMetVUTPrePensioen_2":83.0,
+    "PersonenZonderVUTPrePensioen_3":423.0
+  },
+  {
+    "ID":85,
+    "Persoonskenmerken":" 21590",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":526.0,
+    "PersonenMetVUTPrePensioen_2":90.0,
+    "PersonenZonderVUTPrePensioen_3":436.0
+  },
+  {
+    "ID":86,
+    "Persoonskenmerken":" 21590",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":515.0,
+    "PersonenMetVUTPrePensioen_2":73.0,
+    "PersonenZonderVUTPrePensioen_3":442.0
+  },
+  {
+    "ID":87,
+    "Persoonskenmerken":" 21590",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":542.0,
+    "PersonenMetVUTPrePensioen_2":80.0,
+    "PersonenZonderVUTPrePensioen_3":462.0
+  },
+  {
+    "ID":88,
+    "Persoonskenmerken":" 21590",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":563.0,
+    "PersonenMetVUTPrePensioen_2":81.0,
+    "PersonenZonderVUTPrePensioen_3":482.0
+  },
+  {
+    "ID":89,
+    "Persoonskenmerken":" 21590",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":590.0,
+    "PersonenMetVUTPrePensioen_2":74.0,
+    "PersonenZonderVUTPrePensioen_3":516.0
+  },
+  {
+    "ID":90,
+    "Persoonskenmerken":" 21600",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":108.0,
+    "PersonenMetVUTPrePensioen_2":8.0,
+    "PersonenZonderVUTPrePensioen_3":100.0
+  },
+  {
+    "ID":91,
+    "Persoonskenmerken":" 21600",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":113.0,
+    "PersonenMetVUTPrePensioen_2":7.0,
+    "PersonenZonderVUTPrePensioen_3":106.0
+  },
+  {
+    "ID":92,
+    "Persoonskenmerken":" 21600",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":117.0,
+    "PersonenMetVUTPrePensioen_2":11.0,
+    "PersonenZonderVUTPrePensioen_3":106.0
+  },
+  {
+    "ID":93,
+    "Persoonskenmerken":" 21600",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":125.0,
+    "PersonenMetVUTPrePensioen_2":9.0,
+    "PersonenZonderVUTPrePensioen_3":115.0
+  },
+  {
+    "ID":94,
+    "Persoonskenmerken":" 21600",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":116.0,
+    "PersonenMetVUTPrePensioen_2":9.0,
+    "PersonenZonderVUTPrePensioen_3":107.0
+  },
+  {
+    "ID":95,
+    "Persoonskenmerken":" 21600",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":133.0,
+    "PersonenMetVUTPrePensioen_2":7.0,
+    "PersonenZonderVUTPrePensioen_3":126.0
+  },
+  {
+    "ID":96,
+    "Persoonskenmerken":" 21610",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":854.0,
+    "PersonenMetVUTPrePensioen_2":39.0,
+    "PersonenZonderVUTPrePensioen_3":815.0
+  },
+  {
+    "ID":97,
+    "Persoonskenmerken":" 21610",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":898.0,
+    "PersonenMetVUTPrePensioen_2":42.0,
+    "PersonenZonderVUTPrePensioen_3":855.0
+  },
+  {
+    "ID":98,
+    "Persoonskenmerken":" 21610",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":910.0,
+    "PersonenMetVUTPrePensioen_2":40.0,
+    "PersonenZonderVUTPrePensioen_3":870.0
+  },
+  {
+    "ID":99,
+    "Persoonskenmerken":" 21610",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":926.0,
+    "PersonenMetVUTPrePensioen_2":29.0,
+    "PersonenZonderVUTPrePensioen_3":896.0
+  },
+  {
+    "ID":100,
+    "Persoonskenmerken":" 21610",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":971.0,
+    "PersonenMetVUTPrePensioen_2":37.0,
+    "PersonenZonderVUTPrePensioen_3":933.0
+  },
+  {
+    "ID":101,
+    "Persoonskenmerken":" 21610",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1010.0,
+    "PersonenMetVUTPrePensioen_2":37.0,
+    "PersonenZonderVUTPrePensioen_3":973.0
+  },
+  {
+    "ID":102,
+    "Persoonskenmerken":" 21620",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1617.0,
+    "PersonenMetVUTPrePensioen_2":280.0,
+    "PersonenZonderVUTPrePensioen_3":1337.0
+  },
+  {
+    "ID":103,
+    "Persoonskenmerken":" 21620",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1608.0,
+    "PersonenMetVUTPrePensioen_2":293.0,
+    "PersonenZonderVUTPrePensioen_3":1315.0
+  },
+  {
+    "ID":104,
+    "Persoonskenmerken":" 21620",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1655.0,
+    "PersonenMetVUTPrePensioen_2":294.0,
+    "PersonenZonderVUTPrePensioen_3":1361.0
+  },
+  {
+    "ID":105,
+    "Persoonskenmerken":" 21620",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1654.0,
+    "PersonenMetVUTPrePensioen_2":274.0,
+    "PersonenZonderVUTPrePensioen_3":1379.0
+  },
+  {
+    "ID":106,
+    "Persoonskenmerken":" 21620",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1650.0,
+    "PersonenMetVUTPrePensioen_2":276.0,
+    "PersonenZonderVUTPrePensioen_3":1374.0
+  },
+  {
+    "ID":107,
+    "Persoonskenmerken":" 21620",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":1591.0,
+    "PersonenMetVUTPrePensioen_2":258.0,
+    "PersonenZonderVUTPrePensioen_3":1333.0
+  },
+  {
+    "ID":108,
+    "Persoonskenmerken":" 21650",
+    "Perioden":"2006JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":31.0,
+    "PersonenMetVUTPrePensioen_2":4.0,
+    "PersonenZonderVUTPrePensioen_3":27.0
+  },
+  {
+    "ID":109,
+    "Persoonskenmerken":" 21650",
+    "Perioden":"2007JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":31.0,
+    "PersonenMetVUTPrePensioen_2":2.0,
+    "PersonenZonderVUTPrePensioen_3":29.0
+  },
+  {
+    "ID":110,
+    "Persoonskenmerken":" 21650",
+    "Perioden":"2008JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":33.0,
+    "PersonenMetVUTPrePensioen_2":3.0,
+    "PersonenZonderVUTPrePensioen_3":30.0
+  },
+  {
+    "ID":111,
+    "Persoonskenmerken":" 21650",
+    "Perioden":"2009JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":34.0,
+    "PersonenMetVUTPrePensioen_2":4.0,
+    "PersonenZonderVUTPrePensioen_3":30.0
+  },
+  {
+    "ID":112,
+    "Persoonskenmerken":" 21650",
+    "Perioden":"2010JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":32.0,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  },
+  {
+    "ID":113,
+    "Persoonskenmerken":" 21650",
+    "Perioden":"2011JJ00",
+    "PersonenInDeLeeftijd50Tot65Jaar_1":34.0,
+    "PersonenMetVUTPrePensioen_2":null,
+    "PersonenZonderVUTPrePensioen_3":null
+  }
+]

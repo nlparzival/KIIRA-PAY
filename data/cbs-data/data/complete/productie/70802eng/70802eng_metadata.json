@@ -1,0 +1,33 @@
+{
+  "odata.metadata": "https://opendata.cbs.nl/ODataApi/OData/70802eng/$metadata",
+  "value": [
+    {
+      "name": "TableInfos",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/70802eng/TableInfos"
+    },
+    {
+      "name": "UntypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/70802eng/UntypedDataSet"
+    },
+    {
+      "name": "TypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/70802eng/TypedDataSet"
+    },
+    {
+      "name": "DataProperties",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/70802eng/DataProperties"
+    },
+    {
+      "name": "CategoryGroups",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/70802eng/CategoryGroups"
+    },
+    {
+      "name": "OnLandOffShore",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/70802eng/OnLandOffShore"
+    },
+    {
+      "name": "Periods",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/70802eng/Periods"
+    }
+  ]
+}

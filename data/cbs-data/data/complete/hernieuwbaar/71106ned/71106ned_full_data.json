@@ -1,0 +1,212 @@
+[
+  {
+    "ID":0,
+    "Sectoren":"CGEZRDT                  ",
+    "Perioden":"2003JJ00",
+    "Arbeidsvolume_1":17.9,
+    "Uitgaven_2":1929
+  },
+  {
+    "ID":1,
+    "Sectoren":"CGEZRDT                  ",
+    "Perioden":"2004JJ00",
+    "Arbeidsvolume_1":17.6,
+    "Uitgaven_2":1899
+  },
+  {
+    "ID":2,
+    "Sectoren":"CGEZRDT                  ",
+    "Perioden":"2005JJ00",
+    "Arbeidsvolume_1":18.0,
+    "Uitgaven_2":2036
+  },
+  {
+    "ID":3,
+    "Sectoren":"CGEZRDT                  ",
+    "Perioden":"2006JJ00",
+    "Arbeidsvolume_1":19.8,
+    "Uitgaven_2":2306
+  },
+  {
+    "ID":4,
+    "Sectoren":"CGEZRDT                  ",
+    "Perioden":"2007JJ00",
+    "Arbeidsvolume_1":21.4,
+    "Uitgaven_2":2580
+  },
+  {
+    "ID":5,
+    "Sectoren":"CGEZRD1                  ",
+    "Perioden":"2003JJ00",
+    "Arbeidsvolume_1":9.5,
+    "Uitgaven_2":881
+  },
+  {
+    "ID":6,
+    "Sectoren":"CGEZRD1                  ",
+    "Perioden":"2004JJ00",
+    "Arbeidsvolume_1":9.8,
+    "Uitgaven_2":895
+  },
+  {
+    "ID":7,
+    "Sectoren":"CGEZRD1                  ",
+    "Perioden":"2005JJ00",
+    "Arbeidsvolume_1":9.9,
+    "Uitgaven_2":956
+  },
+  {
+    "ID":8,
+    "Sectoren":"CGEZRD1                  ",
+    "Perioden":"2006JJ00",
+    "Arbeidsvolume_1":10.1,
+    "Uitgaven_2":987
+  },
+  {
+    "ID":9,
+    "Sectoren":"CGEZRD1                  ",
+    "Perioden":"2007JJ00",
+    "Arbeidsvolume_1":10.4,
+    "Uitgaven_2":1069
+  },
+  {
+    "ID":10,
+    "Sectoren":"CGEZRD3                  ",
+    "Perioden":"2003JJ00",
+    "Arbeidsvolume_1":2.9,
+    "Uitgaven_2":462
+  },
+  {
+    "ID":11,
+    "Sectoren":"CGEZRD3                  ",
+    "Perioden":"2004JJ00",
+    "Arbeidsvolume_1":2.7,
+    "Uitgaven_2":458
+  },
+  {
+    "ID":12,
+    "Sectoren":"CGEZRD3                  ",
+    "Perioden":"2005JJ00",
+    "Arbeidsvolume_1":2.9,
+    "Uitgaven_2":479
+  },
+  {
+    "ID":13,
+    "Sectoren":"CGEZRD3                  ",
+    "Perioden":"2006JJ00",
+    "Arbeidsvolume_1":1.9,
+    "Uitgaven_2":299
+  },
+  {
+    "ID":14,
+    "Sectoren":"CGEZRD3                  ",
+    "Perioden":"2007JJ00",
+    "Arbeidsvolume_1":2.0,
+    "Uitgaven_2":319
+  },
+  {
+    "ID":15,
+    "Sectoren":"CGEZRD5                  ",
+    "Perioden":"2003JJ00",
+    "Arbeidsvolume_1":1.8,
+    "Uitgaven_2":254
+  },
+  {
+    "ID":16,
+    "Sectoren":"CGEZRD5                  ",
+    "Perioden":"2004JJ00",
+    "Arbeidsvolume_1":1.6,
+    "Uitgaven_2":237
+  },
+  {
+    "ID":17,
+    "Sectoren":"CGEZRD5                  ",
+    "Perioden":"2005JJ00",
+    "Arbeidsvolume_1":1.7,
+    "Uitgaven_2":249
+  },
+  {
+    "ID":18,
+    "Sectoren":"CGEZRD5                  ",
+    "Perioden":"2006JJ00",
+    "Arbeidsvolume_1":3.6,
+    "Uitgaven_2":528
+  },
+  {
+    "ID":19,
+    "Sectoren":"CGEZRD5                  ",
+    "Perioden":"2007JJ00",
+    "Arbeidsvolume_1":4.8,
+    "Uitgaven_2":691
+  },
+  {
+    "ID":20,
+    "Sectoren":"CGEZRD4                  ",
+    "Perioden":"2003JJ00",
+    "Arbeidsvolume_1":1.7,
+    "Uitgaven_2":187
+  },
+  {
+    "ID":21,
+    "Sectoren":"CGEZRD4                  ",
+    "Perioden":"2004JJ00",
+    "Arbeidsvolume_1":1.7,
+    "Uitgaven_2":173
+  },
+  {
+    "ID":22,
+    "Sectoren":"CGEZRD4                  ",
+    "Perioden":"2005JJ00",
+    "Arbeidsvolume_1":1.7,
+    "Uitgaven_2":200
+  },
+  {
+    "ID":23,
+    "Sectoren":"CGEZRD4                  ",
+    "Perioden":"2006JJ00",
+    "Arbeidsvolume_1":2.2,
+    "Uitgaven_2":325
+  },
+  {
+    "ID":24,
+    "Sectoren":"CGEZRD4                  ",
+    "Perioden":"2007JJ00",
+    "Arbeidsvolume_1":2.5,
+    "Uitgaven_2":334
+  },
+  {
+    "ID":25,
+    "Sectoren":"CGEZRD2                  ",
+    "Perioden":"2003JJ00",
+    "Arbeidsvolume_1":2.0,
+    "Uitgaven_2":146
+  },
+  {
+    "ID":26,
+    "Sectoren":"CGEZRD2                  ",
+    "Perioden":"2004JJ00",
+    "Arbeidsvolume_1":1.8,
+    "Uitgaven_2":137
+  },
+  {
+    "ID":27,
+    "Sectoren":"CGEZRD2                  ",
+    "Perioden":"2005JJ00",
+    "Arbeidsvolume_1":1.8,
+    "Uitgaven_2":152
+  },
+  {
+    "ID":28,
+    "Sectoren":"CGEZRD2                  ",
+    "Perioden":"2006JJ00",
+    "Arbeidsvolume_1":2.1,
+    "Uitgaven_2":168
+  },
+  {
+    "ID":29,
+    "Sectoren":"CGEZRD2                  ",
+    "Perioden":"2007JJ00",
+    "Arbeidsvolume_1":1.7,
+    "Uitgaven_2":167
+  }
+]

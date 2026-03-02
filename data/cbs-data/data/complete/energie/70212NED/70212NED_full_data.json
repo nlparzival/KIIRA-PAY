@@ -1,0 +1,1598 @@
+[
+  {
+    "ID":0,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":"  1",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":1,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":"  2",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":2,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":"  3",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":3,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":"  4",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":4,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":"  5",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":5,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":"  6",
+    "BedrijvenZonderElektronischeInkoop_1":21,
+    "BedrijvenMetElektronischeInkoop_2":24
+  },
+  {
+    "ID":6,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 11",
+    "BedrijvenZonderElektronischeInkoop_1":0,
+    "BedrijvenMetElektronischeInkoop_2":0
+  },
+  {
+    "ID":7,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":"  7",
+    "BedrijvenZonderElektronischeInkoop_1":10,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":8,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":"  8",
+    "BedrijvenZonderElektronischeInkoop_1":11,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":9,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":"  9",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":10,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 10",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":11,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 12",
+    "BedrijvenZonderElektronischeInkoop_1":13,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":12,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 13",
+    "BedrijvenZonderElektronischeInkoop_1":14,
+    "BedrijvenMetElektronischeInkoop_2":4
+  },
+  {
+    "ID":13,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 14",
+    "BedrijvenZonderElektronischeInkoop_1":10,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":14,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 15",
+    "BedrijvenZonderElektronischeInkoop_1":14,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":15,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 16",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":14
+  },
+  {
+    "ID":16,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 17",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":16
+  },
+  {
+    "ID":17,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 18",
+    "BedrijvenZonderElektronischeInkoop_1":13,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":18,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 19",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":19,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 20",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":3
+  },
+  {
+    "ID":20,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 21",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":1
+  },
+  {
+    "ID":21,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 22",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":2
+  },
+  {
+    "ID":22,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 23",
+    "BedrijvenZonderElektronischeInkoop_1":11,
+    "BedrijvenMetElektronischeInkoop_2":15
+  },
+  {
+    "ID":23,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 24",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":24,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 25",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":25,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 26",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":26,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 27",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":27,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 28",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":28,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 29",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":29,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 30",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":30,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 31",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":31,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 32",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":11
+  },
+  {
+    "ID":32,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 33",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":33,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 34",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":34,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 35",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":35,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 36",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":36,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 37",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":37,
+    "KnelpuntenInkoop":"1",
+    "SBI93Bedrijfsgrootte":" 38",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":38,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":"  1",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":39,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":"  2",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":40,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":"  3",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":4
+  },
+  {
+    "ID":41,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":"  4",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":2
+  },
+  {
+    "ID":42,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":"  5",
+    "BedrijvenZonderElektronischeInkoop_1":1,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":43,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":"  6",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":0
+  },
+  {
+    "ID":44,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 11",
+    "BedrijvenZonderElektronischeInkoop_1":0,
+    "BedrijvenMetElektronischeInkoop_2":0
+  },
+  {
+    "ID":45,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":"  7",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":46,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":"  8",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":47,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":"  9",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":48,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 10",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":3
+  },
+  {
+    "ID":49,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 12",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":50,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 13",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":51,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 14",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":3
+  },
+  {
+    "ID":52,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 15",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":2
+  },
+  {
+    "ID":53,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 16",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":54,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 17",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":55,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 18",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":3
+  },
+  {
+    "ID":56,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 19",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":1
+  },
+  {
+    "ID":57,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 20",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":4
+  },
+  {
+    "ID":58,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 21",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":59,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 22",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":1
+  },
+  {
+    "ID":60,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 23",
+    "BedrijvenZonderElektronischeInkoop_1":0,
+    "BedrijvenMetElektronischeInkoop_2":0
+  },
+  {
+    "ID":61,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 24",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":3
+  },
+  {
+    "ID":62,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 25",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":4
+  },
+  {
+    "ID":63,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 26",
+    "BedrijvenZonderElektronischeInkoop_1":1,
+    "BedrijvenMetElektronischeInkoop_2":2
+  },
+  {
+    "ID":64,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 27",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":2
+  },
+  {
+    "ID":65,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 28",
+    "BedrijvenZonderElektronischeInkoop_1":1,
+    "BedrijvenMetElektronischeInkoop_2":3
+  },
+  {
+    "ID":66,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 29",
+    "BedrijvenZonderElektronischeInkoop_1":1,
+    "BedrijvenMetElektronischeInkoop_2":3
+  },
+  {
+    "ID":67,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 30",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":2
+  },
+  {
+    "ID":68,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 31",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":2
+  },
+  {
+    "ID":69,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 32",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":70,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 33",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":71,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 34",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":4
+  },
+  {
+    "ID":72,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 35",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":2
+  },
+  {
+    "ID":73,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 36",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":1
+  },
+  {
+    "ID":74,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 37",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":2
+  },
+  {
+    "ID":75,
+    "KnelpuntenInkoop":"2",
+    "SBI93Bedrijfsgrootte":" 38",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":2
+  },
+  {
+    "ID":76,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":"  1",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":77,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":"  2",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":14
+  },
+  {
+    "ID":78,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":"  3",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":79,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":"  4",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":80,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":"  5",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":81,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":"  6",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":0
+  },
+  {
+    "ID":82,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 11",
+    "BedrijvenZonderElektronischeInkoop_1":0,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":83,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":"  7",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":84,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":"  8",
+    "BedrijvenZonderElektronischeInkoop_1":11,
+    "BedrijvenMetElektronischeInkoop_2":11
+  },
+  {
+    "ID":85,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":"  9",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":13
+  },
+  {
+    "ID":86,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 10",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":11
+  },
+  {
+    "ID":87,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 12",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":20
+  },
+  {
+    "ID":88,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 13",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":25
+  },
+  {
+    "ID":89,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 14",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":90,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 15",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":16
+  },
+  {
+    "ID":91,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 16",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":92,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 17",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":14
+  },
+  {
+    "ID":93,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 18",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":94,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 19",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":95,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 20",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":96,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 21",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":97,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 22",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":3
+  },
+  {
+    "ID":98,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 23",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":99,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 24",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":100,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 25",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":13
+  },
+  {
+    "ID":101,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 26",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":102,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 27",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":103,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 28",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":104,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 29",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":14
+  },
+  {
+    "ID":105,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 30",
+    "BedrijvenZonderElektronischeInkoop_1":0,
+    "BedrijvenMetElektronischeInkoop_2":11
+  },
+  {
+    "ID":106,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 31",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":107,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 32",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":14
+  },
+  {
+    "ID":108,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 33",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":13
+  },
+  {
+    "ID":109,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 34",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":110,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 35",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":111,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 36",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":112,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 37",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":113,
+    "KnelpuntenInkoop":"3",
+    "SBI93Bedrijfsgrootte":" 38",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":114,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":"  1",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":115,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":"  2",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":116,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":"  3",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":117,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":"  4",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":118,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":"  5",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":14
+  },
+  {
+    "ID":119,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":"  6",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":0
+  },
+  {
+    "ID":120,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 11",
+    "BedrijvenZonderElektronischeInkoop_1":0,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":121,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":"  7",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":122,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":"  8",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":123,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":"  9",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":124,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 10",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":125,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 12",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":126,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 13",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":127,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 14",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":128,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 15",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":129,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 16",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":130,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 17",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":131,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 18",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":132,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 19",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":133,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 20",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":134,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 21",
+    "BedrijvenZonderElektronischeInkoop_1":0,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":135,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 22",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":0
+  },
+  {
+    "ID":136,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 23",
+    "BedrijvenZonderElektronischeInkoop_1":1,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":137,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 24",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":4
+  },
+  {
+    "ID":138,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 25",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":3
+  },
+  {
+    "ID":139,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 26",
+    "BedrijvenZonderElektronischeInkoop_1":1,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":140,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 27",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":141,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 28",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":4
+  },
+  {
+    "ID":142,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 29",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":143,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 30",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":3
+  },
+  {
+    "ID":144,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 31",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":1
+  },
+  {
+    "ID":145,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 32",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":146,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 33",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":147,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 34",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":148,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 35",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":149,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 36",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":150,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 37",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":151,
+    "KnelpuntenInkoop":"4",
+    "SBI93Bedrijfsgrootte":" 38",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":4
+  },
+  {
+    "ID":152,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":"  1",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":153,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":"  2",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":154,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":"  3",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":155,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":"  4",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":156,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":"  5",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":157,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":"  6",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":0
+  },
+  {
+    "ID":158,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 11",
+    "BedrijvenZonderElektronischeInkoop_1":0,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":159,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":"  7",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":160,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":"  8",
+    "BedrijvenZonderElektronischeInkoop_1":11,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":161,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":"  9",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":11
+  },
+  {
+    "ID":162,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 10",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":163,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 12",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":11
+  },
+  {
+    "ID":164,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 13",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":165,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 14",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":166,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 15",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":167,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 16",
+    "BedrijvenZonderElektronischeInkoop_1":1,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":168,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 17",
+    "BedrijvenZonderElektronischeInkoop_1":1,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":169,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 18",
+    "BedrijvenZonderElektronischeInkoop_1":2,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":170,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 19",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":4
+  },
+  {
+    "ID":171,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 20",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":172,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 21",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":173,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 22",
+    "BedrijvenZonderElektronischeInkoop_1":10,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":174,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 23",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":175,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 24",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":176,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 25",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":177,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 26",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":178,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 27",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":179,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 28",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":9
+  },
+  {
+    "ID":180,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 29",
+    "BedrijvenZonderElektronischeInkoop_1":1,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":181,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 30",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":182,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 31",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":5
+  },
+  {
+    "ID":183,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 32",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":11
+  },
+  {
+    "ID":184,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 33",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":185,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 34",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":7
+  },
+  {
+    "ID":186,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 35",
+    "BedrijvenZonderElektronischeInkoop_1":6,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":187,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 36",
+    "BedrijvenZonderElektronischeInkoop_1":4,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":188,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 37",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":4
+  },
+  {
+    "ID":189,
+    "KnelpuntenInkoop":"5",
+    "SBI93Bedrijfsgrootte":" 38",
+    "BedrijvenZonderElektronischeInkoop_1":3,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":190,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":"  1",
+    "BedrijvenZonderElektronischeInkoop_1":12,
+    "BedrijvenMetElektronischeInkoop_2":13
+  },
+  {
+    "ID":191,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":"  2",
+    "BedrijvenZonderElektronischeInkoop_1":12,
+    "BedrijvenMetElektronischeInkoop_2":13
+  },
+  {
+    "ID":192,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":"  3",
+    "BedrijvenZonderElektronischeInkoop_1":13,
+    "BedrijvenMetElektronischeInkoop_2":14
+  },
+  {
+    "ID":193,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":"  4",
+    "BedrijvenZonderElektronischeInkoop_1":11,
+    "BedrijvenMetElektronischeInkoop_2":14
+  },
+  {
+    "ID":194,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":"  5",
+    "BedrijvenZonderElektronischeInkoop_1":10,
+    "BedrijvenMetElektronischeInkoop_2":18
+  },
+  {
+    "ID":195,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":"  6",
+    "BedrijvenZonderElektronischeInkoop_1":23,
+    "BedrijvenMetElektronischeInkoop_2":31
+  },
+  {
+    "ID":196,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 11",
+    "BedrijvenZonderElektronischeInkoop_1":12,
+    "BedrijvenMetElektronischeInkoop_2":6
+  },
+  {
+    "ID":197,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":"  7",
+    "BedrijvenZonderElektronischeInkoop_1":17,
+    "BedrijvenMetElektronischeInkoop_2":13
+  },
+  {
+    "ID":198,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":"  8",
+    "BedrijvenZonderElektronischeInkoop_1":17,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":199,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":"  9",
+    "BedrijvenZonderElektronischeInkoop_1":18,
+    "BedrijvenMetElektronischeInkoop_2":14
+  },
+  {
+    "ID":200,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 10",
+    "BedrijvenZonderElektronischeInkoop_1":12,
+    "BedrijvenMetElektronischeInkoop_2":20
+  },
+  {
+    "ID":201,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 12",
+    "BedrijvenZonderElektronischeInkoop_1":15,
+    "BedrijvenMetElektronischeInkoop_2":15
+  },
+  {
+    "ID":202,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 13",
+    "BedrijvenZonderElektronischeInkoop_1":15,
+    "BedrijvenMetElektronischeInkoop_2":15
+  },
+  {
+    "ID":203,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 14",
+    "BedrijvenZonderElektronischeInkoop_1":15,
+    "BedrijvenMetElektronischeInkoop_2":16
+  },
+  {
+    "ID":204,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 15",
+    "BedrijvenZonderElektronischeInkoop_1":22,
+    "BedrijvenMetElektronischeInkoop_2":20
+  },
+  {
+    "ID":205,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 16",
+    "BedrijvenZonderElektronischeInkoop_1":12,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":206,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 17",
+    "BedrijvenZonderElektronischeInkoop_1":12,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":207,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 18",
+    "BedrijvenZonderElektronischeInkoop_1":14,
+    "BedrijvenMetElektronischeInkoop_2":15
+  },
+  {
+    "ID":208,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 19",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":209,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 20",
+    "BedrijvenZonderElektronischeInkoop_1":15,
+    "BedrijvenMetElektronischeInkoop_2":15
+  },
+  {
+    "ID":210,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 21",
+    "BedrijvenZonderElektronischeInkoop_1":18,
+    "BedrijvenMetElektronischeInkoop_2":15
+  },
+  {
+    "ID":211,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 22",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":13
+  },
+  {
+    "ID":212,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 23",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":17
+  },
+  {
+    "ID":213,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 24",
+    "BedrijvenZonderElektronischeInkoop_1":10,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":214,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 25",
+    "BedrijvenZonderElektronischeInkoop_1":10,
+    "BedrijvenMetElektronischeInkoop_2":13
+  },
+  {
+    "ID":215,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 26",
+    "BedrijvenZonderElektronischeInkoop_1":10,
+    "BedrijvenMetElektronischeInkoop_2":8
+  },
+  {
+    "ID":216,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 27",
+    "BedrijvenZonderElektronischeInkoop_1":9,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":217,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 28",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":15
+  },
+  {
+    "ID":218,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 29",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":16
+  },
+  {
+    "ID":219,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 30",
+    "BedrijvenZonderElektronischeInkoop_1":5,
+    "BedrijvenMetElektronischeInkoop_2":15
+  },
+  {
+    "ID":220,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 31",
+    "BedrijvenZonderElektronischeInkoop_1":8,
+    "BedrijvenMetElektronischeInkoop_2":11
+  },
+  {
+    "ID":221,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 32",
+    "BedrijvenZonderElektronischeInkoop_1":13,
+    "BedrijvenMetElektronischeInkoop_2":15
+  },
+  {
+    "ID":222,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 33",
+    "BedrijvenZonderElektronischeInkoop_1":11,
+    "BedrijvenMetElektronischeInkoop_2":10
+  },
+  {
+    "ID":223,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 34",
+    "BedrijvenZonderElektronischeInkoop_1":13,
+    "BedrijvenMetElektronischeInkoop_2":12
+  },
+  {
+    "ID":224,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 35",
+    "BedrijvenZonderElektronischeInkoop_1":12,
+    "BedrijvenMetElektronischeInkoop_2":17
+  },
+  {
+    "ID":225,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 36",
+    "BedrijvenZonderElektronischeInkoop_1":11,
+    "BedrijvenMetElektronischeInkoop_2":14
+  },
+  {
+    "ID":226,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 37",
+    "BedrijvenZonderElektronischeInkoop_1":12,
+    "BedrijvenMetElektronischeInkoop_2":16
+  },
+  {
+    "ID":227,
+    "KnelpuntenInkoop":"6",
+    "SBI93Bedrijfsgrootte":" 38",
+    "BedrijvenZonderElektronischeInkoop_1":7,
+    "BedrijvenMetElektronischeInkoop_2":10
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "odata.metadata": "https://opendata.cbs.nl/ODataApi/OData/80100ned/$metadata",
+  "value": [
+    {
+      "name": "TableInfos",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/80100ned/TableInfos"
+    },
+    {
+      "name": "UntypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/80100ned/UntypedDataSet"
+    },
+    {
+      "name": "TypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/80100ned/TypedDataSet"
+    },
+    {
+      "name": "DataProperties",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/80100ned/DataProperties"
+    },
+    {
+      "name": "CategoryGroups",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/80100ned/CategoryGroups"
+    },
+    {
+      "name": "Aardolieproducten",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/80100ned/Aardolieproducten"
+    },
+    {
+      "name": "Perioden",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/80100ned/Perioden"
+    }
+  ]
+}

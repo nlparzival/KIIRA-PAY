@@ -1,0 +1,33 @@
+{
+  "odata.metadata": "https://opendata.cbs.nl/ODataApi/OData/82374ENG/$metadata",
+  "value": [
+    {
+      "name": "TableInfos",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/82374ENG/TableInfos"
+    },
+    {
+      "name": "UntypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/82374ENG/UntypedDataSet"
+    },
+    {
+      "name": "TypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/82374ENG/TypedDataSet"
+    },
+    {
+      "name": "DataProperties",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/82374ENG/DataProperties"
+    },
+    {
+      "name": "CategoryGroups",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/82374ENG/CategoryGroups"
+    },
+    {
+      "name": "EnergyCommodities",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/82374ENG/EnergyCommodities"
+    },
+    {
+      "name": "Periods",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/82374ENG/Periods"
+    }
+  ]
+}

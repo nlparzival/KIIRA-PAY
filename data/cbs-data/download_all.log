@@ -1,0 +1,181 @@
+================================================================================
+📥 CBS PRIORITY DATASETS DOWNLOAD (MUST-HAVE + SHOULD-HAVE)
+================================================================================
+
+📊 Total unique priority datasets: 48
+✅ Already downloaded: 17
+⬇️  To download: 31
+⏱️  Estimated time: ~1 minutes
+
+[1/48] 82610ENG - Renewable electricity; production and capacity
+   Priority: unknown
+   ⏭️  Already downloaded
+[2/48] 82369ENG - Energy consumption industry (no energy sector);energy c
+   Priority: unknown
+   ⏭️  Already downloaded
+[3/48] 70789eng - Renewable electricity; domestic production, imports and
+   Priority: unknown
+   ⏭️  Already downloaded
+[4/48] 71457eng - Renewable energy; capacity, domestic production and use
+   Priority: unknown
+   ⏭️  Already downloaded
+[5/48] 83109ENG - Renewable energy; final use and avoided use fossil ener
+   Priority: unknown
+   ⏭️  Already downloaded
+[6/48] 82610NED - Hernieuwbare elektriciteit; productie en vermogen 
+   Priority: unknown
+   ⏭️  Already downloaded
+[7/48] 80324ned - Energie; verbruik en producentenprijs naar energiedrage
+   Priority: unknown
+   ⏭️  Already downloaded
+[8/48] 84917ENG - Renewable energy; consumption by energy source, technol
+   Priority: unknown
+   ⏭️  Already downloaded
+[9/48] 70802ned - Windenergie; elektriciteitsproductie, capaciteit en win
+   Priority: unknown
+   ⏭️  Already downloaded
+[10/48] 70802eng - Wind energy; electricity production, capacity and suppl
+   Priority: unknown
+   ⏭️  Already downloaded
+[11/48] 83141ENG - Energy consumption; components, branch, 2011-2016
+   Priority: unknown
+⚠️  HTTP 500: https://opendata.cbs.nl/ODataApi/odata/83141ENG/TypedDataSet
+   ⚠️  No data
+[12/48] 83140NED - Energiebalans; aanbod, omzetting en verbruik
+   Priority: unknown
+   ⏭️  Already downloaded
+[13/48] 82374ENG - Energy consumption energy sector; energy commodities, 1
+   Priority: unknown
+   ⏭️  Already downloaded
+[14/48] 7516eng - Renewable energy; final use and avoided use of fossil e
+   Priority: unknown
+   ⏭️  Already downloaded
+[15/48] 83109NED - Hernieuwbare energie; eindverbr. en vermeden verbr. fos
+   Priority: unknown
+   ⏭️  Already downloaded
+[16/48] 7516 - Hernieuwbare energie; eindverbr. en vermeden verbr. fos
+   Priority: unknown
+   ⏭️  Already downloaded
+[17/48] 71457ned - Hernieuwbare energie; capaciteit, binnenlandse prod. en
+   Priority: unknown
+   ⏭️  Already downloaded
+[18/48] 82238NED - Energieverbruik door bedrijven en huishoudens; Nat. Rek
+   Priority: unknown
+   ⏭️  Already downloaded
+[19/48] 7443 - Energieverbruik; bejaardenoorden, 1980 - 2000
+   Priority: unknown
+   ✅ 27 rows, 8 columns
+[20/48] 7448 - Energieverbruik zakelijke dienstverlening.
+   Priority: unknown
+   ✅ 58 rows, 15 columns
+
+📊 Progress: 20/48 | Success: 2 | Time: 0.1min
+
+[21/48] 7442 - Energieverbruik financ. instellingen, verzekeringswezen
+   Priority: unknown
+   ✅ 16 rows, 15 columns
+[22/48] 82371ENG - Energy consumption transport; energy commodities, 1955 
+   Priority: unknown
+   ✅ 464 rows, 4 columns
+[23/48] 00377eng - Electricity balance sheet; supply and consumption 1919-
+   Priority: unknown
+   ✅ 788 rows, 15 columns
+[24/48] 83131ENG - Consumer prices; price index 2015=100, 1996-2025
+   Priority: unknown
+⚠️  HTTP 500: https://opendata.cbs.nl/ODataApi/odata/83131ENG/TypedDataSet
+   ⚠️  No data
+[25/48] 83133ENG - Consumer prices; European harmonised price index 2015=1
+   Priority: unknown
+⚠️  HTTP 500: https://opendata.cbs.nl/ODataApi/odata/83133ENG/TypedDataSet
+   ⚠️  No data
+[26/48] 81606NED - Vervallen tabel klantenbestanden
+   Priority: unknown
+⚠️  HTTP 403: https://opendata.cbs.nl/ODataApi/odata/81606NED/TypedDataSet
+   ⚠️  No data
+[27/48] 7447 - Energieverbruik en energiekosten; land - en tuinbouw, 1
+   Priority: unknown
+   ✅ 468 rows, 53 columns
+[28/48] 70155ned - Zuivering van stedelijk afvalwater; energieverbruik 198
+   Priority: unknown
+   ✅ 672 rows, 21 columns
+[29/48] 86103ENG - Natural gas balance sheet; supply and consumption
+   Priority: unknown
+   ✅ 187 rows, 36 columns
+[30/48] 81860ENG - Daily global market prices 2006 - 2013
+   Priority: unknown
+   ✅ 1,990 rows, 68 columns
+
+📊 Progress: 30/48 | Success: 9 | Time: 0.3min
+
+[31/48] 71534eng - Daily global market prices 2006-June 2012
+   Priority: unknown
+   ✅ 1,874 rows, 72 columns
+[32/48] 86159NED - Energieverbruik particuliere woningen; woningtype, wijk
+   Priority: unknown
+⚠️  HTTP 500: https://opendata.cbs.nl/ODataApi/odata/86159NED/TypedDataSet
+   ⚠️  No data
+[33/48] 80278ned - Nieuwbouwwoningen; outputprijsindex bouwkosten 2005 - 2
+   Priority: unknown
+   ✅ 40 rows, 6 columns
+[34/48] 85728ENG - New dwellings; input price indices building costs 2021=
+   Priority: unknown
+   ✅ 312 rows, 5 columns
+[35/48] 80444eng - New dwellings; input price indices building costs 2000=
+   Priority: unknown
+   ✅ 468 rows, 8 columns
+[36/48] 86146ENG - Consumer prices; HICP 2025=100, Netherlands and Europe
+   Priority: unknown
+   ✅ 391 rows, 8 columns
+[37/48] 80278eng - New dwellings; output price indices building costs 2005
+   Priority: unknown
+   ✅ 40 rows, 6 columns
+[38/48] 84057NED - Raming CO2-emissie naar lucht;  Nederlandse economie, N
+   Priority: unknown
+   ✅ 282 rows, 6 columns
+[39/48] 70949ned - Zonnestroomsystemen; handel in panelen, werkgelegenheid
+   Priority: unknown
+   ✅ 22 rows, 16 columns
+[40/48] 80100ned - Aardolieproductenbalans; aanbod, verbruik en voorraad 1
+   Priority: unknown
+   ✅ 9,780 rows, 26 columns
+
+📊 Progress: 40/48 | Success: 18 | Time: 0.7min
+
+[41/48] 82003NED - Zonnewarmte; aantal installaties, collectoroppervlak en
+   Priority: unknown
+   ✅ 140 rows, 10 columns
+[42/48] 85772NED - Nieuwbouwwoningen; outputprijsindex bouwkosten 2021=100
+   Priority: unknown
+   ✅ 38 rows, 6 columns
+[43/48] 82861NED - Milieukosten en -investeringen; bedrijven met > 10 werk
+   Priority: unknown
+   ✅ 13 rows, 19 columns
+[44/48] 83913NED - Bestaande koopwoningen; verkoopprijzen prijsindex 2015=
+   Priority: unknown
+   ✅ 3,045 rows, 11 columns
+[45/48] 84997NED - Bestaande koopwoningen; verkoopprijzen prijsindex regio
+   Priority: unknown
+   ✅ 4,640 rows, 13 columns
+[46/48] 37131 - Verdeling personeelskosten bij detailhandelsbedrijven, 
+   Priority: unknown
+   ✅ 54 rows, 10 columns
+[47/48] 84487ENG - Housing costs of households; household and dwelling cha
+   Priority: unknown
+⚠️  HTTP 500: https://opendata.cbs.nl/ODataApi/odata/84487ENG/TypedDataSet
+   ⚠️  No data
+[48/48] 84997ENG - Existing own homes; purchase price indices by region (C
+   Priority: unknown
+   ✅ 4,640 rows, 13 columns
+
+================================================================================
+✅ DOWNLOAD COMPLETE
+================================================================================
+⏱️  Time: 0.9 minutes
+📊 Total: 48
+✅ Success: 25
+❌ Failed: 6
+⏭️  Skipped: 17
+📈 Total rows: 30,449
+
+💾 Saved to: /Users/moesa/KIIRA-PAY/cbs-data/data/complete
+📄 Summary: /Users/moesa/KIIRA-PAY/cbs-data/data/complete/download_summary_all_priority.json

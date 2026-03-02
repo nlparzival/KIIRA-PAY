@@ -1,0 +1,2786 @@
+[
+  {
+    "ID":0,
+    "EnergyCommodities":"1 ",
+    "Periods":"1955JJ00",
+    "EnergyConsumptionInSectorTransport_1":58.0
+  },
+  {
+    "ID":1,
+    "EnergyCommodities":"1 ",
+    "Periods":"1956JJ00",
+    "EnergyConsumptionInSectorTransport_1":66.0
+  },
+  {
+    "ID":2,
+    "EnergyCommodities":"1 ",
+    "Periods":"1957JJ00",
+    "EnergyConsumptionInSectorTransport_1":68.0
+  },
+  {
+    "ID":3,
+    "EnergyCommodities":"1 ",
+    "Periods":"1958JJ00",
+    "EnergyConsumptionInSectorTransport_1":74.0
+  },
+  {
+    "ID":4,
+    "EnergyCommodities":"1 ",
+    "Periods":"1959JJ00",
+    "EnergyConsumptionInSectorTransport_1":81.0
+  },
+  {
+    "ID":5,
+    "EnergyCommodities":"1 ",
+    "Periods":"1960JJ00",
+    "EnergyConsumptionInSectorTransport_1":90.0
+  },
+  {
+    "ID":6,
+    "EnergyCommodities":"1 ",
+    "Periods":"1961JJ00",
+    "EnergyConsumptionInSectorTransport_1":96.0
+  },
+  {
+    "ID":7,
+    "EnergyCommodities":"1 ",
+    "Periods":"1962JJ00",
+    "EnergyConsumptionInSectorTransport_1":106.0
+  },
+  {
+    "ID":8,
+    "EnergyCommodities":"1 ",
+    "Periods":"1963JJ00",
+    "EnergyConsumptionInSectorTransport_1":115.0
+  },
+  {
+    "ID":9,
+    "EnergyCommodities":"1 ",
+    "Periods":"1964JJ00",
+    "EnergyConsumptionInSectorTransport_1":126.0
+  },
+  {
+    "ID":10,
+    "EnergyCommodities":"1 ",
+    "Periods":"1965JJ00",
+    "EnergyConsumptionInSectorTransport_1":137.0
+  },
+  {
+    "ID":11,
+    "EnergyCommodities":"1 ",
+    "Periods":"1966JJ00",
+    "EnergyConsumptionInSectorTransport_1":148.0
+  },
+  {
+    "ID":12,
+    "EnergyCommodities":"1 ",
+    "Periods":"1967JJ00",
+    "EnergyConsumptionInSectorTransport_1":158.0
+  },
+  {
+    "ID":13,
+    "EnergyCommodities":"1 ",
+    "Periods":"1968JJ00",
+    "EnergyConsumptionInSectorTransport_1":171.0
+  },
+  {
+    "ID":14,
+    "EnergyCommodities":"1 ",
+    "Periods":"1969JJ00",
+    "EnergyConsumptionInSectorTransport_1":180.0
+  },
+  {
+    "ID":15,
+    "EnergyCommodities":"1 ",
+    "Periods":"1970JJ00",
+    "EnergyConsumptionInSectorTransport_1":198.0
+  },
+  {
+    "ID":16,
+    "EnergyCommodities":"1 ",
+    "Periods":"1971JJ00",
+    "EnergyConsumptionInSectorTransport_1":212.0
+  },
+  {
+    "ID":17,
+    "EnergyCommodities":"1 ",
+    "Periods":"1972JJ00",
+    "EnergyConsumptionInSectorTransport_1":226.0
+  },
+  {
+    "ID":18,
+    "EnergyCommodities":"1 ",
+    "Periods":"1973JJ00",
+    "EnergyConsumptionInSectorTransport_1":236.0
+  },
+  {
+    "ID":19,
+    "EnergyCommodities":"1 ",
+    "Periods":"1974JJ00",
+    "EnergyConsumptionInSectorTransport_1":225.0
+  },
+  {
+    "ID":20,
+    "EnergyCommodities":"1 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorTransport_1":242.0
+  },
+  {
+    "ID":21,
+    "EnergyCommodities":"1 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorTransport_1":268.0
+  },
+  {
+    "ID":22,
+    "EnergyCommodities":"1 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorTransport_1":288.0
+  },
+  {
+    "ID":23,
+    "EnergyCommodities":"1 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorTransport_1":294.0
+  },
+  {
+    "ID":24,
+    "EnergyCommodities":"1 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorTransport_1":306.0
+  },
+  {
+    "ID":25,
+    "EnergyCommodities":"1 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorTransport_1":315.0
+  },
+  {
+    "ID":26,
+    "EnergyCommodities":"1 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorTransport_1":314.0
+  },
+  {
+    "ID":27,
+    "EnergyCommodities":"1 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorTransport_1":312.0
+  },
+  {
+    "ID":28,
+    "EnergyCommodities":"1 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorTransport_1":321.0
+  },
+  {
+    "ID":29,
+    "EnergyCommodities":"1 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorTransport_1":322.0
+  },
+  {
+    "ID":30,
+    "EnergyCommodities":"1 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorTransport_1":326.0
+  },
+  {
+    "ID":31,
+    "EnergyCommodities":"1 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorTransport_1":339.0
+  },
+  {
+    "ID":32,
+    "EnergyCommodities":"1 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorTransport_1":340.0
+  },
+  {
+    "ID":33,
+    "EnergyCommodities":"1 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorTransport_1":353.0
+  },
+  {
+    "ID":34,
+    "EnergyCommodities":"1 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorTransport_1":370.0
+  },
+  {
+    "ID":35,
+    "EnergyCommodities":"1 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorTransport_1":375.0
+  },
+  {
+    "ID":36,
+    "EnergyCommodities":"1 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorTransport_1":376.0
+  },
+  {
+    "ID":37,
+    "EnergyCommodities":"1 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorTransport_1":394.0
+  },
+  {
+    "ID":38,
+    "EnergyCommodities":"1 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorTransport_1":401.0
+  },
+  {
+    "ID":39,
+    "EnergyCommodities":"1 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorTransport_1":408.0
+  },
+  {
+    "ID":40,
+    "EnergyCommodities":"1 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorTransport_1":421.0
+  },
+  {
+    "ID":41,
+    "EnergyCommodities":"1 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorTransport_1":447.0
+  },
+  {
+    "ID":42,
+    "EnergyCommodities":"1 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorTransport_1":443.0
+  },
+  {
+    "ID":43,
+    "EnergyCommodities":"1 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorTransport_1":442.0
+  },
+  {
+    "ID":44,
+    "EnergyCommodities":"1 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorTransport_1":109.0
+  },
+  {
+    "ID":45,
+    "EnergyCommodities":"1 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorTransport_1":121.0
+  },
+  {
+    "ID":46,
+    "EnergyCommodities":"1 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorTransport_1":112.0
+  },
+  {
+    "ID":47,
+    "EnergyCommodities":"1 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorTransport_1":116.0
+  },
+  {
+    "ID":48,
+    "EnergyCommodities":"1 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorTransport_1":457.0
+  },
+  {
+    "ID":49,
+    "EnergyCommodities":"1 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorTransport_1":116.0
+  },
+  {
+    "ID":50,
+    "EnergyCommodities":"1 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":51,
+    "EnergyCommodities":"1 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorTransport_1":110.0
+  },
+  {
+    "ID":52,
+    "EnergyCommodities":"1 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":53,
+    "EnergyCommodities":"1 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorTransport_1":462.0
+  },
+  {
+    "ID":54,
+    "EnergyCommodities":"1 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorTransport_1":114.0
+  },
+  {
+    "ID":55,
+    "EnergyCommodities":"1 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorTransport_1":119.0
+  },
+  {
+    "ID":56,
+    "EnergyCommodities":"1 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorTransport_1":111.0
+  },
+  {
+    "ID":57,
+    "EnergyCommodities":"1 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorTransport_1":123.0
+  },
+  {
+    "ID":58,
+    "EnergyCommodities":"1 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorTransport_1":467.0
+  },
+  {
+    "ID":59,
+    "EnergyCommodities":"1 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorTransport_1":116.0
+  },
+  {
+    "ID":60,
+    "EnergyCommodities":"1 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorTransport_1":120.0
+  },
+  {
+    "ID":61,
+    "EnergyCommodities":"1 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorTransport_1":116.0
+  },
+  {
+    "ID":62,
+    "EnergyCommodities":"1 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorTransport_1":125.0
+  },
+  {
+    "ID":63,
+    "EnergyCommodities":"1 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorTransport_1":476.0
+  },
+  {
+    "ID":64,
+    "EnergyCommodities":"1 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorTransport_1":116.0
+  },
+  {
+    "ID":65,
+    "EnergyCommodities":"1 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorTransport_1":123.0
+  },
+  {
+    "ID":66,
+    "EnergyCommodities":"1 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":67,
+    "EnergyCommodities":"1 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorTransport_1":125.0
+  },
+  {
+    "ID":68,
+    "EnergyCommodities":"1 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorTransport_1":482.0
+  },
+  {
+    "ID":69,
+    "EnergyCommodities":"1 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorTransport_1":119.0
+  },
+  {
+    "ID":70,
+    "EnergyCommodities":"1 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorTransport_1":124.0
+  },
+  {
+    "ID":71,
+    "EnergyCommodities":"1 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorTransport_1":119.0
+  },
+  {
+    "ID":72,
+    "EnergyCommodities":"1 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorTransport_1":127.0
+  },
+  {
+    "ID":73,
+    "EnergyCommodities":"1 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorTransport_1":488.0
+  },
+  {
+    "ID":74,
+    "EnergyCommodities":"1 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":75,
+    "EnergyCommodities":"1 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorTransport_1":125.0
+  },
+  {
+    "ID":76,
+    "EnergyCommodities":"1 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":77,
+    "EnergyCommodities":"1 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorTransport_1":126.0
+  },
+  {
+    "ID":78,
+    "EnergyCommodities":"1 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorTransport_1":486.0
+  },
+  {
+    "ID":79,
+    "EnergyCommodities":"1 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorTransport_1":123.0
+  },
+  {
+    "ID":80,
+    "EnergyCommodities":"1 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorTransport_1":128.0
+  },
+  {
+    "ID":81,
+    "EnergyCommodities":"1 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorTransport_1":120.0
+  },
+  {
+    "ID":82,
+    "EnergyCommodities":"1 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorTransport_1":129.0
+  },
+  {
+    "ID":83,
+    "EnergyCommodities":"1 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorTransport_1":500.0
+  },
+  {
+    "ID":84,
+    "EnergyCommodities":"1 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorTransport_1":125.0
+  },
+  {
+    "ID":85,
+    "EnergyCommodities":"1 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorTransport_1":127.0
+  },
+  {
+    "ID":86,
+    "EnergyCommodities":"1 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorTransport_1":125.0
+  },
+  {
+    "ID":87,
+    "EnergyCommodities":"1 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorTransport_1":128.0
+  },
+  {
+    "ID":88,
+    "EnergyCommodities":"1 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorTransport_1":505.0
+  },
+  {
+    "ID":89,
+    "EnergyCommodities":"1 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorTransport_1":127.0
+  },
+  {
+    "ID":90,
+    "EnergyCommodities":"1 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorTransport_1":128.0
+  },
+  {
+    "ID":91,
+    "EnergyCommodities":"1 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorTransport_1":122.0
+  },
+  {
+    "ID":92,
+    "EnergyCommodities":"1 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorTransport_1":127.0
+  },
+  {
+    "ID":93,
+    "EnergyCommodities":"1 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorTransport_1":504.0
+  },
+  {
+    "ID":94,
+    "EnergyCommodities":"1 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorTransport_1":121.0
+  },
+  {
+    "ID":95,
+    "EnergyCommodities":"1 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorTransport_1":124.0
+  },
+  {
+    "ID":96,
+    "EnergyCommodities":"1 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorTransport_1":124.0
+  },
+  {
+    "ID":97,
+    "EnergyCommodities":"1 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorTransport_1":119.0
+  },
+  {
+    "ID":98,
+    "EnergyCommodities":"1 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorTransport_1":489.0
+  },
+  {
+    "ID":99,
+    "EnergyCommodities":"1 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorTransport_1":119.0
+  },
+  {
+    "ID":100,
+    "EnergyCommodities":"1 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorTransport_1":126.0
+  },
+  {
+    "ID":101,
+    "EnergyCommodities":"1 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorTransport_1":121.0
+  },
+  {
+    "ID":102,
+    "EnergyCommodities":"1 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorTransport_1":126.0
+  },
+  {
+    "ID":103,
+    "EnergyCommodities":"1 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorTransport_1":492.0
+  },
+  {
+    "ID":104,
+    "EnergyCommodities":"1 ",
+    "Periods":"2011KW01",
+    "EnergyConsumptionInSectorTransport_1":122.0
+  },
+  {
+    "ID":105,
+    "EnergyCommodities":"1 ",
+    "Periods":"2011KW02",
+    "EnergyConsumptionInSectorTransport_1":128.0
+  },
+  {
+    "ID":106,
+    "EnergyCommodities":"1 ",
+    "Periods":"2011KW03",
+    "EnergyConsumptionInSectorTransport_1":120.0
+  },
+  {
+    "ID":107,
+    "EnergyCommodities":"1 ",
+    "Periods":"2011KW04",
+    "EnergyConsumptionInSectorTransport_1":129.0
+  },
+  {
+    "ID":108,
+    "EnergyCommodities":"1 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorTransport_1":499.0
+  },
+  {
+    "ID":109,
+    "EnergyCommodities":"1 ",
+    "Periods":"2012KW01",
+    "EnergyConsumptionInSectorTransport_1":120.0
+  },
+  {
+    "ID":110,
+    "EnergyCommodities":"1 ",
+    "Periods":"2012KW02",
+    "EnergyConsumptionInSectorTransport_1":123.0
+  },
+  {
+    "ID":111,
+    "EnergyCommodities":"1 ",
+    "Periods":"2012KW03",
+    "EnergyConsumptionInSectorTransport_1":117.0
+  },
+  {
+    "ID":112,
+    "EnergyCommodities":"1 ",
+    "Periods":"2012KW04",
+    "EnergyConsumptionInSectorTransport_1":121.0
+  },
+  {
+    "ID":113,
+    "EnergyCommodities":"1 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorTransport_1":481.0
+  },
+  {
+    "ID":114,
+    "EnergyCommodities":"1 ",
+    "Periods":"2013KW01",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":115,
+    "EnergyCommodities":"1 ",
+    "Periods":"2013KW02",
+    "EnergyConsumptionInSectorTransport_1":120.0
+  },
+  {
+    "ID":116,
+    "EnergyCommodities":"7 ",
+    "Periods":"1955JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":117,
+    "EnergyCommodities":"7 ",
+    "Periods":"1956JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":118,
+    "EnergyCommodities":"7 ",
+    "Periods":"1957JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":119,
+    "EnergyCommodities":"7 ",
+    "Periods":"1958JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":120,
+    "EnergyCommodities":"7 ",
+    "Periods":"1959JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":121,
+    "EnergyCommodities":"7 ",
+    "Periods":"1960JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":122,
+    "EnergyCommodities":"7 ",
+    "Periods":"1961JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":123,
+    "EnergyCommodities":"7 ",
+    "Periods":"1962JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":124,
+    "EnergyCommodities":"7 ",
+    "Periods":"1963JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":125,
+    "EnergyCommodities":"7 ",
+    "Periods":"1964JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":126,
+    "EnergyCommodities":"7 ",
+    "Periods":"1965JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":127,
+    "EnergyCommodities":"7 ",
+    "Periods":"1966JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":128,
+    "EnergyCommodities":"7 ",
+    "Periods":"1967JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":129,
+    "EnergyCommodities":"7 ",
+    "Periods":"1968JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":130,
+    "EnergyCommodities":"7 ",
+    "Periods":"1969JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":131,
+    "EnergyCommodities":"7 ",
+    "Periods":"1970JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":132,
+    "EnergyCommodities":"7 ",
+    "Periods":"1971JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":133,
+    "EnergyCommodities":"7 ",
+    "Periods":"1972JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":134,
+    "EnergyCommodities":"7 ",
+    "Periods":"1973JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":135,
+    "EnergyCommodities":"7 ",
+    "Periods":"1974JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":136,
+    "EnergyCommodities":"7 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorTransport_1":238.0
+  },
+  {
+    "ID":137,
+    "EnergyCommodities":"7 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorTransport_1":265.0
+  },
+  {
+    "ID":138,
+    "EnergyCommodities":"7 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorTransport_1":285.0
+  },
+  {
+    "ID":139,
+    "EnergyCommodities":"7 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorTransport_1":291.0
+  },
+  {
+    "ID":140,
+    "EnergyCommodities":"7 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorTransport_1":303.0
+  },
+  {
+    "ID":141,
+    "EnergyCommodities":"7 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorTransport_1":312.0
+  },
+  {
+    "ID":142,
+    "EnergyCommodities":"7 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorTransport_1":310.0
+  },
+  {
+    "ID":143,
+    "EnergyCommodities":"7 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorTransport_1":308.0
+  },
+  {
+    "ID":144,
+    "EnergyCommodities":"7 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorTransport_1":317.0
+  },
+  {
+    "ID":145,
+    "EnergyCommodities":"7 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorTransport_1":318.0
+  },
+  {
+    "ID":146,
+    "EnergyCommodities":"7 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorTransport_1":322.0
+  },
+  {
+    "ID":147,
+    "EnergyCommodities":"7 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorTransport_1":335.0
+  },
+  {
+    "ID":148,
+    "EnergyCommodities":"7 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorTransport_1":335.0
+  },
+  {
+    "ID":149,
+    "EnergyCommodities":"7 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorTransport_1":349.0
+  },
+  {
+    "ID":150,
+    "EnergyCommodities":"7 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorTransport_1":365.0
+  },
+  {
+    "ID":151,
+    "EnergyCommodities":"7 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorTransport_1":371.0
+  },
+  {
+    "ID":152,
+    "EnergyCommodities":"7 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorTransport_1":371.0
+  },
+  {
+    "ID":153,
+    "EnergyCommodities":"7 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorTransport_1":389.0
+  },
+  {
+    "ID":154,
+    "EnergyCommodities":"7 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorTransport_1":396.0
+  },
+  {
+    "ID":155,
+    "EnergyCommodities":"7 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorTransport_1":402.0
+  },
+  {
+    "ID":156,
+    "EnergyCommodities":"7 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorTransport_1":415.0
+  },
+  {
+    "ID":157,
+    "EnergyCommodities":"7 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorTransport_1":441.0
+  },
+  {
+    "ID":158,
+    "EnergyCommodities":"7 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorTransport_1":437.0
+  },
+  {
+    "ID":159,
+    "EnergyCommodities":"7 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorTransport_1":436.0
+  },
+  {
+    "ID":160,
+    "EnergyCommodities":"7 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorTransport_1":107.0
+  },
+  {
+    "ID":161,
+    "EnergyCommodities":"7 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorTransport_1":119.0
+  },
+  {
+    "ID":162,
+    "EnergyCommodities":"7 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorTransport_1":110.0
+  },
+  {
+    "ID":163,
+    "EnergyCommodities":"7 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorTransport_1":115.0
+  },
+  {
+    "ID":164,
+    "EnergyCommodities":"7 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorTransport_1":451.0
+  },
+  {
+    "ID":165,
+    "EnergyCommodities":"7 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorTransport_1":114.0
+  },
+  {
+    "ID":166,
+    "EnergyCommodities":"7 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorTransport_1":117.0
+  },
+  {
+    "ID":167,
+    "EnergyCommodities":"7 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorTransport_1":109.0
+  },
+  {
+    "ID":168,
+    "EnergyCommodities":"7 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorTransport_1":117.0
+  },
+  {
+    "ID":169,
+    "EnergyCommodities":"7 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorTransport_1":457.0
+  },
+  {
+    "ID":170,
+    "EnergyCommodities":"7 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorTransport_1":112.0
+  },
+  {
+    "ID":171,
+    "EnergyCommodities":"7 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":172,
+    "EnergyCommodities":"7 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorTransport_1":110.0
+  },
+  {
+    "ID":173,
+    "EnergyCommodities":"7 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorTransport_1":122.0
+  },
+  {
+    "ID":174,
+    "EnergyCommodities":"7 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorTransport_1":462.0
+  },
+  {
+    "ID":175,
+    "EnergyCommodities":"7 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorTransport_1":114.0
+  },
+  {
+    "ID":176,
+    "EnergyCommodities":"7 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":177,
+    "EnergyCommodities":"7 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorTransport_1":115.0
+  },
+  {
+    "ID":178,
+    "EnergyCommodities":"7 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorTransport_1":123.0
+  },
+  {
+    "ID":179,
+    "EnergyCommodities":"7 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorTransport_1":471.0
+  },
+  {
+    "ID":180,
+    "EnergyCommodities":"7 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorTransport_1":114.0
+  },
+  {
+    "ID":181,
+    "EnergyCommodities":"7 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorTransport_1":122.0
+  },
+  {
+    "ID":182,
+    "EnergyCommodities":"7 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorTransport_1":117.0
+  },
+  {
+    "ID":183,
+    "EnergyCommodities":"7 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorTransport_1":124.0
+  },
+  {
+    "ID":184,
+    "EnergyCommodities":"7 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorTransport_1":477.0
+  },
+  {
+    "ID":185,
+    "EnergyCommodities":"7 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":186,
+    "EnergyCommodities":"7 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorTransport_1":122.0
+  },
+  {
+    "ID":187,
+    "EnergyCommodities":"7 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorTransport_1":117.0
+  },
+  {
+    "ID":188,
+    "EnergyCommodities":"7 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorTransport_1":125.0
+  },
+  {
+    "ID":189,
+    "EnergyCommodities":"7 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorTransport_1":482.0
+  },
+  {
+    "ID":190,
+    "EnergyCommodities":"7 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorTransport_1":116.0
+  },
+  {
+    "ID":191,
+    "EnergyCommodities":"7 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorTransport_1":123.0
+  },
+  {
+    "ID":192,
+    "EnergyCommodities":"7 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorTransport_1":117.0
+  },
+  {
+    "ID":193,
+    "EnergyCommodities":"7 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorTransport_1":124.0
+  },
+  {
+    "ID":194,
+    "EnergyCommodities":"7 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorTransport_1":481.0
+  },
+  {
+    "ID":195,
+    "EnergyCommodities":"7 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorTransport_1":122.0
+  },
+  {
+    "ID":196,
+    "EnergyCommodities":"7 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorTransport_1":127.0
+  },
+  {
+    "ID":197,
+    "EnergyCommodities":"7 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":198,
+    "EnergyCommodities":"7 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorTransport_1":127.0
+  },
+  {
+    "ID":199,
+    "EnergyCommodities":"7 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorTransport_1":494.0
+  },
+  {
+    "ID":200,
+    "EnergyCommodities":"7 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorTransport_1":123.0
+  },
+  {
+    "ID":201,
+    "EnergyCommodities":"7 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorTransport_1":126.0
+  },
+  {
+    "ID":202,
+    "EnergyCommodities":"7 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorTransport_1":123.0
+  },
+  {
+    "ID":203,
+    "EnergyCommodities":"7 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorTransport_1":127.0
+  },
+  {
+    "ID":204,
+    "EnergyCommodities":"7 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorTransport_1":499.0
+  },
+  {
+    "ID":205,
+    "EnergyCommodities":"7 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorTransport_1":125.0
+  },
+  {
+    "ID":206,
+    "EnergyCommodities":"7 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorTransport_1":127.0
+  },
+  {
+    "ID":207,
+    "EnergyCommodities":"7 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorTransport_1":121.0
+  },
+  {
+    "ID":208,
+    "EnergyCommodities":"7 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorTransport_1":126.0
+  },
+  {
+    "ID":209,
+    "EnergyCommodities":"7 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorTransport_1":499.0
+  },
+  {
+    "ID":210,
+    "EnergyCommodities":"7 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorTransport_1":119.0
+  },
+  {
+    "ID":211,
+    "EnergyCommodities":"7 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorTransport_1":123.0
+  },
+  {
+    "ID":212,
+    "EnergyCommodities":"7 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorTransport_1":123.0
+  },
+  {
+    "ID":213,
+    "EnergyCommodities":"7 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":214,
+    "EnergyCommodities":"7 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorTransport_1":483.0
+  },
+  {
+    "ID":215,
+    "EnergyCommodities":"7 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorTransport_1":117.0
+  },
+  {
+    "ID":216,
+    "EnergyCommodities":"7 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorTransport_1":125.0
+  },
+  {
+    "ID":217,
+    "EnergyCommodities":"7 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorTransport_1":119.0
+  },
+  {
+    "ID":218,
+    "EnergyCommodities":"7 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorTransport_1":124.0
+  },
+  {
+    "ID":219,
+    "EnergyCommodities":"7 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorTransport_1":485.0
+  },
+  {
+    "ID":220,
+    "EnergyCommodities":"7 ",
+    "Periods":"2011KW01",
+    "EnergyConsumptionInSectorTransport_1":121.0
+  },
+  {
+    "ID":221,
+    "EnergyCommodities":"7 ",
+    "Periods":"2011KW02",
+    "EnergyConsumptionInSectorTransport_1":126.0
+  },
+  {
+    "ID":222,
+    "EnergyCommodities":"7 ",
+    "Periods":"2011KW03",
+    "EnergyConsumptionInSectorTransport_1":119.0
+  },
+  {
+    "ID":223,
+    "EnergyCommodities":"7 ",
+    "Periods":"2011KW04",
+    "EnergyConsumptionInSectorTransport_1":127.0
+  },
+  {
+    "ID":224,
+    "EnergyCommodities":"7 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorTransport_1":493.0
+  },
+  {
+    "ID":225,
+    "EnergyCommodities":"7 ",
+    "Periods":"2012KW01",
+    "EnergyConsumptionInSectorTransport_1":118.0
+  },
+  {
+    "ID":226,
+    "EnergyCommodities":"7 ",
+    "Periods":"2012KW02",
+    "EnergyConsumptionInSectorTransport_1":122.0
+  },
+  {
+    "ID":227,
+    "EnergyCommodities":"7 ",
+    "Periods":"2012KW03",
+    "EnergyConsumptionInSectorTransport_1":115.0
+  },
+  {
+    "ID":228,
+    "EnergyCommodities":"7 ",
+    "Periods":"2012KW04",
+    "EnergyConsumptionInSectorTransport_1":120.0
+  },
+  {
+    "ID":229,
+    "EnergyCommodities":"7 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorTransport_1":474.0
+  },
+  {
+    "ID":230,
+    "EnergyCommodities":"7 ",
+    "Periods":"2013KW01",
+    "EnergyConsumptionInSectorTransport_1":116.0
+  },
+  {
+    "ID":231,
+    "EnergyCommodities":"7 ",
+    "Periods":"2013KW02",
+    "EnergyConsumptionInSectorTransport_1":119.0
+  },
+  {
+    "ID":232,
+    "EnergyCommodities":"8 ",
+    "Periods":"1955JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":233,
+    "EnergyCommodities":"8 ",
+    "Periods":"1956JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":234,
+    "EnergyCommodities":"8 ",
+    "Periods":"1957JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":235,
+    "EnergyCommodities":"8 ",
+    "Periods":"1958JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":236,
+    "EnergyCommodities":"8 ",
+    "Periods":"1959JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":237,
+    "EnergyCommodities":"8 ",
+    "Periods":"1960JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":238,
+    "EnergyCommodities":"8 ",
+    "Periods":"1961JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":239,
+    "EnergyCommodities":"8 ",
+    "Periods":"1962JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":240,
+    "EnergyCommodities":"8 ",
+    "Periods":"1963JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":241,
+    "EnergyCommodities":"8 ",
+    "Periods":"1964JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":242,
+    "EnergyCommodities":"8 ",
+    "Periods":"1965JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":243,
+    "EnergyCommodities":"8 ",
+    "Periods":"1966JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":244,
+    "EnergyCommodities":"8 ",
+    "Periods":"1967JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":245,
+    "EnergyCommodities":"8 ",
+    "Periods":"1968JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":246,
+    "EnergyCommodities":"8 ",
+    "Periods":"1969JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":247,
+    "EnergyCommodities":"8 ",
+    "Periods":"1970JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":248,
+    "EnergyCommodities":"8 ",
+    "Periods":"1971JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":249,
+    "EnergyCommodities":"8 ",
+    "Periods":"1972JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":250,
+    "EnergyCommodities":"8 ",
+    "Periods":"1973JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":251,
+    "EnergyCommodities":"8 ",
+    "Periods":"1974JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":252,
+    "EnergyCommodities":"8 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":253,
+    "EnergyCommodities":"8 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":254,
+    "EnergyCommodities":"8 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":255,
+    "EnergyCommodities":"8 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":256,
+    "EnergyCommodities":"8 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":257,
+    "EnergyCommodities":"8 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":258,
+    "EnergyCommodities":"8 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":259,
+    "EnergyCommodities":"8 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":260,
+    "EnergyCommodities":"8 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":261,
+    "EnergyCommodities":"8 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":262,
+    "EnergyCommodities":"8 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":263,
+    "EnergyCommodities":"8 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":264,
+    "EnergyCommodities":"8 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":265,
+    "EnergyCommodities":"8 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":266,
+    "EnergyCommodities":"8 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":267,
+    "EnergyCommodities":"8 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":268,
+    "EnergyCommodities":"8 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":269,
+    "EnergyCommodities":"8 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":270,
+    "EnergyCommodities":"8 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":271,
+    "EnergyCommodities":"8 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":272,
+    "EnergyCommodities":"8 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":273,
+    "EnergyCommodities":"8 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":274,
+    "EnergyCommodities":"8 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":275,
+    "EnergyCommodities":"8 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":276,
+    "EnergyCommodities":"8 ",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":277,
+    "EnergyCommodities":"8 ",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":278,
+    "EnergyCommodities":"8 ",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":279,
+    "EnergyCommodities":"8 ",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":280,
+    "EnergyCommodities":"8 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":281,
+    "EnergyCommodities":"8 ",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":282,
+    "EnergyCommodities":"8 ",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":283,
+    "EnergyCommodities":"8 ",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":284,
+    "EnergyCommodities":"8 ",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":285,
+    "EnergyCommodities":"8 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":286,
+    "EnergyCommodities":"8 ",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":287,
+    "EnergyCommodities":"8 ",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":288,
+    "EnergyCommodities":"8 ",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":289,
+    "EnergyCommodities":"8 ",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":290,
+    "EnergyCommodities":"8 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":291,
+    "EnergyCommodities":"8 ",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":292,
+    "EnergyCommodities":"8 ",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":293,
+    "EnergyCommodities":"8 ",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":294,
+    "EnergyCommodities":"8 ",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":295,
+    "EnergyCommodities":"8 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":296,
+    "EnergyCommodities":"8 ",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":297,
+    "EnergyCommodities":"8 ",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":298,
+    "EnergyCommodities":"8 ",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":299,
+    "EnergyCommodities":"8 ",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":300,
+    "EnergyCommodities":"8 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":301,
+    "EnergyCommodities":"8 ",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":302,
+    "EnergyCommodities":"8 ",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":303,
+    "EnergyCommodities":"8 ",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":304,
+    "EnergyCommodities":"8 ",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":305,
+    "EnergyCommodities":"8 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":306,
+    "EnergyCommodities":"8 ",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":307,
+    "EnergyCommodities":"8 ",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":308,
+    "EnergyCommodities":"8 ",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":309,
+    "EnergyCommodities":"8 ",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":310,
+    "EnergyCommodities":"8 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":311,
+    "EnergyCommodities":"8 ",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":312,
+    "EnergyCommodities":"8 ",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":313,
+    "EnergyCommodities":"8 ",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":314,
+    "EnergyCommodities":"8 ",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":315,
+    "EnergyCommodities":"8 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":316,
+    "EnergyCommodities":"8 ",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":317,
+    "EnergyCommodities":"8 ",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":318,
+    "EnergyCommodities":"8 ",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":319,
+    "EnergyCommodities":"8 ",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":320,
+    "EnergyCommodities":"8 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":321,
+    "EnergyCommodities":"8 ",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":322,
+    "EnergyCommodities":"8 ",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":323,
+    "EnergyCommodities":"8 ",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":324,
+    "EnergyCommodities":"8 ",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":325,
+    "EnergyCommodities":"8 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":326,
+    "EnergyCommodities":"8 ",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":327,
+    "EnergyCommodities":"8 ",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":328,
+    "EnergyCommodities":"8 ",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":329,
+    "EnergyCommodities":"8 ",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":330,
+    "EnergyCommodities":"8 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":331,
+    "EnergyCommodities":"8 ",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":332,
+    "EnergyCommodities":"8 ",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":333,
+    "EnergyCommodities":"8 ",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":334,
+    "EnergyCommodities":"8 ",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":335,
+    "EnergyCommodities":"8 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":336,
+    "EnergyCommodities":"8 ",
+    "Periods":"2011KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":337,
+    "EnergyCommodities":"8 ",
+    "Periods":"2011KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":338,
+    "EnergyCommodities":"8 ",
+    "Periods":"2011KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":339,
+    "EnergyCommodities":"8 ",
+    "Periods":"2011KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":340,
+    "EnergyCommodities":"8 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":341,
+    "EnergyCommodities":"8 ",
+    "Periods":"2012KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":342,
+    "EnergyCommodities":"8 ",
+    "Periods":"2012KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":343,
+    "EnergyCommodities":"8 ",
+    "Periods":"2012KW03",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":344,
+    "EnergyCommodities":"8 ",
+    "Periods":"2012KW04",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":345,
+    "EnergyCommodities":"8 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":346,
+    "EnergyCommodities":"8 ",
+    "Periods":"2013KW01",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":347,
+    "EnergyCommodities":"8 ",
+    "Periods":"2013KW02",
+    "EnergyConsumptionInSectorTransport_1":0.0
+  },
+  {
+    "ID":348,
+    "EnergyCommodities":"11",
+    "Periods":"1955JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":349,
+    "EnergyCommodities":"11",
+    "Periods":"1956JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":350,
+    "EnergyCommodities":"11",
+    "Periods":"1957JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":351,
+    "EnergyCommodities":"11",
+    "Periods":"1958JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":352,
+    "EnergyCommodities":"11",
+    "Periods":"1959JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":353,
+    "EnergyCommodities":"11",
+    "Periods":"1960JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":354,
+    "EnergyCommodities":"11",
+    "Periods":"1961JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":355,
+    "EnergyCommodities":"11",
+    "Periods":"1962JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":356,
+    "EnergyCommodities":"11",
+    "Periods":"1963JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":357,
+    "EnergyCommodities":"11",
+    "Periods":"1964JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":358,
+    "EnergyCommodities":"11",
+    "Periods":"1965JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":359,
+    "EnergyCommodities":"11",
+    "Periods":"1966JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":360,
+    "EnergyCommodities":"11",
+    "Periods":"1967JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":361,
+    "EnergyCommodities":"11",
+    "Periods":"1968JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":362,
+    "EnergyCommodities":"11",
+    "Periods":"1969JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":363,
+    "EnergyCommodities":"11",
+    "Periods":"1970JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":364,
+    "EnergyCommodities":"11",
+    "Periods":"1971JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":365,
+    "EnergyCommodities":"11",
+    "Periods":"1972JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":366,
+    "EnergyCommodities":"11",
+    "Periods":"1973JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":367,
+    "EnergyCommodities":"11",
+    "Periods":"1974JJ00",
+    "EnergyConsumptionInSectorTransport_1":null
+  },
+  {
+    "ID":368,
+    "EnergyCommodities":"11",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionInSectorTransport_1":3.0
+  },
+  {
+    "ID":369,
+    "EnergyCommodities":"11",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionInSectorTransport_1":3.0
+  },
+  {
+    "ID":370,
+    "EnergyCommodities":"11",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionInSectorTransport_1":3.0
+  },
+  {
+    "ID":371,
+    "EnergyCommodities":"11",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionInSectorTransport_1":3.0
+  },
+  {
+    "ID":372,
+    "EnergyCommodities":"11",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionInSectorTransport_1":3.0
+  },
+  {
+    "ID":373,
+    "EnergyCommodities":"11",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionInSectorTransport_1":4.0
+  },
+  {
+    "ID":374,
+    "EnergyCommodities":"11",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionInSectorTransport_1":4.0
+  },
+  {
+    "ID":375,
+    "EnergyCommodities":"11",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionInSectorTransport_1":4.0
+  },
+  {
+    "ID":376,
+    "EnergyCommodities":"11",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionInSectorTransport_1":4.0
+  },
+  {
+    "ID":377,
+    "EnergyCommodities":"11",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionInSectorTransport_1":4.0
+  },
+  {
+    "ID":378,
+    "EnergyCommodities":"11",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionInSectorTransport_1":4.0
+  },
+  {
+    "ID":379,
+    "EnergyCommodities":"11",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionInSectorTransport_1":4.0
+  },
+  {
+    "ID":380,
+    "EnergyCommodities":"11",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionInSectorTransport_1":4.0
+  },
+  {
+    "ID":381,
+    "EnergyCommodities":"11",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionInSectorTransport_1":4.0
+  },
+  {
+    "ID":382,
+    "EnergyCommodities":"11",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionInSectorTransport_1":4.0
+  },
+  {
+    "ID":383,
+    "EnergyCommodities":"11",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionInSectorTransport_1":5.0
+  },
+  {
+    "ID":384,
+    "EnergyCommodities":"11",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionInSectorTransport_1":5.0
+  },
+  {
+    "ID":385,
+    "EnergyCommodities":"11",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionInSectorTransport_1":5.0
+  },
+  {
+    "ID":386,
+    "EnergyCommodities":"11",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionInSectorTransport_1":5.0
+  },
+  {
+    "ID":387,
+    "EnergyCommodities":"11",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionInSectorTransport_1":5.0
+  },
+  {
+    "ID":388,
+    "EnergyCommodities":"11",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionInSectorTransport_1":5.0
+  },
+  {
+    "ID":389,
+    "EnergyCommodities":"11",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":390,
+    "EnergyCommodities":"11",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":391,
+    "EnergyCommodities":"11",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":392,
+    "EnergyCommodities":"11",
+    "Periods":"1999KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":393,
+    "EnergyCommodities":"11",
+    "Periods":"1999KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":394,
+    "EnergyCommodities":"11",
+    "Periods":"1999KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":395,
+    "EnergyCommodities":"11",
+    "Periods":"1999KW04",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":396,
+    "EnergyCommodities":"11",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":397,
+    "EnergyCommodities":"11",
+    "Periods":"2000KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":398,
+    "EnergyCommodities":"11",
+    "Periods":"2000KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":399,
+    "EnergyCommodities":"11",
+    "Periods":"2000KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":400,
+    "EnergyCommodities":"11",
+    "Periods":"2000KW04",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":401,
+    "EnergyCommodities":"11",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":402,
+    "EnergyCommodities":"11",
+    "Periods":"2001KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":403,
+    "EnergyCommodities":"11",
+    "Periods":"2001KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":404,
+    "EnergyCommodities":"11",
+    "Periods":"2001KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":405,
+    "EnergyCommodities":"11",
+    "Periods":"2001KW04",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":406,
+    "EnergyCommodities":"11",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":407,
+    "EnergyCommodities":"11",
+    "Periods":"2002KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":408,
+    "EnergyCommodities":"11",
+    "Periods":"2002KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":409,
+    "EnergyCommodities":"11",
+    "Periods":"2002KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":410,
+    "EnergyCommodities":"11",
+    "Periods":"2002KW04",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":411,
+    "EnergyCommodities":"11",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":412,
+    "EnergyCommodities":"11",
+    "Periods":"2003KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":413,
+    "EnergyCommodities":"11",
+    "Periods":"2003KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":414,
+    "EnergyCommodities":"11",
+    "Periods":"2003KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":415,
+    "EnergyCommodities":"11",
+    "Periods":"2003KW04",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":416,
+    "EnergyCommodities":"11",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":417,
+    "EnergyCommodities":"11",
+    "Periods":"2004KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":418,
+    "EnergyCommodities":"11",
+    "Periods":"2004KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":419,
+    "EnergyCommodities":"11",
+    "Periods":"2004KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":420,
+    "EnergyCommodities":"11",
+    "Periods":"2004KW04",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":421,
+    "EnergyCommodities":"11",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":422,
+    "EnergyCommodities":"11",
+    "Periods":"2005KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":423,
+    "EnergyCommodities":"11",
+    "Periods":"2005KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":424,
+    "EnergyCommodities":"11",
+    "Periods":"2005KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":425,
+    "EnergyCommodities":"11",
+    "Periods":"2005KW04",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":426,
+    "EnergyCommodities":"11",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":427,
+    "EnergyCommodities":"11",
+    "Periods":"2006KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":428,
+    "EnergyCommodities":"11",
+    "Periods":"2006KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":429,
+    "EnergyCommodities":"11",
+    "Periods":"2006KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":430,
+    "EnergyCommodities":"11",
+    "Periods":"2006KW04",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":431,
+    "EnergyCommodities":"11",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":432,
+    "EnergyCommodities":"11",
+    "Periods":"2007KW01",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":433,
+    "EnergyCommodities":"11",
+    "Periods":"2007KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":434,
+    "EnergyCommodities":"11",
+    "Periods":"2007KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":435,
+    "EnergyCommodities":"11",
+    "Periods":"2007KW04",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":436,
+    "EnergyCommodities":"11",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":437,
+    "EnergyCommodities":"11",
+    "Periods":"2008KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":438,
+    "EnergyCommodities":"11",
+    "Periods":"2008KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":439,
+    "EnergyCommodities":"11",
+    "Periods":"2008KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":440,
+    "EnergyCommodities":"11",
+    "Periods":"2008KW04",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":441,
+    "EnergyCommodities":"11",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":442,
+    "EnergyCommodities":"11",
+    "Periods":"2009KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":443,
+    "EnergyCommodities":"11",
+    "Periods":"2009KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":444,
+    "EnergyCommodities":"11",
+    "Periods":"2009KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":445,
+    "EnergyCommodities":"11",
+    "Periods":"2009KW04",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":446,
+    "EnergyCommodities":"11",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":447,
+    "EnergyCommodities":"11",
+    "Periods":"2010KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":448,
+    "EnergyCommodities":"11",
+    "Periods":"2010KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":449,
+    "EnergyCommodities":"11",
+    "Periods":"2010KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":450,
+    "EnergyCommodities":"11",
+    "Periods":"2010KW04",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":451,
+    "EnergyCommodities":"11",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":452,
+    "EnergyCommodities":"11",
+    "Periods":"2011KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":453,
+    "EnergyCommodities":"11",
+    "Periods":"2011KW02",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":454,
+    "EnergyCommodities":"11",
+    "Periods":"2011KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":455,
+    "EnergyCommodities":"11",
+    "Periods":"2011KW04",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":456,
+    "EnergyCommodities":"11",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":457,
+    "EnergyCommodities":"11",
+    "Periods":"2012KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":458,
+    "EnergyCommodities":"11",
+    "Periods":"2012KW02",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":459,
+    "EnergyCommodities":"11",
+    "Periods":"2012KW03",
+    "EnergyConsumptionInSectorTransport_1":1.0
+  },
+  {
+    "ID":460,
+    "EnergyCommodities":"11",
+    "Periods":"2012KW04",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":461,
+    "EnergyCommodities":"11",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionInSectorTransport_1":6.0
+  },
+  {
+    "ID":462,
+    "EnergyCommodities":"11",
+    "Periods":"2013KW01",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  },
+  {
+    "ID":463,
+    "EnergyCommodities":"11",
+    "Periods":"2013KW02",
+    "EnergyConsumptionInSectorTransport_1":2.0
+  }
+]

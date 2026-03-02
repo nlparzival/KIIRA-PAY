@@ -1,0 +1,1143 @@
+{
+  "timestamp": "2026-02-14T03:04:54.475508",
+  "target_datasets": 200,
+  "already_had": 25,
+  "attempted": 175,
+  "successful": 128,
+  "failed": 47,
+  "total_rows": 150716,
+  "duration_minutes": 3.94,
+  "results": [
+    {
+      "status": "empty",
+      "id": "81154ned",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83989NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 187,
+      "columns": 36,
+      "id": "86103NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5704,
+      "columns": 54,
+      "id": "84596NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 223,
+      "columns": 16,
+      "id": "71554ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 280,
+      "columns": 4,
+      "id": "85365NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 12,
+      "columns": 9,
+      "id": "85929NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 894,
+      "columns": 32,
+      "id": "84575NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1053,
+      "columns": 10,
+      "id": "80030ned",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "37823wkk",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84901NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 300,
+      "columns": 5,
+      "id": "82117NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 885,
+      "columns": 9,
+      "id": "85188NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 885,
+      "columns": 9,
+      "id": "85187NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "82538NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85677NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85337NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85080NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84983NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84949NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84950NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "86159NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85999NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85697NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85359NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85126NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84837NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84585NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84314NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83800NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83568NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83187NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83022NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83023NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83025NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83026NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85140NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "81528NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84948NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 441,
+      "columns": 24,
+      "id": "85666NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 130,
+      "columns": 16,
+      "id": "85592NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5180,
+      "columns": 6,
+      "id": "84917NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 2408,
+      "columns": 7,
+      "id": "85004NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5180,
+      "columns": 8,
+      "id": "84918NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 700,
+      "columns": 12,
+      "id": "82004NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 170,
+      "columns": 11,
+      "id": "85899NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 651,
+      "columns": 15,
+      "id": "85523NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 210,
+      "columns": 16,
+      "id": "71227ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 455,
+      "columns": 17,
+      "id": "70960ned",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85849NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 15,
+      "id": "82539NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 2065,
+      "columns": 17,
+      "id": "83300NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 28,
+      "columns": 258,
+      "id": "83180NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84970NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 8600,
+      "columns": 5,
+      "id": "84971NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 693,
+      "columns": 5,
+      "id": "84979NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 9100,
+      "columns": 5,
+      "id": "85669NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 330,
+      "columns": 38,
+      "id": "83029NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 624,
+      "columns": 22,
+      "id": "70077NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "82061NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "82059NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 23,
+      "columns": 34,
+      "id": "70810NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84037NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 168,
+      "columns": 45,
+      "id": "82058NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 4444,
+      "columns": 9,
+      "id": "81776NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 2067,
+      "columns": 26,
+      "id": "37281",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "70846ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 612,
+      "columns": 21,
+      "id": "60063",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83141NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 932,
+      "columns": 20,
+      "id": "37539",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5904,
+      "columns": 17,
+      "id": "80099ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 65,
+      "columns": 9,
+      "id": "71557ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 33,
+      "columns": 10,
+      "id": "7515",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 788,
+      "columns": 15,
+      "id": "00377",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 50,
+      "columns": 20,
+      "id": "70836NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 60,
+      "columns": 20,
+      "id": "70835ned",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "81606NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 720,
+      "columns": 20,
+      "id": "81309NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 77,
+      "columns": 29,
+      "id": "37359",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 15,
+      "columns": 44,
+      "id": "81163ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 15,
+      "columns": 53,
+      "id": "70662ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 9,
+      "columns": 44,
+      "id": "71840ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 9,
+      "columns": 102,
+      "id": "70663ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 204,
+      "columns": 5,
+      "id": "70780ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 340,
+      "columns": 5,
+      "id": "72002ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 102,
+      "columns": 4,
+      "id": "70914ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 140,
+      "columns": 14,
+      "id": "84672NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 2051,
+      "columns": 5,
+      "id": "37333",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 879,
+      "columns": 6,
+      "id": "37237",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 36,
+      "columns": 91,
+      "id": "7310SLEN",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 195,
+      "columns": 11,
+      "id": "07145",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 54,
+      "columns": 8,
+      "id": "37291",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 308,
+      "columns": 5,
+      "id": "7444",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83878NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83882NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 30,
+      "columns": 15,
+      "id": "37207",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1352,
+      "columns": 4,
+      "id": "82374NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 40,
+      "columns": 17,
+      "id": "7445",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 378,
+      "columns": 4,
+      "id": "82375NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 8624,
+      "columns": 22,
+      "id": "7514",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1032,
+      "columns": 4,
+      "id": "82369NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 20,
+      "columns": 15,
+      "id": "7523",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 464,
+      "columns": 4,
+      "id": "82371NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 12,
+      "columns": 10,
+      "id": "7525",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 13,
+      "columns": 16,
+      "id": "7524",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 12,
+      "columns": 60,
+      "id": "7454",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 16,
+      "columns": 37,
+      "id": "70135ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 216,
+      "columns": 13,
+      "id": "80382ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 238,
+      "columns": 5,
+      "id": "82379NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1296,
+      "columns": 13,
+      "id": "70789ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 588,
+      "columns": 15,
+      "id": "82380NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 20,
+      "columns": 44,
+      "id": "81159ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 163,
+      "columns": 10,
+      "id": "07143",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 21,
+      "columns": 54,
+      "id": "70689ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 306,
+      "columns": 14,
+      "id": "70690ned",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83929NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 100,
+      "columns": 56,
+      "id": "70792ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 2247,
+      "columns": 192,
+      "id": "80866ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1712,
+      "columns": 192,
+      "id": "37767",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5236,
+      "columns": 11,
+      "id": "82641NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1656,
+      "columns": 51,
+      "id": "81429ned",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84450NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1708,
+      "columns": 24,
+      "id": "82725NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1188,
+      "columns": 29,
+      "id": "81410ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 18,
+      "columns": 272,
+      "id": "83177NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 2967,
+      "columns": 26,
+      "id": "81414ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 576,
+      "columns": 13,
+      "id": "83390NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 832,
+      "columns": 6,
+      "id": "70946ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 32,
+      "columns": 23,
+      "id": "37555",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 60,
+      "columns": 20,
+      "id": "37617",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "70022ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5865,
+      "columns": 41,
+      "id": "70021ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1020,
+      "columns": 10,
+      "id": "70666ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5865,
+      "columns": 41,
+      "id": "70024ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 75,
+      "columns": 15,
+      "id": "71556ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1152,
+      "columns": 9,
+      "id": "81540NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 9,
+      "columns": 85,
+      "id": "7090PODI",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 810,
+      "columns": 10,
+      "id": "70651ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 884,
+      "columns": 41,
+      "id": "70023ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 270,
+      "columns": 41,
+      "id": "70025ned",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "82060NED",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 15,
+      "columns": 5,
+      "id": "71336ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 45,
+      "columns": 5,
+      "id": "71335ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 27,
+      "columns": 7,
+      "id": "71331ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 9,
+      "columns": 9,
+      "id": "71332ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 18,
+      "columns": 6,
+      "id": "71334ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 18,
+      "columns": 8,
+      "id": "71333ned",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 128,
+      "columns": 16,
+      "id": "81154eng",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83989ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5688,
+      "columns": 64,
+      "id": "83140ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 223,
+      "columns": 16,
+      "id": "71554eng",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5704,
+      "columns": 54,
+      "id": "84596ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 12,
+      "columns": 9,
+      "id": "85929ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1053,
+      "columns": 10,
+      "id": "80030eng",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 894,
+      "columns": 32,
+      "id": "84575ENG",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "37823eng",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "81528ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 360,
+      "columns": 6,
+      "id": "83376ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 168,
+      "columns": 5,
+      "id": "83374ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 300,
+      "columns": 5,
+      "id": "82117ENG",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "82538ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5180,
+      "columns": 8,
+      "id": "84918ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 170,
+      "columns": 11,
+      "id": "85899ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 441,
+      "columns": 24,
+      "id": "85666ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 624,
+      "columns": 22,
+      "id": "70077eng",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 2065,
+      "columns": 17,
+      "id": "83300ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 28,
+      "columns": 258,
+      "id": "83180ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 15,
+      "id": "82539ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 9100,
+      "columns": 5,
+      "id": "85669ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 693,
+      "columns": 5,
+      "id": "84979ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 130,
+      "columns": 16,
+      "id": "85592ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 378,
+      "columns": 4,
+      "id": "82375ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 238,
+      "columns": 5,
+      "id": "82379ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 48,
+      "columns": 19,
+      "id": "71456eng",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 72,
+      "columns": 18,
+      "id": "84714ENG",
+      "category": "energie"
+    }
+  ]
+}

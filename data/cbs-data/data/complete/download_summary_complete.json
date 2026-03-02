@@ -1,0 +1,331 @@
+{
+  "timestamp": "2026-02-14T02:54:28.953775",
+  "total_datasets": 92,
+  "already_had": 42,
+  "attempted": 50,
+  "successful": 35,
+  "failed": 15,
+  "total_rows": 62679,
+  "results": [
+    {
+      "status": "empty",
+      "id": "83141ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "83131ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "83133ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "81606NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "86159NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "84487ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 773,
+      "columns": 41,
+      "id": "00372",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 351,
+      "columns": 36,
+      "id": "7522",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 55,
+      "columns": 5,
+      "id": "71458ned",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 773,
+      "columns": 41,
+      "id": "00372eng",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "85776NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 4590,
+      "columns": 9,
+      "id": "80710ned",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "83170NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "83090NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1392,
+      "columns": 10,
+      "id": "83364NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 5152,
+      "columns": 17,
+      "id": "83706ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 155,
+      "columns": 36,
+      "id": "81161eng",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 520,
+      "columns": 23,
+      "id": "82873NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "85668ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 245,
+      "columns": 33,
+      "id": "85347ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1008,
+      "columns": 63,
+      "id": "80101eng",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 520,
+      "columns": 9,
+      "id": "83673NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1160,
+      "columns": 11,
+      "id": "83910NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 5992,
+      "columns": 20,
+      "id": "81328ned",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 3045,
+      "columns": 11,
+      "id": "83913ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1160,
+      "columns": 11,
+      "id": "83910ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 2415,
+      "columns": 11,
+      "id": "81885ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "80330eng",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 920,
+      "columns": 11,
+      "id": "81886ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "71533eng",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 19,
+      "columns": 60,
+      "id": "80346eng",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 219,
+      "columns": 16,
+      "id": "80345eng",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "71311eng",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "80087eng",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 180,
+      "columns": 7,
+      "id": "60006",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 360,
+      "columns": 6,
+      "id": "83376NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 168,
+      "columns": 5,
+      "id": "83374NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 2208,
+      "columns": 8,
+      "id": "84183NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1218,
+      "columns": 5,
+      "id": "81280ned",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1488,
+      "columns": 8,
+      "id": "82679NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 65,
+      "columns": 88,
+      "id": "37971lix",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 4000,
+      "columns": 9,
+      "id": "82113NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 5120,
+      "columns": 9,
+      "id": "81460NED",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1890,
+      "columns": 5,
+      "id": "86049ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1640,
+      "columns": 5,
+      "id": "81139eng",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1560,
+      "columns": 8,
+      "id": "81122eng",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 8892,
+      "columns": 6,
+      "id": "81530ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "83760ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 2208,
+      "columns": 8,
+      "id": "84183ENG",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1218,
+      "columns": 5,
+      "id": "81280ENG",
+      "priority": "unknown"
+    }
+  ]
+}

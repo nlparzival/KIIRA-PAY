@@ -1,0 +1,313 @@
+{
+  "download_timestamp": "2026-02-14T02:42:07.702822",
+  "total_datasets": 48,
+  "successful": 25,
+  "failed": 6,
+  "skipped": 17,
+  "results": [
+    {
+      "id": "82610ENG",
+      "status": "skipped"
+    },
+    {
+      "id": "82369ENG",
+      "status": "skipped"
+    },
+    {
+      "id": "70789eng",
+      "status": "skipped"
+    },
+    {
+      "id": "71457eng",
+      "status": "skipped"
+    },
+    {
+      "id": "83109ENG",
+      "status": "skipped"
+    },
+    {
+      "id": "82610NED",
+      "status": "skipped"
+    },
+    {
+      "id": "80324ned",
+      "status": "skipped"
+    },
+    {
+      "id": "84917ENG",
+      "status": "skipped"
+    },
+    {
+      "id": "70802ned",
+      "status": "skipped"
+    },
+    {
+      "id": "70802eng",
+      "status": "skipped"
+    },
+    {
+      "status": "empty",
+      "id": "83141ENG",
+      "name": "Energy consumption; components, branch, 2011-2016",
+      "priority": "unknown"
+    },
+    {
+      "id": "83140NED",
+      "status": "skipped"
+    },
+    {
+      "id": "82374ENG",
+      "status": "skipped"
+    },
+    {
+      "id": "7516eng",
+      "status": "skipped"
+    },
+    {
+      "id": "83109NED",
+      "status": "skipped"
+    },
+    {
+      "id": "7516",
+      "status": "skipped"
+    },
+    {
+      "id": "71457ned",
+      "status": "skipped"
+    },
+    {
+      "id": "82238NED",
+      "status": "skipped"
+    },
+    {
+      "status": "success",
+      "rows": 27,
+      "columns": 8,
+      "id": "7443",
+      "name": "Energieverbruik; bejaardenoorden, 1980 - 2000",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 58,
+      "columns": 15,
+      "id": "7448",
+      "name": "Energieverbruik zakelijke dienstverlening.",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 16,
+      "columns": 15,
+      "id": "7442",
+      "name": "Energieverbruik financ. instellingen, verzekeringswezen en pensioenfondsen",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 464,
+      "columns": 4,
+      "id": "82371ENG",
+      "name": "Energy consumption transport; energy commodities, 1955 - 2013 2nd quarter",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 788,
+      "columns": 15,
+      "id": "00377eng",
+      "name": "Electricity balance sheet; supply and consumption 1919-2018",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "83131ENG",
+      "name": "Consumer prices; price index 2015=100, 1996-2025",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "83133ENG",
+      "name": "Consumer prices; European harmonised price index 2015=100, 1996-2025",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "81606NED",
+      "name": "Vervallen tabel klantenbestanden",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 468,
+      "columns": 53,
+      "id": "7447",
+      "name": "Energieverbruik en energiekosten; land - en tuinbouw, 1989 - 2006",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 672,
+      "columns": 21,
+      "id": "70155ned",
+      "name": "Zuivering van stedelijk afvalwater; energieverbruik 1981-2012",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 187,
+      "columns": 36,
+      "id": "86103ENG",
+      "name": "Natural gas balance sheet; supply and consumption",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1990,
+      "columns": 68,
+      "id": "81860ENG",
+      "name": "Daily global market prices 2006 - 2013",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 1874,
+      "columns": 72,
+      "id": "71534eng",
+      "name": "Daily global market prices 2006-June 2012",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "86159NED",
+      "name": "Energieverbruik particuliere woningen; woningtype, wijken en buurten, 2024",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 40,
+      "columns": 6,
+      "id": "80278ned",
+      "name": "Nieuwbouwwoningen; outputprijsindex bouwkosten 2005 - 2012",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 312,
+      "columns": 5,
+      "id": "85728ENG",
+      "name": "New dwellings; input price indices building costs 2021=100",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 468,
+      "columns": 8,
+      "id": "80444eng",
+      "name": "New dwellings; input price indices building costs 2000=100, from 1990",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 391,
+      "columns": 8,
+      "id": "86146ENG",
+      "name": "Consumer prices; HICP 2025=100, Netherlands and Europe",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 40,
+      "columns": 6,
+      "id": "80278eng",
+      "name": "New dwellings; output price indices building costs 2005 - 2012",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 282,
+      "columns": 6,
+      "id": "84057NED",
+      "name": "Raming CO2-emissie naar lucht;  Nederlandse economie, Nationale rekeningen",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 22,
+      "columns": 16,
+      "id": "70949ned",
+      "name": "Zonnestroomsystemen; handel in panelen, werkgelegenheid en omzet, 1991-2012",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 9780,
+      "columns": 26,
+      "id": "80100ned",
+      "name": "Aardolieproductenbalans; aanbod, verbruik en voorraad 1946-2015",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 140,
+      "columns": 10,
+      "id": "82003NED",
+      "name": "Zonnewarmte; aantal installaties, collectoroppervlak en warmteproductie",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 6,
+      "id": "85772NED",
+      "name": "Nieuwbouwwoningen; outputprijsindex bouwkosten 2021=100",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 13,
+      "columns": 19,
+      "id": "82861NED",
+      "name": "Milieukosten en -investeringen; bedrijven met > 10 werknemers; kerncijfers",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 3045,
+      "columns": 11,
+      "id": "83913NED",
+      "name": "Bestaande koopwoningen; verkoopprijzen prijsindex 2015=100, regio 1995-2023",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 4640,
+      "columns": 13,
+      "id": "84997NED",
+      "name": "Bestaande koopwoningen; verkoopprijzen prijsindex regio (COROP) 1995-2023",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 54,
+      "columns": 10,
+      "id": "37131",
+      "name": "Verdeling personeelskosten bij detailhandelsbedrijven, 1999",
+      "priority": "unknown"
+    },
+    {
+      "status": "empty",
+      "id": "84487ENG",
+      "name": "Housing costs of households; household and dwelling characteristics",
+      "priority": "unknown"
+    },
+    {
+      "status": "success",
+      "rows": 4640,
+      "columns": 13,
+      "id": "84997ENG",
+      "name": "Existing own homes; purchase price indices by region (COROP) 1995-2023",
+      "priority": "unknown"
+    }
+  ]
+}

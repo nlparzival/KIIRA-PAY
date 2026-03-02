@@ -1,0 +1,4727 @@
+[
+  {
+    "ID":0,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1633,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":1,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1470,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":2,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1398,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":3,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":406,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":4,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":379,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":5,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":377,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":6,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":201,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":7,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":178,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":8,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":187,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":9,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":91,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":10,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":100,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":11,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":78,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":12,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":60,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":13,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":54,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":14,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":46,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":15,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":291,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":16,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":234,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":17,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":224,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":18,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":585,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":19,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":525,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":20,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":485,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":21,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":109,
+    "PercSamenwerkendeBedrijven250Wp_2":7
+  },
+  {
+    "ID":22,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":127,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":23,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":129,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":24,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":39,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":25,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":43,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":26,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":42,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":27,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":23,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":28,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":35,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":29,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":39,
+    "PercSamenwerkendeBedrijven250Wp_2":21
+  },
+  {
+    "ID":30,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":11,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":31,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":9,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":32,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":10,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":33,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":2,
+    "PercSamenwerkendeBedrijven250Wp_2":3
+  },
+  {
+    "ID":34,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":2,
+    "PercSamenwerkendeBedrijven250Wp_2":4
+  },
+  {
+    "ID":35,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":4,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":36,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":12,
+    "PercSamenwerkendeBedrijven250Wp_2":4
+  },
+  {
+    "ID":37,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":12,
+    "PercSamenwerkendeBedrijven250Wp_2":5
+  },
+  {
+    "ID":38,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":10,
+    "PercSamenwerkendeBedrijven250Wp_2":4
+  },
+  {
+    "ID":39,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":23,
+    "PercSamenwerkendeBedrijven250Wp_2":4
+  },
+  {
+    "ID":40,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":26,
+    "PercSamenwerkendeBedrijven250Wp_2":5
+  },
+  {
+    "ID":41,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":24,
+    "PercSamenwerkendeBedrijven250Wp_2":5
+  },
+  {
+    "ID":42,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":176,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":43,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":144,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":44,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":173,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":45,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":72,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":46,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":56,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":47,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":69,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":48,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":43,
+    "PercSamenwerkendeBedrijven250Wp_2":21
+  },
+  {
+    "ID":49,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":50,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":37,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":51,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":6,
+    "PercSamenwerkendeBedrijven250Wp_2":7
+  },
+  {
+    "ID":52,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":10,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":53,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":10,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":54,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":0,
+    "PercSamenwerkendeBedrijven250Wp_2":0
+  },
+  {
+    "ID":55,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":3,
+    "PercSamenwerkendeBedrijven250Wp_2":6
+  },
+  {
+    "ID":56,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":5,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":57,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":20,
+    "PercSamenwerkendeBedrijven250Wp_2":7
+  },
+  {
+    "ID":58,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":16,
+    "PercSamenwerkendeBedrijven250Wp_2":7
+  },
+  {
+    "ID":59,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":6,
+    "PercSamenwerkendeBedrijven250Wp_2":3
+  },
+  {
+    "ID":60,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":36,
+    "PercSamenwerkendeBedrijven250Wp_2":6
+  },
+  {
+    "ID":61,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":31,
+    "PercSamenwerkendeBedrijven250Wp_2":6
+  },
+  {
+    "ID":62,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":47,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":63,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":672,
+    "PercSamenwerkendeBedrijven250Wp_2":41
+  },
+  {
+    "ID":64,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":731,
+    "PercSamenwerkendeBedrijven250Wp_2":50
+  },
+  {
+    "ID":65,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":739,
+    "PercSamenwerkendeBedrijven250Wp_2":53
+  },
+  {
+    "ID":66,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":176,
+    "PercSamenwerkendeBedrijven250Wp_2":43
+  },
+  {
+    "ID":67,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":191,
+    "PercSamenwerkendeBedrijven250Wp_2":50
+  },
+  {
+    "ID":68,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":194,
+    "PercSamenwerkendeBedrijven250Wp_2":51
+  },
+  {
+    "ID":69,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":66,
+    "PercSamenwerkendeBedrijven250Wp_2":33
+  },
+  {
+    "ID":70,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":75,
+    "PercSamenwerkendeBedrijven250Wp_2":42
+  },
+  {
+    "ID":71,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":70,
+    "PercSamenwerkendeBedrijven250Wp_2":37
+  },
+  {
+    "ID":72,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":45,
+    "PercSamenwerkendeBedrijven250Wp_2":49
+  },
+  {
+    "ID":73,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":51,
+    "PercSamenwerkendeBedrijven250Wp_2":51
+  },
+  {
+    "ID":74,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":39,
+    "PercSamenwerkendeBedrijven250Wp_2":50
+  },
+  {
+    "ID":75,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":18,
+    "PercSamenwerkendeBedrijven250Wp_2":30
+  },
+  {
+    "ID":76,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":54
+  },
+  {
+    "ID":77,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":27,
+    "PercSamenwerkendeBedrijven250Wp_2":59
+  },
+  {
+    "ID":78,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":105,
+    "PercSamenwerkendeBedrijven250Wp_2":36
+  },
+  {
+    "ID":79,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":101,
+    "PercSamenwerkendeBedrijven250Wp_2":43
+  },
+  {
+    "ID":80,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":117,
+    "PercSamenwerkendeBedrijven250Wp_2":52
+  },
+  {
+    "ID":81,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":263,
+    "PercSamenwerkendeBedrijven250Wp_2":45
+  },
+  {
+    "ID":82,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":283,
+    "PercSamenwerkendeBedrijven250Wp_2":54
+  },
+  {
+    "ID":83,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":292,
+    "PercSamenwerkendeBedrijven250Wp_2":60
+  },
+  {
+    "ID":84,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":676,
+    "PercSamenwerkendeBedrijven250Wp_2":41
+  },
+  {
+    "ID":85,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":468,
+    "PercSamenwerkendeBedrijven250Wp_2":32
+  },
+  {
+    "ID":86,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":357,
+    "PercSamenwerkendeBedrijven250Wp_2":26
+  },
+  {
+    "ID":87,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":119,
+    "PercSamenwerkendeBedrijven250Wp_2":29
+  },
+  {
+    "ID":88,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":89,
+    "PercSamenwerkendeBedrijven250Wp_2":23
+  },
+  {
+    "ID":89,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":72,
+    "PercSamenwerkendeBedrijven250Wp_2":19
+  },
+  {
+    "ID":90,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":69,
+    "PercSamenwerkendeBedrijven250Wp_2":34
+  },
+  {
+    "ID":91,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":39,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":92,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":41,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":93,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":32
+  },
+  {
+    "ID":94,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":30,
+    "PercSamenwerkendeBedrijven250Wp_2":30
+  },
+  {
+    "ID":95,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":19,
+    "PercSamenwerkendeBedrijven250Wp_2":24
+  },
+  {
+    "ID":96,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":40,
+    "PercSamenwerkendeBedrijven250Wp_2":67
+  },
+  {
+    "ID":97,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":20,
+    "PercSamenwerkendeBedrijven250Wp_2":37
+  },
+  {
+    "ID":98,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":10,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":99,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":154,
+    "PercSamenwerkendeBedrijven250Wp_2":53
+  },
+  {
+    "ID":100,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":105,
+    "PercSamenwerkendeBedrijven250Wp_2":45
+  },
+  {
+    "ID":101,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":91,
+    "PercSamenwerkendeBedrijven250Wp_2":41
+  },
+  {
+    "ID":102,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":263,
+    "PercSamenwerkendeBedrijven250Wp_2":45
+  },
+  {
+    "ID":103,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":185,
+    "PercSamenwerkendeBedrijven250Wp_2":35
+  },
+  {
+    "ID":104,
+    "EffectVanDeSamenwerkingOp":"  7",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":122,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":105,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1633,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":106,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1470,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":107,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1398,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":108,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":406,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":109,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":379,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":110,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":377,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":111,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":201,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":112,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":178,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":113,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":187,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":114,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":91,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":115,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":100,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":116,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":78,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":117,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":60,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":118,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":54,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":119,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":46,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":120,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":291,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":121,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":234,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":122,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":224,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":123,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":585,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":124,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":525,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":125,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":485,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":126,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":193,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":127,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":202,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":128,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":208,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":129,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":59,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":130,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":56,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":131,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":45,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":132,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":23,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":133,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":15,
+    "PercSamenwerkendeBedrijven250Wp_2":8
+  },
+  {
+    "ID":134,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":32,
+    "PercSamenwerkendeBedrijven250Wp_2":17
+  },
+  {
+    "ID":135,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":17,
+    "PercSamenwerkendeBedrijven250Wp_2":19
+  },
+  {
+    "ID":136,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":29
+  },
+  {
+    "ID":137,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":14,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":138,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":6,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":139,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":14,
+    "PercSamenwerkendeBedrijven250Wp_2":26
+  },
+  {
+    "ID":140,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":21,
+    "PercSamenwerkendeBedrijven250Wp_2":46
+  },
+  {
+    "ID":141,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":32,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":142,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":42,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":143,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":45,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":144,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":55,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":145,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":45,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":146,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":52,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":147,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":288,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":148,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":228,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":149,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":260,
+    "PercSamenwerkendeBedrijven250Wp_2":19
+  },
+  {
+    "ID":150,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":116,
+    "PercSamenwerkendeBedrijven250Wp_2":29
+  },
+  {
+    "ID":151,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":74,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":152,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":106,
+    "PercSamenwerkendeBedrijven250Wp_2":28
+  },
+  {
+    "ID":153,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":26,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":154,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":20,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":155,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":26,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":156,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":18,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":157,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":12,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":158,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":19,
+    "PercSamenwerkendeBedrijven250Wp_2":24
+  },
+  {
+    "ID":159,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":15,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":160,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":8,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":161,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":10,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":162,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":50,
+    "PercSamenwerkendeBedrijven250Wp_2":17
+  },
+  {
+    "ID":163,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":49,
+    "PercSamenwerkendeBedrijven250Wp_2":21
+  },
+  {
+    "ID":164,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":26,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":165,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":64,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":166,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":65,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":167,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":73,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":168,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":410,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":169,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":413,
+    "PercSamenwerkendeBedrijven250Wp_2":28
+  },
+  {
+    "ID":170,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":355,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":171,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":109,
+    "PercSamenwerkendeBedrijven250Wp_2":27
+  },
+  {
+    "ID":172,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":132,
+    "PercSamenwerkendeBedrijven250Wp_2":35
+  },
+  {
+    "ID":173,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":117,
+    "PercSamenwerkendeBedrijven250Wp_2":31
+  },
+  {
+    "ID":174,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":25,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":175,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":26,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":176,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":177,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":8,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":178,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":21,
+    "PercSamenwerkendeBedrijven250Wp_2":21
+  },
+  {
+    "ID":179,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":10,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":180,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":11,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":181,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":6,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":182,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":4,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":183,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":81,
+    "PercSamenwerkendeBedrijven250Wp_2":28
+  },
+  {
+    "ID":184,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":55,
+    "PercSamenwerkendeBedrijven250Wp_2":24
+  },
+  {
+    "ID":185,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":55,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":186,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":177,
+    "PercSamenwerkendeBedrijven250Wp_2":30
+  },
+  {
+    "ID":187,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":173,
+    "PercSamenwerkendeBedrijven250Wp_2":33
+  },
+  {
+    "ID":188,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":141,
+    "PercSamenwerkendeBedrijven250Wp_2":29
+  },
+  {
+    "ID":189,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":742,
+    "PercSamenwerkendeBedrijven250Wp_2":45
+  },
+  {
+    "ID":190,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":627,
+    "PercSamenwerkendeBedrijven250Wp_2":43
+  },
+  {
+    "ID":191,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":575,
+    "PercSamenwerkendeBedrijven250Wp_2":41
+  },
+  {
+    "ID":192,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":122,
+    "PercSamenwerkendeBedrijven250Wp_2":30
+  },
+  {
+    "ID":193,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":117,
+    "PercSamenwerkendeBedrijven250Wp_2":31
+  },
+  {
+    "ID":194,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":109,
+    "PercSamenwerkendeBedrijven250Wp_2":29
+  },
+  {
+    "ID":195,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":127,
+    "PercSamenwerkendeBedrijven250Wp_2":63
+  },
+  {
+    "ID":196,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":117,
+    "PercSamenwerkendeBedrijven250Wp_2":66
+  },
+  {
+    "ID":197,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":100,
+    "PercSamenwerkendeBedrijven250Wp_2":53
+  },
+  {
+    "ID":198,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":48,
+    "PercSamenwerkendeBedrijven250Wp_2":53
+  },
+  {
+    "ID":199,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":38,
+    "PercSamenwerkendeBedrijven250Wp_2":38
+  },
+  {
+    "ID":200,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":35,
+    "PercSamenwerkendeBedrijven250Wp_2":45
+  },
+  {
+    "ID":201,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":28,
+    "PercSamenwerkendeBedrijven250Wp_2":47
+  },
+  {
+    "ID":202,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":26,
+    "PercSamenwerkendeBedrijven250Wp_2":48
+  },
+  {
+    "ID":203,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":11,
+    "PercSamenwerkendeBedrijven250Wp_2":24
+  },
+  {
+    "ID":204,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":128,
+    "PercSamenwerkendeBedrijven250Wp_2":44
+  },
+  {
+    "ID":205,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":88,
+    "PercSamenwerkendeBedrijven250Wp_2":38
+  },
+  {
+    "ID":206,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":98,
+    "PercSamenwerkendeBedrijven250Wp_2":44
+  },
+  {
+    "ID":207,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":289,
+    "PercSamenwerkendeBedrijven250Wp_2":49
+  },
+  {
+    "ID":208,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":242,
+    "PercSamenwerkendeBedrijven250Wp_2":46
+  },
+  {
+    "ID":209,
+    "EffectVanDeSamenwerkingOp":"  8",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":219,
+    "PercSamenwerkendeBedrijven250Wp_2":45
+  },
+  {
+    "ID":210,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1633,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":211,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1470,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":212,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1398,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":213,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":406,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":214,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":379,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":215,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":377,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":216,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":201,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":217,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":178,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":218,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":187,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":219,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":91,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":220,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":100,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":221,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":78,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":222,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":60,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":223,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":54,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":224,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":46,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":225,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":291,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":226,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":234,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":227,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":224,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":228,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":585,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":229,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":525,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":230,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":485,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":231,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":128,
+    "PercSamenwerkendeBedrijven250Wp_2":8
+  },
+  {
+    "ID":232,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":172,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":233,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":131,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":234,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":26,
+    "PercSamenwerkendeBedrijven250Wp_2":6
+  },
+  {
+    "ID":235,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":33,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":236,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":22,
+    "PercSamenwerkendeBedrijven250Wp_2":6
+  },
+  {
+    "ID":237,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":28,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":238,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":32,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":239,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":31,
+    "PercSamenwerkendeBedrijven250Wp_2":17
+  },
+  {
+    "ID":240,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":9,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":241,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":12,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":242,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":12,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":243,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":12,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":244,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":20,
+    "PercSamenwerkendeBedrijven250Wp_2":37
+  },
+  {
+    "ID":245,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":18,
+    "PercSamenwerkendeBedrijven250Wp_2":39
+  },
+  {
+    "ID":246,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":16,
+    "PercSamenwerkendeBedrijven250Wp_2":5
+  },
+  {
+    "ID":247,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":44,
+    "PercSamenwerkendeBedrijven250Wp_2":19
+  },
+  {
+    "ID":248,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":21,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":249,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":37,
+    "PercSamenwerkendeBedrijven250Wp_2":6
+  },
+  {
+    "ID":250,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":30,
+    "PercSamenwerkendeBedrijven250Wp_2":6
+  },
+  {
+    "ID":251,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":27,
+    "PercSamenwerkendeBedrijven250Wp_2":6
+  },
+  {
+    "ID":252,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":235,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":253,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":184,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":254,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":181,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":255,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":65,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":256,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":44,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":257,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":51,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":258,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":36,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":259,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":30,
+    "PercSamenwerkendeBedrijven250Wp_2":17
+  },
+  {
+    "ID":260,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":33,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":261,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":15,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":262,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":25,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":263,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":12,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":264,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":17,
+    "PercSamenwerkendeBedrijven250Wp_2":28
+  },
+  {
+    "ID":265,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":12,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":266,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":12,
+    "PercSamenwerkendeBedrijven250Wp_2":26
+  },
+  {
+    "ID":267,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":63,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":268,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":34,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":269,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":44,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":270,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":39,
+    "PercSamenwerkendeBedrijven250Wp_2":7
+  },
+  {
+    "ID":271,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":40,
+    "PercSamenwerkendeBedrijven250Wp_2":8
+  },
+  {
+    "ID":272,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":6
+  },
+  {
+    "ID":273,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":597,
+    "PercSamenwerkendeBedrijven250Wp_2":37
+  },
+  {
+    "ID":274,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":434,
+    "PercSamenwerkendeBedrijven250Wp_2":30
+  },
+  {
+    "ID":275,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":448,
+    "PercSamenwerkendeBedrijven250Wp_2":32
+  },
+  {
+    "ID":276,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":155,
+    "PercSamenwerkendeBedrijven250Wp_2":38
+  },
+  {
+    "ID":277,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":112,
+    "PercSamenwerkendeBedrijven250Wp_2":30
+  },
+  {
+    "ID":278,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":124,
+    "PercSamenwerkendeBedrijven250Wp_2":33
+  },
+  {
+    "ID":279,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":65,
+    "PercSamenwerkendeBedrijven250Wp_2":32
+  },
+  {
+    "ID":280,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":38,
+    "PercSamenwerkendeBedrijven250Wp_2":21
+  },
+  {
+    "ID":281,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":37,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":282,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":20,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":283,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":31,
+    "PercSamenwerkendeBedrijven250Wp_2":31
+  },
+  {
+    "ID":284,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":13,
+    "PercSamenwerkendeBedrijven250Wp_2":17
+  },
+  {
+    "ID":285,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":13,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":286,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":8,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":287,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":10,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":288,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":118,
+    "PercSamenwerkendeBedrijven250Wp_2":41
+  },
+  {
+    "ID":289,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":71,
+    "PercSamenwerkendeBedrijven250Wp_2":30
+  },
+  {
+    "ID":290,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":86,
+    "PercSamenwerkendeBedrijven250Wp_2":38
+  },
+  {
+    "ID":291,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":228,
+    "PercSamenwerkendeBedrijven250Wp_2":39
+  },
+  {
+    "ID":292,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":174,
+    "PercSamenwerkendeBedrijven250Wp_2":33
+  },
+  {
+    "ID":293,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":177,
+    "PercSamenwerkendeBedrijven250Wp_2":36
+  },
+  {
+    "ID":294,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":673,
+    "PercSamenwerkendeBedrijven250Wp_2":41
+  },
+  {
+    "ID":295,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":680,
+    "PercSamenwerkendeBedrijven250Wp_2":46
+  },
+  {
+    "ID":296,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":638,
+    "PercSamenwerkendeBedrijven250Wp_2":46
+  },
+  {
+    "ID":297,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":160,
+    "PercSamenwerkendeBedrijven250Wp_2":39
+  },
+  {
+    "ID":298,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":190,
+    "PercSamenwerkendeBedrijven250Wp_2":50
+  },
+  {
+    "ID":299,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":180,
+    "PercSamenwerkendeBedrijven250Wp_2":48
+  },
+  {
+    "ID":300,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":72,
+    "PercSamenwerkendeBedrijven250Wp_2":36
+  },
+  {
+    "ID":301,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":78,
+    "PercSamenwerkendeBedrijven250Wp_2":44
+  },
+  {
+    "ID":302,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":86,
+    "PercSamenwerkendeBedrijven250Wp_2":46
+  },
+  {
+    "ID":303,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":47,
+    "PercSamenwerkendeBedrijven250Wp_2":52
+  },
+  {
+    "ID":304,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":32,
+    "PercSamenwerkendeBedrijven250Wp_2":32
+  },
+  {
+    "ID":305,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":41,
+    "PercSamenwerkendeBedrijven250Wp_2":53
+  },
+  {
+    "ID":306,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":18,
+    "PercSamenwerkendeBedrijven250Wp_2":30
+  },
+  {
+    "ID":307,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":14,
+    "PercSamenwerkendeBedrijven250Wp_2":26
+  },
+  {
+    "ID":308,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":6,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":309,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":94,
+    "PercSamenwerkendeBedrijven250Wp_2":32
+  },
+  {
+    "ID":310,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":85,
+    "PercSamenwerkendeBedrijven250Wp_2":36
+  },
+  {
+    "ID":311,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":73,
+    "PercSamenwerkendeBedrijven250Wp_2":33
+  },
+  {
+    "ID":312,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":281,
+    "PercSamenwerkendeBedrijven250Wp_2":48
+  },
+  {
+    "ID":313,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":281,
+    "PercSamenwerkendeBedrijven250Wp_2":54
+  },
+  {
+    "ID":314,
+    "EffectVanDeSamenwerkingOp":"  9",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":252,
+    "PercSamenwerkendeBedrijven250Wp_2":52
+  },
+  {
+    "ID":315,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1633,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":316,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1470,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":317,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1398,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":318,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":406,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":319,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":379,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":320,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":377,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":321,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":201,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":322,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":178,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":323,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":187,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":324,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":91,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":325,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":100,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":326,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":78,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":327,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":60,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":328,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":54,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":329,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":46,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":330,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":291,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":331,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":234,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":332,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":224,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":333,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":585,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":334,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":525,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":335,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":485,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":336,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":246,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":337,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":268,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":338,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":245,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":339,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":55,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":340,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":53,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":341,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":48,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":342,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":343,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":32,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":344,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":32,
+    "PercSamenwerkendeBedrijven250Wp_2":17
+  },
+  {
+    "ID":345,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":35,
+    "PercSamenwerkendeBedrijven250Wp_2":38
+  },
+  {
+    "ID":346,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":29
+  },
+  {
+    "ID":347,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":27,
+    "PercSamenwerkendeBedrijven250Wp_2":35
+  },
+  {
+    "ID":348,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":20,
+    "PercSamenwerkendeBedrijven250Wp_2":33
+  },
+  {
+    "ID":349,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":16,
+    "PercSamenwerkendeBedrijven250Wp_2":30
+  },
+  {
+    "ID":350,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":18,
+    "PercSamenwerkendeBedrijven250Wp_2":39
+  },
+  {
+    "ID":351,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":51,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":352,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":62,
+    "PercSamenwerkendeBedrijven250Wp_2":26
+  },
+  {
+    "ID":353,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":61,
+    "PercSamenwerkendeBedrijven250Wp_2":27
+  },
+  {
+    "ID":354,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":56,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":355,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":76,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":356,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":60,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":357,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":369,
+    "PercSamenwerkendeBedrijven250Wp_2":23
+  },
+  {
+    "ID":358,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":305,
+    "PercSamenwerkendeBedrijven250Wp_2":21
+  },
+  {
+    "ID":359,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":335,
+    "PercSamenwerkendeBedrijven250Wp_2":24
+  },
+  {
+    "ID":360,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":111,
+    "PercSamenwerkendeBedrijven250Wp_2":27
+  },
+  {
+    "ID":361,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":77,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":362,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":86,
+    "PercSamenwerkendeBedrijven250Wp_2":23
+  },
+  {
+    "ID":363,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":28,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":364,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":25,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":365,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":46,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":366,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":4,
+    "PercSamenwerkendeBedrijven250Wp_2":4
+  },
+  {
+    "ID":367,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":25,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":368,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":23,
+    "PercSamenwerkendeBedrijven250Wp_2":29
+  },
+  {
+    "ID":369,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":11,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":370,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":14,
+    "PercSamenwerkendeBedrijven250Wp_2":26
+  },
+  {
+    "ID":371,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":19,
+    "PercSamenwerkendeBedrijven250Wp_2":41
+  },
+  {
+    "ID":372,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":90,
+    "PercSamenwerkendeBedrijven250Wp_2":31
+  },
+  {
+    "ID":373,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":69,
+    "PercSamenwerkendeBedrijven250Wp_2":29
+  },
+  {
+    "ID":374,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":65,
+    "PercSamenwerkendeBedrijven250Wp_2":29
+  },
+  {
+    "ID":375,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":125,
+    "PercSamenwerkendeBedrijven250Wp_2":21
+  },
+  {
+    "ID":376,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":96,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":377,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":98,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":378,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":750,
+    "PercSamenwerkendeBedrijven250Wp_2":46
+  },
+  {
+    "ID":379,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":638,
+    "PercSamenwerkendeBedrijven250Wp_2":43
+  },
+  {
+    "ID":380,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":551,
+    "PercSamenwerkendeBedrijven250Wp_2":39
+  },
+  {
+    "ID":381,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":203,
+    "PercSamenwerkendeBedrijven250Wp_2":50
+  },
+  {
+    "ID":382,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":188,
+    "PercSamenwerkendeBedrijven250Wp_2":50
+  },
+  {
+    "ID":383,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":184,
+    "PercSamenwerkendeBedrijven250Wp_2":49
+  },
+  {
+    "ID":384,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":103,
+    "PercSamenwerkendeBedrijven250Wp_2":51
+  },
+  {
+    "ID":385,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":76,
+    "PercSamenwerkendeBedrijven250Wp_2":43
+  },
+  {
+    "ID":386,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":68,
+    "PercSamenwerkendeBedrijven250Wp_2":36
+  },
+  {
+    "ID":387,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":23,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":388,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":38,
+    "PercSamenwerkendeBedrijven250Wp_2":38
+  },
+  {
+    "ID":389,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":15,
+    "PercSamenwerkendeBedrijven250Wp_2":19
+  },
+  {
+    "ID":390,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":16,
+    "PercSamenwerkendeBedrijven250Wp_2":27
+  },
+  {
+    "ID":391,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":16,
+    "PercSamenwerkendeBedrijven250Wp_2":30
+  },
+  {
+    "ID":392,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":5,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":393,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":118,
+    "PercSamenwerkendeBedrijven250Wp_2":41
+  },
+  {
+    "ID":394,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":81,
+    "PercSamenwerkendeBedrijven250Wp_2":35
+  },
+  {
+    "ID":395,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":73,
+    "PercSamenwerkendeBedrijven250Wp_2":33
+  },
+  {
+    "ID":396,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":286,
+    "PercSamenwerkendeBedrijven250Wp_2":49
+  },
+  {
+    "ID":397,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":240,
+    "PercSamenwerkendeBedrijven250Wp_2":46
+  },
+  {
+    "ID":398,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":204,
+    "PercSamenwerkendeBedrijven250Wp_2":42
+  },
+  {
+    "ID":399,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":268,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":400,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":259,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":401,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":267,
+    "PercSamenwerkendeBedrijven250Wp_2":19
+  },
+  {
+    "ID":402,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":37,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":403,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":61,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":404,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":59,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":405,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":41,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":406,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":45,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":407,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":41,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":408,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":32
+  },
+  {
+    "ID":409,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":8,
+    "PercSamenwerkendeBedrijven250Wp_2":8
+  },
+  {
+    "ID":410,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":13,
+    "PercSamenwerkendeBedrijven250Wp_2":17
+  },
+  {
+    "ID":411,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":13,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":412,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":8,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":413,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":4,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":414,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":32,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":415,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":22,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":416,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":25,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":417,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":118,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":418,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":113,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":419,
+    "EffectVanDeSamenwerkingOp":" 10",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":123,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":420,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1633,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":421,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1470,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":422,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":1398,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":423,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":406,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":424,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":379,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":425,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":377,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":426,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":201,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":427,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":178,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":428,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":187,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":429,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":91,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":430,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":100,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":431,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":78,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":432,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":60,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":433,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":54,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":434,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":46,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":435,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":291,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":436,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":234,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":437,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":224,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":438,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":585,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":439,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":525,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":440,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":485,
+    "PercSamenwerkendeBedrijven250Wp_2":100
+  },
+  {
+    "ID":441,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":140,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":442,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":141,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":443,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":144,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":444,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":28,
+    "PercSamenwerkendeBedrijven250Wp_2":7
+  },
+  {
+    "ID":445,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":34,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":446,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":30,
+    "PercSamenwerkendeBedrijven250Wp_2":8
+  },
+  {
+    "ID":447,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":12,
+    "PercSamenwerkendeBedrijven250Wp_2":6
+  },
+  {
+    "ID":448,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":10,
+    "PercSamenwerkendeBedrijven250Wp_2":6
+  },
+  {
+    "ID":449,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":19,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":450,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":18,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":451,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":16,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":452,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":13,
+    "PercSamenwerkendeBedrijven250Wp_2":17
+  },
+  {
+    "ID":453,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":4,
+    "PercSamenwerkendeBedrijven250Wp_2":7
+  },
+  {
+    "ID":454,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":11,
+    "PercSamenwerkendeBedrijven250Wp_2":20
+  },
+  {
+    "ID":455,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":12,
+    "PercSamenwerkendeBedrijven250Wp_2":26
+  },
+  {
+    "ID":456,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":48,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":457,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":458,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":27,
+    "PercSamenwerkendeBedrijven250Wp_2":12
+  },
+  {
+    "ID":459,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":31,
+    "PercSamenwerkendeBedrijven250Wp_2":5
+  },
+  {
+    "ID":460,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":40,
+    "PercSamenwerkendeBedrijven250Wp_2":8
+  },
+  {
+    "ID":461,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":43,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":462,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":206,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":463,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":166,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":464,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":183,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":465,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":79,
+    "PercSamenwerkendeBedrijven250Wp_2":19
+  },
+  {
+    "ID":466,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":49,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":467,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":55,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":468,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":20,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":469,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":16,
+    "PercSamenwerkendeBedrijven250Wp_2":9
+  },
+  {
+    "ID":470,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":10,
+    "PercSamenwerkendeBedrijven250Wp_2":5
+  },
+  {
+    "ID":471,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":2,
+    "PercSamenwerkendeBedrijven250Wp_2":2
+  },
+  {
+    "ID":472,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":16,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":473,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":37
+  },
+  {
+    "ID":474,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":14,
+    "PercSamenwerkendeBedrijven250Wp_2":23
+  },
+  {
+    "ID":475,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":0,
+    "PercSamenwerkendeBedrijven250Wp_2":0
+  },
+  {
+    "ID":476,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":0,
+    "PercSamenwerkendeBedrijven250Wp_2":0
+  },
+  {
+    "ID":477,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":478,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":33,
+    "PercSamenwerkendeBedrijven250Wp_2":14
+  },
+  {
+    "ID":479,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":36,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":480,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":62,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":481,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":52,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":482,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":53,
+    "PercSamenwerkendeBedrijven250Wp_2":11
+  },
+  {
+    "ID":483,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":415,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":484,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":354,
+    "PercSamenwerkendeBedrijven250Wp_2":24
+  },
+  {
+    "ID":485,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":320,
+    "PercSamenwerkendeBedrijven250Wp_2":23
+  },
+  {
+    "ID":486,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":137,
+    "PercSamenwerkendeBedrijven250Wp_2":34
+  },
+  {
+    "ID":487,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":120,
+    "PercSamenwerkendeBedrijven250Wp_2":32
+  },
+  {
+    "ID":488,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":102,
+    "PercSamenwerkendeBedrijven250Wp_2":27
+  },
+  {
+    "ID":489,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":39,
+    "PercSamenwerkendeBedrijven250Wp_2":19
+  },
+  {
+    "ID":490,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":26,
+    "PercSamenwerkendeBedrijven250Wp_2":15
+  },
+  {
+    "ID":491,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":29,
+    "PercSamenwerkendeBedrijven250Wp_2":16
+  },
+  {
+    "ID":492,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":16,
+    "PercSamenwerkendeBedrijven250Wp_2":18
+  },
+  {
+    "ID":493,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":17,
+    "PercSamenwerkendeBedrijven250Wp_2":17
+  },
+  {
+    "ID":494,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":6,
+    "PercSamenwerkendeBedrijven250Wp_2":8
+  },
+  {
+    "ID":495,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":6,
+    "PercSamenwerkendeBedrijven250Wp_2":10
+  },
+  {
+    "ID":496,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":7,
+    "PercSamenwerkendeBedrijven250Wp_2":13
+  },
+  {
+    "ID":497,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":10,
+    "PercSamenwerkendeBedrijven250Wp_2":22
+  },
+  {
+    "ID":498,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":66,
+    "PercSamenwerkendeBedrijven250Wp_2":23
+  },
+  {
+    "ID":499,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":55,
+    "PercSamenwerkendeBedrijven250Wp_2":24
+  },
+  {
+    "ID":500,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":55,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":501,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":152,
+    "PercSamenwerkendeBedrijven250Wp_2":26
+  },
+  {
+    "ID":502,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":129,
+    "PercSamenwerkendeBedrijven250Wp_2":25
+  },
+  {
+    "ID":503,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":118,
+    "PercSamenwerkendeBedrijven250Wp_2":24
+  },
+  {
+    "ID":504,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":872,
+    "PercSamenwerkendeBedrijven250Wp_2":53
+  },
+  {
+    "ID":505,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":809,
+    "PercSamenwerkendeBedrijven250Wp_2":55
+  },
+  {
+    "ID":506,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":751,
+    "PercSamenwerkendeBedrijven250Wp_2":54
+  },
+  {
+    "ID":507,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":162,
+    "PercSamenwerkendeBedrijven250Wp_2":40
+  },
+  {
+    "ID":508,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":176,
+    "PercSamenwerkendeBedrijven250Wp_2":46
+  },
+  {
+    "ID":509,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":190,
+    "PercSamenwerkendeBedrijven250Wp_2":50
+  },
+  {
+    "ID":510,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":130,
+    "PercSamenwerkendeBedrijven250Wp_2":65
+  },
+  {
+    "ID":511,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":126,
+    "PercSamenwerkendeBedrijven250Wp_2":71
+  },
+  {
+    "ID":512,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":129,
+    "PercSamenwerkendeBedrijven250Wp_2":69
+  },
+  {
+    "ID":513,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":55,
+    "PercSamenwerkendeBedrijven250Wp_2":60
+  },
+  {
+    "ID":514,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":51,
+    "PercSamenwerkendeBedrijven250Wp_2":51
+  },
+  {
+    "ID":515,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":30,
+    "PercSamenwerkendeBedrijven250Wp_2":38
+  },
+  {
+    "ID":516,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":36,
+    "PercSamenwerkendeBedrijven250Wp_2":60
+  },
+  {
+    "ID":517,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":36,
+    "PercSamenwerkendeBedrijven250Wp_2":67
+  },
+  {
+    "ID":518,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":24,
+    "PercSamenwerkendeBedrijven250Wp_2":52
+  },
+  {
+    "ID":519,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":148,
+    "PercSamenwerkendeBedrijven250Wp_2":51
+  },
+  {
+    "ID":520,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":117,
+    "PercSamenwerkendeBedrijven250Wp_2":50
+  },
+  {
+    "ID":521,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":106,
+    "PercSamenwerkendeBedrijven250Wp_2":47
+  },
+  {
+    "ID":522,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":340,
+    "PercSamenwerkendeBedrijven250Wp_2":58
+  },
+  {
+    "ID":523,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":304,
+    "PercSamenwerkendeBedrijven250Wp_2":58
+  },
+  {
+    "ID":524,
+    "EffectVanDeSamenwerkingOp":" 11",
+    "GrootteVanHetEffect":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantSamenwerkendeBedrijven250Wp_1":271,
+    "PercSamenwerkendeBedrijven250Wp_2":56
+  }
+]

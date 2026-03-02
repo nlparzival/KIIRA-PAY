@@ -1,0 +1,37 @@
+{
+  "odata.metadata": "https://opendata.cbs.nl/ODataApi/OData/83109ENG/$metadata",
+  "value": [
+    {
+      "name": "TableInfos",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/83109ENG/TableInfos"
+    },
+    {
+      "name": "UntypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/83109ENG/UntypedDataSet"
+    },
+    {
+      "name": "TypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/83109ENG/TypedDataSet"
+    },
+    {
+      "name": "DataProperties",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/83109ENG/DataProperties"
+    },
+    {
+      "name": "CategoryGroups",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/83109ENG/CategoryGroups"
+    },
+    {
+      "name": "EnergySourcesTechniques",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/83109ENG/EnergySourcesTechniques"
+    },
+    {
+      "name": "EnergyApplication",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/83109ENG/EnergyApplication"
+    },
+    {
+      "name": "Periods",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/83109ENG/Periods"
+    }
+  ]
+}

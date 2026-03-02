@@ -1,0 +1,5058 @@
+{
+  "timestamp": "2026-02-14T03:29:31.679392",
+  "total_energie_datasets": 952,
+  "already_had": 169,
+  "attempted": 783,
+  "successful": 565,
+  "failed": 218,
+  "total_rows": 666267,
+  "duration_minutes": 19.37,
+  "duration_hours": 0.32,
+  "results": [
+    {
+      "status": "success",
+      "rows": 128,
+      "columns": 16,
+      "id": "81154ned",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83989NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "37823wkk",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84901NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "82538NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85677NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85337NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85080NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84983NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84949NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84950NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "86159NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85999NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85697NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85359NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85126NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84837NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84585NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84314NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83800NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83568NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83187NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83022NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83023NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83025NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83026NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85140NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "81528NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84948NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "85849NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84970NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "82061NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "82059NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84037NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "70846ned",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83141NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "81606NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83878NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83882NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83929NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "84450NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "70022ned",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "82060NED",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83989ENG",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "37823eng",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "81528ENG",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "82538ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 140,
+      "columns": 14,
+      "id": "84672ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5904,
+      "columns": 17,
+      "id": "80099eng",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 9,
+      "columns": 44,
+      "id": "71840eng",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 340,
+      "columns": 5,
+      "id": "72002eng",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 2067,
+      "columns": 26,
+      "id": "37281eng",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "70846eng",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 2346,
+      "columns": 7,
+      "id": "80324eng",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83141ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 15,
+      "columns": 44,
+      "id": "81163eng",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "81606ENG",
+      "category": "energie"
+    },
+    {
+      "status": "empty",
+      "id": "83929ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1026,
+      "columns": 16,
+      "id": "82238ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 5236,
+      "columns": 11,
+      "id": "82641ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 20,
+      "columns": 44,
+      "id": "81159eng",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 832,
+      "columns": 6,
+      "id": "70946eng",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 576,
+      "columns": 13,
+      "id": "83390ENG",
+      "category": "energie"
+    },
+    {
+      "status": "success",
+      "rows": 1755,
+      "columns": 29,
+      "id": "86047NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "86067NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85647NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85824NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 240,
+      "columns": 34,
+      "id": "82291NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "86044NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85775NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85447NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85010NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "84772NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "84517NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "84131NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85005NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1782,
+      "columns": 6,
+      "id": "82814NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 4,
+      "columns": 20,
+      "id": "86015NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 360,
+      "columns": 5,
+      "id": "86017NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1800,
+      "columns": 5,
+      "id": "86022NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 2160,
+      "columns": 5,
+      "id": "86020NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 612,
+      "columns": 5,
+      "id": "86023NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 4320,
+      "columns": 5,
+      "id": "86021NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1200,
+      "columns": 5,
+      "id": "86024NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1080,
+      "columns": 5,
+      "id": "86016NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 3024,
+      "columns": 5,
+      "id": "86025NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1120,
+      "columns": 5,
+      "id": "86026NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 4752,
+      "columns": 15,
+      "id": "71950ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 2916,
+      "columns": 11,
+      "id": "84842NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 8100,
+      "columns": 11,
+      "id": "85445NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "86225NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 720,
+      "columns": 145,
+      "id": "83716NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 3600,
+      "columns": 128,
+      "id": "85463NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 2145,
+      "columns": 158,
+      "id": "85454NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 3465,
+      "columns": 24,
+      "id": "86137NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 3492,
+      "columns": 21,
+      "id": "85563NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 3582,
+      "columns": 24,
+      "id": "85012NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 2145,
+      "columns": 107,
+      "id": "85457NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 2340,
+      "columns": 8,
+      "id": "85766NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 648,
+      "columns": 24,
+      "id": "85576NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 25,
+      "columns": 108,
+      "id": "81628NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 126,
+      "columns": 148,
+      "id": "37852",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 4680,
+      "columns": 17,
+      "id": "85303NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 346,
+      "columns": 31,
+      "id": "85309NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 353,
+      "columns": 31,
+      "id": "85052NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 356,
+      "columns": 31,
+      "id": "84860NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 356,
+      "columns": 34,
+      "id": "84590NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85534NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85698NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85696NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85700NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85699NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83832NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85777NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85776NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85778NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85779NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83815NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 391,
+      "columns": 8,
+      "id": "86146NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 390,
+      "columns": 8,
+      "id": "83135NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 184,
+      "columns": 34,
+      "id": "71854ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 2508,
+      "columns": 12,
+      "id": "80150ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1881,
+      "columns": 5,
+      "id": "37645EG",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "70771ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "71042ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "80171ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "80458ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 114,
+      "columns": 6,
+      "id": "81092ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 296,
+      "columns": 26,
+      "id": "37633",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "80709ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 32,
+      "columns": 18,
+      "id": "37707",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "81615NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 30,
+      "columns": 5,
+      "id": "71106ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 12,
+      "columns": 9,
+      "id": "37491",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 6566,
+      "columns": 6,
+      "id": "81412ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 60,
+      "columns": 66,
+      "id": "81573NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 252,
+      "columns": 6,
+      "id": "37889",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "84783NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "84518NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "84130NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "84485NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "84139NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 11,
+      "columns": 247,
+      "id": "37410",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 51,
+      "columns": 19,
+      "id": "85260NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 25,
+      "columns": 20,
+      "id": "84047NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83700NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 300,
+      "columns": 10,
+      "id": "85103NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 6000,
+      "columns": 5,
+      "id": "84053NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 19,
+      "columns": 22,
+      "id": "83037NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 133,
+      "columns": 24,
+      "id": "83039NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 399,
+      "columns": 6,
+      "id": "83038NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 17,
+      "columns": 26,
+      "id": "83040NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85546NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85544NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85545NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 7750,
+      "columns": 5,
+      "id": "85548NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 3825,
+      "columns": 5,
+      "id": "85547NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "84035NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "84043NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "84078NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83072NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 16,
+      "columns": 48,
+      "id": "71914ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 8,
+      "columns": 66,
+      "id": "37494",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "70636ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 112,
+      "columns": 27,
+      "id": "81329NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 216,
+      "columns": 12,
+      "id": "71559ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1458,
+      "columns": 12,
+      "id": "83780NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 2016,
+      "columns": 11,
+      "id": "71885ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 360,
+      "columns": 8,
+      "id": "71339ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1440,
+      "columns": 12,
+      "id": "80298ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 16,
+      "columns": 14,
+      "id": "70104NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 288,
+      "columns": 90,
+      "id": "81174ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 480,
+      "columns": 89,
+      "id": "81173ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 147,
+      "columns": 41,
+      "id": "81976NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 56,
+      "columns": 48,
+      "id": "71011ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 57,
+      "columns": 60,
+      "id": "70837ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 136,
+      "columns": 80,
+      "id": "37184",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 702,
+      "columns": 13,
+      "id": "70129ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 3888,
+      "columns": 27,
+      "id": "83674NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 3996,
+      "columns": 45,
+      "id": "82166NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 21,
+      "columns": 444,
+      "id": "7068gi",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 282,
+      "columns": 53,
+      "id": "71775ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1152,
+      "columns": 7,
+      "id": "82551NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 6696,
+      "columns": 5,
+      "id": "82552NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 288,
+      "columns": 7,
+      "id": "82468NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "82503NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 2772,
+      "columns": 11,
+      "id": "71578ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 4620,
+      "columns": 11,
+      "id": "71575ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 9240,
+      "columns": 11,
+      "id": "71574ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 4224,
+      "columns": 11,
+      "id": "81364ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 3927,
+      "columns": 10,
+      "id": "71573ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "71577ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 7392,
+      "columns": 11,
+      "id": "71576ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 5544,
+      "columns": 11,
+      "id": "71579ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "81447NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "81450NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "81454NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "81455NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1464,
+      "columns": 152,
+      "id": "83005NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 2340,
+      "columns": 129,
+      "id": "83384NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 13,
+      "columns": 205,
+      "id": "7069LS",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1440,
+      "columns": 303,
+      "id": "03799",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 114,
+      "columns": 19,
+      "id": "70793ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1464,
+      "columns": 129,
+      "id": "83021NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1500,
+      "columns": 8,
+      "id": "81466ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 324,
+      "columns": 24,
+      "id": "82612NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 52,
+      "columns": 34,
+      "id": "7109",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 36,
+      "columns": 43,
+      "id": "70983ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 12,
+      "columns": 14,
+      "id": "37751",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 12,
+      "columns": 40,
+      "id": "70845ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 16,
+      "columns": 107,
+      "id": "7112_GGD",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 80,
+      "columns": 69,
+      "id": "82802NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 81,
+      "columns": 82,
+      "id": "82796NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 105,
+      "columns": 23,
+      "id": "80152ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 610,
+      "columns": 17,
+      "id": "7336SHFO",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 136,
+      "columns": 5,
+      "id": "70175NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 72,
+      "columns": 200,
+      "id": "70964ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 7040,
+      "columns": 5,
+      "id": "82903NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "82902NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 217,
+      "columns": 21,
+      "id": "80182ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 1505,
+      "columns": 6,
+      "id": "7219WEER",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "80603ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "82926NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83829NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83828NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83830NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83831NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 3024,
+      "columns": 38,
+      "id": "70790ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83170NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83812NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83811NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83813NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83814NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83090NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83091NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83171NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83182NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 120,
+      "columns": 8,
+      "id": "7061",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 260,
+      "columns": 8,
+      "id": "71099ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 130,
+      "columns": 8,
+      "id": "7242",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 27,
+      "columns": 19,
+      "id": "37632",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 24,
+      "columns": 60,
+      "id": "70268ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 208,
+      "columns": 11,
+      "id": "70269NED",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 276,
+      "columns": 107,
+      "id": "70220ned",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "85824ENG",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 18,
+      "columns": 272,
+      "id": "83177ENG",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 260,
+      "columns": 8,
+      "id": "71099eng",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "success",
+      "rows": 130,
+      "columns": 8,
+      "id": "7242ENG",
+      "category": "hernieuwbaar"
+    },
+    {
+      "status": "empty",
+      "id": "83982NED",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 1230,
+      "columns": 34,
+      "id": "84071NED",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 70,
+      "columns": 105,
+      "id": "83475NED",
+      "category": "co2"
+    },
+    {
+      "status": "empty",
+      "id": "85668NED",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 245,
+      "columns": 33,
+      "id": "85347NED",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 6480,
+      "columns": 5,
+      "id": "85670NED",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 63,
+      "columns": 54,
+      "id": "37502",
+      "category": "co2"
+    },
+    {
+      "status": "empty",
+      "id": "82505NED",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 396,
+      "columns": 8,
+      "id": "81229ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 4742,
+      "columns": 15,
+      "id": "37137emi",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 792,
+      "columns": 21,
+      "id": "81409ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 1728,
+      "columns": 16,
+      "id": "81395ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 414,
+      "columns": 15,
+      "id": "82955NED",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 420,
+      "columns": 15,
+      "id": "83605NED",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 1340,
+      "columns": 16,
+      "id": "71468ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 1104,
+      "columns": 15,
+      "id": "81384ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 966,
+      "columns": 15,
+      "id": "71467ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 360,
+      "columns": 8,
+      "id": "81010ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 360,
+      "columns": 8,
+      "id": "80447ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 360,
+      "columns": 8,
+      "id": "80190ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 720,
+      "columns": 9,
+      "id": "71421ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 120,
+      "columns": 15,
+      "id": "37436",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 648,
+      "columns": 13,
+      "id": "37221",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 8064,
+      "columns": 5,
+      "id": "84735NED",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 609,
+      "columns": 23,
+      "id": "7062",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 992,
+      "columns": 71,
+      "id": "7063",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 600,
+      "columns": 10,
+      "id": "70947ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 936,
+      "columns": 33,
+      "id": "81353ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 891,
+      "columns": 33,
+      "id": "71228ned",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 6480,
+      "columns": 5,
+      "id": "85670ENG",
+      "category": "co2"
+    },
+    {
+      "status": "empty",
+      "id": "85668ENG",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 1200,
+      "columns": 11,
+      "id": "85218ENG",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 520,
+      "columns": 23,
+      "id": "82873ENG",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 1728,
+      "columns": 16,
+      "id": "81395ENG",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 414,
+      "columns": 15,
+      "id": "82955ENG",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 1104,
+      "columns": 15,
+      "id": "81384ENG",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 420,
+      "columns": 15,
+      "id": "83605ENG",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 792,
+      "columns": 21,
+      "id": "81409eng",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 360,
+      "columns": 8,
+      "id": "81010eng",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 360,
+      "columns": 8,
+      "id": "80447eng",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 600,
+      "columns": 10,
+      "id": "70947eng",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 648,
+      "columns": 13,
+      "id": "37221eng",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 609,
+      "columns": 23,
+      "id": "80448eng",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 8064,
+      "columns": 5,
+      "id": "84735ENG",
+      "category": "co2"
+    },
+    {
+      "status": "success",
+      "rows": 992,
+      "columns": 71,
+      "id": "7063eng",
+      "category": "co2"
+    },
+    {
+      "status": "empty",
+      "id": "85940NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 197,
+      "id": "86118NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 54,
+      "columns": 197,
+      "id": "86120NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 64,
+      "columns": 198,
+      "id": "86119NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 11,
+      "columns": 170,
+      "id": "86117NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 84,
+      "columns": 171,
+      "id": "86116NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 84,
+      "id": "86121NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 70,
+      "columns": 69,
+      "id": "86122NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 187,
+      "id": "86073NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 54,
+      "columns": 187,
+      "id": "86075NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 64,
+      "columns": 188,
+      "id": "86074NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 11,
+      "columns": 174,
+      "id": "86072NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 84,
+      "columns": 175,
+      "id": "86071NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 99,
+      "id": "86076NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 70,
+      "columns": 83,
+      "id": "86077NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 217,
+      "id": "85734NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 54,
+      "columns": 217,
+      "id": "85736NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 64,
+      "columns": 218,
+      "id": "85735NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 11,
+      "columns": 181,
+      "id": "85733NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 84,
+      "columns": 182,
+      "id": "85732NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 92,
+      "id": "85737NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 70,
+      "columns": 77,
+      "id": "85738NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 228,
+      "id": "85409NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 54,
+      "columns": 228,
+      "id": "85411NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 64,
+      "columns": 229,
+      "id": "85410NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 11,
+      "columns": 157,
+      "id": "85408NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 84,
+      "columns": 158,
+      "id": "85407NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 106,
+      "id": "85412NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 70,
+      "columns": 91,
+      "id": "85413NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 205,
+      "id": "85179NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 54,
+      "columns": 205,
+      "id": "85181NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 64,
+      "columns": 206,
+      "id": "85180NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 11,
+      "columns": 131,
+      "id": "85178NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 84,
+      "columns": 132,
+      "id": "85183NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 89,
+      "id": "85182NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 70,
+      "columns": 74,
+      "id": "85185NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 184,
+      "id": "84830NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 64,
+      "columns": 185,
+      "id": "84831NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 54,
+      "columns": 184,
+      "id": "84832NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 11,
+      "columns": 133,
+      "id": "84829NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 84,
+      "columns": 134,
+      "id": "84828NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 190,
+      "id": "84676NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 64,
+      "columns": 191,
+      "id": "84677NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 54,
+      "columns": 190,
+      "id": "84678NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 11,
+      "columns": 157,
+      "id": "84675NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 84,
+      "columns": 158,
+      "id": "84674NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 194,
+      "id": "84404NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 42,
+      "columns": 194,
+      "id": "84408NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 64,
+      "columns": 195,
+      "id": "84409NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 11,
+      "columns": 130,
+      "id": "84410NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 84,
+      "columns": 131,
+      "id": "84411NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 23,
+      "columns": 11,
+      "id": "83249NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 9405,
+      "columns": 12,
+      "id": "86260NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "82211NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86098NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 312,
+      "columns": 30,
+      "id": "82870NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 20,
+      "columns": 11,
+      "id": "85799NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 312,
+      "columns": 36,
+      "id": "82803NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 552,
+      "columns": 19,
+      "id": "84472NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 6156,
+      "columns": 11,
+      "id": "85660NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5473,
+      "columns": 8,
+      "id": "85098NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 9766,
+      "columns": 8,
+      "id": "82972NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84529NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86154NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85985NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85594NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85310NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85038NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84812NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84599NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84579NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86060NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86156NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85994NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86197NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86196NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86195NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86194NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86193NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86192NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86191NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3600,
+      "columns": 63,
+      "id": "85464NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85130NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 11,
+      "columns": 385,
+      "id": "85853NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 8960,
+      "columns": 27,
+      "id": "83983NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 141,
+      "columns": 17,
+      "id": "83981NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 930,
+      "columns": 20,
+      "id": "85932NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 31,
+      "columns": 160,
+      "id": "85933NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 26,
+      "columns": 676,
+      "id": "81302ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 806,
+      "columns": 650,
+      "id": "80780ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "80781ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1170,
+      "columns": 650,
+      "id": "80782ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "80783ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 600,
+      "columns": 632,
+      "id": "84756NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 806,
+      "columns": 603,
+      "id": "80787ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 174,
+      "columns": 202,
+      "id": "71904ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 616,
+      "columns": 63,
+      "id": "85869NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 30,
+      "columns": 270,
+      "id": "85872NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 6188,
+      "columns": 9,
+      "id": "85937NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 30,
+      "columns": 334,
+      "id": "85873NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3870,
+      "columns": 25,
+      "id": "85867NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 6930,
+      "columns": 5,
+      "id": "84576NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84122NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1092,
+      "columns": 18,
+      "id": "82883NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85925NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7227,
+      "columns": 49,
+      "id": "70262ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1547,
+      "columns": 29,
+      "id": "37105",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86211NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "86210NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85217NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84324NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "83365NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "83207NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85619NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85770NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "83935NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3780,
+      "columns": 8,
+      "id": "84707NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 135,
+      "columns": 55,
+      "id": "70256NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 396,
+      "columns": 30,
+      "id": "84888NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 60,
+      "columns": 4,
+      "id": "71507ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 21,
+      "columns": 9,
+      "id": "70088NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 180,
+      "columns": 10,
+      "id": "72022ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 54,
+      "columns": 13,
+      "id": "37763",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 315,
+      "columns": 9,
+      "id": "71505ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 15,
+      "columns": 130,
+      "id": "71516ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 185,
+      "id": "83869NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 64,
+      "columns": 186,
+      "id": "83871NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 42,
+      "columns": 185,
+      "id": "83870NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 84,
+      "columns": 137,
+      "id": "83955NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 11,
+      "columns": 136,
+      "id": "83954NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 160,
+      "id": "83589NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 64,
+      "columns": 161,
+      "id": "83591NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 42,
+      "columns": 160,
+      "id": "83590NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 146,
+      "id": "83245NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 60,
+      "columns": 147,
+      "id": "83248NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 41,
+      "columns": 146,
+      "id": "83247NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 60,
+      "columns": 158,
+      "id": "82898NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 157,
+      "id": "82896NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 41,
+      "columns": 157,
+      "id": "82897NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 228,
+      "columns": 5,
+      "id": "70212NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 266,
+      "columns": 8,
+      "id": "70211NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 60,
+      "columns": 129,
+      "id": "82284NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 128,
+      "id": "82282NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 41,
+      "columns": 128,
+      "id": "82283NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 52,
+      "columns": 139,
+      "id": "81896NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 138,
+      "id": "81934NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 138,
+      "id": "81933NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 118,
+      "id": "81520NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 118,
+      "id": "81521NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 52,
+      "columns": 119,
+      "id": "81523NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 132,
+      "id": "80711ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 132,
+      "id": "80712ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 52,
+      "columns": 133,
+      "id": "80713ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 38,
+      "columns": 108,
+      "id": "80335ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 52,
+      "columns": 109,
+      "id": "80337ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 108,
+      "id": "80336ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 107,
+      "id": "71915ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 37,
+      "columns": 107,
+      "id": "71916ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 40,
+      "columns": 108,
+      "id": "71917ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 97,
+      "id": "71588ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 36,
+      "columns": 97,
+      "id": "71589ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 40,
+      "columns": 98,
+      "id": "71590ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 115,
+      "id": "71208ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 36,
+      "columns": 115,
+      "id": "71209ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 40,
+      "columns": 116,
+      "id": "71210ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 107,
+      "id": "71075NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 36,
+      "columns": 107,
+      "id": "71076NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 40,
+      "columns": 108,
+      "id": "71077NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 36,
+      "columns": 102,
+      "id": "70934NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 102,
+      "id": "70933NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 40,
+      "columns": 103,
+      "id": "70935NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 636,
+      "columns": 85,
+      "id": "70818NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 4,
+      "columns": 108,
+      "id": "71918ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 4,
+      "columns": 108,
+      "id": "71919ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 4,
+      "columns": 97,
+      "id": "71769ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 4,
+      "columns": 97,
+      "id": "71770ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 68,
+      "id": "71211NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 16,
+      "columns": 69,
+      "id": "71212NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 74,
+      "id": "71111ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 16,
+      "columns": 75,
+      "id": "71112ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7,
+      "columns": 71,
+      "id": "71048ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 16,
+      "columns": 72,
+      "id": "71049ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 945,
+      "columns": 7,
+      "id": "71993ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 420,
+      "columns": 7,
+      "id": "71956ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 735,
+      "columns": 7,
+      "id": "71992ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 630,
+      "columns": 7,
+      "id": "71954ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 525,
+      "columns": 7,
+      "id": "71953ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 462,
+      "columns": 4,
+      "id": "71454ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 98,
+      "columns": 35,
+      "id": "70251NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 72,
+      "columns": 6,
+      "id": "70252NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 86,
+      "columns": 8,
+      "id": "80753ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 86,
+      "columns": 8,
+      "id": "71870NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 86,
+      "columns": 8,
+      "id": "37174ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 86,
+      "columns": 8,
+      "id": "71257ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 86,
+      "columns": 8,
+      "id": "70853ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1776,
+      "columns": 8,
+      "id": "70856ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 86,
+      "columns": 8,
+      "id": "70161ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1850,
+      "columns": 8,
+      "id": "70138ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 798,
+      "columns": 30,
+      "id": "7104",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 240,
+      "columns": 18,
+      "id": "60037",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "81955NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3780,
+      "columns": 16,
+      "id": "83325NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 6270,
+      "columns": 26,
+      "id": "83403NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "37392",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1470,
+      "columns": 19,
+      "id": "37621",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 196,
+      "columns": 9,
+      "id": "37596",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1008,
+      "columns": 63,
+      "id": "80101ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 72,
+      "columns": 18,
+      "id": "84714NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 48,
+      "columns": 19,
+      "id": "71456ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 75,
+      "columns": 137,
+      "id": "37758",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 60,
+      "columns": 41,
+      "id": "7098BEKU",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "81449NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "81448NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "81458NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "81457NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85637NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85375NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85045NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84906NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84662NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84420NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "83817NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "83619NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "83265NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "83264NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 30,
+      "columns": 428,
+      "id": "7042mc",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 162,
+      "columns": 18,
+      "id": "80167ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 162,
+      "columns": 19,
+      "id": "80276ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 264,
+      "columns": 69,
+      "id": "81175ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 472,
+      "columns": 68,
+      "id": "81177ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 105,
+      "columns": 146,
+      "id": "7474PROV",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 22,
+      "columns": 135,
+      "id": "60052ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 2527,
+      "columns": 73,
+      "id": "7125",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 348,
+      "columns": 24,
+      "id": "7126",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 8,
+      "columns": 71,
+      "id": "37928",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3,
+      "columns": 83,
+      "id": "70955NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 47,
+      "columns": 4,
+      "id": "37374",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 111,
+      "columns": 57,
+      "id": "37154",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "70076ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5796,
+      "columns": 9,
+      "id": "82608NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 6916,
+      "columns": 16,
+      "id": "71052NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 83,
+      "columns": 54,
+      "id": "37662",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 910,
+      "columns": 35,
+      "id": "84007NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3834,
+      "columns": 20,
+      "id": "82886NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84010NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 2328,
+      "columns": 9,
+      "id": "37606",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5040,
+      "columns": 50,
+      "id": "80885ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5500,
+      "columns": 28,
+      "id": "82506NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 40,
+      "columns": 25,
+      "id": "82504NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 36,
+      "columns": 46,
+      "id": "80408ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "7311slmi",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3840,
+      "columns": 62,
+      "id": "70950NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 117,
+      "columns": 120,
+      "id": "37569",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 952,
+      "columns": 20,
+      "id": "84297NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 748,
+      "columns": 20,
+      "id": "82992NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 29,
+      "columns": 160,
+      "id": "84298NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 23,
+      "columns": 160,
+      "id": "82993NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 500,
+      "columns": 595,
+      "id": "71465ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 7070,
+      "columns": 75,
+      "id": "71416ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "71466ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 310,
+      "columns": 595,
+      "id": "71284ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 310,
+      "columns": 99,
+      "id": "71921ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 101,
+      "columns": 455,
+      "id": "37858",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 90,
+      "columns": 9,
+      "id": "70786ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1544,
+      "columns": 28,
+      "id": "70699ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 60,
+      "columns": 100,
+      "id": "7205SHFO",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 311,
+      "columns": 18,
+      "id": "37561weu",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1625,
+      "columns": 36,
+      "id": "81150ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1232,
+      "columns": 63,
+      "id": "84092NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3190,
+      "columns": 63,
+      "id": "83068NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 138,
+      "columns": 133,
+      "id": "37741nr",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 44,
+      "columns": 162,
+      "id": "81609NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5456,
+      "columns": 24,
+      "id": "81119ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 44,
+      "columns": 234,
+      "id": "81608NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 28,
+      "columns": 270,
+      "id": "84093NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 48,
+      "columns": 266,
+      "id": "83069NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 28,
+      "columns": 238,
+      "id": "84094NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 48,
+      "columns": 234,
+      "id": "83071NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1449,
+      "columns": 18,
+      "id": "7465nr",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 2870,
+      "columns": 22,
+      "id": "7464nr",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3612,
+      "columns": 25,
+      "id": "84088NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5952,
+      "columns": 25,
+      "id": "82572NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 150,
+      "columns": 22,
+      "id": "81120ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 129,
+      "columns": 30,
+      "id": "84114NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 24,
+      "columns": 95,
+      "id": "82568NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 99,
+      "columns": 39,
+      "id": "82560NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 567,
+      "columns": 8,
+      "id": "81398ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 222,
+      "columns": 8,
+      "id": "80693ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84419NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "82797NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "71053NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "PCR7016",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "37590tak",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 288,
+      "columns": 20,
+      "id": "7375slmi",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "60062",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 4590,
+      "columns": 20,
+      "id": "37995",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3840,
+      "columns": 25,
+      "id": "80481NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 18,
+      "columns": 13,
+      "id": "37124",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 198,
+      "columns": 21,
+      "id": "70649NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 884,
+      "columns": 12,
+      "id": "37687wat",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3198,
+      "columns": 44,
+      "id": "7041BBOD",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "81365ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 17,
+      "columns": 127,
+      "id": "70000NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 24,
+      "columns": 26,
+      "id": "7133_TB4",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 56,
+      "columns": 10,
+      "id": "7132_TB3",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 63,
+      "columns": 34,
+      "id": "81242ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5760,
+      "columns": 5,
+      "id": "81197ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 26,
+      "columns": 95,
+      "id": "81196ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 51,
+      "columns": 6,
+      "id": "37611",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "81974NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "71933ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1088,
+      "columns": 5,
+      "id": "70704ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "70038SBI",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 9828,
+      "columns": 29,
+      "id": "7035_SBI",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 62,
+      "columns": 60,
+      "id": "37696",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1050,
+      "columns": 28,
+      "id": "81103ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1680,
+      "columns": 7,
+      "id": "81125ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 984,
+      "columns": 6,
+      "id": "83496NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 8,
+      "columns": 120,
+      "id": "70002NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 6,
+      "columns": 108,
+      "id": "70003NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5,
+      "columns": 77,
+      "id": "83804NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 75,
+      "columns": 60,
+      "id": "37650",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 15,
+      "columns": 43,
+      "id": "70258NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 9,
+      "columns": 59,
+      "id": "7193SKCR",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 24,
+      "columns": 142,
+      "id": "60055ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 555,
+      "columns": 44,
+      "id": "83428NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 198,
+      "columns": 38,
+      "id": "71102ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 306,
+      "columns": 137,
+      "id": "71098ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 888,
+      "columns": 74,
+      "id": "83429NED",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 852,
+      "columns": 151,
+      "id": "70655ned",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 20,
+      "columns": 11,
+      "id": "85799ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 552,
+      "columns": 19,
+      "id": "84472ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "85940ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "84122ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 6930,
+      "columns": 5,
+      "id": "84576ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 30,
+      "columns": 270,
+      "id": "85872ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 30,
+      "columns": 334,
+      "id": "85873ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 6188,
+      "columns": 9,
+      "id": "85937ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3870,
+      "columns": 25,
+      "id": "85867ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 123,
+      "columns": 93,
+      "id": "85887ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1470,
+      "columns": 19,
+      "id": "37621eng",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3798,
+      "columns": 16,
+      "id": "83325ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 6270,
+      "columns": 26,
+      "id": "83403ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 9780,
+      "columns": 26,
+      "id": "80100eng",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1440,
+      "columns": 303,
+      "id": "03799eng",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 472,
+      "columns": 68,
+      "id": "81177eng",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 264,
+      "columns": 69,
+      "id": "81175eng",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 1500,
+      "columns": 8,
+      "id": "81466ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5796,
+      "columns": 9,
+      "id": "82608ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 6916,
+      "columns": 16,
+      "id": "71052eng",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "70076eng",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 28,
+      "columns": 270,
+      "id": "84093ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 48,
+      "columns": 266,
+      "id": "83069ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 28,
+      "columns": 238,
+      "id": "84094ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 48,
+      "columns": 234,
+      "id": "83071ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5952,
+      "columns": 25,
+      "id": "82572ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 3612,
+      "columns": 25,
+      "id": "84088ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5456,
+      "columns": 24,
+      "id": "81119eng",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "37590eng",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "71053ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 203,
+      "columns": 54,
+      "id": "84102ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 230,
+      "columns": 58,
+      "id": "82958ENG",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 150,
+      "columns": 22,
+      "id": "81120eng",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 2870,
+      "columns": 22,
+      "id": "37720nre",
+      "category": "verbruik"
+    },
+    {
+      "status": "empty",
+      "id": "71934eng",
+      "category": "verbruik"
+    },
+    {
+      "status": "success",
+      "rows": 5344,
+      "columns": 14,
+      "id": "81352ned",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "81351ned",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "85828NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 392,
+      "columns": 16,
+      "id": "85943NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 3430,
+      "columns": 14,
+      "id": "85942NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 55,
+      "columns": 11,
+      "id": "83547NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 16,
+      "columns": 41,
+      "id": "81201ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 112,
+      "columns": 50,
+      "id": "81278ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 401,
+      "columns": 12,
+      "id": "7425zuiv",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "85806NED",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "85636NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 380,
+      "columns": 5,
+      "id": "84075NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 513,
+      "columns": 11,
+      "id": "80240ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 2077,
+      "columns": 11,
+      "id": "85934NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 7922,
+      "columns": 5,
+      "id": "7123slac",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 620,
+      "columns": 210,
+      "id": "85879NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 775,
+      "columns": 213,
+      "id": "85880NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 30,
+      "columns": 186,
+      "id": "85865NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 1008,
+      "columns": 8,
+      "id": "83154NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 945,
+      "columns": 8,
+      "id": "83155NED",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "81236ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 1624,
+      "columns": 15,
+      "id": "82851NED",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "81238ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 6090,
+      "columns": 10,
+      "id": "80341ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 69,
+      "columns": 34,
+      "id": "71492ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 101,
+      "columns": 113,
+      "id": "37286",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 112,
+      "columns": 15,
+      "id": "37334",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 85,
+      "columns": 11,
+      "id": "70979ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 51,
+      "columns": 11,
+      "id": "60011mpp",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 308,
+      "columns": 10,
+      "id": "37921",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 57,
+      "columns": 45,
+      "id": "70839ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 44,
+      "columns": 175,
+      "id": "71584ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 8,
+      "columns": 70,
+      "id": "82789NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 25,
+      "columns": 67,
+      "id": "70823ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 17,
+      "columns": 32,
+      "id": "70217ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 9,
+      "columns": 51,
+      "id": "71345ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 5,
+      "columns": 48,
+      "id": "71376ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 60,
+      "columns": 25,
+      "id": "7489trre",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 20,
+      "columns": 84,
+      "id": "70216ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 8,
+      "columns": 12,
+      "id": "71394ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 8,
+      "columns": 304,
+      "id": "70034ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 13,
+      "columns": 82,
+      "id": "70033ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 36,
+      "columns": 30,
+      "id": "71470ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 17,
+      "columns": 22,
+      "id": "70215ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 120,
+      "columns": 79,
+      "id": "7107_96",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 210,
+      "columns": 70,
+      "id": "71346ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 66,
+      "columns": 211,
+      "id": "81732NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 77,
+      "columns": 154,
+      "id": "82247NED",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "80517ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 9282,
+      "columns": 23,
+      "id": "72009ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 8092,
+      "columns": 17,
+      "id": "70696ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 39,
+      "columns": 26,
+      "id": "7178ZUIV",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "82043NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 93,
+      "columns": 46,
+      "id": "70661NED",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "83838NED",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "81810NED",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "7100oogs",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 161,
+      "columns": 37,
+      "id": "70014ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 1885,
+      "columns": 11,
+      "id": "84299NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 1495,
+      "columns": 11,
+      "id": "82994NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 28,
+      "columns": 63,
+      "id": "7203vloo",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 730,
+      "columns": 213,
+      "id": "84106NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 580,
+      "columns": 216,
+      "id": "82602NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 655,
+      "columns": 212,
+      "id": "81171ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 584,
+      "columns": 210,
+      "id": "84105NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 464,
+      "columns": 213,
+      "id": "82601NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 524,
+      "columns": 209,
+      "id": "81170ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 605,
+      "columns": 240,
+      "id": "03751",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 484,
+      "columns": 240,
+      "id": "37595",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 28,
+      "columns": 186,
+      "id": "84087NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 48,
+      "columns": 190,
+      "id": "82262NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 5456,
+      "columns": 7,
+      "id": "81144ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 3275,
+      "columns": 15,
+      "id": "81146ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 3100,
+      "columns": 15,
+      "id": "81148ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 44,
+      "columns": 190,
+      "id": "81117ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 336,
+      "columns": 200,
+      "id": "37723nr",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 441,
+      "columns": 73,
+      "id": "82569NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 918,
+      "columns": 7,
+      "id": "82264NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 2880,
+      "columns": 7,
+      "id": "81400ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 2720,
+      "columns": 7,
+      "id": "81385ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 612,
+      "columns": 7,
+      "id": "82804NED",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 867,
+      "columns": 7,
+      "id": "82273NED",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "81355ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 413,
+      "columns": 74,
+      "id": "81198ned",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 6,
+      "columns": 38,
+      "id": "60013",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 62,
+      "columns": 31,
+      "id": "70122ned",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "85636ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 141,
+      "columns": 17,
+      "id": "83981ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 401,
+      "columns": 12,
+      "id": "7425eng",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 55,
+      "columns": 11,
+      "id": "83547ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 392,
+      "columns": 16,
+      "id": "85943ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 3430,
+      "columns": 14,
+      "id": "85942ENG",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "81351ENG",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "85828ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 1232,
+      "columns": 6,
+      "id": "82814ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 620,
+      "columns": 210,
+      "id": "85879ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 775,
+      "columns": 213,
+      "id": "85880ENG",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "85925ENG",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "85806ENG",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "37325eng",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 36,
+      "columns": 46,
+      "id": "80408ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 40,
+      "columns": 25,
+      "id": "82504ENG",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "7100eng",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 85,
+      "columns": 11,
+      "id": "70979eng",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 51,
+      "columns": 11,
+      "id": "60011ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 1624,
+      "columns": 15,
+      "id": "82851ENG",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "81238eng",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 62,
+      "columns": 31,
+      "id": "70122eng",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 730,
+      "columns": 213,
+      "id": "84106ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 580,
+      "columns": 216,
+      "id": "82602ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 584,
+      "columns": 210,
+      "id": "84105ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 464,
+      "columns": 213,
+      "id": "82601ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 655,
+      "columns": 212,
+      "id": "81171eng",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 524,
+      "columns": 209,
+      "id": "81170eng",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "84419ENG",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "82797ENG",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "81355eng",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 605,
+      "columns": 240,
+      "id": "03751eng",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 484,
+      "columns": 240,
+      "id": "37595eng",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "7055eng",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 9282,
+      "columns": 23,
+      "id": "80092eng",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "83838ENG",
+      "category": "productie"
+    },
+    {
+      "status": "empty",
+      "id": "81810ENG",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 8092,
+      "columns": 17,
+      "id": "70696eng",
+      "category": "productie"
+    },
+    {
+      "status": "success",
+      "rows": 884,
+      "columns": 12,
+      "id": "37687eng",
+      "category": "productie"
+    }
+  ]
+}

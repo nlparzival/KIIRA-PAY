@@ -1,0 +1,2662 @@
+[
+  {
+    "ID":0,
+    "Landbouwproductie":"A042356",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":45739.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":1,
+    "Landbouwproductie":"A042356",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":27319.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":2,
+    "Landbouwproductie":"A042356",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":59783.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":3,
+    "Landbouwproductie":"A042356",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":46232.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":4,
+    "Landbouwproductie":"A042356",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":52538.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":5,
+    "Landbouwproductie":"A042356",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":59740.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":6,
+    "Landbouwproductie":"A042356",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":42907.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":7,
+    "Landbouwproductie":"A042356",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":61670.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":8,
+    "Landbouwproductie":"A042356",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":38913.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":9,
+    "Landbouwproductie":"A042356",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":41955.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":10,
+    "Landbouwproductie":"A042359",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":12621.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":11,
+    "Landbouwproductie":"A042359",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":9432.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":12,
+    "Landbouwproductie":"A042359",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":11458.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":13,
+    "Landbouwproductie":"A042359",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":13630.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":14,
+    "Landbouwproductie":"A042359",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":15972.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":15,
+    "Landbouwproductie":"A042359",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":20510.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":16,
+    "Landbouwproductie":"A042359",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":17548.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":17,
+    "Landbouwproductie":"A042359",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":20330.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":18,
+    "Landbouwproductie":"A042359",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":17950.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":19,
+    "Landbouwproductie":"A042359",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":17679.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":20,
+    "Landbouwproductie":"A042160",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":2979.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":21,
+    "Landbouwproductie":"A042160",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":2952.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":22,
+    "Landbouwproductie":"A042160",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":2139.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":23,
+    "Landbouwproductie":"A042160",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":3101.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":24,
+    "Landbouwproductie":"A042160",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":3477.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":25,
+    "Landbouwproductie":"A042160",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":4136.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":26,
+    "Landbouwproductie":"A042160",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":5681.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":27,
+    "Landbouwproductie":"A042160",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":5770.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":28,
+    "Landbouwproductie":"A042160",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":6769.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":29,
+    "Landbouwproductie":"A042160",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":4408.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":30,
+    "Landbouwproductie":"A042164",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":2148.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":31,
+    "Landbouwproductie":"A042164",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":1633.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":32,
+    "Landbouwproductie":"A042164",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":1661.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":33,
+    "Landbouwproductie":"A042164",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":2746.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":34,
+    "Landbouwproductie":"A042164",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":3229.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":35,
+    "Landbouwproductie":"A042164",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":3689.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":36,
+    "Landbouwproductie":"A042164",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":3576.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":37,
+    "Landbouwproductie":"A042164",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":4461.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":38,
+    "Landbouwproductie":"A042164",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":3302.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":39,
+    "Landbouwproductie":"A042164",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":3111.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":40,
+    "Landbouwproductie":"A042170",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":7769.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":41,
+    "Landbouwproductie":"A042170",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":4685.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":42,
+    "Landbouwproductie":"A042170",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":4689.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":43,
+    "Landbouwproductie":"A042170",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":5046.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":44,
+    "Landbouwproductie":"A042170",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":4662.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":45,
+    "Landbouwproductie":"A042170",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":6340.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":46,
+    "Landbouwproductie":"A042170",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":5315.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":47,
+    "Landbouwproductie":"A042170",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":8937.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":48,
+    "Landbouwproductie":"A042170",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":8097.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":49,
+    "Landbouwproductie":"A042170",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":5419.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":50,
+    "Landbouwproductie":"A042169",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":1339.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":51,
+    "Landbouwproductie":"A042169",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":705.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":52,
+    "Landbouwproductie":"A042169",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":961.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":53,
+    "Landbouwproductie":"A042169",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":1265.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":54,
+    "Landbouwproductie":"A042169",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":1024.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":55,
+    "Landbouwproductie":"A042169",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":1840.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":56,
+    "Landbouwproductie":"A042169",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":1934.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":57,
+    "Landbouwproductie":"A042169",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":3027.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":58,
+    "Landbouwproductie":"A042169",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":1417.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":59,
+    "Landbouwproductie":"A042169",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":1091.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":60,
+    "Landbouwproductie":"A042173",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":1513.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":61,
+    "Landbouwproductie":"A042173",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":687.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":62,
+    "Landbouwproductie":"A042173",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":1618.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":63,
+    "Landbouwproductie":"A042173",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":1586.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":64,
+    "Landbouwproductie":"A042173",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":2566.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":65,
+    "Landbouwproductie":"A042173",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":1609.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":66,
+    "Landbouwproductie":"A042173",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":1658.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":67,
+    "Landbouwproductie":"A042173",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":2481.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":68,
+    "Landbouwproductie":"A042173",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":2219.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":69,
+    "Landbouwproductie":"A042173",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":624.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":70,
+    "Landbouwproductie":"A042165",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":1541.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":71,
+    "Landbouwproductie":"A042165",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":1110.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":72,
+    "Landbouwproductie":"A042165",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":839.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":73,
+    "Landbouwproductie":"A042165",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":1159.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":74,
+    "Landbouwproductie":"A042165",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":696.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":75,
+    "Landbouwproductie":"A042165",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":833.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":76,
+    "Landbouwproductie":"A042165",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":817.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":77,
+    "Landbouwproductie":"A042165",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":2116.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":78,
+    "Landbouwproductie":"A042165",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":1035.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":79,
+    "Landbouwproductie":"A042165",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":1229.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":80,
+    "Landbouwproductie":"A042299",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":142.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":81,
+    "Landbouwproductie":"A042299",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":118.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":82,
+    "Landbouwproductie":"A042299",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":246.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":83,
+    "Landbouwproductie":"A042299",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":349.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":84,
+    "Landbouwproductie":"A042299",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":234.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":85,
+    "Landbouwproductie":"A042299",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":310.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":86,
+    "Landbouwproductie":"A042299",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":316.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":87,
+    "Landbouwproductie":"A042299",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":408.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":88,
+    "Landbouwproductie":"A042299",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":442.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":89,
+    "Landbouwproductie":"A042299",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":274.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":90,
+    "Landbouwproductie":"A042301",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":1213.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":91,
+    "Landbouwproductie":"A042301",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":1766.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":92,
+    "Landbouwproductie":"A042301",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":2042.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":93,
+    "Landbouwproductie":"A042301",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":3432.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":94,
+    "Landbouwproductie":"A042301",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":2425.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":95,
+    "Landbouwproductie":"A042301",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":1719.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":96,
+    "Landbouwproductie":"A042301",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":3755.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":97,
+    "Landbouwproductie":"A042301",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":2810.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":98,
+    "Landbouwproductie":"A042301",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":3016.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":99,
+    "Landbouwproductie":"A042301",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":2256.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":100,
+    "Landbouwproductie":"A042304",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":992.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":101,
+    "Landbouwproductie":"A042304",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":1632.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":102,
+    "Landbouwproductie":"A042304",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":2708.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":103,
+    "Landbouwproductie":"A042304",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":1652.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":104,
+    "Landbouwproductie":"A042304",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":2868.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":105,
+    "Landbouwproductie":"A042304",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":489.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":106,
+    "Landbouwproductie":"A042304",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":747.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":107,
+    "Landbouwproductie":"A042304",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":1478.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":108,
+    "Landbouwproductie":"A042304",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":1707.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":109,
+    "Landbouwproductie":"A042304",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":2064.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":110,
+    "Landbouwproductie":"A042307",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":8720.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":111,
+    "Landbouwproductie":"A042307",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":8251.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":112,
+    "Landbouwproductie":"A042307",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":8687.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":113,
+    "Landbouwproductie":"A042307",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":12037.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":114,
+    "Landbouwproductie":"A042307",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":13520.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":115,
+    "Landbouwproductie":"A042307",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":10393.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":116,
+    "Landbouwproductie":"A042307",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":15427.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":117,
+    "Landbouwproductie":"A042307",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":13513.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":118,
+    "Landbouwproductie":"A042307",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":11834.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":119,
+    "Landbouwproductie":"A042307",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":10349.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":120,
+    "Landbouwproductie":"A042310",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":2257.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":121,
+    "Landbouwproductie":"A042310",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":2856.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":122,
+    "Landbouwproductie":"A042310",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":8306.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":123,
+    "Landbouwproductie":"A042310",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":6694.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":124,
+    "Landbouwproductie":"A042310",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":7454.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":125,
+    "Landbouwproductie":"A042310",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":6953.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":126,
+    "Landbouwproductie":"A042310",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":9691.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":127,
+    "Landbouwproductie":"A042310",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":8892.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":128,
+    "Landbouwproductie":"A042310",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":10000.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":129,
+    "Landbouwproductie":"A042310",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":4568.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":130,
+    "Landbouwproductie":"A042317",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":18136.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":131,
+    "Landbouwproductie":"A042317",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":15344.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":132,
+    "Landbouwproductie":"A042317",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":26018.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":133,
+    "Landbouwproductie":"A042317",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":21138.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":134,
+    "Landbouwproductie":"A042317",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":24246.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":135,
+    "Landbouwproductie":"A042317",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":26523.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":136,
+    "Landbouwproductie":"A042317",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":17446.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":137,
+    "Landbouwproductie":"A042317",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":25176.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":138,
+    "Landbouwproductie":"A042317",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":32223.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":139,
+    "Landbouwproductie":"A042317",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":24736.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":140,
+    "Landbouwproductie":"A042320",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":41531.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":141,
+    "Landbouwproductie":"A042320",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":42616.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":142,
+    "Landbouwproductie":"A042320",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":32856.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":143,
+    "Landbouwproductie":"A042320",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":32723.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":144,
+    "Landbouwproductie":"A042320",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":44583.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":145,
+    "Landbouwproductie":"A042320",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":54023.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":146,
+    "Landbouwproductie":"A042320",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":57046.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":147,
+    "Landbouwproductie":"A042320",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":47959.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":148,
+    "Landbouwproductie":"A042320",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":43232.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":149,
+    "Landbouwproductie":"A042320",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":38389.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":150,
+    "Landbouwproductie":"A042315",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":57328.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":151,
+    "Landbouwproductie":"A042315",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":60269.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":152,
+    "Landbouwproductie":"A042315",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":65962.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":153,
+    "Landbouwproductie":"A042315",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":64695.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":154,
+    "Landbouwproductie":"A042315",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":75922.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":155,
+    "Landbouwproductie":"A042315",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":76972.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":156,
+    "Landbouwproductie":"A042315",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":86240.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":157,
+    "Landbouwproductie":"A042315",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":56404.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":158,
+    "Landbouwproductie":"A042315",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":65974.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":159,
+    "Landbouwproductie":"A042315",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":75108.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":160,
+    "Landbouwproductie":"A042329",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":3820.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":161,
+    "Landbouwproductie":"A042329",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":4369.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":162,
+    "Landbouwproductie":"A042329",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":4157.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":163,
+    "Landbouwproductie":"A042329",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":4601.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":164,
+    "Landbouwproductie":"A042329",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":3885.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":165,
+    "Landbouwproductie":"A042329",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":4849.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":166,
+    "Landbouwproductie":"A042329",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":4675.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":167,
+    "Landbouwproductie":"A042329",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":4041.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":168,
+    "Landbouwproductie":"A042329",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":3826.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":169,
+    "Landbouwproductie":"A042329",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":3172.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":170,
+    "Landbouwproductie":"A042331",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":1695.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":171,
+    "Landbouwproductie":"A042331",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":1488.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":172,
+    "Landbouwproductie":"A042331",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":1580.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":173,
+    "Landbouwproductie":"A042331",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":2002.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":174,
+    "Landbouwproductie":"A042331",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":1839.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":175,
+    "Landbouwproductie":"A042331",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":1360.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":176,
+    "Landbouwproductie":"A042331",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":1379.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":177,
+    "Landbouwproductie":"A042331",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":1866.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":178,
+    "Landbouwproductie":"A042331",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":668.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":179,
+    "Landbouwproductie":"A042331",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":1256.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":180,
+    "Landbouwproductie":"A042334",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":13691.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":181,
+    "Landbouwproductie":"A042334",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":12051.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":182,
+    "Landbouwproductie":"A042334",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":13542.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":183,
+    "Landbouwproductie":"A042334",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":12147.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":184,
+    "Landbouwproductie":"A042334",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":13472.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":185,
+    "Landbouwproductie":"A042334",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":15488.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":186,
+    "Landbouwproductie":"A042334",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":17603.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":187,
+    "Landbouwproductie":"A042334",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":12599.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":188,
+    "Landbouwproductie":"A042334",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":16090.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":189,
+    "Landbouwproductie":"A042334",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":17327.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":190,
+    "Landbouwproductie":"A042333",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":859.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":191,
+    "Landbouwproductie":"A042333",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":1705.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":192,
+    "Landbouwproductie":"A042333",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":3090.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":193,
+    "Landbouwproductie":"A042333",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":1792.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":194,
+    "Landbouwproductie":"A042333",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":2123.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":195,
+    "Landbouwproductie":"A042333",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":1057.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":196,
+    "Landbouwproductie":"A042333",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":1265.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":197,
+    "Landbouwproductie":"A042333",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":2228.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":198,
+    "Landbouwproductie":"A042333",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":1078.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":199,
+    "Landbouwproductie":"A042333",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":1505.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":200,
+    "Landbouwproductie":"A042351",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":1617.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":201,
+    "Landbouwproductie":"A042351",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":1990.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":202,
+    "Landbouwproductie":"A042351",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":2489.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":203,
+    "Landbouwproductie":"A042351",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":3647.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":204,
+    "Landbouwproductie":"A042351",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":6078.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":205,
+    "Landbouwproductie":"A042351",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":4087.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":206,
+    "Landbouwproductie":"A042351",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":7903.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":207,
+    "Landbouwproductie":"A042351",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":5785.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":208,
+    "Landbouwproductie":"A042351",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":6802.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":209,
+    "Landbouwproductie":"A042351",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":6469.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":210,
+    "Landbouwproductie":"A042168",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":35697.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":211,
+    "Landbouwproductie":"A042168",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":31049.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":212,
+    "Landbouwproductie":"A042168",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":32795.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":213,
+    "Landbouwproductie":"A042168",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":34391.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":214,
+    "Landbouwproductie":"A042168",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":46122.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":215,
+    "Landbouwproductie":"A042168",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":47131.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":216,
+    "Landbouwproductie":"A042168",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":48591.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":217,
+    "Landbouwproductie":"A042168",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":53418.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":218,
+    "Landbouwproductie":"A042168",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":69745.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":219,
+    "Landbouwproductie":"A042168",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":58142.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":220,
+    "Landbouwproductie":"A042278",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":215.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":221,
+    "Landbouwproductie":"A042278",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":106.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":222,
+    "Landbouwproductie":"A042278",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":177.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":223,
+    "Landbouwproductie":"A042278",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":110.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":224,
+    "Landbouwproductie":"A042278",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":179.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":225,
+    "Landbouwproductie":"A042278",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":130.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":226,
+    "Landbouwproductie":"A042278",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":448.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":227,
+    "Landbouwproductie":"A042278",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":82.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":228,
+    "Landbouwproductie":"A042278",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":78.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":229,
+    "Landbouwproductie":"A042278",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":76.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":230,
+    "Landbouwproductie":"A044051",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":7177.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":231,
+    "Landbouwproductie":"A044051",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":6658.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":232,
+    "Landbouwproductie":"A044051",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":4701.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":233,
+    "Landbouwproductie":"A044051",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":6053.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":234,
+    "Landbouwproductie":"A044051",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":7820.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":235,
+    "Landbouwproductie":"A044051",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":6290.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":236,
+    "Landbouwproductie":"A044051",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":7632.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":237,
+    "Landbouwproductie":"A044051",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":7228.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":238,
+    "Landbouwproductie":"A044051",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":4925.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":239,
+    "Landbouwproductie":"A044051",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":6101.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":240,
+    "Landbouwproductie":"A044052",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":2682.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":241,
+    "Landbouwproductie":"A044052",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":4187.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":242,
+    "Landbouwproductie":"A044052",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":4987.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":243,
+    "Landbouwproductie":"A044052",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":3326.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":244,
+    "Landbouwproductie":"A044052",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":3648.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":245,
+    "Landbouwproductie":"A044052",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":4075.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":246,
+    "Landbouwproductie":"A044052",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":4185.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":247,
+    "Landbouwproductie":"A044052",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":4207.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":248,
+    "Landbouwproductie":"A044052",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":7330.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":249,
+    "Landbouwproductie":"A044052",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":6498.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":250,
+    "Landbouwproductie":"A045002",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":10451.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":251,
+    "Landbouwproductie":"A045002",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":11135.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":252,
+    "Landbouwproductie":"A045002",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":13130.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":253,
+    "Landbouwproductie":"A045002",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":13749.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":254,
+    "Landbouwproductie":"A045002",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":15038.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":255,
+    "Landbouwproductie":"A045002",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":14941.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":256,
+    "Landbouwproductie":"A045002",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":15469.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":257,
+    "Landbouwproductie":"A045002",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":15018.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":258,
+    "Landbouwproductie":"A045002",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":16033.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":259,
+    "Landbouwproductie":"A045002",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":16318.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":260,
+    "Landbouwproductie":"A045003",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":3460.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":261,
+    "Landbouwproductie":"A045003",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":3728.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":262,
+    "Landbouwproductie":"A045003",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":3963.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":263,
+    "Landbouwproductie":"A045003",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":4017.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":264,
+    "Landbouwproductie":"A045003",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":3974.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":265,
+    "Landbouwproductie":"A045003",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":4198.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":266,
+    "Landbouwproductie":"A045003",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":4457.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":267,
+    "Landbouwproductie":"A045003",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":3568.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":268,
+    "Landbouwproductie":"A045003",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":3698.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":269,
+    "Landbouwproductie":"A045003",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":4253.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":270,
+    "Landbouwproductie":"A045004",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":6527.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":271,
+    "Landbouwproductie":"A045004",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":6957.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":272,
+    "Landbouwproductie":"A045004",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":8660.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":273,
+    "Landbouwproductie":"A045004",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":9133.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":274,
+    "Landbouwproductie":"A045004",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":10247.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":275,
+    "Landbouwproductie":"A045004",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":9597.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":276,
+    "Landbouwproductie":"A045004",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":10067.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":277,
+    "Landbouwproductie":"A045004",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":10512.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":278,
+    "Landbouwproductie":"A045004",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":11247.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":279,
+    "Landbouwproductie":"A045004",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":10793.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":280,
+    "Landbouwproductie":"A045005",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":464.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":281,
+    "Landbouwproductie":"A045005",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":550.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":282,
+    "Landbouwproductie":"A045005",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":507.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":283,
+    "Landbouwproductie":"A045005",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":599.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":284,
+    "Landbouwproductie":"A045005",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":817.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":285,
+    "Landbouwproductie":"A045005",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":1146.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":286,
+    "Landbouwproductie":"A045005",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":945.0,
+    "EenheidVanProductie_2":"1000kgkarkasgewicht  "
+  },
+  {
+    "ID":287,
+    "Landbouwproductie":"A045005",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":938.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":288,
+    "Landbouwproductie":"A045005",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":1088.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":289,
+    "Landbouwproductie":"A045005",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":1272.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":290,
+    "Landbouwproductie":"A044994",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":197956.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":291,
+    "Landbouwproductie":"A044994",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":218061.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":292,
+    "Landbouwproductie":"A044994",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":247795.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":293,
+    "Landbouwproductie":"A044994",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":293681.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":294,
+    "Landbouwproductie":"A044994",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":301634.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":295,
+    "Landbouwproductie":"A044994",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":315979.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":296,
+    "Landbouwproductie":"A044994",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":333838.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":297,
+    "Landbouwproductie":"A044994",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":346405.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":298,
+    "Landbouwproductie":"A044994",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":367919.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":299,
+    "Landbouwproductie":"A044994",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":373078.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":300,
+    "Landbouwproductie":"A044995",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":177695.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":301,
+    "Landbouwproductie":"A044995",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":198576.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":302,
+    "Landbouwproductie":"A044995",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":223181.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":303,
+    "Landbouwproductie":"A044995",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":260260.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":304,
+    "Landbouwproductie":"A044995",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":265314.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":305,
+    "Landbouwproductie":"A044995",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":280287.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":306,
+    "Landbouwproductie":"A044995",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":296192.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":307,
+    "Landbouwproductie":"A044995",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":309403.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":308,
+    "Landbouwproductie":"A044995",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":333665.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":309,
+    "Landbouwproductie":"A044995",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":342145.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":310,
+    "Landbouwproductie":"A044996",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":20261.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":311,
+    "Landbouwproductie":"A044996",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":19485.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":312,
+    "Landbouwproductie":"A044996",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":24614.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":313,
+    "Landbouwproductie":"A044996",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":33421.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":314,
+    "Landbouwproductie":"A044996",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":36320.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":315,
+    "Landbouwproductie":"A044996",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":35692.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":316,
+    "Landbouwproductie":"A044996",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":37646.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":317,
+    "Landbouwproductie":"A044996",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":37002.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":318,
+    "Landbouwproductie":"A044996",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":34254.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":319,
+    "Landbouwproductie":"A044996",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":30933.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":320,
+    "Landbouwproductie":"A044997",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":239.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":321,
+    "Landbouwproductie":"A044997",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":263.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":322,
+    "Landbouwproductie":"A044997",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":299.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":323,
+    "Landbouwproductie":"A044997",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":354.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":324,
+    "Landbouwproductie":"A044997",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":363.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":325,
+    "Landbouwproductie":"A044997",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":381.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":326,
+    "Landbouwproductie":"A044997",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":402.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":327,
+    "Landbouwproductie":"A044997",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":505.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":328,
+    "Landbouwproductie":"A044997",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":638.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":329,
+    "Landbouwproductie":"A044997",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":773.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":330,
+    "Landbouwproductie":"A044998",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":2426.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":331,
+    "Landbouwproductie":"A044998",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":2672.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":332,
+    "Landbouwproductie":"A044998",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":3037.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":333,
+    "Landbouwproductie":"A044998",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":3599.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":334,
+    "Landbouwproductie":"A044998",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":3697.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":335,
+    "Landbouwproductie":"A044998",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":3872.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":336,
+    "Landbouwproductie":"A044998",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":4091.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":337,
+    "Landbouwproductie":"A044998",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":3512.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":338,
+    "Landbouwproductie":"A044998",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":3767.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":339,
+    "Landbouwproductie":"A044998",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":3704.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":340,
+    "Landbouwproductie":"A044999",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":6384.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":341,
+    "Landbouwproductie":"A044999",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":7033.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":342,
+    "Landbouwproductie":"A044999",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":7992.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":343,
+    "Landbouwproductie":"A044999",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":9471.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":344,
+    "Landbouwproductie":"A044999",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":9728.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":345,
+    "Landbouwproductie":"A044999",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":10191.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":346,
+    "Landbouwproductie":"A044999",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":10766.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":347,
+    "Landbouwproductie":"A044999",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":10645.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":348,
+    "Landbouwproductie":"A044999",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":13414.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":349,
+    "Landbouwproductie":"A044999",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":12648.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":350,
+    "Landbouwproductie":"A045000",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":19264.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":351,
+    "Landbouwproductie":"A045000",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":21221.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":352,
+    "Landbouwproductie":"A045000",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":24114.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":353,
+    "Landbouwproductie":"A045000",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":28579.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":354,
+    "Landbouwproductie":"A045000",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":29353.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":355,
+    "Landbouwproductie":"A045000",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":30749.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":356,
+    "Landbouwproductie":"A045000",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":32487.0,
+    "EenheidVanProductie_2":"1000kg               "
+  },
+  {
+    "ID":357,
+    "Landbouwproductie":"A045000",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":27758.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":358,
+    "Landbouwproductie":"A045000",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":29496.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":359,
+    "Landbouwproductie":"A045000",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":35083.0,
+    "EenheidVanProductie_2":"1000 kg              "
+  },
+  {
+    "ID":360,
+    "Landbouwproductie":"A045001",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":708004275.0,
+    "EenheidVanProductie_2":"stuks                "
+  },
+  {
+    "ID":361,
+    "Landbouwproductie":"A045001",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":773102000.0,
+    "EenheidVanProductie_2":"stuks                "
+  },
+  {
+    "ID":362,
+    "Landbouwproductie":"A045001",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":882995575.0,
+    "EenheidVanProductie_2":"stuks                "
+  },
+  {
+    "ID":363,
+    "Landbouwproductie":"A045001",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":996378075.0,
+    "EenheidVanProductie_2":"stuks                "
+  },
+  {
+    "ID":364,
+    "Landbouwproductie":"A045001",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":1032801000.0,
+    "EenheidVanProductie_2":"stuks                "
+  },
+  {
+    "ID":365,
+    "Landbouwproductie":"A045001",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":1007555450.0,
+    "EenheidVanProductie_2":"stuks                "
+  },
+  {
+    "ID":366,
+    "Landbouwproductie":"A045001",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":998847850.0,
+    "EenheidVanProductie_2":"stuks                "
+  },
+  {
+    "ID":367,
+    "Landbouwproductie":"A045001",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":981338900.0,
+    "EenheidVanProductie_2":"stuks                "
+  },
+  {
+    "ID":368,
+    "Landbouwproductie":"A045001",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":822732900.0,
+    "EenheidVanProductie_2":"stuks                "
+  },
+  {
+    "ID":369,
+    "Landbouwproductie":"A045001",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":851907400.0,
+    "EenheidVanProductie_2":"stuks                "
+  },
+  {
+    "ID":370,
+    "Landbouwproductie":"A045006",
+    "Perioden":"2015JJ00",
+    "Hoeveelheid_1":null,
+    "EenheidVanProductie_2":"1000kglevendgewicht  "
+  },
+  {
+    "ID":371,
+    "Landbouwproductie":"A045006",
+    "Perioden":"2016JJ00",
+    "Hoeveelheid_1":5195.0,
+    "EenheidVanProductie_2":"1000kglevendgewicht  "
+  },
+  {
+    "ID":372,
+    "Landbouwproductie":"A045006",
+    "Perioden":"2017JJ00",
+    "Hoeveelheid_1":3611.0,
+    "EenheidVanProductie_2":"1000kglevendgewicht  "
+  },
+  {
+    "ID":373,
+    "Landbouwproductie":"A045006",
+    "Perioden":"2018JJ00",
+    "Hoeveelheid_1":3751.0,
+    "EenheidVanProductie_2":"1000kglevendgewicht  "
+  },
+  {
+    "ID":374,
+    "Landbouwproductie":"A045006",
+    "Perioden":"2019JJ00",
+    "Hoeveelheid_1":8536.0,
+    "EenheidVanProductie_2":"1000kglevendgewicht  "
+  },
+  {
+    "ID":375,
+    "Landbouwproductie":"A045006",
+    "Perioden":"2020JJ00",
+    "Hoeveelheid_1":7978.0,
+    "EenheidVanProductie_2":"1000kglevendgewicht  "
+  },
+  {
+    "ID":376,
+    "Landbouwproductie":"A045006",
+    "Perioden":"2021JJ00",
+    "Hoeveelheid_1":15277.0,
+    "EenheidVanProductie_2":"1000kglevendgewicht  "
+  },
+  {
+    "ID":377,
+    "Landbouwproductie":"A045006",
+    "Perioden":"2022JJ00",
+    "Hoeveelheid_1":13912.0,
+    "EenheidVanProductie_2":"1000 kg karkasgewicht"
+  },
+  {
+    "ID":378,
+    "Landbouwproductie":"A045006",
+    "Perioden":"2023JJ00",
+    "Hoeveelheid_1":19406.0,
+    "EenheidVanProductie_2":"1000 kg levendgewicht"
+  },
+  {
+    "ID":379,
+    "Landbouwproductie":"A045006",
+    "Perioden":"2024JJ00",
+    "Hoeveelheid_1":14860.0,
+    "EenheidVanProductie_2":"1000 kg levendgewicht"
+  }
+]

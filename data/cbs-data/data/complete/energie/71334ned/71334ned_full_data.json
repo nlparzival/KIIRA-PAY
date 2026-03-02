@@ -1,0 +1,146 @@
+[
+  {
+    "ID":0,
+    "WijzeVanReserveren":"6",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":10012,
+    "Overnachtingen_2":25210
+  },
+  {
+    "ID":1,
+    "WijzeVanReserveren":"6",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":8081,
+    "Overnachtingen_2":15143
+  },
+  {
+    "ID":2,
+    "WijzeVanReserveren":"6",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1931,
+    "Overnachtingen_2":10067
+  },
+  {
+    "ID":3,
+    "WijzeVanReserveren":"1",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":3421,
+    "Overnachtingen_2":9861
+  },
+  {
+    "ID":4,
+    "WijzeVanReserveren":"1",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":2499,
+    "Overnachtingen_2":4691
+  },
+  {
+    "ID":5,
+    "WijzeVanReserveren":"1",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":922,
+    "Overnachtingen_2":5169
+  },
+  {
+    "ID":6,
+    "WijzeVanReserveren":"2",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":2800,
+    "Overnachtingen_2":7220
+  },
+  {
+    "ID":7,
+    "WijzeVanReserveren":"2",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":2303,
+    "Overnachtingen_2":4355
+  },
+  {
+    "ID":8,
+    "WijzeVanReserveren":"2",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":497,
+    "Overnachtingen_2":2865
+  },
+  {
+    "ID":9,
+    "WijzeVanReserveren":"3",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1869,
+    "Overnachtingen_2":4637
+  },
+  {
+    "ID":10,
+    "WijzeVanReserveren":"3",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1445,
+    "Overnachtingen_2":2973
+  },
+  {
+    "ID":11,
+    "WijzeVanReserveren":"3",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":424,
+    "Overnachtingen_2":1663
+  },
+  {
+    "ID":12,
+    "WijzeVanReserveren":"4",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":392,
+    "Overnachtingen_2":810
+  },
+  {
+    "ID":13,
+    "WijzeVanReserveren":"4",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":373,
+    "Overnachtingen_2":686
+  },
+  {
+    "ID":14,
+    "WijzeVanReserveren":"4",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":19,
+    "Overnachtingen_2":124
+  },
+  {
+    "ID":15,
+    "WijzeVanReserveren":"5",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1530,
+    "Overnachtingen_2":2683
+  },
+  {
+    "ID":16,
+    "WijzeVanReserveren":"5",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1461,
+    "Overnachtingen_2":2438
+  },
+  {
+    "ID":17,
+    "WijzeVanReserveren":"5",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":69,
+    "Overnachtingen_2":246
+  }
+]

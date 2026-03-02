@@ -1,0 +1,2270 @@
+[
+  {
+    "ID":0,
+    "EnergyCommodities":"1 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionHouseholds_1":467.09
+  },
+  {
+    "ID":1,
+    "EnergyCommodities":"1 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionHouseholds_1":470.04
+  },
+  {
+    "ID":2,
+    "EnergyCommodities":"1 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionHouseholds_1":520.13
+  },
+  {
+    "ID":3,
+    "EnergyCommodities":"1 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionHouseholds_1":550.86
+  },
+  {
+    "ID":4,
+    "EnergyCommodities":"1 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionHouseholds_1":593.59
+  },
+  {
+    "ID":5,
+    "EnergyCommodities":"1 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionHouseholds_1":538.43
+  },
+  {
+    "ID":6,
+    "EnergyCommodities":"1 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionHouseholds_1":530.32
+  },
+  {
+    "ID":7,
+    "EnergyCommodities":"1 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionHouseholds_1":486.1
+  },
+  {
+    "ID":8,
+    "EnergyCommodities":"1 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionHouseholds_1":475.42
+  },
+  {
+    "ID":9,
+    "EnergyCommodities":"1 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionHouseholds_1":466.77
+  },
+  {
+    "ID":10,
+    "EnergyCommodities":"1 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionHouseholds_1":501.26
+  },
+  {
+    "ID":11,
+    "EnergyCommodities":"1 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionHouseholds_1":481.6
+  },
+  {
+    "ID":12,
+    "EnergyCommodities":"1 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionHouseholds_1":477.02
+  },
+  {
+    "ID":13,
+    "EnergyCommodities":"1 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionHouseholds_1":415.56
+  },
+  {
+    "ID":14,
+    "EnergyCommodities":"1 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionHouseholds_1":413.97
+  },
+  {
+    "ID":15,
+    "EnergyCommodities":"1 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionHouseholds_1":435.25
+  },
+  {
+    "ID":16,
+    "EnergyCommodities":"1 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionHouseholds_1":491.64
+  },
+  {
+    "ID":17,
+    "EnergyCommodities":"1 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionHouseholds_1":460.81
+  },
+  {
+    "ID":18,
+    "EnergyCommodities":"1 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionHouseholds_1":482.53
+  },
+  {
+    "ID":19,
+    "EnergyCommodities":"1 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionHouseholds_1":458.84
+  },
+  {
+    "ID":20,
+    "EnergyCommodities":"1 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionHouseholds_1":479.62
+  },
+  {
+    "ID":21,
+    "EnergyCommodities":"1 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionHouseholds_1":550.43
+  },
+  {
+    "ID":22,
+    "EnergyCommodities":"1 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionHouseholds_1":473.66
+  },
+  {
+    "ID":23,
+    "EnergyCommodities":"1 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionHouseholds_1":455.41
+  },
+  {
+    "ID":24,
+    "EnergyCommodities":"1 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionHouseholds_1":437.59
+  },
+  {
+    "ID":25,
+    "EnergyCommodities":"1 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionHouseholds_1":438.63
+  },
+  {
+    "ID":26,
+    "EnergyCommodities":"1 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionHouseholds_1":462.87
+  },
+  {
+    "ID":27,
+    "EnergyCommodities":"1 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionHouseholds_1":451.49
+  },
+  {
+    "ID":28,
+    "EnergyCommodities":"1 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionHouseholds_1":462.5
+  },
+  {
+    "ID":29,
+    "EnergyCommodities":"1 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionHouseholds_1":446.37
+  },
+  {
+    "ID":30,
+    "EnergyCommodities":"1 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionHouseholds_1":433.04
+  },
+  {
+    "ID":31,
+    "EnergyCommodities":"1 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionHouseholds_1":436.71
+  },
+  {
+    "ID":32,
+    "EnergyCommodities":"1 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionHouseholds_1":400.05
+  },
+  {
+    "ID":33,
+    "EnergyCommodities":"1 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionHouseholds_1":443.35
+  },
+  {
+    "ID":34,
+    "EnergyCommodities":"1 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionHouseholds_1":443.38
+  },
+  {
+    "ID":35,
+    "EnergyCommodities":"1 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionHouseholds_1":503.61
+  },
+  {
+    "ID":36,
+    "EnergyCommodities":"1 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionHouseholds_1":411.04
+  },
+  {
+    "ID":37,
+    "EnergyCommodities":"1 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionHouseholds_1":436.08
+  },
+  {
+    "ID":38,
+    "EnergyCommodities":"1 ",
+    "Periods":"2013JJ00",
+    "EnergyConsumptionHouseholds_1":458.84
+  },
+  {
+    "ID":39,
+    "EnergyCommodities":"1 ",
+    "Periods":"2014JJ00",
+    "EnergyConsumptionHouseholds_1":372.81
+  },
+  {
+    "ID":40,
+    "EnergyCommodities":"1 ",
+    "Periods":"2015JJ00",
+    "EnergyConsumptionHouseholds_1":390.78
+  },
+  {
+    "ID":41,
+    "EnergyCommodities":"1 ",
+    "Periods":"2016JJ00",
+    "EnergyConsumptionHouseholds_1":402.99
+  },
+  {
+    "ID":42,
+    "EnergyCommodities":"2 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionHouseholds_1":3.3
+  },
+  {
+    "ID":43,
+    "EnergyCommodities":"2 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionHouseholds_1":2.2
+  },
+  {
+    "ID":44,
+    "EnergyCommodities":"2 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionHouseholds_1":2.0
+  },
+  {
+    "ID":45,
+    "EnergyCommodities":"2 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionHouseholds_1":2.11
+  },
+  {
+    "ID":46,
+    "EnergyCommodities":"2 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionHouseholds_1":2.0
+  },
+  {
+    "ID":47,
+    "EnergyCommodities":"2 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionHouseholds_1":1.92
+  },
+  {
+    "ID":48,
+    "EnergyCommodities":"2 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionHouseholds_1":2.0
+  },
+  {
+    "ID":49,
+    "EnergyCommodities":"2 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionHouseholds_1":2.0
+  },
+  {
+    "ID":50,
+    "EnergyCommodities":"2 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionHouseholds_1":2.0
+  },
+  {
+    "ID":51,
+    "EnergyCommodities":"2 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionHouseholds_1":1.4
+  },
+  {
+    "ID":52,
+    "EnergyCommodities":"2 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionHouseholds_1":1.4
+  },
+  {
+    "ID":53,
+    "EnergyCommodities":"2 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionHouseholds_1":1.4
+  },
+  {
+    "ID":54,
+    "EnergyCommodities":"2 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionHouseholds_1":1.26
+  },
+  {
+    "ID":55,
+    "EnergyCommodities":"2 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionHouseholds_1":1.0
+  },
+  {
+    "ID":56,
+    "EnergyCommodities":"2 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionHouseholds_1":0.8
+  },
+  {
+    "ID":57,
+    "EnergyCommodities":"2 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionHouseholds_1":0.65
+  },
+  {
+    "ID":58,
+    "EnergyCommodities":"2 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionHouseholds_1":0.51
+  },
+  {
+    "ID":59,
+    "EnergyCommodities":"2 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionHouseholds_1":0.47
+  },
+  {
+    "ID":60,
+    "EnergyCommodities":"2 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionHouseholds_1":0.42
+  },
+  {
+    "ID":61,
+    "EnergyCommodities":"2 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionHouseholds_1":0.31
+  },
+  {
+    "ID":62,
+    "EnergyCommodities":"2 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionHouseholds_1":0.23
+  },
+  {
+    "ID":63,
+    "EnergyCommodities":"2 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionHouseholds_1":0.24
+  },
+  {
+    "ID":64,
+    "EnergyCommodities":"2 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionHouseholds_1":0.2
+  },
+  {
+    "ID":65,
+    "EnergyCommodities":"2 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionHouseholds_1":0.15
+  },
+  {
+    "ID":66,
+    "EnergyCommodities":"2 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionHouseholds_1":0.11
+  },
+  {
+    "ID":67,
+    "EnergyCommodities":"2 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionHouseholds_1":0.08
+  },
+  {
+    "ID":68,
+    "EnergyCommodities":"2 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionHouseholds_1":0.06
+  },
+  {
+    "ID":69,
+    "EnergyCommodities":"2 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionHouseholds_1":0.05
+  },
+  {
+    "ID":70,
+    "EnergyCommodities":"2 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionHouseholds_1":0.04
+  },
+  {
+    "ID":71,
+    "EnergyCommodities":"2 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionHouseholds_1":0.03
+  },
+  {
+    "ID":72,
+    "EnergyCommodities":"2 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionHouseholds_1":0.02
+  },
+  {
+    "ID":73,
+    "EnergyCommodities":"2 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionHouseholds_1":0.01
+  },
+  {
+    "ID":74,
+    "EnergyCommodities":"2 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionHouseholds_1":0.01
+  },
+  {
+    "ID":75,
+    "EnergyCommodities":"2 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionHouseholds_1":0.01
+  },
+  {
+    "ID":76,
+    "EnergyCommodities":"2 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionHouseholds_1":0.01
+  },
+  {
+    "ID":77,
+    "EnergyCommodities":"2 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionHouseholds_1":0.01
+  },
+  {
+    "ID":78,
+    "EnergyCommodities":"2 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionHouseholds_1":0.01
+  },
+  {
+    "ID":79,
+    "EnergyCommodities":"2 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionHouseholds_1":0.01
+  },
+  {
+    "ID":80,
+    "EnergyCommodities":"2 ",
+    "Periods":"2013JJ00",
+    "EnergyConsumptionHouseholds_1":0.01
+  },
+  {
+    "ID":81,
+    "EnergyCommodities":"2 ",
+    "Periods":"2014JJ00",
+    "EnergyConsumptionHouseholds_1":0.03
+  },
+  {
+    "ID":82,
+    "EnergyCommodities":"2 ",
+    "Periods":"2015JJ00",
+    "EnergyConsumptionHouseholds_1":0.02
+  },
+  {
+    "ID":83,
+    "EnergyCommodities":"2 ",
+    "Periods":"2016JJ00",
+    "EnergyConsumptionHouseholds_1":0.05
+  },
+  {
+    "ID":84,
+    "EnergyCommodities":"3 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionHouseholds_1":63.6
+  },
+  {
+    "ID":85,
+    "EnergyCommodities":"3 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionHouseholds_1":69.81
+  },
+  {
+    "ID":86,
+    "EnergyCommodities":"3 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionHouseholds_1":72.59
+  },
+  {
+    "ID":87,
+    "EnergyCommodities":"3 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionHouseholds_1":64.95
+  },
+  {
+    "ID":88,
+    "EnergyCommodities":"3 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionHouseholds_1":58.88
+  },
+  {
+    "ID":89,
+    "EnergyCommodities":"3 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionHouseholds_1":43.86
+  },
+  {
+    "ID":90,
+    "EnergyCommodities":"3 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionHouseholds_1":45.28
+  },
+  {
+    "ID":91,
+    "EnergyCommodities":"3 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionHouseholds_1":38.55
+  },
+  {
+    "ID":92,
+    "EnergyCommodities":"3 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionHouseholds_1":35.24
+  },
+  {
+    "ID":93,
+    "EnergyCommodities":"3 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionHouseholds_1":21.0
+  },
+  {
+    "ID":94,
+    "EnergyCommodities":"3 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionHouseholds_1":15.5
+  },
+  {
+    "ID":95,
+    "EnergyCommodities":"3 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionHouseholds_1":14.9
+  },
+  {
+    "ID":96,
+    "EnergyCommodities":"3 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionHouseholds_1":13.39
+  },
+  {
+    "ID":97,
+    "EnergyCommodities":"3 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionHouseholds_1":10.91
+  },
+  {
+    "ID":98,
+    "EnergyCommodities":"3 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionHouseholds_1":10.57
+  },
+  {
+    "ID":99,
+    "EnergyCommodities":"3 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionHouseholds_1":10.17
+  },
+  {
+    "ID":100,
+    "EnergyCommodities":"3 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionHouseholds_1":9.77
+  },
+  {
+    "ID":101,
+    "EnergyCommodities":"3 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionHouseholds_1":9.07
+  },
+  {
+    "ID":102,
+    "EnergyCommodities":"3 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionHouseholds_1":9.65
+  },
+  {
+    "ID":103,
+    "EnergyCommodities":"3 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionHouseholds_1":8.35
+  },
+  {
+    "ID":104,
+    "EnergyCommodities":"3 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionHouseholds_1":5.75
+  },
+  {
+    "ID":105,
+    "EnergyCommodities":"3 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionHouseholds_1":5.16
+  },
+  {
+    "ID":106,
+    "EnergyCommodities":"3 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionHouseholds_1":3.91
+  },
+  {
+    "ID":107,
+    "EnergyCommodities":"3 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionHouseholds_1":3.73
+  },
+  {
+    "ID":108,
+    "EnergyCommodities":"3 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionHouseholds_1":3.49
+  },
+  {
+    "ID":109,
+    "EnergyCommodities":"3 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionHouseholds_1":3.13
+  },
+  {
+    "ID":110,
+    "EnergyCommodities":"3 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionHouseholds_1":2.91
+  },
+  {
+    "ID":111,
+    "EnergyCommodities":"3 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionHouseholds_1":2.6
+  },
+  {
+    "ID":112,
+    "EnergyCommodities":"3 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionHouseholds_1":2.36
+  },
+  {
+    "ID":113,
+    "EnergyCommodities":"3 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionHouseholds_1":2.13
+  },
+  {
+    "ID":114,
+    "EnergyCommodities":"3 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionHouseholds_1":1.85
+  },
+  {
+    "ID":115,
+    "EnergyCommodities":"3 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionHouseholds_1":1.75
+  },
+  {
+    "ID":116,
+    "EnergyCommodities":"3 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionHouseholds_1":1.69
+  },
+  {
+    "ID":117,
+    "EnergyCommodities":"3 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionHouseholds_1":1.77
+  },
+  {
+    "ID":118,
+    "EnergyCommodities":"3 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionHouseholds_1":1.77
+  },
+  {
+    "ID":119,
+    "EnergyCommodities":"3 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionHouseholds_1":1.95
+  },
+  {
+    "ID":120,
+    "EnergyCommodities":"3 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionHouseholds_1":1.67
+  },
+  {
+    "ID":121,
+    "EnergyCommodities":"3 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionHouseholds_1":1.77
+  },
+  {
+    "ID":122,
+    "EnergyCommodities":"3 ",
+    "Periods":"2013JJ00",
+    "EnergyConsumptionHouseholds_1":1.85
+  },
+  {
+    "ID":123,
+    "EnergyCommodities":"3 ",
+    "Periods":"2014JJ00",
+    "EnergyConsumptionHouseholds_1":1.54
+  },
+  {
+    "ID":124,
+    "EnergyCommodities":"3 ",
+    "Periods":"2015JJ00",
+    "EnergyConsumptionHouseholds_1":1.54
+  },
+  {
+    "ID":125,
+    "EnergyCommodities":"3 ",
+    "Periods":"2016JJ00",
+    "EnergyConsumptionHouseholds_1":1.54
+  },
+  {
+    "ID":126,
+    "EnergyCommodities":"4 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionHouseholds_1":15.84
+  },
+  {
+    "ID":127,
+    "EnergyCommodities":"4 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionHouseholds_1":18.94
+  },
+  {
+    "ID":128,
+    "EnergyCommodities":"4 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionHouseholds_1":18.96
+  },
+  {
+    "ID":129,
+    "EnergyCommodities":"4 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionHouseholds_1":18.02
+  },
+  {
+    "ID":130,
+    "EnergyCommodities":"4 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionHouseholds_1":13.93
+  },
+  {
+    "ID":131,
+    "EnergyCommodities":"4 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionHouseholds_1":8.85
+  },
+  {
+    "ID":132,
+    "EnergyCommodities":"4 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionHouseholds_1":9.1
+  },
+  {
+    "ID":133,
+    "EnergyCommodities":"4 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionHouseholds_1":8.85
+  },
+  {
+    "ID":134,
+    "EnergyCommodities":"4 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionHouseholds_1":8.1
+  },
+  {
+    "ID":135,
+    "EnergyCommodities":"4 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionHouseholds_1":5.0
+  },
+  {
+    "ID":136,
+    "EnergyCommodities":"4 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionHouseholds_1":2.5
+  },
+  {
+    "ID":137,
+    "EnergyCommodities":"4 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionHouseholds_1":2.3
+  },
+  {
+    "ID":138,
+    "EnergyCommodities":"4 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionHouseholds_1":2.28
+  },
+  {
+    "ID":139,
+    "EnergyCommodities":"4 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionHouseholds_1":2.06
+  },
+  {
+    "ID":140,
+    "EnergyCommodities":"4 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionHouseholds_1":2.17
+  },
+  {
+    "ID":141,
+    "EnergyCommodities":"4 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionHouseholds_1":2.09
+  },
+  {
+    "ID":142,
+    "EnergyCommodities":"4 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionHouseholds_1":1.99
+  },
+  {
+    "ID":143,
+    "EnergyCommodities":"4 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionHouseholds_1":1.85
+  },
+  {
+    "ID":144,
+    "EnergyCommodities":"4 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionHouseholds_1":1.99
+  },
+  {
+    "ID":145,
+    "EnergyCommodities":"4 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionHouseholds_1":1.49
+  },
+  {
+    "ID":146,
+    "EnergyCommodities":"4 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionHouseholds_1":1.0
+  },
+  {
+    "ID":147,
+    "EnergyCommodities":"4 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionHouseholds_1":1.37
+  },
+  {
+    "ID":148,
+    "EnergyCommodities":"4 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionHouseholds_1":1.02
+  },
+  {
+    "ID":149,
+    "EnergyCommodities":"4 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionHouseholds_1":1.09
+  },
+  {
+    "ID":150,
+    "EnergyCommodities":"4 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionHouseholds_1":1.11
+  },
+  {
+    "ID":151,
+    "EnergyCommodities":"4 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionHouseholds_1":1.0
+  },
+  {
+    "ID":152,
+    "EnergyCommodities":"4 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionHouseholds_1":1.03
+  },
+  {
+    "ID":153,
+    "EnergyCommodities":"4 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionHouseholds_1":0.97
+  },
+  {
+    "ID":154,
+    "EnergyCommodities":"4 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionHouseholds_1":0.99
+  },
+  {
+    "ID":155,
+    "EnergyCommodities":"4 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionHouseholds_1":1.02
+  },
+  {
+    "ID":156,
+    "EnergyCommodities":"4 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionHouseholds_1":0.99
+  },
+  {
+    "ID":157,
+    "EnergyCommodities":"4 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionHouseholds_1":1.14
+  },
+  {
+    "ID":158,
+    "EnergyCommodities":"4 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionHouseholds_1":1.08
+  },
+  {
+    "ID":159,
+    "EnergyCommodities":"4 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionHouseholds_1":1.17
+  },
+  {
+    "ID":160,
+    "EnergyCommodities":"4 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionHouseholds_1":1.18
+  },
+  {
+    "ID":161,
+    "EnergyCommodities":"4 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionHouseholds_1":1.36
+  },
+  {
+    "ID":162,
+    "EnergyCommodities":"4 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionHouseholds_1":1.09
+  },
+  {
+    "ID":163,
+    "EnergyCommodities":"4 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionHouseholds_1":1.19
+  },
+  {
+    "ID":164,
+    "EnergyCommodities":"4 ",
+    "Periods":"2013JJ00",
+    "EnergyConsumptionHouseholds_1":1.28
+  },
+  {
+    "ID":165,
+    "EnergyCommodities":"4 ",
+    "Periods":"2014JJ00",
+    "EnergyConsumptionHouseholds_1":0.97
+  },
+  {
+    "ID":166,
+    "EnergyCommodities":"4 ",
+    "Periods":"2015JJ00",
+    "EnergyConsumptionHouseholds_1":0.97
+  },
+  {
+    "ID":167,
+    "EnergyCommodities":"4 ",
+    "Periods":"2016JJ00",
+    "EnergyConsumptionHouseholds_1":0.97
+  },
+  {
+    "ID":168,
+    "EnergyCommodities":"5 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionHouseholds_1":8.92
+  },
+  {
+    "ID":169,
+    "EnergyCommodities":"5 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionHouseholds_1":9.9
+  },
+  {
+    "ID":170,
+    "EnergyCommodities":"5 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionHouseholds_1":10.86
+  },
+  {
+    "ID":171,
+    "EnergyCommodities":"5 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionHouseholds_1":9.98
+  },
+  {
+    "ID":172,
+    "EnergyCommodities":"5 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionHouseholds_1":9.03
+  },
+  {
+    "ID":173,
+    "EnergyCommodities":"5 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionHouseholds_1":6.1
+  },
+  {
+    "ID":174,
+    "EnergyCommodities":"5 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionHouseholds_1":5.1
+  },
+  {
+    "ID":175,
+    "EnergyCommodities":"5 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionHouseholds_1":4.05
+  },
+  {
+    "ID":176,
+    "EnergyCommodities":"5 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionHouseholds_1":4.0
+  },
+  {
+    "ID":177,
+    "EnergyCommodities":"5 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionHouseholds_1":1.27
+  },
+  {
+    "ID":178,
+    "EnergyCommodities":"5 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionHouseholds_1":1.4
+  },
+  {
+    "ID":179,
+    "EnergyCommodities":"5 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionHouseholds_1":1.4
+  },
+  {
+    "ID":180,
+    "EnergyCommodities":"5 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionHouseholds_1":1.29
+  },
+  {
+    "ID":181,
+    "EnergyCommodities":"5 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionHouseholds_1":1.16
+  },
+  {
+    "ID":182,
+    "EnergyCommodities":"5 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionHouseholds_1":1.14
+  },
+  {
+    "ID":183,
+    "EnergyCommodities":"5 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionHouseholds_1":1.03
+  },
+  {
+    "ID":184,
+    "EnergyCommodities":"5 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionHouseholds_1":0.95
+  },
+  {
+    "ID":185,
+    "EnergyCommodities":"5 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionHouseholds_1":0.88
+  },
+  {
+    "ID":186,
+    "EnergyCommodities":"5 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionHouseholds_1":0.91
+  },
+  {
+    "ID":187,
+    "EnergyCommodities":"5 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionHouseholds_1":0.69
+  },
+  {
+    "ID":188,
+    "EnergyCommodities":"5 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionHouseholds_1":0.69
+  },
+  {
+    "ID":189,
+    "EnergyCommodities":"5 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionHouseholds_1":0.8
+  },
+  {
+    "ID":190,
+    "EnergyCommodities":"5 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionHouseholds_1":0.6
+  },
+  {
+    "ID":191,
+    "EnergyCommodities":"5 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionHouseholds_1":0.57
+  },
+  {
+    "ID":192,
+    "EnergyCommodities":"5 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionHouseholds_1":0.54
+  },
+  {
+    "ID":193,
+    "EnergyCommodities":"5 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionHouseholds_1":0.5
+  },
+  {
+    "ID":194,
+    "EnergyCommodities":"5 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionHouseholds_1":0.47
+  },
+  {
+    "ID":195,
+    "EnergyCommodities":"5 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionHouseholds_1":0.44
+  },
+  {
+    "ID":196,
+    "EnergyCommodities":"5 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionHouseholds_1":0.41
+  },
+  {
+    "ID":197,
+    "EnergyCommodities":"5 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionHouseholds_1":0.37
+  },
+  {
+    "ID":198,
+    "EnergyCommodities":"5 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionHouseholds_1":0.34
+  },
+  {
+    "ID":199,
+    "EnergyCommodities":"5 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionHouseholds_1":0.31
+  },
+  {
+    "ID":200,
+    "EnergyCommodities":"5 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":201,
+    "EnergyCommodities":"5 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":202,
+    "EnergyCommodities":"5 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionHouseholds_1":0.29
+  },
+  {
+    "ID":203,
+    "EnergyCommodities":"5 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionHouseholds_1":0.29
+  },
+  {
+    "ID":204,
+    "EnergyCommodities":"5 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionHouseholds_1":0.28
+  },
+  {
+    "ID":205,
+    "EnergyCommodities":"5 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionHouseholds_1":0.27
+  },
+  {
+    "ID":206,
+    "EnergyCommodities":"5 ",
+    "Periods":"2013JJ00",
+    "EnergyConsumptionHouseholds_1":0.27
+  },
+  {
+    "ID":207,
+    "EnergyCommodities":"5 ",
+    "Periods":"2014JJ00",
+    "EnergyConsumptionHouseholds_1":0.26
+  },
+  {
+    "ID":208,
+    "EnergyCommodities":"5 ",
+    "Periods":"2015JJ00",
+    "EnergyConsumptionHouseholds_1":0.26
+  },
+  {
+    "ID":209,
+    "EnergyCommodities":"5 ",
+    "Periods":"2016JJ00",
+    "EnergyConsumptionHouseholds_1":0.26
+  },
+  {
+    "ID":210,
+    "EnergyCommodities":"6 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionHouseholds_1":38.85
+  },
+  {
+    "ID":211,
+    "EnergyCommodities":"6 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionHouseholds_1":40.97
+  },
+  {
+    "ID":212,
+    "EnergyCommodities":"6 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionHouseholds_1":42.78
+  },
+  {
+    "ID":213,
+    "EnergyCommodities":"6 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionHouseholds_1":36.95
+  },
+  {
+    "ID":214,
+    "EnergyCommodities":"6 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionHouseholds_1":35.93
+  },
+  {
+    "ID":215,
+    "EnergyCommodities":"6 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionHouseholds_1":28.9
+  },
+  {
+    "ID":216,
+    "EnergyCommodities":"6 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionHouseholds_1":31.08
+  },
+  {
+    "ID":217,
+    "EnergyCommodities":"6 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionHouseholds_1":25.65
+  },
+  {
+    "ID":218,
+    "EnergyCommodities":"6 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionHouseholds_1":23.14
+  },
+  {
+    "ID":219,
+    "EnergyCommodities":"6 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionHouseholds_1":14.73
+  },
+  {
+    "ID":220,
+    "EnergyCommodities":"6 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionHouseholds_1":11.6
+  },
+  {
+    "ID":221,
+    "EnergyCommodities":"6 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionHouseholds_1":11.2
+  },
+  {
+    "ID":222,
+    "EnergyCommodities":"6 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionHouseholds_1":9.82
+  },
+  {
+    "ID":223,
+    "EnergyCommodities":"6 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionHouseholds_1":7.69
+  },
+  {
+    "ID":224,
+    "EnergyCommodities":"6 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionHouseholds_1":7.26
+  },
+  {
+    "ID":225,
+    "EnergyCommodities":"6 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionHouseholds_1":7.05
+  },
+  {
+    "ID":226,
+    "EnergyCommodities":"6 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionHouseholds_1":6.83
+  },
+  {
+    "ID":227,
+    "EnergyCommodities":"6 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionHouseholds_1":6.34
+  },
+  {
+    "ID":228,
+    "EnergyCommodities":"6 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionHouseholds_1":6.75
+  },
+  {
+    "ID":229,
+    "EnergyCommodities":"6 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionHouseholds_1":6.17
+  },
+  {
+    "ID":230,
+    "EnergyCommodities":"6 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionHouseholds_1":4.06
+  },
+  {
+    "ID":231,
+    "EnergyCommodities":"6 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionHouseholds_1":2.99
+  },
+  {
+    "ID":232,
+    "EnergyCommodities":"6 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionHouseholds_1":2.29
+  },
+  {
+    "ID":233,
+    "EnergyCommodities":"6 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionHouseholds_1":2.07
+  },
+  {
+    "ID":234,
+    "EnergyCommodities":"6 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionHouseholds_1":1.85
+  },
+  {
+    "ID":235,
+    "EnergyCommodities":"6 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionHouseholds_1":1.63
+  },
+  {
+    "ID":236,
+    "EnergyCommodities":"6 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionHouseholds_1":1.41
+  },
+  {
+    "ID":237,
+    "EnergyCommodities":"6 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionHouseholds_1":1.19
+  },
+  {
+    "ID":238,
+    "EnergyCommodities":"6 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionHouseholds_1":0.97
+  },
+  {
+    "ID":239,
+    "EnergyCommodities":"6 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionHouseholds_1":0.74
+  },
+  {
+    "ID":240,
+    "EnergyCommodities":"6 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionHouseholds_1":0.52
+  },
+  {
+    "ID":241,
+    "EnergyCommodities":"6 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":242,
+    "EnergyCommodities":"6 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":243,
+    "EnergyCommodities":"6 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":244,
+    "EnergyCommodities":"6 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":245,
+    "EnergyCommodities":"6 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":246,
+    "EnergyCommodities":"6 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":247,
+    "EnergyCommodities":"6 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":248,
+    "EnergyCommodities":"6 ",
+    "Periods":"2013JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":249,
+    "EnergyCommodities":"6 ",
+    "Periods":"2014JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":250,
+    "EnergyCommodities":"6 ",
+    "Periods":"2015JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":251,
+    "EnergyCommodities":"6 ",
+    "Periods":"2016JJ00",
+    "EnergyConsumptionHouseholds_1":0.3
+  },
+  {
+    "ID":252,
+    "EnergyCommodities":"7 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionHouseholds_1":339.32
+  },
+  {
+    "ID":253,
+    "EnergyCommodities":"7 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionHouseholds_1":331.5
+  },
+  {
+    "ID":254,
+    "EnergyCommodities":"7 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionHouseholds_1":378.8
+  },
+  {
+    "ID":255,
+    "EnergyCommodities":"7 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionHouseholds_1":415.16
+  },
+  {
+    "ID":256,
+    "EnergyCommodities":"7 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionHouseholds_1":457.74
+  },
+  {
+    "ID":257,
+    "EnergyCommodities":"7 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionHouseholds_1":412.98
+  },
+  {
+    "ID":258,
+    "EnergyCommodities":"7 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionHouseholds_1":403.6
+  },
+  {
+    "ID":259,
+    "EnergyCommodities":"7 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionHouseholds_1":373.47
+  },
+  {
+    "ID":260,
+    "EnergyCommodities":"7 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionHouseholds_1":367.14
+  },
+  {
+    "ID":261,
+    "EnergyCommodities":"7 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionHouseholds_1":373.47
+  },
+  {
+    "ID":262,
+    "EnergyCommodities":"7 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionHouseholds_1":411.45
+  },
+  {
+    "ID":263,
+    "EnergyCommodities":"7 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionHouseholds_1":392.46
+  },
+  {
+    "ID":264,
+    "EnergyCommodities":"7 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionHouseholds_1":389.3
+  },
+  {
+    "ID":265,
+    "EnergyCommodities":"7 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionHouseholds_1":332.32
+  },
+  {
+    "ID":266,
+    "EnergyCommodities":"7 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionHouseholds_1":329.16
+  },
+  {
+    "ID":267,
+    "EnergyCommodities":"7 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionHouseholds_1":350.28
+  },
+  {
+    "ID":268,
+    "EnergyCommodities":"7 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionHouseholds_1":405.17
+  },
+  {
+    "ID":269,
+    "EnergyCommodities":"7 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionHouseholds_1":372.33
+  },
+  {
+    "ID":270,
+    "EnergyCommodities":"7 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionHouseholds_1":391.38
+  },
+  {
+    "ID":271,
+    "EnergyCommodities":"7 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionHouseholds_1":366.75
+  },
+  {
+    "ID":272,
+    "EnergyCommodities":"7 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionHouseholds_1":402.39
+  },
+  {
+    "ID":273,
+    "EnergyCommodities":"7 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionHouseholds_1":471.22
+  },
+  {
+    "ID":274,
+    "EnergyCommodities":"7 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionHouseholds_1":395.33
+  },
+  {
+    "ID":275,
+    "EnergyCommodities":"7 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionHouseholds_1":375.91
+  },
+  {
+    "ID":276,
+    "EnergyCommodities":"7 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionHouseholds_1":356.57
+  },
+  {
+    "ID":277,
+    "EnergyCommodities":"7 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionHouseholds_1":356.2
+  },
+  {
+    "ID":278,
+    "EnergyCommodities":"7 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionHouseholds_1":378.59
+  },
+  {
+    "ID":279,
+    "EnergyCommodities":"7 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionHouseholds_1":365.33
+  },
+  {
+    "ID":280,
+    "EnergyCommodities":"7 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionHouseholds_1":374.15
+  },
+  {
+    "ID":281,
+    "EnergyCommodities":"7 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionHouseholds_1":357.65
+  },
+  {
+    "ID":282,
+    "EnergyCommodities":"7 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionHouseholds_1":343.9
+  },
+  {
+    "ID":283,
+    "EnergyCommodities":"7 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionHouseholds_1":346.63
+  },
+  {
+    "ID":284,
+    "EnergyCommodities":"7 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionHouseholds_1":309.54
+  },
+  {
+    "ID":285,
+    "EnergyCommodities":"7 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionHouseholds_1":350.71
+  },
+  {
+    "ID":286,
+    "EnergyCommodities":"7 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionHouseholds_1":349.24
+  },
+  {
+    "ID":287,
+    "EnergyCommodities":"7 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionHouseholds_1":406.7
+  },
+  {
+    "ID":288,
+    "EnergyCommodities":"7 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionHouseholds_1":315.95
+  },
+  {
+    "ID":289,
+    "EnergyCommodities":"7 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionHouseholds_1":337.88
+  },
+  {
+    "ID":290,
+    "EnergyCommodities":"7 ",
+    "Periods":"2013JJ00",
+    "EnergyConsumptionHouseholds_1":358.93
+  },
+  {
+    "ID":291,
+    "EnergyCommodities":"7 ",
+    "Periods":"2014JJ00",
+    "EnergyConsumptionHouseholds_1":267.68
+  },
+  {
+    "ID":292,
+    "EnergyCommodities":"7 ",
+    "Periods":"2015JJ00",
+    "EnergyConsumptionHouseholds_1":285.26
+  },
+  {
+    "ID":293,
+    "EnergyCommodities":"7 ",
+    "Periods":"2016JJ00",
+    "EnergyConsumptionHouseholds_1":297.23
+  },
+  {
+    "ID":294,
+    "EnergyCommodities":"8 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionHouseholds_1":44.79
+  },
+  {
+    "ID":295,
+    "EnergyCommodities":"8 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionHouseholds_1":48.66
+  },
+  {
+    "ID":296,
+    "EnergyCommodities":"8 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionHouseholds_1":49.1
+  },
+  {
+    "ID":297,
+    "EnergyCommodities":"8 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionHouseholds_1":50.66
+  },
+  {
+    "ID":298,
+    "EnergyCommodities":"8 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionHouseholds_1":54.08
+  },
+  {
+    "ID":299,
+    "EnergyCommodities":"8 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionHouseholds_1":56.29
+  },
+  {
+    "ID":300,
+    "EnergyCommodities":"8 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionHouseholds_1":55.6
+  },
+  {
+    "ID":301,
+    "EnergyCommodities":"8 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionHouseholds_1":53.98
+  },
+  {
+    "ID":302,
+    "EnergyCommodities":"8 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionHouseholds_1":54.0
+  },
+  {
+    "ID":303,
+    "EnergyCommodities":"8 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionHouseholds_1":54.0
+  },
+  {
+    "ID":304,
+    "EnergyCommodities":"8 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionHouseholds_1":54.36
+  },
+  {
+    "ID":305,
+    "EnergyCommodities":"8 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionHouseholds_1":54.72
+  },
+  {
+    "ID":306,
+    "EnergyCommodities":"8 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionHouseholds_1":55.08
+  },
+  {
+    "ID":307,
+    "EnergyCommodities":"8 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionHouseholds_1":55.8
+  },
+  {
+    "ID":308,
+    "EnergyCommodities":"8 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionHouseholds_1":57.6
+  },
+  {
+    "ID":309,
+    "EnergyCommodities":"8 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionHouseholds_1":56.43
+  },
+  {
+    "ID":310,
+    "EnergyCommodities":"8 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionHouseholds_1":58.48
+  },
+  {
+    "ID":311,
+    "EnergyCommodities":"8 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionHouseholds_1":59.85
+  },
+  {
+    "ID":312,
+    "EnergyCommodities":"8 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionHouseholds_1":61.21
+  },
+  {
+    "ID":313,
+    "EnergyCommodities":"8 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionHouseholds_1":63.27
+  },
+  {
+    "ID":314,
+    "EnergyCommodities":"8 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionHouseholds_1":65.11
+  },
+  {
+    "ID":315,
+    "EnergyCommodities":"8 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionHouseholds_1":66.1
+  },
+  {
+    "ID":316,
+    "EnergyCommodities":"8 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionHouseholds_1":67.42
+  },
+  {
+    "ID":317,
+    "EnergyCommodities":"8 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionHouseholds_1":68.75
+  },
+  {
+    "ID":318,
+    "EnergyCommodities":"8 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionHouseholds_1":70.57
+  },
+  {
+    "ID":319,
+    "EnergyCommodities":"8 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionHouseholds_1":72.07
+  },
+  {
+    "ID":320,
+    "EnergyCommodities":"8 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionHouseholds_1":73.08
+  },
+  {
+    "ID":321,
+    "EnergyCommodities":"8 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionHouseholds_1":75.4
+  },
+  {
+    "ID":322,
+    "EnergyCommodities":"8 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionHouseholds_1":77.1
+  },
+  {
+    "ID":323,
+    "EnergyCommodities":"8 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionHouseholds_1":77.47
+  },
+  {
+    "ID":324,
+    "EnergyCommodities":"8 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionHouseholds_1":78.47
+  },
+  {
+    "ID":325,
+    "EnergyCommodities":"8 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionHouseholds_1":79.49
+  },
+  {
+    "ID":326,
+    "EnergyCommodities":"8 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionHouseholds_1":80.16
+  },
+  {
+    "ID":327,
+    "EnergyCommodities":"8 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionHouseholds_1":81.0
+  },
+  {
+    "ID":328,
+    "EnergyCommodities":"8 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionHouseholds_1":82.34
+  },
+  {
+    "ID":329,
+    "EnergyCommodities":"8 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionHouseholds_1":82.78
+  },
+  {
+    "ID":330,
+    "EnergyCommodities":"8 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionHouseholds_1":82.96
+  },
+  {
+    "ID":331,
+    "EnergyCommodities":"8 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionHouseholds_1":84.32
+  },
+  {
+    "ID":332,
+    "EnergyCommodities":"8 ",
+    "Periods":"2013JJ00",
+    "EnergyConsumptionHouseholds_1":84.43
+  },
+  {
+    "ID":333,
+    "EnergyCommodities":"8 ",
+    "Periods":"2014JJ00",
+    "EnergyConsumptionHouseholds_1":82.43
+  },
+  {
+    "ID":334,
+    "EnergyCommodities":"8 ",
+    "Periods":"2015JJ00",
+    "EnergyConsumptionHouseholds_1":81.66
+  },
+  {
+    "ID":335,
+    "EnergyCommodities":"8 ",
+    "Periods":"2016JJ00",
+    "EnergyConsumptionHouseholds_1":81.67
+  },
+  {
+    "ID":336,
+    "EnergyCommodities":"9 ",
+    "Periods":"1975JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":337,
+    "EnergyCommodities":"9 ",
+    "Periods":"1976JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":338,
+    "EnergyCommodities":"9 ",
+    "Periods":"1977JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":339,
+    "EnergyCommodities":"9 ",
+    "Periods":"1978JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":340,
+    "EnergyCommodities":"9 ",
+    "Periods":"1979JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":341,
+    "EnergyCommodities":"9 ",
+    "Periods":"1980JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":342,
+    "EnergyCommodities":"9 ",
+    "Periods":"1981JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":343,
+    "EnergyCommodities":"9 ",
+    "Periods":"1982JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":344,
+    "EnergyCommodities":"9 ",
+    "Periods":"1983JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":345,
+    "EnergyCommodities":"9 ",
+    "Periods":"1984JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":346,
+    "EnergyCommodities":"9 ",
+    "Periods":"1985JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":347,
+    "EnergyCommodities":"9 ",
+    "Periods":"1986JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":348,
+    "EnergyCommodities":"9 ",
+    "Periods":"1987JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":349,
+    "EnergyCommodities":"9 ",
+    "Periods":"1988JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":350,
+    "EnergyCommodities":"9 ",
+    "Periods":"1989JJ00",
+    "EnergyConsumptionHouseholds_1":null
+  },
+  {
+    "ID":351,
+    "EnergyCommodities":"9 ",
+    "Periods":"1990JJ00",
+    "EnergyConsumptionHouseholds_1":4.7
+  },
+  {
+    "ID":352,
+    "EnergyCommodities":"9 ",
+    "Periods":"1991JJ00",
+    "EnergyConsumptionHouseholds_1":4.73
+  },
+  {
+    "ID":353,
+    "EnergyCommodities":"9 ",
+    "Periods":"1992JJ00",
+    "EnergyConsumptionHouseholds_1":6.02
+  },
+  {
+    "ID":354,
+    "EnergyCommodities":"9 ",
+    "Periods":"1993JJ00",
+    "EnergyConsumptionHouseholds_1":6.63
+  },
+  {
+    "ID":355,
+    "EnergyCommodities":"9 ",
+    "Periods":"1994JJ00",
+    "EnergyConsumptionHouseholds_1":6.7
+  },
+  {
+    "ID":356,
+    "EnergyCommodities":"9 ",
+    "Periods":"1995JJ00",
+    "EnergyConsumptionHouseholds_1":6.14
+  },
+  {
+    "ID":357,
+    "EnergyCommodities":"9 ",
+    "Periods":"1996JJ00",
+    "EnergyConsumptionHouseholds_1":7.72
+  },
+  {
+    "ID":358,
+    "EnergyCommodities":"9 ",
+    "Periods":"1997JJ00",
+    "EnergyConsumptionHouseholds_1":6.8
+  },
+  {
+    "ID":359,
+    "EnergyCommodities":"9 ",
+    "Periods":"1998JJ00",
+    "EnergyConsumptionHouseholds_1":6.87
+  },
+  {
+    "ID":360,
+    "EnergyCommodities":"9 ",
+    "Periods":"1999JJ00",
+    "EnergyConsumptionHouseholds_1":6.84
+  },
+  {
+    "ID":361,
+    "EnergyCommodities":"9 ",
+    "Periods":"2000JJ00",
+    "EnergyConsumptionHouseholds_1":7.14
+  },
+  {
+    "ID":362,
+    "EnergyCommodities":"9 ",
+    "Periods":"2001JJ00",
+    "EnergyConsumptionHouseholds_1":8.24
+  },
+  {
+    "ID":363,
+    "EnergyCommodities":"9 ",
+    "Periods":"2002JJ00",
+    "EnergyConsumptionHouseholds_1":8.12
+  },
+  {
+    "ID":364,
+    "EnergyCommodities":"9 ",
+    "Periods":"2003JJ00",
+    "EnergyConsumptionHouseholds_1":8.85
+  },
+  {
+    "ID":365,
+    "EnergyCommodities":"9 ",
+    "Periods":"2004JJ00",
+    "EnergyConsumptionHouseholds_1":9.09
+  },
+  {
+    "ID":366,
+    "EnergyCommodities":"9 ",
+    "Periods":"2005JJ00",
+    "EnergyConsumptionHouseholds_1":8.81
+  },
+  {
+    "ID":367,
+    "EnergyCommodities":"9 ",
+    "Periods":"2006JJ00",
+    "EnergyConsumptionHouseholds_1":8.82
+  },
+  {
+    "ID":368,
+    "EnergyCommodities":"9 ",
+    "Periods":"2007JJ00",
+    "EnergyConsumptionHouseholds_1":8.65
+  },
+  {
+    "ID":369,
+    "EnergyCommodities":"9 ",
+    "Periods":"2008JJ00",
+    "EnergyConsumptionHouseholds_1":9.85
+  },
+  {
+    "ID":370,
+    "EnergyCommodities":"9 ",
+    "Periods":"2009JJ00",
+    "EnergyConsumptionHouseholds_1":10.02
+  },
+  {
+    "ID":371,
+    "EnergyCommodities":"9 ",
+    "Periods":"2010JJ00",
+    "EnergyConsumptionHouseholds_1":12.17
+  },
+  {
+    "ID":372,
+    "EnergyCommodities":"9 ",
+    "Periods":"2011JJ00",
+    "EnergyConsumptionHouseholds_1":10.46
+  },
+  {
+    "ID":373,
+    "EnergyCommodities":"9 ",
+    "Periods":"2012JJ00",
+    "EnergyConsumptionHouseholds_1":12.11
+  },
+  {
+    "ID":374,
+    "EnergyCommodities":"9 ",
+    "Periods":"2013JJ00",
+    "EnergyConsumptionHouseholds_1":13.62
+  },
+  {
+    "ID":375,
+    "EnergyCommodities":"9 ",
+    "Periods":"2014JJ00",
+    "EnergyConsumptionHouseholds_1":10.92
+  },
+  {
+    "ID":376,
+    "EnergyCommodities":"9 ",
+    "Periods":"2015JJ00",
+    "EnergyConsumptionHouseholds_1":12.08
+  },
+  {
+    "ID":377,
+    "EnergyCommodities":"9 ",
+    "Periods":"2016JJ00",
+    "EnergyConsumptionHouseholds_1":12.27
+  }
+]

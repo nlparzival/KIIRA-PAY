@@ -1,0 +1,107 @@
+[
+  {
+    "ID":0,
+    "TypeAccommodatie":"3",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":1,
+    "TypeAccommodatie":"3",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":30
+  },
+  {
+    "ID":2,
+    "TypeAccommodatie":"3",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":24
+  },
+  {
+    "ID":3,
+    "TypeAccommodatie":"3",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":20
+  },
+  {
+    "ID":4,
+    "TypeAccommodatie":"3",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":26
+  },
+  {
+    "ID":5,
+    "TypeAccommodatie":"1",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":6,
+    "TypeAccommodatie":"1",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":37
+  },
+  {
+    "ID":7,
+    "TypeAccommodatie":"1",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":25
+  },
+  {
+    "ID":8,
+    "TypeAccommodatie":"1",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":12
+  },
+  {
+    "ID":9,
+    "TypeAccommodatie":"1",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":26
+  },
+  {
+    "ID":10,
+    "TypeAccommodatie":"2",
+    "BelangrijksteActiviteit":"5",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":100
+  },
+  {
+    "ID":11,
+    "TypeAccommodatie":"2",
+    "BelangrijksteActiviteit":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":3
+  },
+  {
+    "ID":12,
+    "TypeAccommodatie":"2",
+    "BelangrijksteActiviteit":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":16
+  },
+  {
+    "ID":13,
+    "TypeAccommodatie":"2",
+    "BelangrijksteActiviteit":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":54
+  },
+  {
+    "ID":14,
+    "TypeAccommodatie":"2",
+    "BelangrijksteActiviteit":"4",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":28
+  }
+]

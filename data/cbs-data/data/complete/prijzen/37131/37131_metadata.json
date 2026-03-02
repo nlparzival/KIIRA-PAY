@@ -1,0 +1,33 @@
+{
+  "odata.metadata": "https://opendata.cbs.nl/ODataApi/OData/37131/$metadata",
+  "value": [
+    {
+      "name": "TableInfos",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/37131/TableInfos"
+    },
+    {
+      "name": "UntypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/37131/UntypedDataSet"
+    },
+    {
+      "name": "TypedDataSet",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/37131/TypedDataSet"
+    },
+    {
+      "name": "DataProperties",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/37131/DataProperties"
+    },
+    {
+      "name": "CategoryGroups",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/37131/CategoryGroups"
+    },
+    {
+      "name": "SBI",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/37131/SBI"
+    },
+    {
+      "name": "Grootteklasse",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/37131/Grootteklasse"
+    }
+  ]
+}

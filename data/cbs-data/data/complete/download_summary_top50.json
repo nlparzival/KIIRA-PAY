@@ -1,0 +1,117 @@
+{
+  "download_timestamp": "2026-02-14T02:39:55.482675",
+  "total_datasets": 18,
+  "successful": 0,
+  "failed": 18,
+  "total_rows": 0,
+  "results": [
+    {
+      "id": "82610ENG",
+      "name": "Renewable electricity; production and capacity",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "82369ENG",
+      "name": "Energy consumption industry (no energy sector);energy commodities,1975-2012",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "70789eng",
+      "name": "Renewable electricity; domestic production, imports and exports, 1990-2013",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "71457eng",
+      "name": "Renewable energy; capacity, domestic production and use, 1990-2013",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "83109ENG",
+      "name": "Renewable energy; final use and avoided use fossil energy,1990-2019",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "82610NED",
+      "name": "Hernieuwbare elektriciteit; productie en vermogen ",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "80324ned",
+      "name": "Energie; verbruik en producentenprijs naar energiedrager jan 1995-dec 2017",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "84917ENG",
+      "name": "Renewable energy; consumption by energy source, technology and application",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "70802ned",
+      "name": "Windenergie; elektriciteitsproductie, capaciteit en windaanbod, 2002-2019",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "70802eng",
+      "name": "Wind energy; electricity production, capacity and supply of wind, 2002-2019",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "83141ENG",
+      "name": "Energy consumption; components, branch, 2011-2016",
+      "status": "empty",
+      "error": "No data returned"
+    },
+    {
+      "id": "83140NED",
+      "name": "Energiebalans; aanbod, omzetting en verbruik",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "82374ENG",
+      "name": "Energy consumption energy sector; energy commodities, 1967-2013 2nd quarter",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "7516eng",
+      "name": "Renewable energy; final use and avoided use of fossil energy, 1990-2013",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "83109NED",
+      "name": "Hernieuwbare energie; eindverbr. en vermeden verbr. foss. energie,1990-2019",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "7516",
+      "name": "Hernieuwbare energie; eindverbr. en vermeden verbr. foss. energie,1990-2013",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "71457ned",
+      "name": "Hernieuwbare energie; capaciteit, binnenlandse prod. en verbruik, 1990-2013",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    },
+    {
+      "id": "82238NED",
+      "name": "Energieverbruik door bedrijven en huishoudens; Nat. Rekeningen 1995-2013",
+      "status": "skipped",
+      "reason": "already_downloaded"
+    }
+  ]
+}

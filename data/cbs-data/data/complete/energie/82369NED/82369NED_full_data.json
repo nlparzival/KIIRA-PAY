@@ -1,0 +1,6194 @@
+[
+  {
+    "ID":0,
+    "Energiedragers":"1 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":884.0
+  },
+  {
+    "ID":1,
+    "Energiedragers":"1 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":970.0
+  },
+  {
+    "ID":2,
+    "Energiedragers":"1 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":974.0
+  },
+  {
+    "ID":3,
+    "Energiedragers":"1 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1026.0
+  },
+  {
+    "ID":4,
+    "Energiedragers":"1 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1079.0
+  },
+  {
+    "ID":5,
+    "Energiedragers":"1 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":947.0
+  },
+  {
+    "ID":6,
+    "Energiedragers":"1 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":881.0
+  },
+  {
+    "ID":7,
+    "Energiedragers":"1 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":784.0
+  },
+  {
+    "ID":8,
+    "Energiedragers":"1 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":821.0
+  },
+  {
+    "ID":9,
+    "Energiedragers":"1 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":871.0
+  },
+  {
+    "ID":10,
+    "Energiedragers":"1 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":880.0
+  },
+  {
+    "ID":11,
+    "Energiedragers":"1 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":898.0
+  },
+  {
+    "ID":12,
+    "Energiedragers":"1 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":940.0
+  },
+  {
+    "ID":13,
+    "Energiedragers":"1 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":972.0
+  },
+  {
+    "ID":14,
+    "Energiedragers":"1 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":937.0
+  },
+  {
+    "ID":15,
+    "Energiedragers":"1 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":978.0
+  },
+  {
+    "ID":16,
+    "Energiedragers":"1 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":990.0
+  },
+  {
+    "ID":17,
+    "Energiedragers":"1 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":996.0
+  },
+  {
+    "ID":18,
+    "Energiedragers":"1 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":956.0
+  },
+  {
+    "ID":19,
+    "Energiedragers":"1 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":983.0
+  },
+  {
+    "ID":20,
+    "Energiedragers":"1 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1047.0
+  },
+  {
+    "ID":21,
+    "Energiedragers":"1 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1031.0
+  },
+  {
+    "ID":22,
+    "Energiedragers":"1 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1050.0
+  },
+  {
+    "ID":23,
+    "Energiedragers":"1 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1040.0
+  },
+  {
+    "ID":24,
+    "Energiedragers":"1 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":272.0
+  },
+  {
+    "ID":25,
+    "Energiedragers":"1 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":267.0
+  },
+  {
+    "ID":26,
+    "Energiedragers":"1 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":256.0
+  },
+  {
+    "ID":27,
+    "Energiedragers":"1 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":291.0
+  },
+  {
+    "ID":28,
+    "Energiedragers":"1 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1085.0
+  },
+  {
+    "ID":29,
+    "Energiedragers":"1 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":283.0
+  },
+  {
+    "ID":30,
+    "Energiedragers":"1 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":270.0
+  },
+  {
+    "ID":31,
+    "Energiedragers":"1 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":274.0
+  },
+  {
+    "ID":32,
+    "Energiedragers":"1 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":286.0
+  },
+  {
+    "ID":33,
+    "Energiedragers":"1 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1113.0
+  },
+  {
+    "ID":34,
+    "Energiedragers":"1 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":287.0
+  },
+  {
+    "ID":35,
+    "Energiedragers":"1 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":271.0
+  },
+  {
+    "ID":36,
+    "Energiedragers":"1 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":273.0
+  },
+  {
+    "ID":37,
+    "Energiedragers":"1 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":281.0
+  },
+  {
+    "ID":38,
+    "Energiedragers":"1 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1112.0
+  },
+  {
+    "ID":39,
+    "Energiedragers":"1 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":284.0
+  },
+  {
+    "ID":40,
+    "Energiedragers":"1 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":270.0
+  },
+  {
+    "ID":41,
+    "Energiedragers":"1 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":269.0
+  },
+  {
+    "ID":42,
+    "Energiedragers":"1 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":303.0
+  },
+  {
+    "ID":43,
+    "Energiedragers":"1 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1127.0
+  },
+  {
+    "ID":44,
+    "Energiedragers":"1 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":290.0
+  },
+  {
+    "ID":45,
+    "Energiedragers":"1 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":283.0
+  },
+  {
+    "ID":46,
+    "Energiedragers":"1 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":285.0
+  },
+  {
+    "ID":47,
+    "Energiedragers":"1 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":312.0
+  },
+  {
+    "ID":48,
+    "Energiedragers":"1 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1171.0
+  },
+  {
+    "ID":49,
+    "Energiedragers":"1 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":315.0
+  },
+  {
+    "ID":50,
+    "Energiedragers":"1 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":296.0
+  },
+  {
+    "ID":51,
+    "Energiedragers":"1 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":300.0
+  },
+  {
+    "ID":52,
+    "Energiedragers":"1 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":297.0
+  },
+  {
+    "ID":53,
+    "Energiedragers":"1 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1208.0
+  },
+  {
+    "ID":54,
+    "Energiedragers":"1 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":329.0
+  },
+  {
+    "ID":55,
+    "Energiedragers":"1 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":312.0
+  },
+  {
+    "ID":56,
+    "Energiedragers":"1 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":301.0
+  },
+  {
+    "ID":57,
+    "Energiedragers":"1 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":318.0
+  },
+  {
+    "ID":58,
+    "Energiedragers":"1 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1261.0
+  },
+  {
+    "ID":59,
+    "Energiedragers":"1 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":312.0
+  },
+  {
+    "ID":60,
+    "Energiedragers":"1 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":285.0
+  },
+  {
+    "ID":61,
+    "Energiedragers":"1 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":288.0
+  },
+  {
+    "ID":62,
+    "Energiedragers":"1 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":301.0
+  },
+  {
+    "ID":63,
+    "Energiedragers":"1 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1186.0
+  },
+  {
+    "ID":64,
+    "Energiedragers":"1 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":313.0
+  },
+  {
+    "ID":65,
+    "Energiedragers":"1 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":320.0
+  },
+  {
+    "ID":66,
+    "Energiedragers":"1 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":332.0
+  },
+  {
+    "ID":67,
+    "Energiedragers":"1 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":351.0
+  },
+  {
+    "ID":68,
+    "Energiedragers":"1 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1316.0
+  },
+  {
+    "ID":69,
+    "Energiedragers":"1 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":335.0
+  },
+  {
+    "ID":70,
+    "Energiedragers":"1 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":303.0
+  },
+  {
+    "ID":71,
+    "Energiedragers":"1 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":315.0
+  },
+  {
+    "ID":72,
+    "Energiedragers":"1 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":289.0
+  },
+  {
+    "ID":73,
+    "Energiedragers":"1 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1243.0
+  },
+  {
+    "ID":74,
+    "Energiedragers":"1 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":281.0
+  },
+  {
+    "ID":75,
+    "Energiedragers":"1 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":273.0
+  },
+  {
+    "ID":76,
+    "Energiedragers":"1 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":300.0
+  },
+  {
+    "ID":77,
+    "Energiedragers":"1 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":314.0
+  },
+  {
+    "ID":78,
+    "Energiedragers":"1 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1168.0
+  },
+  {
+    "ID":79,
+    "Energiedragers":"1 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":326.0
+  },
+  {
+    "ID":80,
+    "Energiedragers":"1 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":318.0
+  },
+  {
+    "ID":81,
+    "Energiedragers":"1 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":313.0
+  },
+  {
+    "ID":82,
+    "Energiedragers":"1 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":335.0
+  },
+  {
+    "ID":83,
+    "Energiedragers":"1 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1294.0
+  },
+  {
+    "ID":84,
+    "Energiedragers":"1 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1213.0
+  },
+  {
+    "ID":85,
+    "Energiedragers":"1 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1231.0
+  },
+  {
+    "ID":86,
+    "Energiedragers":"2 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":65.0
+  },
+  {
+    "ID":87,
+    "Energiedragers":"2 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":67.0
+  },
+  {
+    "ID":88,
+    "Energiedragers":"2 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":64.0
+  },
+  {
+    "ID":89,
+    "Energiedragers":"2 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":70.0
+  },
+  {
+    "ID":90,
+    "Energiedragers":"2 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":77.0
+  },
+  {
+    "ID":91,
+    "Energiedragers":"2 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":73.0
+  },
+  {
+    "ID":92,
+    "Energiedragers":"2 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":79.0
+  },
+  {
+    "ID":93,
+    "Energiedragers":"2 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":71.0
+  },
+  {
+    "ID":94,
+    "Energiedragers":"2 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":70.0
+  },
+  {
+    "ID":95,
+    "Energiedragers":"2 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":92.0
+  },
+  {
+    "ID":96,
+    "Energiedragers":"2 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":92.0
+  },
+  {
+    "ID":97,
+    "Energiedragers":"2 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":90.0
+  },
+  {
+    "ID":98,
+    "Energiedragers":"2 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":91.0
+  },
+  {
+    "ID":99,
+    "Energiedragers":"2 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":97.0
+  },
+  {
+    "ID":100,
+    "Energiedragers":"2 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":96.0
+  },
+  {
+    "ID":101,
+    "Energiedragers":"2 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":96.0
+  },
+  {
+    "ID":102,
+    "Energiedragers":"2 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":89.0
+  },
+  {
+    "ID":103,
+    "Energiedragers":"2 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":89.0
+  },
+  {
+    "ID":104,
+    "Energiedragers":"2 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":95.0
+  },
+  {
+    "ID":105,
+    "Energiedragers":"2 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":87.0
+  },
+  {
+    "ID":106,
+    "Energiedragers":"2 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":94.0
+  },
+  {
+    "ID":107,
+    "Energiedragers":"2 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":95.0
+  },
+  {
+    "ID":108,
+    "Energiedragers":"2 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":99.0
+  },
+  {
+    "ID":109,
+    "Energiedragers":"2 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":93.0
+  },
+  {
+    "ID":110,
+    "Energiedragers":"2 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":111,
+    "Energiedragers":"2 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":21.0
+  },
+  {
+    "ID":112,
+    "Energiedragers":"2 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":113,
+    "Energiedragers":"2 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":114,
+    "Energiedragers":"2 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":89.0
+  },
+  {
+    "ID":115,
+    "Energiedragers":"2 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":116,
+    "Energiedragers":"2 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":20.0
+  },
+  {
+    "ID":117,
+    "Energiedragers":"2 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":118,
+    "Energiedragers":"2 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":20.0
+  },
+  {
+    "ID":119,
+    "Energiedragers":"2 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":83.0
+  },
+  {
+    "ID":120,
+    "Energiedragers":"2 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":20.0
+  },
+  {
+    "ID":121,
+    "Energiedragers":"2 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":21.0
+  },
+  {
+    "ID":122,
+    "Energiedragers":"2 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":123,
+    "Energiedragers":"2 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":124,
+    "Energiedragers":"2 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":88.0
+  },
+  {
+    "ID":125,
+    "Energiedragers":"2 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":126,
+    "Energiedragers":"2 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":18.0
+  },
+  {
+    "ID":127,
+    "Energiedragers":"2 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":128,
+    "Energiedragers":"2 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":129,
+    "Energiedragers":"2 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":89.0
+  },
+  {
+    "ID":130,
+    "Energiedragers":"2 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":21.0
+  },
+  {
+    "ID":131,
+    "Energiedragers":"2 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":132,
+    "Energiedragers":"2 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":133,
+    "Energiedragers":"2 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":134,
+    "Energiedragers":"2 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":94.0
+  },
+  {
+    "ID":135,
+    "Energiedragers":"2 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":136,
+    "Energiedragers":"2 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":137,
+    "Energiedragers":"2 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":138,
+    "Energiedragers":"2 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":139,
+    "Energiedragers":"2 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":96.0
+  },
+  {
+    "ID":140,
+    "Energiedragers":"2 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":141,
+    "Energiedragers":"2 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":142,
+    "Energiedragers":"2 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":143,
+    "Energiedragers":"2 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":144,
+    "Energiedragers":"2 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":95.0
+  },
+  {
+    "ID":145,
+    "Energiedragers":"2 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":146,
+    "Energiedragers":"2 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":26.0
+  },
+  {
+    "ID":147,
+    "Energiedragers":"2 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":21.0
+  },
+  {
+    "ID":148,
+    "Energiedragers":"2 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":16.0
+  },
+  {
+    "ID":149,
+    "Energiedragers":"2 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":86.0
+  },
+  {
+    "ID":150,
+    "Energiedragers":"2 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":151,
+    "Energiedragers":"2 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":152,
+    "Energiedragers":"2 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":26.0
+  },
+  {
+    "ID":153,
+    "Energiedragers":"2 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":26.0
+  },
+  {
+    "ID":154,
+    "Energiedragers":"2 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":100.0
+  },
+  {
+    "ID":155,
+    "Energiedragers":"2 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":156,
+    "Energiedragers":"2 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":157,
+    "Energiedragers":"2 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":158,
+    "Energiedragers":"2 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":21.0
+  },
+  {
+    "ID":159,
+    "Energiedragers":"2 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":94.0
+  },
+  {
+    "ID":160,
+    "Energiedragers":"2 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":15.0
+  },
+  {
+    "ID":161,
+    "Energiedragers":"2 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":162,
+    "Energiedragers":"2 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":163,
+    "Energiedragers":"2 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":164,
+    "Energiedragers":"2 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":74.0
+  },
+  {
+    "ID":165,
+    "Energiedragers":"2 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":21.0
+  },
+  {
+    "ID":166,
+    "Energiedragers":"2 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":20.0
+  },
+  {
+    "ID":167,
+    "Energiedragers":"2 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":168,
+    "Energiedragers":"2 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":21.0
+  },
+  {
+    "ID":169,
+    "Energiedragers":"2 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":84.0
+  },
+  {
+    "ID":170,
+    "Energiedragers":"2 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":90.0
+  },
+  {
+    "ID":171,
+    "Energiedragers":"2 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":93.0
+  },
+  {
+    "ID":172,
+    "Energiedragers":"3 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":4.0
+  },
+  {
+    "ID":173,
+    "Energiedragers":"3 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":174,
+    "Energiedragers":"3 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":175,
+    "Energiedragers":"3 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":176,
+    "Energiedragers":"3 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":177,
+    "Energiedragers":"3 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":178,
+    "Energiedragers":"3 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":179,
+    "Energiedragers":"3 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":180,
+    "Energiedragers":"3 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":181,
+    "Energiedragers":"3 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":182,
+    "Energiedragers":"3 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":183,
+    "Energiedragers":"3 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":21.0
+  },
+  {
+    "ID":184,
+    "Energiedragers":"3 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":29.0
+  },
+  {
+    "ID":185,
+    "Energiedragers":"3 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":30.0
+  },
+  {
+    "ID":186,
+    "Energiedragers":"3 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":33.0
+  },
+  {
+    "ID":187,
+    "Energiedragers":"3 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":35.0
+  },
+  {
+    "ID":188,
+    "Energiedragers":"3 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":189,
+    "Energiedragers":"3 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":35.0
+  },
+  {
+    "ID":190,
+    "Energiedragers":"3 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":37.0
+  },
+  {
+    "ID":191,
+    "Energiedragers":"3 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":28.0
+  },
+  {
+    "ID":192,
+    "Energiedragers":"3 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":27.0
+  },
+  {
+    "ID":193,
+    "Energiedragers":"3 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":194,
+    "Energiedragers":"3 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":38.0
+  },
+  {
+    "ID":195,
+    "Energiedragers":"3 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":38.0
+  },
+  {
+    "ID":196,
+    "Energiedragers":"3 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":197,
+    "Energiedragers":"3 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":198,
+    "Energiedragers":"3 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":199,
+    "Energiedragers":"3 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":200,
+    "Energiedragers":"3 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":37.0
+  },
+  {
+    "ID":201,
+    "Energiedragers":"3 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":202,
+    "Energiedragers":"3 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":8.0
+  },
+  {
+    "ID":203,
+    "Energiedragers":"3 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":204,
+    "Energiedragers":"3 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":7.0
+  },
+  {
+    "ID":205,
+    "Energiedragers":"3 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":33.0
+  },
+  {
+    "ID":206,
+    "Energiedragers":"3 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":8.0
+  },
+  {
+    "ID":207,
+    "Energiedragers":"3 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":208,
+    "Energiedragers":"3 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":209,
+    "Energiedragers":"3 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":210,
+    "Energiedragers":"3 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":37.0
+  },
+  {
+    "ID":211,
+    "Energiedragers":"3 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":212,
+    "Energiedragers":"3 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":7.0
+  },
+  {
+    "ID":213,
+    "Energiedragers":"3 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":214,
+    "Energiedragers":"3 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":215,
+    "Energiedragers":"3 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":38.0
+  },
+  {
+    "ID":216,
+    "Energiedragers":"3 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":217,
+    "Energiedragers":"3 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":218,
+    "Energiedragers":"3 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":219,
+    "Energiedragers":"3 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":220,
+    "Energiedragers":"3 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":40.0
+  },
+  {
+    "ID":221,
+    "Energiedragers":"3 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":222,
+    "Energiedragers":"3 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":223,
+    "Energiedragers":"3 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":224,
+    "Energiedragers":"3 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":225,
+    "Energiedragers":"3 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":43.0
+  },
+  {
+    "ID":226,
+    "Energiedragers":"3 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":227,
+    "Energiedragers":"3 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":228,
+    "Energiedragers":"3 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":229,
+    "Energiedragers":"3 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":230,
+    "Energiedragers":"3 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":45.0
+  },
+  {
+    "ID":231,
+    "Energiedragers":"3 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":232,
+    "Energiedragers":"3 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":233,
+    "Energiedragers":"3 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":234,
+    "Energiedragers":"3 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":7.0
+  },
+  {
+    "ID":235,
+    "Energiedragers":"3 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":39.0
+  },
+  {
+    "ID":236,
+    "Energiedragers":"3 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":237,
+    "Energiedragers":"3 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":238,
+    "Energiedragers":"3 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":239,
+    "Energiedragers":"3 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":240,
+    "Energiedragers":"3 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":48.0
+  },
+  {
+    "ID":241,
+    "Energiedragers":"3 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":242,
+    "Energiedragers":"3 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":243,
+    "Energiedragers":"3 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":244,
+    "Energiedragers":"3 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":245,
+    "Energiedragers":"3 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":40.0
+  },
+  {
+    "ID":246,
+    "Energiedragers":"3 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":247,
+    "Energiedragers":"3 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":248,
+    "Energiedragers":"3 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":249,
+    "Energiedragers":"3 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":250,
+    "Energiedragers":"3 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":29.0
+  },
+  {
+    "ID":251,
+    "Energiedragers":"3 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":7.0
+  },
+  {
+    "ID":252,
+    "Energiedragers":"3 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":8.0
+  },
+  {
+    "ID":253,
+    "Energiedragers":"3 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":254,
+    "Energiedragers":"3 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":8.0
+  },
+  {
+    "ID":255,
+    "Energiedragers":"3 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":256,
+    "Energiedragers":"3 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":38.0
+  },
+  {
+    "ID":257,
+    "Energiedragers":"3 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":43.0
+  },
+  {
+    "ID":258,
+    "Energiedragers":"4 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":61.0
+  },
+  {
+    "ID":259,
+    "Energiedragers":"4 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":62.0
+  },
+  {
+    "ID":260,
+    "Energiedragers":"4 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":59.0
+  },
+  {
+    "ID":261,
+    "Energiedragers":"4 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":65.0
+  },
+  {
+    "ID":262,
+    "Energiedragers":"4 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":73.0
+  },
+  {
+    "ID":263,
+    "Energiedragers":"4 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":68.0
+  },
+  {
+    "ID":264,
+    "Energiedragers":"4 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":75.0
+  },
+  {
+    "ID":265,
+    "Energiedragers":"4 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":59.0
+  },
+  {
+    "ID":266,
+    "Energiedragers":"4 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":60.0
+  },
+  {
+    "ID":267,
+    "Energiedragers":"4 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":71.0
+  },
+  {
+    "ID":268,
+    "Energiedragers":"4 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":71.0
+  },
+  {
+    "ID":269,
+    "Energiedragers":"4 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":68.0
+  },
+  {
+    "ID":270,
+    "Energiedragers":"4 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":62.0
+  },
+  {
+    "ID":271,
+    "Energiedragers":"4 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":66.0
+  },
+  {
+    "ID":272,
+    "Energiedragers":"4 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":63.0
+  },
+  {
+    "ID":273,
+    "Energiedragers":"4 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":61.0
+  },
+  {
+    "ID":274,
+    "Energiedragers":"4 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":58.0
+  },
+  {
+    "ID":275,
+    "Energiedragers":"4 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":54.0
+  },
+  {
+    "ID":276,
+    "Energiedragers":"4 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":57.0
+  },
+  {
+    "ID":277,
+    "Energiedragers":"4 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":58.0
+  },
+  {
+    "ID":278,
+    "Energiedragers":"4 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":68.0
+  },
+  {
+    "ID":279,
+    "Energiedragers":"4 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":64.0
+  },
+  {
+    "ID":280,
+    "Energiedragers":"4 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":61.0
+  },
+  {
+    "ID":281,
+    "Energiedragers":"4 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":56.0
+  },
+  {
+    "ID":282,
+    "Energiedragers":"4 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":283,
+    "Energiedragers":"4 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":284,
+    "Energiedragers":"4 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":285,
+    "Energiedragers":"4 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":286,
+    "Energiedragers":"4 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":51.0
+  },
+  {
+    "ID":287,
+    "Energiedragers":"4 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":288,
+    "Energiedragers":"4 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":289,
+    "Energiedragers":"4 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":290,
+    "Energiedragers":"4 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":291,
+    "Energiedragers":"4 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":51.0
+  },
+  {
+    "ID":292,
+    "Energiedragers":"4 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":293,
+    "Energiedragers":"4 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":294,
+    "Energiedragers":"4 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":295,
+    "Energiedragers":"4 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":296,
+    "Energiedragers":"4 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":51.0
+  },
+  {
+    "ID":297,
+    "Energiedragers":"4 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":298,
+    "Energiedragers":"4 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":299,
+    "Energiedragers":"4 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":300,
+    "Energiedragers":"4 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":301,
+    "Energiedragers":"4 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":52.0
+  },
+  {
+    "ID":302,
+    "Energiedragers":"4 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":303,
+    "Energiedragers":"4 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":304,
+    "Energiedragers":"4 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":305,
+    "Energiedragers":"4 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":306,
+    "Energiedragers":"4 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":54.0
+  },
+  {
+    "ID":307,
+    "Energiedragers":"4 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":308,
+    "Energiedragers":"4 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":309,
+    "Energiedragers":"4 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":310,
+    "Energiedragers":"4 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":311,
+    "Energiedragers":"4 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":53.0
+  },
+  {
+    "ID":312,
+    "Energiedragers":"4 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":313,
+    "Energiedragers":"4 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":314,
+    "Energiedragers":"4 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":315,
+    "Energiedragers":"4 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":316,
+    "Energiedragers":"4 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":50.0
+  },
+  {
+    "ID":317,
+    "Energiedragers":"4 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":318,
+    "Energiedragers":"4 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":319,
+    "Energiedragers":"4 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":11.0
+  },
+  {
+    "ID":320,
+    "Energiedragers":"4 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":321,
+    "Energiedragers":"4 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":47.0
+  },
+  {
+    "ID":322,
+    "Energiedragers":"4 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":323,
+    "Energiedragers":"4 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":324,
+    "Energiedragers":"4 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":325,
+    "Energiedragers":"4 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":326,
+    "Energiedragers":"4 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":52.0
+  },
+  {
+    "ID":327,
+    "Energiedragers":"4 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":12.0
+  },
+  {
+    "ID":328,
+    "Energiedragers":"4 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":329,
+    "Energiedragers":"4 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":15.0
+  },
+  {
+    "ID":330,
+    "Energiedragers":"4 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":331,
+    "Energiedragers":"4 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":54.0
+  },
+  {
+    "ID":332,
+    "Energiedragers":"4 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":10.0
+  },
+  {
+    "ID":333,
+    "Energiedragers":"4 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":9.0
+  },
+  {
+    "ID":334,
+    "Energiedragers":"4 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":335,
+    "Energiedragers":"4 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":15.0
+  },
+  {
+    "ID":336,
+    "Energiedragers":"4 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":46.0
+  },
+  {
+    "ID":337,
+    "Energiedragers":"4 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":338,
+    "Energiedragers":"4 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":339,
+    "Energiedragers":"4 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":340,
+    "Energiedragers":"4 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":341,
+    "Energiedragers":"4 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":53.0
+  },
+  {
+    "ID":342,
+    "Energiedragers":"4 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":51.0
+  },
+  {
+    "ID":343,
+    "Energiedragers":"4 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":49.0
+  },
+  {
+    "ID":344,
+    "Energiedragers":"5 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":338.0
+  },
+  {
+    "ID":345,
+    "Energiedragers":"5 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":413.0
+  },
+  {
+    "ID":346,
+    "Energiedragers":"5 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":377.0
+  },
+  {
+    "ID":347,
+    "Energiedragers":"5 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":419.0
+  },
+  {
+    "ID":348,
+    "Energiedragers":"5 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":447.0
+  },
+  {
+    "ID":349,
+    "Energiedragers":"5 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":375.0
+  },
+  {
+    "ID":350,
+    "Energiedragers":"5 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":304.0
+  },
+  {
+    "ID":351,
+    "Energiedragers":"5 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":246.0
+  },
+  {
+    "ID":352,
+    "Energiedragers":"5 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":273.0
+  },
+  {
+    "ID":353,
+    "Energiedragers":"5 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":273.0
+  },
+  {
+    "ID":354,
+    "Energiedragers":"5 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":272.0
+  },
+  {
+    "ID":355,
+    "Energiedragers":"5 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":321.0
+  },
+  {
+    "ID":356,
+    "Energiedragers":"5 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":320.0
+  },
+  {
+    "ID":357,
+    "Energiedragers":"5 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":349.0
+  },
+  {
+    "ID":358,
+    "Energiedragers":"5 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":318.0
+  },
+  {
+    "ID":359,
+    "Energiedragers":"5 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":336.0
+  },
+  {
+    "ID":360,
+    "Energiedragers":"5 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":340.0
+  },
+  {
+    "ID":361,
+    "Energiedragers":"5 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":348.0
+  },
+  {
+    "ID":362,
+    "Energiedragers":"5 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":293.0
+  },
+  {
+    "ID":363,
+    "Energiedragers":"5 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":304.0
+  },
+  {
+    "ID":364,
+    "Energiedragers":"5 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":341.0
+  },
+  {
+    "ID":365,
+    "Energiedragers":"5 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":313.0
+  },
+  {
+    "ID":366,
+    "Energiedragers":"5 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":325.0
+  },
+  {
+    "ID":367,
+    "Energiedragers":"5 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":319.0
+  },
+  {
+    "ID":368,
+    "Energiedragers":"5 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":83.0
+  },
+  {
+    "ID":369,
+    "Energiedragers":"5 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":91.0
+  },
+  {
+    "ID":370,
+    "Energiedragers":"5 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":86.0
+  },
+  {
+    "ID":371,
+    "Energiedragers":"5 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":98.0
+  },
+  {
+    "ID":372,
+    "Energiedragers":"5 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":358.0
+  },
+  {
+    "ID":373,
+    "Energiedragers":"5 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":90.0
+  },
+  {
+    "ID":374,
+    "Energiedragers":"5 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":94.0
+  },
+  {
+    "ID":375,
+    "Energiedragers":"5 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":102.0
+  },
+  {
+    "ID":376,
+    "Energiedragers":"5 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":100.0
+  },
+  {
+    "ID":377,
+    "Energiedragers":"5 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":386.0
+  },
+  {
+    "ID":378,
+    "Energiedragers":"5 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":102.0
+  },
+  {
+    "ID":379,
+    "Energiedragers":"5 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":98.0
+  },
+  {
+    "ID":380,
+    "Energiedragers":"5 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":105.0
+  },
+  {
+    "ID":381,
+    "Energiedragers":"5 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":99.0
+  },
+  {
+    "ID":382,
+    "Energiedragers":"5 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":403.0
+  },
+  {
+    "ID":383,
+    "Energiedragers":"5 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":105.0
+  },
+  {
+    "ID":384,
+    "Energiedragers":"5 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":102.0
+  },
+  {
+    "ID":385,
+    "Energiedragers":"5 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":99.0
+  },
+  {
+    "ID":386,
+    "Energiedragers":"5 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":114.0
+  },
+  {
+    "ID":387,
+    "Energiedragers":"5 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":420.0
+  },
+  {
+    "ID":388,
+    "Energiedragers":"5 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":107.0
+  },
+  {
+    "ID":389,
+    "Energiedragers":"5 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":113.0
+  },
+  {
+    "ID":390,
+    "Energiedragers":"5 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":118.0
+  },
+  {
+    "ID":391,
+    "Energiedragers":"5 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":126.0
+  },
+  {
+    "ID":392,
+    "Energiedragers":"5 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":463.0
+  },
+  {
+    "ID":393,
+    "Energiedragers":"5 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":132.0
+  },
+  {
+    "ID":394,
+    "Energiedragers":"5 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":124.0
+  },
+  {
+    "ID":395,
+    "Energiedragers":"5 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":126.0
+  },
+  {
+    "ID":396,
+    "Energiedragers":"5 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":107.0
+  },
+  {
+    "ID":397,
+    "Energiedragers":"5 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":489.0
+  },
+  {
+    "ID":398,
+    "Energiedragers":"5 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":140.0
+  },
+  {
+    "ID":399,
+    "Energiedragers":"5 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":138.0
+  },
+  {
+    "ID":400,
+    "Energiedragers":"5 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":129.0
+  },
+  {
+    "ID":401,
+    "Energiedragers":"5 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":133.0
+  },
+  {
+    "ID":402,
+    "Energiedragers":"5 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":540.0
+  },
+  {
+    "ID":403,
+    "Energiedragers":"5 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":134.0
+  },
+  {
+    "ID":404,
+    "Energiedragers":"5 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":121.0
+  },
+  {
+    "ID":405,
+    "Energiedragers":"5 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":135.0
+  },
+  {
+    "ID":406,
+    "Energiedragers":"5 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":136.0
+  },
+  {
+    "ID":407,
+    "Energiedragers":"5 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":525.0
+  },
+  {
+    "ID":408,
+    "Energiedragers":"5 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":143.0
+  },
+  {
+    "ID":409,
+    "Energiedragers":"5 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":157.0
+  },
+  {
+    "ID":410,
+    "Energiedragers":"5 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":169.0
+  },
+  {
+    "ID":411,
+    "Energiedragers":"5 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":176.0
+  },
+  {
+    "ID":412,
+    "Energiedragers":"5 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":645.0
+  },
+  {
+    "ID":413,
+    "Energiedragers":"5 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":163.0
+  },
+  {
+    "ID":414,
+    "Energiedragers":"5 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":144.0
+  },
+  {
+    "ID":415,
+    "Energiedragers":"5 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":160.0
+  },
+  {
+    "ID":416,
+    "Energiedragers":"5 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":126.0
+  },
+  {
+    "ID":417,
+    "Energiedragers":"5 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":593.0
+  },
+  {
+    "ID":418,
+    "Energiedragers":"5 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":143.0
+  },
+  {
+    "ID":419,
+    "Energiedragers":"5 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":143.0
+  },
+  {
+    "ID":420,
+    "Energiedragers":"5 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":154.0
+  },
+  {
+    "ID":421,
+    "Energiedragers":"5 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":154.0
+  },
+  {
+    "ID":422,
+    "Energiedragers":"5 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":594.0
+  },
+  {
+    "ID":423,
+    "Energiedragers":"5 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":163.0
+  },
+  {
+    "ID":424,
+    "Energiedragers":"5 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":169.0
+  },
+  {
+    "ID":425,
+    "Energiedragers":"5 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":162.0
+  },
+  {
+    "ID":426,
+    "Energiedragers":"5 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":169.0
+  },
+  {
+    "ID":427,
+    "Energiedragers":"5 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":664.0
+  },
+  {
+    "ID":428,
+    "Energiedragers":"5 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":596.0
+  },
+  {
+    "ID":429,
+    "Energiedragers":"5 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":632.0
+  },
+  {
+    "ID":430,
+    "Energiedragers":"6 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":0.0
+  },
+  {
+    "ID":431,
+    "Energiedragers":"6 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":0.0
+  },
+  {
+    "ID":432,
+    "Energiedragers":"6 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":0.0
+  },
+  {
+    "ID":433,
+    "Energiedragers":"6 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":0.0
+  },
+  {
+    "ID":434,
+    "Energiedragers":"6 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":0.0
+  },
+  {
+    "ID":435,
+    "Energiedragers":"6 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":0.0
+  },
+  {
+    "ID":436,
+    "Energiedragers":"6 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":0.0
+  },
+  {
+    "ID":437,
+    "Energiedragers":"6 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":438,
+    "Energiedragers":"6 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":4.0
+  },
+  {
+    "ID":439,
+    "Energiedragers":"6 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":61.0
+  },
+  {
+    "ID":440,
+    "Energiedragers":"6 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":80.0
+  },
+  {
+    "ID":441,
+    "Energiedragers":"6 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":98.0
+  },
+  {
+    "ID":442,
+    "Energiedragers":"6 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":106.0
+  },
+  {
+    "ID":443,
+    "Energiedragers":"6 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":115.0
+  },
+  {
+    "ID":444,
+    "Energiedragers":"6 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":115.0
+  },
+  {
+    "ID":445,
+    "Energiedragers":"6 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":141.0
+  },
+  {
+    "ID":446,
+    "Energiedragers":"6 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":141.0
+  },
+  {
+    "ID":447,
+    "Energiedragers":"6 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":126.0
+  },
+  {
+    "ID":448,
+    "Energiedragers":"6 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":158.0
+  },
+  {
+    "ID":449,
+    "Energiedragers":"6 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":160.0
+  },
+  {
+    "ID":450,
+    "Energiedragers":"6 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":156.0
+  },
+  {
+    "ID":451,
+    "Energiedragers":"6 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":143.0
+  },
+  {
+    "ID":452,
+    "Energiedragers":"6 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":142.0
+  },
+  {
+    "ID":453,
+    "Energiedragers":"6 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":133.0
+  },
+  {
+    "ID":454,
+    "Energiedragers":"6 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":37.0
+  },
+  {
+    "ID":455,
+    "Energiedragers":"6 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":41.0
+  },
+  {
+    "ID":456,
+    "Energiedragers":"6 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":40.0
+  },
+  {
+    "ID":457,
+    "Energiedragers":"6 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":37.0
+  },
+  {
+    "ID":458,
+    "Energiedragers":"6 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":155.0
+  },
+  {
+    "ID":459,
+    "Energiedragers":"6 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":48.0
+  },
+  {
+    "ID":460,
+    "Energiedragers":"6 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":37.0
+  },
+  {
+    "ID":461,
+    "Energiedragers":"6 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":46.0
+  },
+  {
+    "ID":462,
+    "Energiedragers":"6 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":43.0
+  },
+  {
+    "ID":463,
+    "Energiedragers":"6 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":172.0
+  },
+  {
+    "ID":464,
+    "Energiedragers":"6 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":44.0
+  },
+  {
+    "ID":465,
+    "Energiedragers":"6 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":48.0
+  },
+  {
+    "ID":466,
+    "Energiedragers":"6 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":52.0
+  },
+  {
+    "ID":467,
+    "Energiedragers":"6 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":41.0
+  },
+  {
+    "ID":468,
+    "Energiedragers":"6 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":185.0
+  },
+  {
+    "ID":469,
+    "Energiedragers":"6 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":63.0
+  },
+  {
+    "ID":470,
+    "Energiedragers":"6 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":53.0
+  },
+  {
+    "ID":471,
+    "Energiedragers":"6 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":58.0
+  },
+  {
+    "ID":472,
+    "Energiedragers":"6 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":53.0
+  },
+  {
+    "ID":473,
+    "Energiedragers":"6 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":226.0
+  },
+  {
+    "ID":474,
+    "Energiedragers":"6 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":45.0
+  },
+  {
+    "ID":475,
+    "Energiedragers":"6 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":41.0
+  },
+  {
+    "ID":476,
+    "Energiedragers":"6 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":49.0
+  },
+  {
+    "ID":477,
+    "Energiedragers":"6 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":54.0
+  },
+  {
+    "ID":478,
+    "Energiedragers":"6 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":188.0
+  },
+  {
+    "ID":479,
+    "Energiedragers":"6 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":48.0
+  },
+  {
+    "ID":480,
+    "Energiedragers":"6 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":51.0
+  },
+  {
+    "ID":481,
+    "Energiedragers":"6 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":54.0
+  },
+  {
+    "ID":482,
+    "Energiedragers":"6 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":52.0
+  },
+  {
+    "ID":483,
+    "Energiedragers":"6 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":205.0
+  },
+  {
+    "ID":484,
+    "Energiedragers":"6 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":49.0
+  },
+  {
+    "ID":485,
+    "Energiedragers":"6 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":55.0
+  },
+  {
+    "ID":486,
+    "Energiedragers":"6 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":52.0
+  },
+  {
+    "ID":487,
+    "Energiedragers":"6 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":56.0
+  },
+  {
+    "ID":488,
+    "Energiedragers":"6 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":212.0
+  },
+  {
+    "ID":489,
+    "Energiedragers":"6 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":62.0
+  },
+  {
+    "ID":490,
+    "Energiedragers":"6 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":58.0
+  },
+  {
+    "ID":491,
+    "Energiedragers":"6 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":55.0
+  },
+  {
+    "ID":492,
+    "Energiedragers":"6 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":68.0
+  },
+  {
+    "ID":493,
+    "Energiedragers":"6 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":244.0
+  },
+  {
+    "ID":494,
+    "Energiedragers":"6 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":54.0
+  },
+  {
+    "ID":495,
+    "Energiedragers":"6 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":46.0
+  },
+  {
+    "ID":496,
+    "Energiedragers":"6 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":48.0
+  },
+  {
+    "ID":497,
+    "Energiedragers":"6 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":54.0
+  },
+  {
+    "ID":498,
+    "Energiedragers":"6 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":203.0
+  },
+  {
+    "ID":499,
+    "Energiedragers":"6 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":60.0
+  },
+  {
+    "ID":500,
+    "Energiedragers":"6 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":50.0
+  },
+  {
+    "ID":501,
+    "Energiedragers":"6 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":48.0
+  },
+  {
+    "ID":502,
+    "Energiedragers":"6 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":38.0
+  },
+  {
+    "ID":503,
+    "Energiedragers":"6 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":196.0
+  },
+  {
+    "ID":504,
+    "Energiedragers":"6 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":42.0
+  },
+  {
+    "ID":505,
+    "Energiedragers":"6 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":40.0
+  },
+  {
+    "ID":506,
+    "Energiedragers":"6 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":48.0
+  },
+  {
+    "ID":507,
+    "Energiedragers":"6 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":55.0
+  },
+  {
+    "ID":508,
+    "Energiedragers":"6 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":185.0
+  },
+  {
+    "ID":509,
+    "Energiedragers":"6 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":52.0
+  },
+  {
+    "ID":510,
+    "Energiedragers":"6 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":46.0
+  },
+  {
+    "ID":511,
+    "Energiedragers":"6 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":41.0
+  },
+  {
+    "ID":512,
+    "Energiedragers":"6 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":51.0
+  },
+  {
+    "ID":513,
+    "Energiedragers":"6 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":191.0
+  },
+  {
+    "ID":514,
+    "Energiedragers":"6 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":190.0
+  },
+  {
+    "ID":515,
+    "Energiedragers":"6 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":161.0
+  },
+  {
+    "ID":516,
+    "Energiedragers":"7 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":338.0
+  },
+  {
+    "ID":517,
+    "Energiedragers":"7 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":413.0
+  },
+  {
+    "ID":518,
+    "Energiedragers":"7 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":377.0
+  },
+  {
+    "ID":519,
+    "Energiedragers":"7 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":419.0
+  },
+  {
+    "ID":520,
+    "Energiedragers":"7 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":447.0
+  },
+  {
+    "ID":521,
+    "Energiedragers":"7 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":375.0
+  },
+  {
+    "ID":522,
+    "Energiedragers":"7 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":304.0
+  },
+  {
+    "ID":523,
+    "Energiedragers":"7 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":245.0
+  },
+  {
+    "ID":524,
+    "Energiedragers":"7 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":268.0
+  },
+  {
+    "ID":525,
+    "Energiedragers":"7 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":212.0
+  },
+  {
+    "ID":526,
+    "Energiedragers":"7 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":192.0
+  },
+  {
+    "ID":527,
+    "Energiedragers":"7 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":222.0
+  },
+  {
+    "ID":528,
+    "Energiedragers":"7 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":214.0
+  },
+  {
+    "ID":529,
+    "Energiedragers":"7 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":234.0
+  },
+  {
+    "ID":530,
+    "Energiedragers":"7 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":202.0
+  },
+  {
+    "ID":531,
+    "Energiedragers":"7 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":195.0
+  },
+  {
+    "ID":532,
+    "Energiedragers":"7 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":199.0
+  },
+  {
+    "ID":533,
+    "Energiedragers":"7 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":222.0
+  },
+  {
+    "ID":534,
+    "Energiedragers":"7 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":135.0
+  },
+  {
+    "ID":535,
+    "Energiedragers":"7 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":143.0
+  },
+  {
+    "ID":536,
+    "Energiedragers":"7 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":185.0
+  },
+  {
+    "ID":537,
+    "Energiedragers":"7 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":170.0
+  },
+  {
+    "ID":538,
+    "Energiedragers":"7 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":182.0
+  },
+  {
+    "ID":539,
+    "Energiedragers":"7 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":185.0
+  },
+  {
+    "ID":540,
+    "Energiedragers":"7 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":46.0
+  },
+  {
+    "ID":541,
+    "Energiedragers":"7 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":50.0
+  },
+  {
+    "ID":542,
+    "Energiedragers":"7 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":47.0
+  },
+  {
+    "ID":543,
+    "Energiedragers":"7 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":60.0
+  },
+  {
+    "ID":544,
+    "Energiedragers":"7 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":203.0
+  },
+  {
+    "ID":545,
+    "Energiedragers":"7 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":43.0
+  },
+  {
+    "ID":546,
+    "Energiedragers":"7 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":57.0
+  },
+  {
+    "ID":547,
+    "Energiedragers":"7 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":57.0
+  },
+  {
+    "ID":548,
+    "Energiedragers":"7 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":57.0
+  },
+  {
+    "ID":549,
+    "Energiedragers":"7 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":214.0
+  },
+  {
+    "ID":550,
+    "Energiedragers":"7 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":58.0
+  },
+  {
+    "ID":551,
+    "Energiedragers":"7 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":50.0
+  },
+  {
+    "ID":552,
+    "Energiedragers":"7 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":53.0
+  },
+  {
+    "ID":553,
+    "Energiedragers":"7 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":57.0
+  },
+  {
+    "ID":554,
+    "Energiedragers":"7 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":219.0
+  },
+  {
+    "ID":555,
+    "Energiedragers":"7 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":42.0
+  },
+  {
+    "ID":556,
+    "Energiedragers":"7 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":48.0
+  },
+  {
+    "ID":557,
+    "Energiedragers":"7 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":41.0
+  },
+  {
+    "ID":558,
+    "Energiedragers":"7 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":62.0
+  },
+  {
+    "ID":559,
+    "Energiedragers":"7 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":193.0
+  },
+  {
+    "ID":560,
+    "Energiedragers":"7 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":62.0
+  },
+  {
+    "ID":561,
+    "Energiedragers":"7 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":72.0
+  },
+  {
+    "ID":562,
+    "Energiedragers":"7 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":69.0
+  },
+  {
+    "ID":563,
+    "Energiedragers":"7 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":72.0
+  },
+  {
+    "ID":564,
+    "Energiedragers":"7 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":274.0
+  },
+  {
+    "ID":565,
+    "Energiedragers":"7 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":84.0
+  },
+  {
+    "ID":566,
+    "Energiedragers":"7 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":74.0
+  },
+  {
+    "ID":567,
+    "Energiedragers":"7 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":72.0
+  },
+  {
+    "ID":568,
+    "Energiedragers":"7 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":55.0
+  },
+  {
+    "ID":569,
+    "Energiedragers":"7 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":284.0
+  },
+  {
+    "ID":570,
+    "Energiedragers":"7 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":90.0
+  },
+  {
+    "ID":571,
+    "Energiedragers":"7 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":82.0
+  },
+  {
+    "ID":572,
+    "Energiedragers":"7 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":77.0
+  },
+  {
+    "ID":573,
+    "Energiedragers":"7 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":77.0
+  },
+  {
+    "ID":574,
+    "Energiedragers":"7 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":327.0
+  },
+  {
+    "ID":575,
+    "Energiedragers":"7 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":72.0
+  },
+  {
+    "ID":576,
+    "Energiedragers":"7 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":62.0
+  },
+  {
+    "ID":577,
+    "Energiedragers":"7 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":79.0
+  },
+  {
+    "ID":578,
+    "Energiedragers":"7 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":67.0
+  },
+  {
+    "ID":579,
+    "Energiedragers":"7 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":281.0
+  },
+  {
+    "ID":580,
+    "Energiedragers":"7 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":89.0
+  },
+  {
+    "ID":581,
+    "Energiedragers":"7 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":111.0
+  },
+  {
+    "ID":582,
+    "Energiedragers":"7 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":121.0
+  },
+  {
+    "ID":583,
+    "Energiedragers":"7 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":122.0
+  },
+  {
+    "ID":584,
+    "Energiedragers":"7 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":443.0
+  },
+  {
+    "ID":585,
+    "Energiedragers":"7 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":103.0
+  },
+  {
+    "ID":586,
+    "Energiedragers":"7 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":94.0
+  },
+  {
+    "ID":587,
+    "Energiedragers":"7 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":111.0
+  },
+  {
+    "ID":588,
+    "Energiedragers":"7 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":88.0
+  },
+  {
+    "ID":589,
+    "Energiedragers":"7 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":397.0
+  },
+  {
+    "ID":590,
+    "Energiedragers":"7 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":100.0
+  },
+  {
+    "ID":591,
+    "Energiedragers":"7 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":103.0
+  },
+  {
+    "ID":592,
+    "Energiedragers":"7 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":107.0
+  },
+  {
+    "ID":593,
+    "Energiedragers":"7 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":99.0
+  },
+  {
+    "ID":594,
+    "Energiedragers":"7 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":410.0
+  },
+  {
+    "ID":595,
+    "Energiedragers":"7 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":111.0
+  },
+  {
+    "ID":596,
+    "Energiedragers":"7 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":123.0
+  },
+  {
+    "ID":597,
+    "Energiedragers":"7 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":121.0
+  },
+  {
+    "ID":598,
+    "Energiedragers":"7 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":119.0
+  },
+  {
+    "ID":599,
+    "Energiedragers":"7 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":473.0
+  },
+  {
+    "ID":600,
+    "Energiedragers":"7 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":406.0
+  },
+  {
+    "ID":601,
+    "Energiedragers":"7 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":471.0
+  },
+  {
+    "ID":602,
+    "Energiedragers":"8 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":385.0
+  },
+  {
+    "ID":603,
+    "Energiedragers":"8 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":390.0
+  },
+  {
+    "ID":604,
+    "Energiedragers":"8 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":427.0
+  },
+  {
+    "ID":605,
+    "Energiedragers":"8 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":425.0
+  },
+  {
+    "ID":606,
+    "Energiedragers":"8 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":445.0
+  },
+  {
+    "ID":607,
+    "Energiedragers":"8 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":403.0
+  },
+  {
+    "ID":608,
+    "Energiedragers":"8 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":402.0
+  },
+  {
+    "ID":609,
+    "Energiedragers":"8 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":366.0
+  },
+  {
+    "ID":610,
+    "Energiedragers":"8 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":371.0
+  },
+  {
+    "ID":611,
+    "Energiedragers":"8 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":400.0
+  },
+  {
+    "ID":612,
+    "Energiedragers":"8 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":405.0
+  },
+  {
+    "ID":613,
+    "Energiedragers":"8 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":384.0
+  },
+  {
+    "ID":614,
+    "Energiedragers":"8 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":426.0
+  },
+  {
+    "ID":615,
+    "Energiedragers":"8 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":418.0
+  },
+  {
+    "ID":616,
+    "Energiedragers":"8 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":418.0
+  },
+  {
+    "ID":617,
+    "Energiedragers":"8 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":438.0
+  },
+  {
+    "ID":618,
+    "Energiedragers":"8 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":450.0
+  },
+  {
+    "ID":619,
+    "Energiedragers":"8 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":446.0
+  },
+  {
+    "ID":620,
+    "Energiedragers":"8 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":422.0
+  },
+  {
+    "ID":621,
+    "Energiedragers":"8 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":426.0
+  },
+  {
+    "ID":622,
+    "Energiedragers":"8 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":418.0
+  },
+  {
+    "ID":623,
+    "Energiedragers":"8 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":421.0
+  },
+  {
+    "ID":624,
+    "Energiedragers":"8 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":418.0
+  },
+  {
+    "ID":625,
+    "Energiedragers":"8 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":413.0
+  },
+  {
+    "ID":626,
+    "Energiedragers":"8 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":108.0
+  },
+  {
+    "ID":627,
+    "Energiedragers":"8 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":97.0
+  },
+  {
+    "ID":628,
+    "Energiedragers":"8 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":91.0
+  },
+  {
+    "ID":629,
+    "Energiedragers":"8 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":111.0
+  },
+  {
+    "ID":630,
+    "Energiedragers":"8 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":407.0
+  },
+  {
+    "ID":631,
+    "Energiedragers":"8 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":112.0
+  },
+  {
+    "ID":632,
+    "Energiedragers":"8 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":101.0
+  },
+  {
+    "ID":633,
+    "Energiedragers":"8 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":94.0
+  },
+  {
+    "ID":634,
+    "Energiedragers":"8 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":108.0
+  },
+  {
+    "ID":635,
+    "Energiedragers":"8 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":415.0
+  },
+  {
+    "ID":636,
+    "Energiedragers":"8 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":105.0
+  },
+  {
+    "ID":637,
+    "Energiedragers":"8 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":94.0
+  },
+  {
+    "ID":638,
+    "Energiedragers":"8 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":87.0
+  },
+  {
+    "ID":639,
+    "Energiedragers":"8 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":101.0
+  },
+  {
+    "ID":640,
+    "Energiedragers":"8 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":387.0
+  },
+  {
+    "ID":641,
+    "Energiedragers":"8 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":97.0
+  },
+  {
+    "ID":642,
+    "Energiedragers":"8 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":92.0
+  },
+  {
+    "ID":643,
+    "Energiedragers":"8 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":88.0
+  },
+  {
+    "ID":644,
+    "Energiedragers":"8 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":104.0
+  },
+  {
+    "ID":645,
+    "Energiedragers":"8 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":380.0
+  },
+  {
+    "ID":646,
+    "Energiedragers":"8 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":99.0
+  },
+  {
+    "ID":647,
+    "Energiedragers":"8 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":86.0
+  },
+  {
+    "ID":648,
+    "Energiedragers":"8 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":85.0
+  },
+  {
+    "ID":649,
+    "Energiedragers":"8 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":101.0
+  },
+  {
+    "ID":650,
+    "Energiedragers":"8 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":371.0
+  },
+  {
+    "ID":651,
+    "Energiedragers":"8 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":98.0
+  },
+  {
+    "ID":652,
+    "Energiedragers":"8 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":85.0
+  },
+  {
+    "ID":653,
+    "Energiedragers":"8 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":85.0
+  },
+  {
+    "ID":654,
+    "Energiedragers":"8 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":101.0
+  },
+  {
+    "ID":655,
+    "Energiedragers":"8 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":369.0
+  },
+  {
+    "ID":656,
+    "Energiedragers":"8 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":101.0
+  },
+  {
+    "ID":657,
+    "Energiedragers":"8 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":90.0
+  },
+  {
+    "ID":658,
+    "Energiedragers":"8 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":87.0
+  },
+  {
+    "ID":659,
+    "Energiedragers":"8 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":96.0
+  },
+  {
+    "ID":660,
+    "Energiedragers":"8 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":375.0
+  },
+  {
+    "ID":661,
+    "Energiedragers":"8 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":95.0
+  },
+  {
+    "ID":662,
+    "Energiedragers":"8 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":83.0
+  },
+  {
+    "ID":663,
+    "Energiedragers":"8 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":76.0
+  },
+  {
+    "ID":664,
+    "Energiedragers":"8 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":92.0
+  },
+  {
+    "ID":665,
+    "Energiedragers":"8 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":346.0
+  },
+  {
+    "ID":666,
+    "Energiedragers":"8 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":88.0
+  },
+  {
+    "ID":667,
+    "Energiedragers":"8 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":82.0
+  },
+  {
+    "ID":668,
+    "Energiedragers":"8 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":80.0
+  },
+  {
+    "ID":669,
+    "Energiedragers":"8 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":91.0
+  },
+  {
+    "ID":670,
+    "Energiedragers":"8 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":340.0
+  },
+  {
+    "ID":671,
+    "Energiedragers":"8 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":92.0
+  },
+  {
+    "ID":672,
+    "Energiedragers":"8 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":78.0
+  },
+  {
+    "ID":673,
+    "Energiedragers":"8 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":74.0
+  },
+  {
+    "ID":674,
+    "Energiedragers":"8 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":82.0
+  },
+  {
+    "ID":675,
+    "Energiedragers":"8 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":326.0
+  },
+  {
+    "ID":676,
+    "Energiedragers":"8 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":75.0
+  },
+  {
+    "ID":677,
+    "Energiedragers":"8 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":70.0
+  },
+  {
+    "ID":678,
+    "Energiedragers":"8 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":74.0
+  },
+  {
+    "ID":679,
+    "Energiedragers":"8 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":85.0
+  },
+  {
+    "ID":680,
+    "Energiedragers":"8 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":304.0
+  },
+  {
+    "ID":681,
+    "Energiedragers":"8 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":91.0
+  },
+  {
+    "ID":682,
+    "Energiedragers":"8 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":79.0
+  },
+  {
+    "ID":683,
+    "Energiedragers":"8 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":77.0
+  },
+  {
+    "ID":684,
+    "Energiedragers":"8 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":92.0
+  },
+  {
+    "ID":685,
+    "Energiedragers":"8 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":339.0
+  },
+  {
+    "ID":686,
+    "Energiedragers":"8 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":323.0
+  },
+  {
+    "ID":687,
+    "Energiedragers":"8 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":319.0
+  },
+  {
+    "ID":688,
+    "Energiedragers":"9 ",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":689,
+    "Energiedragers":"9 ",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":690,
+    "Energiedragers":"9 ",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":691,
+    "Energiedragers":"9 ",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":692,
+    "Energiedragers":"9 ",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":693,
+    "Energiedragers":"9 ",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":694,
+    "Energiedragers":"9 ",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":695,
+    "Energiedragers":"9 ",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":696,
+    "Energiedragers":"9 ",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":697,
+    "Energiedragers":"9 ",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":698,
+    "Energiedragers":"9 ",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":699,
+    "Energiedragers":"9 ",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":700,
+    "Energiedragers":"9 ",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":701,
+    "Energiedragers":"9 ",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":702,
+    "Energiedragers":"9 ",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":703,
+    "Energiedragers":"9 ",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":704,
+    "Energiedragers":"9 ",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":705,
+    "Energiedragers":"9 ",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":706,
+    "Energiedragers":"9 ",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":707,
+    "Energiedragers":"9 ",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":708,
+    "Energiedragers":"9 ",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":4.0
+  },
+  {
+    "ID":709,
+    "Energiedragers":"9 ",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":4.0
+  },
+  {
+    "ID":710,
+    "Energiedragers":"9 ",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":4.0
+  },
+  {
+    "ID":711,
+    "Energiedragers":"9 ",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":4.0
+  },
+  {
+    "ID":712,
+    "Energiedragers":"9 ",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":713,
+    "Energiedragers":"9 ",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":714,
+    "Energiedragers":"9 ",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":715,
+    "Energiedragers":"9 ",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":716,
+    "Energiedragers":"9 ",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":4.0
+  },
+  {
+    "ID":717,
+    "Energiedragers":"9 ",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":718,
+    "Energiedragers":"9 ",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":719,
+    "Energiedragers":"9 ",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":720,
+    "Energiedragers":"9 ",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":721,
+    "Energiedragers":"9 ",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":4.0
+  },
+  {
+    "ID":722,
+    "Energiedragers":"9 ",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":723,
+    "Energiedragers":"9 ",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":724,
+    "Energiedragers":"9 ",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":725,
+    "Energiedragers":"9 ",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":726,
+    "Energiedragers":"9 ",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":4.0
+  },
+  {
+    "ID":727,
+    "Energiedragers":"9 ",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":728,
+    "Energiedragers":"9 ",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":729,
+    "Energiedragers":"9 ",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":730,
+    "Energiedragers":"9 ",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":731,
+    "Energiedragers":"9 ",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":4.0
+  },
+  {
+    "ID":732,
+    "Energiedragers":"9 ",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":733,
+    "Energiedragers":"9 ",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":734,
+    "Energiedragers":"9 ",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":735,
+    "Energiedragers":"9 ",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":736,
+    "Energiedragers":"9 ",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":4.0
+  },
+  {
+    "ID":737,
+    "Energiedragers":"9 ",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":738,
+    "Energiedragers":"9 ",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":739,
+    "Energiedragers":"9 ",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":740,
+    "Energiedragers":"9 ",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":741,
+    "Energiedragers":"9 ",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":742,
+    "Energiedragers":"9 ",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":743,
+    "Energiedragers":"9 ",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":744,
+    "Energiedragers":"9 ",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":745,
+    "Energiedragers":"9 ",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":746,
+    "Energiedragers":"9 ",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":747,
+    "Energiedragers":"9 ",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":748,
+    "Energiedragers":"9 ",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":749,
+    "Energiedragers":"9 ",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":750,
+    "Energiedragers":"9 ",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":751,
+    "Energiedragers":"9 ",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":752,
+    "Energiedragers":"9 ",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":753,
+    "Energiedragers":"9 ",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":754,
+    "Energiedragers":"9 ",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":755,
+    "Energiedragers":"9 ",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":756,
+    "Energiedragers":"9 ",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":757,
+    "Energiedragers":"9 ",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":758,
+    "Energiedragers":"9 ",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":759,
+    "Energiedragers":"9 ",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":760,
+    "Energiedragers":"9 ",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":761,
+    "Energiedragers":"9 ",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":762,
+    "Energiedragers":"9 ",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":763,
+    "Energiedragers":"9 ",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":764,
+    "Energiedragers":"9 ",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":765,
+    "Energiedragers":"9 ",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":766,
+    "Energiedragers":"9 ",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":767,
+    "Energiedragers":"9 ",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":768,
+    "Energiedragers":"9 ",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":769,
+    "Energiedragers":"9 ",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":770,
+    "Energiedragers":"9 ",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":771,
+    "Energiedragers":"9 ",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":772,
+    "Energiedragers":"9 ",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":773,
+    "Energiedragers":"9 ",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":774,
+    "Energiedragers":"10",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":775,
+    "Energiedragers":"10",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":776,
+    "Energiedragers":"10",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":777,
+    "Energiedragers":"10",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":778,
+    "Energiedragers":"10",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":779,
+    "Energiedragers":"10",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":780,
+    "Energiedragers":"10",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":781,
+    "Energiedragers":"10",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":782,
+    "Energiedragers":"10",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":783,
+    "Energiedragers":"10",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":784,
+    "Energiedragers":"10",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":785,
+    "Energiedragers":"10",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":786,
+    "Energiedragers":"10",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":787,
+    "Energiedragers":"10",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":788,
+    "Energiedragers":"10",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":789,
+    "Energiedragers":"10",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":790,
+    "Energiedragers":"10",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":791,
+    "Energiedragers":"10",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":792,
+    "Energiedragers":"10",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":793,
+    "Energiedragers":"10",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":null
+  },
+  {
+    "ID":794,
+    "Energiedragers":"10",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":7.0
+  },
+  {
+    "ID":795,
+    "Energiedragers":"10",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":7.0
+  },
+  {
+    "ID":796,
+    "Energiedragers":"10",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":8.0
+  },
+  {
+    "ID":797,
+    "Energiedragers":"10",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":8.0
+  },
+  {
+    "ID":798,
+    "Energiedragers":"10",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":799,
+    "Energiedragers":"10",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":800,
+    "Energiedragers":"10",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":801,
+    "Energiedragers":"10",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":802,
+    "Energiedragers":"10",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":7.0
+  },
+  {
+    "ID":803,
+    "Energiedragers":"10",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":804,
+    "Energiedragers":"10",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":805,
+    "Energiedragers":"10",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":806,
+    "Energiedragers":"10",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":807,
+    "Energiedragers":"10",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":808,
+    "Energiedragers":"10",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":809,
+    "Energiedragers":"10",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":810,
+    "Energiedragers":"10",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":811,
+    "Energiedragers":"10",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":812,
+    "Energiedragers":"10",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":813,
+    "Energiedragers":"10",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":814,
+    "Energiedragers":"10",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":815,
+    "Energiedragers":"10",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":816,
+    "Energiedragers":"10",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":817,
+    "Energiedragers":"10",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":818,
+    "Energiedragers":"10",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":819,
+    "Energiedragers":"10",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":820,
+    "Energiedragers":"10",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":821,
+    "Energiedragers":"10",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":822,
+    "Energiedragers":"10",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":823,
+    "Energiedragers":"10",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":824,
+    "Energiedragers":"10",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":825,
+    "Energiedragers":"10",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":826,
+    "Energiedragers":"10",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":827,
+    "Energiedragers":"10",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":828,
+    "Energiedragers":"10",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":829,
+    "Energiedragers":"10",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":830,
+    "Energiedragers":"10",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":831,
+    "Energiedragers":"10",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":832,
+    "Energiedragers":"10",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":833,
+    "Energiedragers":"10",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":834,
+    "Energiedragers":"10",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":835,
+    "Energiedragers":"10",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":836,
+    "Energiedragers":"10",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":837,
+    "Energiedragers":"10",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":838,
+    "Energiedragers":"10",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":839,
+    "Energiedragers":"10",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":2.0
+  },
+  {
+    "ID":840,
+    "Energiedragers":"10",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":841,
+    "Energiedragers":"10",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":842,
+    "Energiedragers":"10",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":843,
+    "Energiedragers":"10",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":844,
+    "Energiedragers":"10",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":845,
+    "Energiedragers":"10",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":846,
+    "Energiedragers":"10",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":847,
+    "Energiedragers":"10",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":6.0
+  },
+  {
+    "ID":848,
+    "Energiedragers":"10",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":849,
+    "Energiedragers":"10",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":850,
+    "Energiedragers":"10",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":851,
+    "Energiedragers":"10",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":852,
+    "Energiedragers":"10",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":853,
+    "Energiedragers":"10",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":854,
+    "Energiedragers":"10",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":855,
+    "Energiedragers":"10",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":856,
+    "Energiedragers":"10",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":1.0
+  },
+  {
+    "ID":857,
+    "Energiedragers":"10",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":858,
+    "Energiedragers":"10",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":859,
+    "Energiedragers":"10",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":5.0
+  },
+  {
+    "ID":860,
+    "Energiedragers":"11",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":66.0
+  },
+  {
+    "ID":861,
+    "Energiedragers":"11",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":70.0
+  },
+  {
+    "ID":862,
+    "Energiedragers":"11",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":77.0
+  },
+  {
+    "ID":863,
+    "Energiedragers":"11",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":82.0
+  },
+  {
+    "ID":864,
+    "Energiedragers":"11",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":86.0
+  },
+  {
+    "ID":865,
+    "Energiedragers":"11",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":82.0
+  },
+  {
+    "ID":866,
+    "Energiedragers":"11",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":81.0
+  },
+  {
+    "ID":867,
+    "Energiedragers":"11",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":79.0
+  },
+  {
+    "ID":868,
+    "Energiedragers":"11",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":83.0
+  },
+  {
+    "ID":869,
+    "Energiedragers":"11",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":84.0
+  },
+  {
+    "ID":870,
+    "Energiedragers":"11",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":85.0
+  },
+  {
+    "ID":871,
+    "Energiedragers":"11",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":86.0
+  },
+  {
+    "ID":872,
+    "Energiedragers":"11",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":85.0
+  },
+  {
+    "ID":873,
+    "Energiedragers":"11",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":88.0
+  },
+  {
+    "ID":874,
+    "Energiedragers":"11",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":92.0
+  },
+  {
+    "ID":875,
+    "Energiedragers":"11",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":93.0
+  },
+  {
+    "ID":876,
+    "Energiedragers":"11",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":94.0
+  },
+  {
+    "ID":877,
+    "Energiedragers":"11",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":93.0
+  },
+  {
+    "ID":878,
+    "Energiedragers":"11",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":97.0
+  },
+  {
+    "ID":879,
+    "Energiedragers":"11",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":101.0
+  },
+  {
+    "ID":880,
+    "Energiedragers":"11",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":108.0
+  },
+  {
+    "ID":881,
+    "Energiedragers":"11",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":110.0
+  },
+  {
+    "ID":882,
+    "Energiedragers":"11",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":114.0
+  },
+  {
+    "ID":883,
+    "Energiedragers":"11",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":117.0
+  },
+  {
+    "ID":884,
+    "Energiedragers":"11",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":30.0
+  },
+  {
+    "ID":885,
+    "Energiedragers":"11",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":886,
+    "Energiedragers":"11",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":30.0
+  },
+  {
+    "ID":887,
+    "Energiedragers":"11",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":888,
+    "Energiedragers":"11",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":122.0
+  },
+  {
+    "ID":889,
+    "Energiedragers":"11",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":890,
+    "Energiedragers":"11",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":891,
+    "Energiedragers":"11",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":892,
+    "Energiedragers":"11",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":893,
+    "Energiedragers":"11",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":124.0
+  },
+  {
+    "ID":894,
+    "Energiedragers":"11",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":895,
+    "Energiedragers":"11",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":896,
+    "Energiedragers":"11",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":897,
+    "Energiedragers":"11",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":898,
+    "Energiedragers":"11",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":126.0
+  },
+  {
+    "ID":899,
+    "Energiedragers":"11",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":900,
+    "Energiedragers":"11",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":901,
+    "Energiedragers":"11",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":902,
+    "Energiedragers":"11",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":903,
+    "Energiedragers":"11",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":127.0
+  },
+  {
+    "ID":904,
+    "Energiedragers":"11",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":905,
+    "Energiedragers":"11",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":906,
+    "Energiedragers":"11",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":907,
+    "Energiedragers":"11",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":908,
+    "Energiedragers":"11",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":126.0
+  },
+  {
+    "ID":909,
+    "Energiedragers":"11",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":910,
+    "Energiedragers":"11",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":911,
+    "Energiedragers":"11",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":33.0
+  },
+  {
+    "ID":912,
+    "Energiedragers":"11",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":913,
+    "Energiedragers":"11",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":129.0
+  },
+  {
+    "ID":914,
+    "Energiedragers":"11",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":915,
+    "Energiedragers":"11",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":916,
+    "Energiedragers":"11",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":917,
+    "Energiedragers":"11",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":33.0
+  },
+  {
+    "ID":918,
+    "Energiedragers":"11",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":129.0
+  },
+  {
+    "ID":919,
+    "Energiedragers":"11",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":33.0
+  },
+  {
+    "ID":920,
+    "Energiedragers":"11",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":33.0
+  },
+  {
+    "ID":921,
+    "Energiedragers":"11",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":33.0
+  },
+  {
+    "ID":922,
+    "Energiedragers":"11",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":33.0
+  },
+  {
+    "ID":923,
+    "Energiedragers":"11",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":130.0
+  },
+  {
+    "ID":924,
+    "Energiedragers":"11",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":33.0
+  },
+  {
+    "ID":925,
+    "Energiedragers":"11",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":34.0
+  },
+  {
+    "ID":926,
+    "Energiedragers":"11",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":34.0
+  },
+  {
+    "ID":927,
+    "Energiedragers":"11",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":34.0
+  },
+  {
+    "ID":928,
+    "Energiedragers":"11",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":134.0
+  },
+  {
+    "ID":929,
+    "Energiedragers":"11",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":34.0
+  },
+  {
+    "ID":930,
+    "Energiedragers":"11",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":34.0
+  },
+  {
+    "ID":931,
+    "Energiedragers":"11",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":34.0
+  },
+  {
+    "ID":932,
+    "Energiedragers":"11",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":933,
+    "Energiedragers":"11",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":133.0
+  },
+  {
+    "ID":934,
+    "Energiedragers":"11",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":28.0
+  },
+  {
+    "ID":935,
+    "Energiedragers":"11",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":27.0
+  },
+  {
+    "ID":936,
+    "Energiedragers":"11",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":30.0
+  },
+  {
+    "ID":937,
+    "Energiedragers":"11",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":30.0
+  },
+  {
+    "ID":938,
+    "Energiedragers":"11",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":115.0
+  },
+  {
+    "ID":939,
+    "Energiedragers":"11",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":30.0
+  },
+  {
+    "ID":940,
+    "Energiedragers":"11",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":30.0
+  },
+  {
+    "ID":941,
+    "Energiedragers":"11",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":942,
+    "Energiedragers":"11",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":32.0
+  },
+  {
+    "ID":943,
+    "Energiedragers":"11",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":124.0
+  },
+  {
+    "ID":944,
+    "Energiedragers":"11",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":123.0
+  },
+  {
+    "ID":945,
+    "Energiedragers":"11",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":109.0
+  },
+  {
+    "ID":946,
+    "Energiedragers":"12",
+    "Perioden":"1975JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":947,
+    "Energiedragers":"12",
+    "Perioden":"1976JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":29.0
+  },
+  {
+    "ID":948,
+    "Energiedragers":"12",
+    "Perioden":"1977JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":29.0
+  },
+  {
+    "ID":949,
+    "Energiedragers":"12",
+    "Perioden":"1978JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":31.0
+  },
+  {
+    "ID":950,
+    "Energiedragers":"12",
+    "Perioden":"1979JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":951,
+    "Energiedragers":"12",
+    "Perioden":"1980JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":952,
+    "Energiedragers":"12",
+    "Perioden":"1981JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":14.0
+  },
+  {
+    "ID":953,
+    "Energiedragers":"12",
+    "Perioden":"1982JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":954,
+    "Energiedragers":"12",
+    "Perioden":"1983JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":955,
+    "Energiedragers":"12",
+    "Perioden":"1984JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":956,
+    "Energiedragers":"12",
+    "Perioden":"1985JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":957,
+    "Energiedragers":"12",
+    "Perioden":"1986JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":18.0
+  },
+  {
+    "ID":958,
+    "Energiedragers":"12",
+    "Perioden":"1987JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":18.0
+  },
+  {
+    "ID":959,
+    "Energiedragers":"12",
+    "Perioden":"1988JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":20.0
+  },
+  {
+    "ID":960,
+    "Energiedragers":"12",
+    "Perioden":"1989JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":13.0
+  },
+  {
+    "ID":961,
+    "Energiedragers":"12",
+    "Perioden":"1990JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":15.0
+  },
+  {
+    "ID":962,
+    "Energiedragers":"12",
+    "Perioden":"1991JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":18.0
+  },
+  {
+    "ID":963,
+    "Energiedragers":"12",
+    "Perioden":"1992JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":20.0
+  },
+  {
+    "ID":964,
+    "Energiedragers":"12",
+    "Perioden":"1993JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":49.0
+  },
+  {
+    "ID":965,
+    "Energiedragers":"12",
+    "Perioden":"1994JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":65.0
+  },
+  {
+    "ID":966,
+    "Energiedragers":"12",
+    "Perioden":"1995JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":75.0
+  },
+  {
+    "ID":967,
+    "Energiedragers":"12",
+    "Perioden":"1996JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":80.0
+  },
+  {
+    "ID":968,
+    "Energiedragers":"12",
+    "Perioden":"1997JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":82.0
+  },
+  {
+    "ID":969,
+    "Energiedragers":"12",
+    "Perioden":"1998JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":87.0
+  },
+  {
+    "ID":970,
+    "Energiedragers":"12",
+    "Perioden":"1999KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":971,
+    "Energiedragers":"12",
+    "Perioden":"1999KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":972,
+    "Energiedragers":"12",
+    "Perioden":"1999KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":973,
+    "Energiedragers":"12",
+    "Perioden":"1999KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":26.0
+  },
+  {
+    "ID":974,
+    "Energiedragers":"12",
+    "Perioden":"1999JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":100.0
+  },
+  {
+    "ID":975,
+    "Energiedragers":"12",
+    "Perioden":"2000KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":976,
+    "Energiedragers":"12",
+    "Perioden":"2000KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":977,
+    "Energiedragers":"12",
+    "Perioden":"2000KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":978,
+    "Energiedragers":"12",
+    "Perioden":"2000KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":979,
+    "Energiedragers":"12",
+    "Perioden":"2000JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":95.0
+  },
+  {
+    "ID":980,
+    "Energiedragers":"12",
+    "Perioden":"2001KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":26.0
+  },
+  {
+    "ID":981,
+    "Energiedragers":"12",
+    "Perioden":"2001KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":982,
+    "Energiedragers":"12",
+    "Perioden":"2001KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":983,
+    "Energiedragers":"12",
+    "Perioden":"2001KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":984,
+    "Energiedragers":"12",
+    "Perioden":"2001JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":98.0
+  },
+  {
+    "ID":985,
+    "Energiedragers":"12",
+    "Perioden":"2002KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":26.0
+  },
+  {
+    "ID":986,
+    "Energiedragers":"12",
+    "Perioden":"2002KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":987,
+    "Energiedragers":"12",
+    "Perioden":"2002KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":24.0
+  },
+  {
+    "ID":988,
+    "Energiedragers":"12",
+    "Perioden":"2002KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":27.0
+  },
+  {
+    "ID":989,
+    "Energiedragers":"12",
+    "Perioden":"2002JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":101.0
+  },
+  {
+    "ID":990,
+    "Energiedragers":"12",
+    "Perioden":"2003KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":28.0
+  },
+  {
+    "ID":991,
+    "Energiedragers":"12",
+    "Perioden":"2003KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":27.0
+  },
+  {
+    "ID":992,
+    "Energiedragers":"12",
+    "Perioden":"2003KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":25.0
+  },
+  {
+    "ID":993,
+    "Energiedragers":"12",
+    "Perioden":"2003KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":27.0
+  },
+  {
+    "ID":994,
+    "Energiedragers":"12",
+    "Perioden":"2003JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":107.0
+  },
+  {
+    "ID":995,
+    "Energiedragers":"12",
+    "Perioden":"2004KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":28.0
+  },
+  {
+    "ID":996,
+    "Energiedragers":"12",
+    "Perioden":"2004KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":29.0
+  },
+  {
+    "ID":997,
+    "Energiedragers":"12",
+    "Perioden":"2004KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":29.0
+  },
+  {
+    "ID":998,
+    "Energiedragers":"12",
+    "Perioden":"2004KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":29.0
+  },
+  {
+    "ID":999,
+    "Energiedragers":"12",
+    "Perioden":"2004JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":114.0
+  },
+  {
+    "ID":1000,
+    "Energiedragers":"12",
+    "Perioden":"2005KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":29.0
+  },
+  {
+    "ID":1001,
+    "Energiedragers":"12",
+    "Perioden":"2005KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":26.0
+  },
+  {
+    "ID":1002,
+    "Energiedragers":"12",
+    "Perioden":"2005KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":27.0
+  },
+  {
+    "ID":1003,
+    "Energiedragers":"12",
+    "Perioden":"2005KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":29.0
+  },
+  {
+    "ID":1004,
+    "Energiedragers":"12",
+    "Perioden":"2005JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":111.0
+  },
+  {
+    "ID":1005,
+    "Energiedragers":"12",
+    "Perioden":"2006KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":23.0
+  },
+  {
+    "ID":1006,
+    "Energiedragers":"12",
+    "Perioden":"2006KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":20.0
+  },
+  {
+    "ID":1007,
+    "Energiedragers":"12",
+    "Perioden":"2006KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":21.0
+  },
+  {
+    "ID":1008,
+    "Energiedragers":"12",
+    "Perioden":"2006KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":1009,
+    "Energiedragers":"12",
+    "Perioden":"2006JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":86.0
+  },
+  {
+    "ID":1010,
+    "Energiedragers":"12",
+    "Perioden":"2007KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":1011,
+    "Energiedragers":"12",
+    "Perioden":"2007KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":20.0
+  },
+  {
+    "ID":1012,
+    "Energiedragers":"12",
+    "Perioden":"2007KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":21.0
+  },
+  {
+    "ID":1013,
+    "Energiedragers":"12",
+    "Perioden":"2007KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":22.0
+  },
+  {
+    "ID":1014,
+    "Energiedragers":"12",
+    "Perioden":"2007JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":85.0
+  },
+  {
+    "ID":1015,
+    "Energiedragers":"12",
+    "Perioden":"2008KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":20.0
+  },
+  {
+    "ID":1016,
+    "Energiedragers":"12",
+    "Perioden":"2008KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":19.0
+  },
+  {
+    "ID":1017,
+    "Energiedragers":"12",
+    "Perioden":"2008KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":19.0
+  },
+  {
+    "ID":1018,
+    "Energiedragers":"12",
+    "Perioden":"2008KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":26.0
+  },
+  {
+    "ID":1019,
+    "Energiedragers":"12",
+    "Perioden":"2008JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":85.0
+  },
+  {
+    "ID":1020,
+    "Energiedragers":"12",
+    "Perioden":"2009KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":18.0
+  },
+  {
+    "ID":1021,
+    "Energiedragers":"12",
+    "Perioden":"2009KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":16.0
+  },
+  {
+    "ID":1022,
+    "Energiedragers":"12",
+    "Perioden":"2009KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":17.0
+  },
+  {
+    "ID":1023,
+    "Energiedragers":"12",
+    "Perioden":"2009KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":18.0
+  },
+  {
+    "ID":1024,
+    "Energiedragers":"12",
+    "Perioden":"2009JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":69.0
+  },
+  {
+    "ID":1025,
+    "Energiedragers":"12",
+    "Perioden":"2010KW01",
+    "EnergieverbruikInDeSectorNijverheid_1":20.0
+  },
+  {
+    "ID":1026,
+    "Energiedragers":"12",
+    "Perioden":"2010KW02",
+    "EnergieverbruikInDeSectorNijverheid_1":17.0
+  },
+  {
+    "ID":1027,
+    "Energiedragers":"12",
+    "Perioden":"2010KW03",
+    "EnergieverbruikInDeSectorNijverheid_1":18.0
+  },
+  {
+    "ID":1028,
+    "Energiedragers":"12",
+    "Perioden":"2010KW04",
+    "EnergieverbruikInDeSectorNijverheid_1":18.0
+  },
+  {
+    "ID":1029,
+    "Energiedragers":"12",
+    "Perioden":"2010JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":72.0
+  },
+  {
+    "ID":1030,
+    "Energiedragers":"12",
+    "Perioden":"2011JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":71.0
+  },
+  {
+    "ID":1031,
+    "Energiedragers":"12",
+    "Perioden":"2012JJ00",
+    "EnergieverbruikInDeSectorNijverheid_1":68.0
+  }
+]

@@ -1,0 +1,2594 @@
+[
+  {
+    "ID":0,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":267470.0,
+    "GedeclareerdeEnToegekendeKosten_2":844813.0
+  },
+  {
+    "ID":1,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":266170.0,
+    "GedeclareerdeEnToegekendeKosten_2":807952.0
+  },
+  {
+    "ID":2,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":262240.0,
+    "GedeclareerdeEnToegekendeKosten_2":836327.0
+  },
+  {
+    "ID":3,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":211885.0,
+    "GedeclareerdeEnToegekendeKosten_2":527283.0
+  },
+  {
+    "ID":4,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":66730.0,
+    "GedeclareerdeEnToegekendeKosten_2":24639.0
+  },
+  {
+    "ID":5,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":65225.0,
+    "GedeclareerdeEnToegekendeKosten_2":16040.0
+  },
+  {
+    "ID":6,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":64250.0,
+    "GedeclareerdeEnToegekendeKosten_2":15169.0
+  },
+  {
+    "ID":7,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":8,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":212345.0,
+    "GedeclareerdeEnToegekendeKosten_2":820095.0
+  },
+  {
+    "ID":9,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":211795.0,
+    "GedeclareerdeEnToegekendeKosten_2":791603.0
+  },
+  {
+    "ID":10,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":207115.0,
+    "GedeclareerdeEnToegekendeKosten_2":818008.0
+  },
+  {
+    "ID":11,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":12,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":285.0,
+    "GedeclareerdeEnToegekendeKosten_2":79.0
+  },
+  {
+    "ID":13,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":730.0,
+    "GedeclareerdeEnToegekendeKosten_2":309.0
+  },
+  {
+    "ID":14,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":3495.0,
+    "GedeclareerdeEnToegekendeKosten_2":3151.0
+  },
+  {
+    "ID":15,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":115.0,
+    "GedeclareerdeEnToegekendeKosten_2":137.0
+  },
+  {
+    "ID":16,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":17,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":18,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":19,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":50805.0,
+    "GedeclareerdeEnToegekendeKosten_2":33313.0
+  },
+  {
+    "ID":20,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":21,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":22,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":23,
+    "Geslacht":"1100",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":168265.0,
+    "GedeclareerdeEnToegekendeKosten_2":493833.0
+  },
+  {
+    "ID":24,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":8070.0,
+    "GedeclareerdeEnToegekendeKosten_2":25186.0
+  },
+  {
+    "ID":25,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":7740.0,
+    "GedeclareerdeEnToegekendeKosten_2":24469.0
+  },
+  {
+    "ID":26,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":7290.0,
+    "GedeclareerdeEnToegekendeKosten_2":23782.0
+  },
+  {
+    "ID":27,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":5465.0,
+    "GedeclareerdeEnToegekendeKosten_2":14478.0
+  },
+  {
+    "ID":28,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":1400.0,
+    "GedeclareerdeEnToegekendeKosten_2":377.0
+  },
+  {
+    "ID":29,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":1530.0,
+    "GedeclareerdeEnToegekendeKosten_2":323.0
+  },
+  {
+    "ID":30,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":1460.0,
+    "GedeclareerdeEnToegekendeKosten_2":283.0
+  },
+  {
+    "ID":31,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":32,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":6775.0,
+    "GedeclareerdeEnToegekendeKosten_2":24804.0
+  },
+  {
+    "ID":33,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":6335.0,
+    "GedeclareerdeEnToegekendeKosten_2":24145.0
+  },
+  {
+    "ID":34,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":5880.0,
+    "GedeclareerdeEnToegekendeKosten_2":23400.0
+  },
+  {
+    "ID":35,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":36,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":5.0,
+    "GedeclareerdeEnToegekendeKosten_2":5.0
+  },
+  {
+    "ID":37,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":5.0,
+    "GedeclareerdeEnToegekendeKosten_2":1.0
+  },
+  {
+    "ID":38,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":85.0,
+    "GedeclareerdeEnToegekendeKosten_2":99.0
+  },
+  {
+    "ID":39,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":5.0,
+    "GedeclareerdeEnToegekendeKosten_2":0.0
+  },
+  {
+    "ID":40,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":41,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":42,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":43,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":1155.0,
+    "GedeclareerdeEnToegekendeKosten_2":640.0
+  },
+  {
+    "ID":44,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":45,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":46,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":47,
+    "Geslacht":"1100",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":4365.0,
+    "GedeclareerdeEnToegekendeKosten_2":13838.0
+  },
+  {
+    "ID":48,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":143190.0,
+    "GedeclareerdeEnToegekendeKosten_2":399166.0
+  },
+  {
+    "ID":49,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":139990.0,
+    "GedeclareerdeEnToegekendeKosten_2":381067.0
+  },
+  {
+    "ID":50,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":135505.0,
+    "GedeclareerdeEnToegekendeKosten_2":377840.0
+  },
+  {
+    "ID":51,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":109465.0,
+    "GedeclareerdeEnToegekendeKosten_2":233311.0
+  },
+  {
+    "ID":52,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":36325.0,
+    "GedeclareerdeEnToegekendeKosten_2":13885.0
+  },
+  {
+    "ID":53,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":34555.0,
+    "GedeclareerdeEnToegekendeKosten_2":8780.0
+  },
+  {
+    "ID":54,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":33175.0,
+    "GedeclareerdeEnToegekendeKosten_2":7902.0
+  },
+  {
+    "ID":55,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":56,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":113300.0,
+    "GedeclareerdeEnToegekendeKosten_2":385232.0
+  },
+  {
+    "ID":57,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":111410.0,
+    "GedeclareerdeEnToegekendeKosten_2":372216.0
+  },
+  {
+    "ID":58,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":106780.0,
+    "GedeclareerdeEnToegekendeKosten_2":368332.0
+  },
+  {
+    "ID":59,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":60,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":95.0,
+    "GedeclareerdeEnToegekendeKosten_2":49.0
+  },
+  {
+    "ID":61,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":210.0,
+    "GedeclareerdeEnToegekendeKosten_2":71.0
+  },
+  {
+    "ID":62,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":1430.0,
+    "GedeclareerdeEnToegekendeKosten_2":1607.0
+  },
+  {
+    "ID":63,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":20.0,
+    "GedeclareerdeEnToegekendeKosten_2":36.0
+  },
+  {
+    "ID":64,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":65,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":66,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":67,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":25275.0,
+    "GedeclareerdeEnToegekendeKosten_2":16864.0
+  },
+  {
+    "ID":68,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":69,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":70,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":71,
+    "Geslacht":"1100",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":87730.0,
+    "GedeclareerdeEnToegekendeKosten_2":216411.0
+  },
+  {
+    "ID":72,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":116210.0,
+    "GedeclareerdeEnToegekendeKosten_2":420461.0
+  },
+  {
+    "ID":73,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":118435.0,
+    "GedeclareerdeEnToegekendeKosten_2":402416.0
+  },
+  {
+    "ID":74,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":119445.0,
+    "GedeclareerdeEnToegekendeKosten_2":434705.0
+  },
+  {
+    "ID":75,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":96955.0,
+    "GedeclareerdeEnToegekendeKosten_2":279494.0
+  },
+  {
+    "ID":76,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":29010.0,
+    "GedeclareerdeEnToegekendeKosten_2":10377.0
+  },
+  {
+    "ID":77,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":29135.0,
+    "GedeclareerdeEnToegekendeKosten_2":6937.0
+  },
+  {
+    "ID":78,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":29615.0,
+    "GedeclareerdeEnToegekendeKosten_2":6984.0
+  },
+  {
+    "ID":79,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":80,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":92270.0,
+    "GedeclareerdeEnToegekendeKosten_2":410059.0
+  },
+  {
+    "ID":81,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":94055.0,
+    "GedeclareerdeEnToegekendeKosten_2":395242.0
+  },
+  {
+    "ID":82,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":94460.0,
+    "GedeclareerdeEnToegekendeKosten_2":426276.0
+  },
+  {
+    "ID":83,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":84,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":185.0,
+    "GedeclareerdeEnToegekendeKosten_2":25.0
+  },
+  {
+    "ID":85,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":520.0,
+    "GedeclareerdeEnToegekendeKosten_2":237.0
+  },
+  {
+    "ID":86,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":1985.0,
+    "GedeclareerdeEnToegekendeKosten_2":1445.0
+  },
+  {
+    "ID":87,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":95.0,
+    "GedeclareerdeEnToegekendeKosten_2":101.0
+  },
+  {
+    "ID":88,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":89,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":90,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":91,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":24375.0,
+    "GedeclareerdeEnToegekendeKosten_2":15809.0
+  },
+  {
+    "ID":92,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":93,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":94,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":95,
+    "Geslacht":"1100",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":76170.0,
+    "GedeclareerdeEnToegekendeKosten_2":263584.0
+  },
+  {
+    "ID":96,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":164145.0,
+    "GedeclareerdeEnToegekendeKosten_2":519870.0
+  },
+  {
+    "ID":97,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":162150.0,
+    "GedeclareerdeEnToegekendeKosten_2":489745.0
+  },
+  {
+    "ID":98,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":158170.0,
+    "GedeclareerdeEnToegekendeKosten_2":498357.0
+  },
+  {
+    "ID":99,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":127645.0,
+    "GedeclareerdeEnToegekendeKosten_2":306445.0
+  },
+  {
+    "ID":100,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":35445.0,
+    "GedeclareerdeEnToegekendeKosten_2":13111.0
+  },
+  {
+    "ID":101,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":33905.0,
+    "GedeclareerdeEnToegekendeKosten_2":8437.0
+  },
+  {
+    "ID":102,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":32830.0,
+    "GedeclareerdeEnToegekendeKosten_2":7675.0
+  },
+  {
+    "ID":103,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":104,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":135475.0,
+    "GedeclareerdeEnToegekendeKosten_2":506717.0
+  },
+  {
+    "ID":105,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":134410.0,
+    "GedeclareerdeEnToegekendeKosten_2":481146.0
+  },
+  {
+    "ID":106,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":130515.0,
+    "GedeclareerdeEnToegekendeKosten_2":489024.0
+  },
+  {
+    "ID":107,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":108,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":175.0,
+    "GedeclareerdeEnToegekendeKosten_2":42.0
+  },
+  {
+    "ID":109,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":400.0,
+    "GedeclareerdeEnToegekendeKosten_2":162.0
+  },
+  {
+    "ID":110,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":1740.0,
+    "GedeclareerdeEnToegekendeKosten_2":1658.0
+  },
+  {
+    "ID":111,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":65.0,
+    "GedeclareerdeEnToegekendeKosten_2":108.0
+  },
+  {
+    "ID":112,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":113,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":114,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":115,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":26795.0,
+    "GedeclareerdeEnToegekendeKosten_2":17393.0
+  },
+  {
+    "ID":116,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":117,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":118,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":119,
+    "Geslacht":"3000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":104920.0,
+    "GedeclareerdeEnToegekendeKosten_2":288944.0
+  },
+  {
+    "ID":120,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":5235.0,
+    "GedeclareerdeEnToegekendeKosten_2":17082.0
+  },
+  {
+    "ID":121,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":4985.0,
+    "GedeclareerdeEnToegekendeKosten_2":16918.0
+  },
+  {
+    "ID":122,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":4595.0,
+    "GedeclareerdeEnToegekendeKosten_2":15856.0
+  },
+  {
+    "ID":123,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":3500.0,
+    "GedeclareerdeEnToegekendeKosten_2":9644.0
+  },
+  {
+    "ID":124,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":865.0,
+    "GedeclareerdeEnToegekendeKosten_2":237.0
+  },
+  {
+    "ID":125,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":925.0,
+    "GedeclareerdeEnToegekendeKosten_2":208.0
+  },
+  {
+    "ID":126,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":850.0,
+    "GedeclareerdeEnToegekendeKosten_2":168.0
+  },
+  {
+    "ID":127,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":128,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":4440.0,
+    "GedeclareerdeEnToegekendeKosten_2":16843.0
+  },
+  {
+    "ID":129,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":4140.0,
+    "GedeclareerdeEnToegekendeKosten_2":16710.0
+  },
+  {
+    "ID":130,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":3770.0,
+    "GedeclareerdeEnToegekendeKosten_2":15622.0
+  },
+  {
+    "ID":131,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":132,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":5.0,
+    "GedeclareerdeEnToegekendeKosten_2":1.0
+  },
+  {
+    "ID":133,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":5.0,
+    "GedeclareerdeEnToegekendeKosten_2":1.0
+  },
+  {
+    "ID":134,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":50.0,
+    "GedeclareerdeEnToegekendeKosten_2":66.0
+  },
+  {
+    "ID":135,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":5.0,
+    "GedeclareerdeEnToegekendeKosten_2":0.0
+  },
+  {
+    "ID":136,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":137,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":138,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":139,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":695.0,
+    "GedeclareerdeEnToegekendeKosten_2":398.0
+  },
+  {
+    "ID":140,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":141,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":142,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":143,
+    "Geslacht":"3000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":2850.0,
+    "GedeclareerdeEnToegekendeKosten_2":9245.0
+  },
+  {
+    "ID":144,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":93005.0,
+    "GedeclareerdeEnToegekendeKosten_2":273816.0
+  },
+  {
+    "ID":145,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":90135.0,
+    "GedeclareerdeEnToegekendeKosten_2":256166.0
+  },
+  {
+    "ID":146,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":86910.0,
+    "GedeclareerdeEnToegekendeKosten_2":257627.0
+  },
+  {
+    "ID":147,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":70805.0,
+    "GedeclareerdeEnToegekendeKosten_2":156551.0
+  },
+  {
+    "ID":148,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":21190.0,
+    "GedeclareerdeEnToegekendeKosten_2":8114.0
+  },
+  {
+    "ID":149,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":19890.0,
+    "GedeclareerdeEnToegekendeKosten_2":5129.0
+  },
+  {
+    "ID":150,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":19025.0,
+    "GedeclareerdeEnToegekendeKosten_2":4522.0
+  },
+  {
+    "ID":151,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":152,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":76015.0,
+    "GedeclareerdeEnToegekendeKosten_2":265675.0
+  },
+  {
+    "ID":153,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":74030.0,
+    "GedeclareerdeEnToegekendeKosten_2":251000.0
+  },
+  {
+    "ID":154,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":70925.0,
+    "GedeclareerdeEnToegekendeKosten_2":252138.0
+  },
+  {
+    "ID":155,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":156,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":65.0,
+    "GedeclareerdeEnToegekendeKosten_2":27.0
+  },
+  {
+    "ID":157,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":135.0,
+    "GedeclareerdeEnToegekendeKosten_2":38.0
+  },
+  {
+    "ID":158,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":785.0,
+    "GedeclareerdeEnToegekendeKosten_2":967.0
+  },
+  {
+    "ID":159,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":15.0,
+    "GedeclareerdeEnToegekendeKosten_2":34.0
+  },
+  {
+    "ID":160,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":161,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":162,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":163,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":15150.0,
+    "GedeclareerdeEnToegekendeKosten_2":10124.0
+  },
+  {
+    "ID":164,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":165,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":166,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":167,
+    "Geslacht":"3000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":57970.0,
+    "GedeclareerdeEnToegekendeKosten_2":146393.0
+  },
+  {
+    "ID":168,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":65905.0,
+    "GedeclareerdeEnToegekendeKosten_2":228973.0
+  },
+  {
+    "ID":169,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":67030.0,
+    "GedeclareerdeEnToegekendeKosten_2":216661.0
+  },
+  {
+    "ID":170,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":66665.0,
+    "GedeclareerdeEnToegekendeKosten_2":224874.0
+  },
+  {
+    "ID":171,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":53345.0,
+    "GedeclareerdeEnToegekendeKosten_2":140250.0
+  },
+  {
+    "ID":172,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":13390.0,
+    "GedeclareerdeEnToegekendeKosten_2":4760.0
+  },
+  {
+    "ID":173,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":13090.0,
+    "GedeclareerdeEnToegekendeKosten_2":3100.0
+  },
+  {
+    "ID":174,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":12950.0,
+    "GedeclareerdeEnToegekendeKosten_2":2985.0
+  },
+  {
+    "ID":175,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":176,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":55025.0,
+    "GedeclareerdeEnToegekendeKosten_2":224199.0
+  },
+  {
+    "ID":177,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":56240.0,
+    "GedeclareerdeEnToegekendeKosten_2":213437.0
+  },
+  {
+    "ID":178,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":55820.0,
+    "GedeclareerdeEnToegekendeKosten_2":221265.0
+  },
+  {
+    "ID":179,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":180,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":110.0,
+    "GedeclareerdeEnToegekendeKosten_2":14.0
+  },
+  {
+    "ID":181,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":265.0,
+    "GedeclareerdeEnToegekendeKosten_2":124.0
+  },
+  {
+    "ID":182,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":905.0,
+    "GedeclareerdeEnToegekendeKosten_2":625.0
+  },
+  {
+    "ID":183,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":50.0,
+    "GedeclareerdeEnToegekendeKosten_2":74.0
+  },
+  {
+    "ID":184,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":185,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":186,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":187,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":10950.0,
+    "GedeclareerdeEnToegekendeKosten_2":6870.0
+  },
+  {
+    "ID":188,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":189,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":190,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":191,
+    "Geslacht":"3000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":44100.0,
+    "GedeclareerdeEnToegekendeKosten_2":133306.0
+  },
+  {
+    "ID":192,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":103325.0,
+    "GedeclareerdeEnToegekendeKosten_2":324943.0
+  },
+  {
+    "ID":193,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":104020.0,
+    "GedeclareerdeEnToegekendeKosten_2":318207.0
+  },
+  {
+    "ID":194,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":104070.0,
+    "GedeclareerdeEnToegekendeKosten_2":337971.0
+  },
+  {
+    "ID":195,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":84240.0,
+    "GedeclareerdeEnToegekendeKosten_2":220838.0
+  },
+  {
+    "ID":196,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":31285.0,
+    "GedeclareerdeEnToegekendeKosten_2":11528.0
+  },
+  {
+    "ID":197,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":31320.0,
+    "GedeclareerdeEnToegekendeKosten_2":7603.0
+  },
+  {
+    "ID":198,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":31420.0,
+    "GedeclareerdeEnToegekendeKosten_2":7495.0
+  },
+  {
+    "ID":199,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":200,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":76870.0,
+    "GedeclareerdeEnToegekendeKosten_2":313378.0
+  },
+  {
+    "ID":201,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":77385.0,
+    "GedeclareerdeEnToegekendeKosten_2":310457.0
+  },
+  {
+    "ID":202,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":76600.0,
+    "GedeclareerdeEnToegekendeKosten_2":328983.0
+  },
+  {
+    "ID":203,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":204,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":110.0,
+    "GedeclareerdeEnToegekendeKosten_2":37.0
+  },
+  {
+    "ID":205,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":330.0,
+    "GedeclareerdeEnToegekendeKosten_2":147.0
+  },
+  {
+    "ID":206,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":1755.0,
+    "GedeclareerdeEnToegekendeKosten_2":1493.0
+  },
+  {
+    "ID":207,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":50.0,
+    "GedeclareerdeEnToegekendeKosten_2":29.0
+  },
+  {
+    "ID":208,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":209,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":210,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":211,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":24015.0,
+    "GedeclareerdeEnToegekendeKosten_2":15920.0
+  },
+  {
+    "ID":212,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":213,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":214,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":215,
+    "Geslacht":"4000",
+    "Leeftijd":"10222",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":63345.0,
+    "GedeclareerdeEnToegekendeKosten_2":204889.0
+  },
+  {
+    "ID":216,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":2835.0,
+    "GedeclareerdeEnToegekendeKosten_2":8104.0
+  },
+  {
+    "ID":217,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":2760.0,
+    "GedeclareerdeEnToegekendeKosten_2":7550.0
+  },
+  {
+    "ID":218,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":2695.0,
+    "GedeclareerdeEnToegekendeKosten_2":7927.0
+  },
+  {
+    "ID":219,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":1965.0,
+    "GedeclareerdeEnToegekendeKosten_2":4834.0
+  },
+  {
+    "ID":220,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":535.0,
+    "GedeclareerdeEnToegekendeKosten_2":140.0
+  },
+  {
+    "ID":221,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":605.0,
+    "GedeclareerdeEnToegekendeKosten_2":115.0
+  },
+  {
+    "ID":222,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":605.0,
+    "GedeclareerdeEnToegekendeKosten_2":115.0
+  },
+  {
+    "ID":223,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":224,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":2335.0,
+    "GedeclareerdeEnToegekendeKosten_2":7961.0
+  },
+  {
+    "ID":225,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":2195.0,
+    "GedeclareerdeEnToegekendeKosten_2":7435.0
+  },
+  {
+    "ID":226,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":2110.0,
+    "GedeclareerdeEnToegekendeKosten_2":7778.0
+  },
+  {
+    "ID":227,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":228,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":5.0,
+    "GedeclareerdeEnToegekendeKosten_2":4.0
+  },
+  {
+    "ID":229,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":5.0,
+    "GedeclareerdeEnToegekendeKosten_2":0.0
+  },
+  {
+    "ID":230,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":35.0,
+    "GedeclareerdeEnToegekendeKosten_2":33.0
+  },
+  {
+    "ID":231,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":0.0,
+    "GedeclareerdeEnToegekendeKosten_2":0.0
+  },
+  {
+    "ID":232,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":233,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":234,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":235,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":460.0,
+    "GedeclareerdeEnToegekendeKosten_2":241.0
+  },
+  {
+    "ID":236,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":237,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":238,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":239,
+    "Geslacht":"4000",
+    "Leeftijd":"70100",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":1515.0,
+    "GedeclareerdeEnToegekendeKosten_2":4593.0
+  },
+  {
+    "ID":240,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":50185.0,
+    "GedeclareerdeEnToegekendeKosten_2":125351.0
+  },
+  {
+    "ID":241,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":49855.0,
+    "GedeclareerdeEnToegekendeKosten_2":124901.0
+  },
+  {
+    "ID":242,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":48595.0,
+    "GedeclareerdeEnToegekendeKosten_2":120214.0
+  },
+  {
+    "ID":243,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":38660.0,
+    "GedeclareerdeEnToegekendeKosten_2":76760.0
+  },
+  {
+    "ID":244,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":15130.0,
+    "GedeclareerdeEnToegekendeKosten_2":5771.0
+  },
+  {
+    "ID":245,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":14665.0,
+    "GedeclareerdeEnToegekendeKosten_2":3651.0
+  },
+  {
+    "ID":246,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":14150.0,
+    "GedeclareerdeEnToegekendeKosten_2":3380.0
+  },
+  {
+    "ID":247,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":248,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":37290.0,
+    "GedeclareerdeEnToegekendeKosten_2":119558.0
+  },
+  {
+    "ID":249,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":37380.0,
+    "GedeclareerdeEnToegekendeKosten_2":121216.0
+  },
+  {
+    "ID":250,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":35855.0,
+    "GedeclareerdeEnToegekendeKosten_2":116194.0
+  },
+  {
+    "ID":251,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":252,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":30.0,
+    "GedeclareerdeEnToegekendeKosten_2":22.0
+  },
+  {
+    "ID":253,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":75.0,
+    "GedeclareerdeEnToegekendeKosten_2":34.0
+  },
+  {
+    "ID":254,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":645.0,
+    "GedeclareerdeEnToegekendeKosten_2":639.0
+  },
+  {
+    "ID":255,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":5.0,
+    "GedeclareerdeEnToegekendeKosten_2":2.0
+  },
+  {
+    "ID":256,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":257,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":258,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":259,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":10125.0,
+    "GedeclareerdeEnToegekendeKosten_2":6740.0
+  },
+  {
+    "ID":260,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":261,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":262,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":263,
+    "Geslacht":"4000",
+    "Leeftijd":"51506",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":29755.0,
+    "GedeclareerdeEnToegekendeKosten_2":70018.0
+  },
+  {
+    "ID":264,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":50305.0,
+    "GedeclareerdeEnToegekendeKosten_2":191489.0
+  },
+  {
+    "ID":265,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":51405.0,
+    "GedeclareerdeEnToegekendeKosten_2":185755.0
+  },
+  {
+    "ID":266,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":52780.0,
+    "GedeclareerdeEnToegekendeKosten_2":209831.0
+  },
+  {
+    "ID":267,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW01 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":43610.0,
+    "GedeclareerdeEnToegekendeKosten_2":139244.0
+  },
+  {
+    "ID":268,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":15625.0,
+    "GedeclareerdeEnToegekendeKosten_2":5617.0
+  },
+  {
+    "ID":269,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":16050.0,
+    "GedeclareerdeEnToegekendeKosten_2":3837.0
+  },
+  {
+    "ID":270,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":16665.0,
+    "GedeclareerdeEnToegekendeKosten_2":3999.0
+  },
+  {
+    "ID":271,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW02 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":272,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":37245.0,
+    "GedeclareerdeEnToegekendeKosten_2":185860.0
+  },
+  {
+    "ID":273,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":37815.0,
+    "GedeclareerdeEnToegekendeKosten_2":181806.0
+  },
+  {
+    "ID":274,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":38640.0,
+    "GedeclareerdeEnToegekendeKosten_2":205011.0
+  },
+  {
+    "ID":275,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW03 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":276,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":75.0,
+    "GedeclareerdeEnToegekendeKosten_2":11.0
+  },
+  {
+    "ID":277,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":255.0,
+    "GedeclareerdeEnToegekendeKosten_2":113.0
+  },
+  {
+    "ID":278,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":1075.0,
+    "GedeclareerdeEnToegekendeKosten_2":820.0
+  },
+  {
+    "ID":279,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW04 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":45.0,
+    "GedeclareerdeEnToegekendeKosten_2":27.0
+  },
+  {
+    "ID":280,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":281,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":282,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":283,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW05 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":13425.0,
+    "GedeclareerdeEnToegekendeKosten_2":8939.0
+  },
+  {
+    "ID":284,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2011JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":285,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2012JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":286,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2013JJ00",
+    "JongerenMetKostenZvwGGZ_1":null,
+    "GedeclareerdeEnToegekendeKosten_2":null
+  },
+  {
+    "ID":287,
+    "Geslacht":"4000",
+    "Leeftijd":"52041",
+    "Zorgvormen":"ZVW06 ",
+    "Perioden":"2014JJ00",
+    "JongerenMetKostenZvwGGZ_1":32070.0,
+    "GedeclareerdeEnToegekendeKosten_2":130278.0
+  }
+]

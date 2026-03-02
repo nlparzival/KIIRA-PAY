@@ -1,0 +1,7034 @@
+[
+  {
+    "ID":0,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM01",
+    "Invoerwaarde_1":903503.0,
+    "Uitvoerwaarde_2":1099603.0,
+    "Handelsbalans_3":196100.0
+  },
+  {
+    "ID":1,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM02",
+    "Invoerwaarde_1":811466.0,
+    "Uitvoerwaarde_2":1061134.0,
+    "Handelsbalans_3":249668.0
+  },
+  {
+    "ID":2,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM03",
+    "Invoerwaarde_1":867150.0,
+    "Uitvoerwaarde_2":1165039.0,
+    "Handelsbalans_3":297889.0
+  },
+  {
+    "ID":3,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM04",
+    "Invoerwaarde_1":964179.0,
+    "Uitvoerwaarde_2":980238.0,
+    "Handelsbalans_3":16059.0
+  },
+  {
+    "ID":4,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM05",
+    "Invoerwaarde_1":921470.0,
+    "Uitvoerwaarde_2":933001.0,
+    "Handelsbalans_3":11531.0
+  },
+  {
+    "ID":5,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM06",
+    "Invoerwaarde_1":818394.0,
+    "Uitvoerwaarde_2":871592.0,
+    "Handelsbalans_3":53198.0
+  },
+  {
+    "ID":6,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM07",
+    "Invoerwaarde_1":946131.0,
+    "Uitvoerwaarde_2":917465.0,
+    "Handelsbalans_3":-28666.0
+  },
+  {
+    "ID":7,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM08",
+    "Invoerwaarde_1":956910.0,
+    "Uitvoerwaarde_2":829509.0,
+    "Handelsbalans_3":-127401.0
+  },
+  {
+    "ID":8,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM09",
+    "Invoerwaarde_1":961854.0,
+    "Uitvoerwaarde_2":993086.0,
+    "Handelsbalans_3":31232.0
+  },
+  {
+    "ID":9,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM10",
+    "Invoerwaarde_1":1183195.0,
+    "Uitvoerwaarde_2":1043720.0,
+    "Handelsbalans_3":-139475.0
+  },
+  {
+    "ID":10,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM11",
+    "Invoerwaarde_1":1243199.0,
+    "Uitvoerwaarde_2":1163253.0,
+    "Handelsbalans_3":-79946.0
+  },
+  {
+    "ID":11,
+    "LandenGroepen":" 1",
+    "Perioden":"1996MM12",
+    "Invoerwaarde_1":1244352.0,
+    "Uitvoerwaarde_2":1443278.0,
+    "Handelsbalans_3":198926.0
+  },
+  {
+    "ID":12,
+    "LandenGroepen":" 1",
+    "Perioden":"1996JJ00",
+    "Invoerwaarde_1":11821803.0,
+    "Uitvoerwaarde_2":12500918.0,
+    "Handelsbalans_3":679115.0
+  },
+  {
+    "ID":13,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM01",
+    "Invoerwaarde_1":1263841.0,
+    "Uitvoerwaarde_2":1483250.0,
+    "Handelsbalans_3":219409.0
+  },
+  {
+    "ID":14,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM02",
+    "Invoerwaarde_1":1126235.0,
+    "Uitvoerwaarde_2":1125072.0,
+    "Handelsbalans_3":-1163.0
+  },
+  {
+    "ID":15,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM03",
+    "Invoerwaarde_1":1040007.0,
+    "Uitvoerwaarde_2":1118335.0,
+    "Handelsbalans_3":78328.0
+  },
+  {
+    "ID":16,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM04",
+    "Invoerwaarde_1":1110823.0,
+    "Uitvoerwaarde_2":1093773.0,
+    "Handelsbalans_3":-17050.0
+  },
+  {
+    "ID":17,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM05",
+    "Invoerwaarde_1":1066906.0,
+    "Uitvoerwaarde_2":1049745.0,
+    "Handelsbalans_3":-17161.0
+  },
+  {
+    "ID":18,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM06",
+    "Invoerwaarde_1":1027141.0,
+    "Uitvoerwaarde_2":977179.0,
+    "Handelsbalans_3":-49962.0
+  },
+  {
+    "ID":19,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM07",
+    "Invoerwaarde_1":1162268.0,
+    "Uitvoerwaarde_2":999311.0,
+    "Handelsbalans_3":-162957.0
+  },
+  {
+    "ID":20,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM08",
+    "Invoerwaarde_1":1229566.0,
+    "Uitvoerwaarde_2":1029595.0,
+    "Handelsbalans_3":-199971.0
+  },
+  {
+    "ID":21,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM09",
+    "Invoerwaarde_1":1030813.0,
+    "Uitvoerwaarde_2":997239.0,
+    "Handelsbalans_3":-33574.0
+  },
+  {
+    "ID":22,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM10",
+    "Invoerwaarde_1":1137364.0,
+    "Uitvoerwaarde_2":1106574.0,
+    "Handelsbalans_3":-30790.0
+  },
+  {
+    "ID":23,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM11",
+    "Invoerwaarde_1":1035745.0,
+    "Uitvoerwaarde_2":1165709.0,
+    "Handelsbalans_3":129964.0
+  },
+  {
+    "ID":24,
+    "LandenGroepen":" 1",
+    "Perioden":"1997MM12",
+    "Invoerwaarde_1":950523.0,
+    "Uitvoerwaarde_2":1201012.0,
+    "Handelsbalans_3":250489.0
+  },
+  {
+    "ID":25,
+    "LandenGroepen":" 1",
+    "Perioden":"1997JJ00",
+    "Invoerwaarde_1":13181232.0,
+    "Uitvoerwaarde_2":13346794.0,
+    "Handelsbalans_3":165562.0
+  },
+  {
+    "ID":26,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM01",
+    "Invoerwaarde_1":1008858.0,
+    "Uitvoerwaarde_2":1176331.0,
+    "Handelsbalans_3":167473.0
+  },
+  {
+    "ID":27,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM02",
+    "Invoerwaarde_1":923306.0,
+    "Uitvoerwaarde_2":987442.0,
+    "Handelsbalans_3":64136.0
+  },
+  {
+    "ID":28,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM03",
+    "Invoerwaarde_1":934228.0,
+    "Uitvoerwaarde_2":1101516.0,
+    "Handelsbalans_3":167288.0
+  },
+  {
+    "ID":29,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM04",
+    "Invoerwaarde_1":919551.0,
+    "Uitvoerwaarde_2":959304.0,
+    "Handelsbalans_3":39753.0
+  },
+  {
+    "ID":30,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM05",
+    "Invoerwaarde_1":860100.0,
+    "Uitvoerwaarde_2":834851.0,
+    "Handelsbalans_3":-25249.0
+  },
+  {
+    "ID":31,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM06",
+    "Invoerwaarde_1":811871.0,
+    "Uitvoerwaarde_2":801711.0,
+    "Handelsbalans_3":-10160.0
+  },
+  {
+    "ID":32,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM07",
+    "Invoerwaarde_1":831350.0,
+    "Uitvoerwaarde_2":845805.0,
+    "Handelsbalans_3":14455.0
+  },
+  {
+    "ID":33,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM08",
+    "Invoerwaarde_1":845891.0,
+    "Uitvoerwaarde_2":793236.0,
+    "Handelsbalans_3":-52655.0
+  },
+  {
+    "ID":34,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM09",
+    "Invoerwaarde_1":836796.0,
+    "Uitvoerwaarde_2":787705.0,
+    "Handelsbalans_3":-49091.0
+  },
+  {
+    "ID":35,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM10",
+    "Invoerwaarde_1":795463.0,
+    "Uitvoerwaarde_2":846102.0,
+    "Handelsbalans_3":50639.0
+  },
+  {
+    "ID":36,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM11",
+    "Invoerwaarde_1":659308.0,
+    "Uitvoerwaarde_2":920790.0,
+    "Handelsbalans_3":261482.0
+  },
+  {
+    "ID":37,
+    "LandenGroepen":" 1",
+    "Perioden":"1998MM12",
+    "Invoerwaarde_1":683001.0,
+    "Uitvoerwaarde_2":945665.0,
+    "Handelsbalans_3":262664.0
+  },
+  {
+    "ID":38,
+    "LandenGroepen":" 1",
+    "Perioden":"1998JJ00",
+    "Invoerwaarde_1":10109723.0,
+    "Uitvoerwaarde_2":11000458.0,
+    "Handelsbalans_3":890735.0
+  },
+  {
+    "ID":39,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM01",
+    "Invoerwaarde_1":782082.0,
+    "Uitvoerwaarde_2":868630.0,
+    "Handelsbalans_3":86548.0
+  },
+  {
+    "ID":40,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM02",
+    "Invoerwaarde_1":662335.0,
+    "Uitvoerwaarde_2":829362.0,
+    "Handelsbalans_3":167027.0
+  },
+  {
+    "ID":41,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM03",
+    "Invoerwaarde_1":863192.0,
+    "Uitvoerwaarde_2":940820.0,
+    "Handelsbalans_3":77628.0
+  },
+  {
+    "ID":42,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM04",
+    "Invoerwaarde_1":904446.0,
+    "Uitvoerwaarde_2":864601.0,
+    "Handelsbalans_3":-39845.0
+  },
+  {
+    "ID":43,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM05",
+    "Invoerwaarde_1":941917.0,
+    "Uitvoerwaarde_2":784177.0,
+    "Handelsbalans_3":-157740.0
+  },
+  {
+    "ID":44,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM06",
+    "Invoerwaarde_1":946044.0,
+    "Uitvoerwaarde_2":801348.0,
+    "Handelsbalans_3":-144696.0
+  },
+  {
+    "ID":45,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM07",
+    "Invoerwaarde_1":1166749.0,
+    "Uitvoerwaarde_2":867312.0,
+    "Handelsbalans_3":-299437.0
+  },
+  {
+    "ID":46,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM08",
+    "Invoerwaarde_1":1067870.0,
+    "Uitvoerwaarde_2":969127.0,
+    "Handelsbalans_3":-98743.0
+  },
+  {
+    "ID":47,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM09",
+    "Invoerwaarde_1":1245919.0,
+    "Uitvoerwaarde_2":1022887.0,
+    "Handelsbalans_3":-223032.0
+  },
+  {
+    "ID":48,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM10",
+    "Invoerwaarde_1":1210834.0,
+    "Uitvoerwaarde_2":1153668.0,
+    "Handelsbalans_3":-57166.0
+  },
+  {
+    "ID":49,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM11",
+    "Invoerwaarde_1":1368457.0,
+    "Uitvoerwaarde_2":1363257.0,
+    "Handelsbalans_3":-5200.0
+  },
+  {
+    "ID":50,
+    "LandenGroepen":" 1",
+    "Perioden":"1999MM12",
+    "Invoerwaarde_1":1498540.0,
+    "Uitvoerwaarde_2":1572161.0,
+    "Handelsbalans_3":73621.0
+  },
+  {
+    "ID":51,
+    "LandenGroepen":" 1",
+    "Perioden":"1999JJ00",
+    "Invoerwaarde_1":12658385.0,
+    "Uitvoerwaarde_2":12037350.0,
+    "Handelsbalans_3":-621035.0
+  },
+  {
+    "ID":52,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM01",
+    "Invoerwaarde_1":1676335.0,
+    "Uitvoerwaarde_2":1635747.0,
+    "Handelsbalans_3":-40588.0
+  },
+  {
+    "ID":53,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM02",
+    "Invoerwaarde_1":1779021.0,
+    "Uitvoerwaarde_2":1695070.0,
+    "Handelsbalans_3":-83951.0
+  },
+  {
+    "ID":54,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM03",
+    "Invoerwaarde_1":1633954.0,
+    "Uitvoerwaarde_2":1736994.0,
+    "Handelsbalans_3":103040.0
+  },
+  {
+    "ID":55,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM04",
+    "Invoerwaarde_1":1624734.0,
+    "Uitvoerwaarde_2":1554095.0,
+    "Handelsbalans_3":-70639.0
+  },
+  {
+    "ID":56,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM05",
+    "Invoerwaarde_1":1726188.0,
+    "Uitvoerwaarde_2":1651107.0,
+    "Handelsbalans_3":-75081.0
+  },
+  {
+    "ID":57,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM06",
+    "Invoerwaarde_1":2030601.0,
+    "Uitvoerwaarde_2":1661442.0,
+    "Handelsbalans_3":-369159.0
+  },
+  {
+    "ID":58,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM07",
+    "Invoerwaarde_1":2011802.0,
+    "Uitvoerwaarde_2":1751461.0,
+    "Handelsbalans_3":-260341.0
+  },
+  {
+    "ID":59,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM08",
+    "Invoerwaarde_1":1837650.0,
+    "Uitvoerwaarde_2":1718696.0,
+    "Handelsbalans_3":-118954.0
+  },
+  {
+    "ID":60,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM09",
+    "Invoerwaarde_1":2294625.0,
+    "Uitvoerwaarde_2":1834643.0,
+    "Handelsbalans_3":-459982.0
+  },
+  {
+    "ID":61,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM10",
+    "Invoerwaarde_1":2122927.0,
+    "Uitvoerwaarde_2":1991927.0,
+    "Handelsbalans_3":-131000.0
+  },
+  {
+    "ID":62,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM11",
+    "Invoerwaarde_1":2163549.0,
+    "Uitvoerwaarde_2":2184815.0,
+    "Handelsbalans_3":21266.0
+  },
+  {
+    "ID":63,
+    "LandenGroepen":" 1",
+    "Perioden":"2000MM12",
+    "Invoerwaarde_1":2023991.0,
+    "Uitvoerwaarde_2":2026988.0,
+    "Handelsbalans_3":2997.0
+  },
+  {
+    "ID":64,
+    "LandenGroepen":" 1",
+    "Perioden":"2000JJ00",
+    "Invoerwaarde_1":22925377.0,
+    "Uitvoerwaarde_2":21442985.0,
+    "Handelsbalans_3":-1482392.0
+  },
+  {
+    "ID":65,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM01",
+    "Invoerwaarde_1":2061056.0,
+    "Uitvoerwaarde_2":2316325.0,
+    "Handelsbalans_3":255269.0
+  },
+  {
+    "ID":66,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM02",
+    "Invoerwaarde_1":1791399.0,
+    "Uitvoerwaarde_2":2057360.0,
+    "Handelsbalans_3":265961.0
+  },
+  {
+    "ID":67,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM03",
+    "Invoerwaarde_1":2028620.0,
+    "Uitvoerwaarde_2":2131895.0,
+    "Handelsbalans_3":103275.0
+  },
+  {
+    "ID":68,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM04",
+    "Invoerwaarde_1":1928278.0,
+    "Uitvoerwaarde_2":2216432.0,
+    "Handelsbalans_3":288154.0
+  },
+  {
+    "ID":69,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM05",
+    "Invoerwaarde_1":2234956.0,
+    "Uitvoerwaarde_2":2216017.0,
+    "Handelsbalans_3":-18939.0
+  },
+  {
+    "ID":70,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM06",
+    "Invoerwaarde_1":2043682.0,
+    "Uitvoerwaarde_2":1864355.0,
+    "Handelsbalans_3":-179327.0
+  },
+  {
+    "ID":71,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM07",
+    "Invoerwaarde_1":2067987.0,
+    "Uitvoerwaarde_2":1806194.0,
+    "Handelsbalans_3":-261793.0
+  },
+  {
+    "ID":72,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM08",
+    "Invoerwaarde_1":1975651.0,
+    "Uitvoerwaarde_2":1767091.0,
+    "Handelsbalans_3":-208560.0
+  },
+  {
+    "ID":73,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM09",
+    "Invoerwaarde_1":1794104.0,
+    "Uitvoerwaarde_2":1888455.0,
+    "Handelsbalans_3":94351.0
+  },
+  {
+    "ID":74,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM10",
+    "Invoerwaarde_1":1578711.0,
+    "Uitvoerwaarde_2":1778113.0,
+    "Handelsbalans_3":199402.0
+  },
+  {
+    "ID":75,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM11",
+    "Invoerwaarde_1":1676300.0,
+    "Uitvoerwaarde_2":1772509.0,
+    "Handelsbalans_3":96209.0
+  },
+  {
+    "ID":76,
+    "LandenGroepen":" 1",
+    "Perioden":"2001MM12",
+    "Invoerwaarde_1":1597022.0,
+    "Uitvoerwaarde_2":1831337.0,
+    "Handelsbalans_3":234315.0
+  },
+  {
+    "ID":77,
+    "LandenGroepen":" 1",
+    "Perioden":"2001JJ00",
+    "Invoerwaarde_1":22777766.0,
+    "Uitvoerwaarde_2":23646083.0,
+    "Handelsbalans_3":868317.0
+  },
+  {
+    "ID":78,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM01",
+    "Invoerwaarde_1":1588485.0,
+    "Uitvoerwaarde_2":1802156.0,
+    "Handelsbalans_3":213671.0
+  },
+  {
+    "ID":79,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM02",
+    "Invoerwaarde_1":1688543.0,
+    "Uitvoerwaarde_2":1630870.0,
+    "Handelsbalans_3":-57673.0
+  },
+  {
+    "ID":80,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM03",
+    "Invoerwaarde_1":1964577.0,
+    "Uitvoerwaarde_2":1847180.0,
+    "Handelsbalans_3":-117397.0
+  },
+  {
+    "ID":81,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM04",
+    "Invoerwaarde_1":1815000.0,
+    "Uitvoerwaarde_2":1765670.0,
+    "Handelsbalans_3":-49330.0
+  },
+  {
+    "ID":82,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM05",
+    "Invoerwaarde_1":1942141.0,
+    "Uitvoerwaarde_2":1684053.0,
+    "Handelsbalans_3":-258088.0
+  },
+  {
+    "ID":83,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM06",
+    "Invoerwaarde_1":1846152.0,
+    "Uitvoerwaarde_2":1691290.0,
+    "Handelsbalans_3":-154862.0
+  },
+  {
+    "ID":84,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM07",
+    "Invoerwaarde_1":1544338.0,
+    "Uitvoerwaarde_2":1542671.0,
+    "Handelsbalans_3":-1667.0
+  },
+  {
+    "ID":85,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM08",
+    "Invoerwaarde_1":1785750.0,
+    "Uitvoerwaarde_2":1513088.0,
+    "Handelsbalans_3":-272662.0
+  },
+  {
+    "ID":86,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM09",
+    "Invoerwaarde_1":1828098.0,
+    "Uitvoerwaarde_2":1764082.0,
+    "Handelsbalans_3":-64016.0
+  },
+  {
+    "ID":87,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM10",
+    "Invoerwaarde_1":1946125.0,
+    "Uitvoerwaarde_2":1854750.0,
+    "Handelsbalans_3":-91375.0
+  },
+  {
+    "ID":88,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM11",
+    "Invoerwaarde_1":1741686.0,
+    "Uitvoerwaarde_2":1635558.0,
+    "Handelsbalans_3":-106128.0
+  },
+  {
+    "ID":89,
+    "LandenGroepen":" 1",
+    "Perioden":"2002MM12",
+    "Invoerwaarde_1":2039320.0,
+    "Uitvoerwaarde_2":2173731.0,
+    "Handelsbalans_3":134411.0
+  },
+  {
+    "ID":90,
+    "LandenGroepen":" 1",
+    "Perioden":"2002JJ00",
+    "Invoerwaarde_1":21730215.0,
+    "Uitvoerwaarde_2":20905099.0,
+    "Handelsbalans_3":-825116.0
+  },
+  {
+    "ID":91,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM01",
+    "Invoerwaarde_1":1939184.0,
+    "Uitvoerwaarde_2":2185080.0,
+    "Handelsbalans_3":245896.0
+  },
+  {
+    "ID":92,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM02",
+    "Invoerwaarde_1":1940689.0,
+    "Uitvoerwaarde_2":2136917.0,
+    "Handelsbalans_3":196228.0
+  },
+  {
+    "ID":93,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM03",
+    "Invoerwaarde_1":2175570.0,
+    "Uitvoerwaarde_2":2121789.0,
+    "Handelsbalans_3":-53781.0
+  },
+  {
+    "ID":94,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM04",
+    "Invoerwaarde_1":1941544.0,
+    "Uitvoerwaarde_2":1588809.0,
+    "Handelsbalans_3":-352735.0
+  },
+  {
+    "ID":95,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM05",
+    "Invoerwaarde_1":1761422.0,
+    "Uitvoerwaarde_2":1524219.0,
+    "Handelsbalans_3":-237203.0
+  },
+  {
+    "ID":96,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM06",
+    "Invoerwaarde_1":1790178.0,
+    "Uitvoerwaarde_2":1532435.0,
+    "Handelsbalans_3":-257743.0
+  },
+  {
+    "ID":97,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM07",
+    "Invoerwaarde_1":1788330.0,
+    "Uitvoerwaarde_2":1527532.0,
+    "Handelsbalans_3":-260798.0
+  },
+  {
+    "ID":98,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM08",
+    "Invoerwaarde_1":2029570.0,
+    "Uitvoerwaarde_2":1486054.0,
+    "Handelsbalans_3":-543516.0
+  },
+  {
+    "ID":99,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM09",
+    "Invoerwaarde_1":1731192.0,
+    "Uitvoerwaarde_2":1483832.0,
+    "Handelsbalans_3":-247360.0
+  },
+  {
+    "ID":100,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM10",
+    "Invoerwaarde_1":1801022.0,
+    "Uitvoerwaarde_2":1950319.0,
+    "Handelsbalans_3":149297.0
+  },
+  {
+    "ID":101,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM11",
+    "Invoerwaarde_1":1709818.0,
+    "Uitvoerwaarde_2":1813506.0,
+    "Handelsbalans_3":103688.0
+  },
+  {
+    "ID":102,
+    "LandenGroepen":" 1",
+    "Perioden":"2003MM12",
+    "Invoerwaarde_1":1876421.0,
+    "Uitvoerwaarde_2":1964054.0,
+    "Handelsbalans_3":87633.0
+  },
+  {
+    "ID":103,
+    "LandenGroepen":" 1",
+    "Perioden":"2003JJ00",
+    "Invoerwaarde_1":22484940.0,
+    "Uitvoerwaarde_2":21314546.0,
+    "Handelsbalans_3":-1170394.0
+  },
+  {
+    "ID":104,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM01",
+    "Invoerwaarde_1":1921389.0,
+    "Uitvoerwaarde_2":2010577.0,
+    "Handelsbalans_3":89188.0
+  },
+  {
+    "ID":105,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM02",
+    "Invoerwaarde_1":1868096.0,
+    "Uitvoerwaarde_2":1874054.0,
+    "Handelsbalans_3":5958.0
+  },
+  {
+    "ID":106,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM03",
+    "Invoerwaarde_1":2130672.0,
+    "Uitvoerwaarde_2":2078311.0,
+    "Handelsbalans_3":-52361.0
+  },
+  {
+    "ID":107,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM04",
+    "Invoerwaarde_1":2052718.0,
+    "Uitvoerwaarde_2":1824085.0,
+    "Handelsbalans_3":-228633.0
+  },
+  {
+    "ID":108,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM05",
+    "Invoerwaarde_1":2283554.0,
+    "Uitvoerwaarde_2":1928987.0,
+    "Handelsbalans_3":-354567.0
+  },
+  {
+    "ID":109,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM06",
+    "Invoerwaarde_1":2377168.0,
+    "Uitvoerwaarde_2":1782864.0,
+    "Handelsbalans_3":-594304.0
+  },
+  {
+    "ID":110,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM07",
+    "Invoerwaarde_1":2452264.0,
+    "Uitvoerwaarde_2":2013819.0,
+    "Handelsbalans_3":-438445.0
+  },
+  {
+    "ID":111,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM08",
+    "Invoerwaarde_1":2768416.0,
+    "Uitvoerwaarde_2":2056934.0,
+    "Handelsbalans_3":-711482.0
+  },
+  {
+    "ID":112,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM09",
+    "Invoerwaarde_1":2609345.0,
+    "Uitvoerwaarde_2":2135515.0,
+    "Handelsbalans_3":-473830.0
+  },
+  {
+    "ID":113,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM10",
+    "Invoerwaarde_1":2694922.0,
+    "Uitvoerwaarde_2":2379893.0,
+    "Handelsbalans_3":-315029.0
+  },
+  {
+    "ID":114,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM11",
+    "Invoerwaarde_1":2531748.0,
+    "Uitvoerwaarde_2":2391715.0,
+    "Handelsbalans_3":-140033.0
+  },
+  {
+    "ID":115,
+    "LandenGroepen":" 1",
+    "Perioden":"2004MM12",
+    "Invoerwaarde_1":2427331.0,
+    "Uitvoerwaarde_2":2435514.0,
+    "Handelsbalans_3":8183.0
+  },
+  {
+    "ID":116,
+    "LandenGroepen":" 1",
+    "Perioden":"2004JJ00",
+    "Invoerwaarde_1":28117623.0,
+    "Uitvoerwaarde_2":24912268.0,
+    "Handelsbalans_3":-3205355.0
+  },
+  {
+    "ID":117,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM01",
+    "Invoerwaarde_1":2548585.0,
+    "Uitvoerwaarde_2":2613809.0,
+    "Handelsbalans_3":65224.0
+  },
+  {
+    "ID":118,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM02",
+    "Invoerwaarde_1":2478658.0,
+    "Uitvoerwaarde_2":2441823.0,
+    "Handelsbalans_3":-36835.0
+  },
+  {
+    "ID":119,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM03",
+    "Invoerwaarde_1":3067190.0,
+    "Uitvoerwaarde_2":2520903.0,
+    "Handelsbalans_3":-546287.0
+  },
+  {
+    "ID":120,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM04",
+    "Invoerwaarde_1":2884094.0,
+    "Uitvoerwaarde_2":2628895.0,
+    "Handelsbalans_3":-255199.0
+  },
+  {
+    "ID":121,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM05",
+    "Invoerwaarde_1":2919182.0,
+    "Uitvoerwaarde_2":2535766.0,
+    "Handelsbalans_3":-383416.0
+  },
+  {
+    "ID":122,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM06",
+    "Invoerwaarde_1":3012669.0,
+    "Uitvoerwaarde_2":2380371.0,
+    "Handelsbalans_3":-632298.0
+  },
+  {
+    "ID":123,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM07",
+    "Invoerwaarde_1":3370679.0,
+    "Uitvoerwaarde_2":2515873.0,
+    "Handelsbalans_3":-854806.0
+  },
+  {
+    "ID":124,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM08",
+    "Invoerwaarde_1":3426580.0,
+    "Uitvoerwaarde_2":2721101.0,
+    "Handelsbalans_3":-705479.0
+  },
+  {
+    "ID":125,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM09",
+    "Invoerwaarde_1":3541570.0,
+    "Uitvoerwaarde_2":2998720.0,
+    "Handelsbalans_3":-542850.0
+  },
+  {
+    "ID":126,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM10",
+    "Invoerwaarde_1":3639614.0,
+    "Uitvoerwaarde_2":3101015.0,
+    "Handelsbalans_3":-538599.0
+  },
+  {
+    "ID":127,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM11",
+    "Invoerwaarde_1":3668338.0,
+    "Uitvoerwaarde_2":3505450.0,
+    "Handelsbalans_3":-162888.0
+  },
+  {
+    "ID":128,
+    "LandenGroepen":" 1",
+    "Perioden":"2005MM12",
+    "Invoerwaarde_1":3701985.0,
+    "Uitvoerwaarde_2":3623138.0,
+    "Handelsbalans_3":-78847.0
+  },
+  {
+    "ID":129,
+    "LandenGroepen":" 1",
+    "Perioden":"2005JJ00",
+    "Invoerwaarde_1":38259144.0,
+    "Uitvoerwaarde_2":33586864.0,
+    "Handelsbalans_3":-4672280.0
+  },
+  {
+    "ID":130,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM01",
+    "Invoerwaarde_1":4024177.0,
+    "Uitvoerwaarde_2":3932760.0,
+    "Handelsbalans_3":-91417.0
+  },
+  {
+    "ID":131,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM02",
+    "Invoerwaarde_1":3523597.0,
+    "Uitvoerwaarde_2":3785515.0,
+    "Handelsbalans_3":261918.0
+  },
+  {
+    "ID":132,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM03",
+    "Invoerwaarde_1":4122623.0,
+    "Uitvoerwaarde_2":4434634.0,
+    "Handelsbalans_3":312011.0
+  },
+  {
+    "ID":133,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM04",
+    "Invoerwaarde_1":3883684.0,
+    "Uitvoerwaarde_2":3756251.0,
+    "Handelsbalans_3":-127433.0
+  },
+  {
+    "ID":134,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM05",
+    "Invoerwaarde_1":4407970.0,
+    "Uitvoerwaarde_2":3563252.0,
+    "Handelsbalans_3":-844718.0
+  },
+  {
+    "ID":135,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM06",
+    "Invoerwaarde_1":4338637.0,
+    "Uitvoerwaarde_2":3585101.0,
+    "Handelsbalans_3":-753536.0
+  },
+  {
+    "ID":136,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM07",
+    "Invoerwaarde_1":4478830.0,
+    "Uitvoerwaarde_2":3426354.0,
+    "Handelsbalans_3":-1052476.0
+  },
+  {
+    "ID":137,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM08",
+    "Invoerwaarde_1":4698177.0,
+    "Uitvoerwaarde_2":3813223.0,
+    "Handelsbalans_3":-884954.0
+  },
+  {
+    "ID":138,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM09",
+    "Invoerwaarde_1":4165039.0,
+    "Uitvoerwaarde_2":3196458.0,
+    "Handelsbalans_3":-968581.0
+  },
+  {
+    "ID":139,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM10",
+    "Invoerwaarde_1":4227432.0,
+    "Uitvoerwaarde_2":3670283.0,
+    "Handelsbalans_3":-557149.0
+  },
+  {
+    "ID":140,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM11",
+    "Invoerwaarde_1":3770741.0,
+    "Uitvoerwaarde_2":3730721.0,
+    "Handelsbalans_3":-40020.0
+  },
+  {
+    "ID":141,
+    "LandenGroepen":" 1",
+    "Perioden":"2006MM12",
+    "Invoerwaarde_1":3678331.0,
+    "Uitvoerwaarde_2":3974107.0,
+    "Handelsbalans_3":295776.0
+  },
+  {
+    "ID":142,
+    "LandenGroepen":" 1",
+    "Perioden":"2006JJ00",
+    "Invoerwaarde_1":49319238.0,
+    "Uitvoerwaarde_2":44868659.0,
+    "Handelsbalans_3":-4450579.0
+  },
+  {
+    "ID":143,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM01",
+    "Invoerwaarde_1":3651605.0,
+    "Uitvoerwaarde_2":3521142.0,
+    "Handelsbalans_3":-130463.0
+  },
+  {
+    "ID":144,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM02",
+    "Invoerwaarde_1":3603218.0,
+    "Uitvoerwaarde_2":3326239.0,
+    "Handelsbalans_3":-276979.0
+  },
+  {
+    "ID":145,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM03",
+    "Invoerwaarde_1":3978032.0,
+    "Uitvoerwaarde_2":3513457.0,
+    "Handelsbalans_3":-464575.0
+  },
+  {
+    "ID":146,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM04",
+    "Invoerwaarde_1":4063375.0,
+    "Uitvoerwaarde_2":3582759.0,
+    "Handelsbalans_3":-480616.0
+  },
+  {
+    "ID":147,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM05",
+    "Invoerwaarde_1":4645687.0,
+    "Uitvoerwaarde_2":3498197.0,
+    "Handelsbalans_3":-1147490.0
+  },
+  {
+    "ID":148,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM06",
+    "Invoerwaarde_1":4183116.0,
+    "Uitvoerwaarde_2":3559222.0,
+    "Handelsbalans_3":-623894.0
+  },
+  {
+    "ID":149,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM07",
+    "Invoerwaarde_1":4333949.0,
+    "Uitvoerwaarde_2":3707030.0,
+    "Handelsbalans_3":-626919.0
+  },
+  {
+    "ID":150,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM08",
+    "Invoerwaarde_1":4406154.0,
+    "Uitvoerwaarde_2":3639606.0,
+    "Handelsbalans_3":-766548.0
+  },
+  {
+    "ID":151,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM09",
+    "Invoerwaarde_1":4390434.0,
+    "Uitvoerwaarde_2":3793288.0,
+    "Handelsbalans_3":-597146.0
+  },
+  {
+    "ID":152,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM10",
+    "Invoerwaarde_1":4217665.0,
+    "Uitvoerwaarde_2":4313129.0,
+    "Handelsbalans_3":95464.0
+  },
+  {
+    "ID":153,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM11",
+    "Invoerwaarde_1":5091177.0,
+    "Uitvoerwaarde_2":4844425.0,
+    "Handelsbalans_3":-246752.0
+  },
+  {
+    "ID":154,
+    "LandenGroepen":" 1",
+    "Perioden":"2007MM12",
+    "Invoerwaarde_1":4857710.0,
+    "Uitvoerwaarde_2":5034958.0,
+    "Handelsbalans_3":177248.0
+  },
+  {
+    "ID":155,
+    "LandenGroepen":" 1",
+    "Perioden":"2007JJ00",
+    "Invoerwaarde_1":51422122.0,
+    "Uitvoerwaarde_2":46333452.0,
+    "Handelsbalans_3":-5088670.0
+  },
+  {
+    "ID":156,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM01",
+    "Invoerwaarde_1":5119676.0,
+    "Uitvoerwaarde_2":4903668.0,
+    "Handelsbalans_3":-216008.0
+  },
+  {
+    "ID":157,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM02",
+    "Invoerwaarde_1":4737614.0,
+    "Uitvoerwaarde_2":5027883.0,
+    "Handelsbalans_3":290269.0
+  },
+  {
+    "ID":158,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM03",
+    "Invoerwaarde_1":5425255.0,
+    "Uitvoerwaarde_2":5145502.0,
+    "Handelsbalans_3":-279753.0
+  },
+  {
+    "ID":159,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM04",
+    "Invoerwaarde_1":5195396.0,
+    "Uitvoerwaarde_2":5370230.0,
+    "Handelsbalans_3":174834.0
+  },
+  {
+    "ID":160,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM05",
+    "Invoerwaarde_1":5779583.0,
+    "Uitvoerwaarde_2":4767547.0,
+    "Handelsbalans_3":-1012036.0
+  },
+  {
+    "ID":161,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM06",
+    "Invoerwaarde_1":6298652.0,
+    "Uitvoerwaarde_2":5455023.0,
+    "Handelsbalans_3":-843629.0
+  },
+  {
+    "ID":162,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM07",
+    "Invoerwaarde_1":6175944.0,
+    "Uitvoerwaarde_2":5237924.0,
+    "Handelsbalans_3":-938020.0
+  },
+  {
+    "ID":163,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM08",
+    "Invoerwaarde_1":6217653.0,
+    "Uitvoerwaarde_2":5357557.0,
+    "Handelsbalans_3":-860096.0
+  },
+  {
+    "ID":164,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM09",
+    "Invoerwaarde_1":6086619.0,
+    "Uitvoerwaarde_2":5403917.0,
+    "Handelsbalans_3":-682702.0
+  },
+  {
+    "ID":165,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM10",
+    "Invoerwaarde_1":5060250.0,
+    "Uitvoerwaarde_2":5437243.0,
+    "Handelsbalans_3":376993.0
+  },
+  {
+    "ID":166,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM11",
+    "Invoerwaarde_1":3950207.0,
+    "Uitvoerwaarde_2":4408174.0,
+    "Handelsbalans_3":457967.0
+  },
+  {
+    "ID":167,
+    "LandenGroepen":" 1",
+    "Perioden":"2008MM12",
+    "Invoerwaarde_1":3096398.0,
+    "Uitvoerwaarde_2":3867326.0,
+    "Handelsbalans_3":770928.0
+  },
+  {
+    "ID":168,
+    "LandenGroepen":" 1",
+    "Perioden":"2008JJ00",
+    "Invoerwaarde_1":63143247.0,
+    "Uitvoerwaarde_2":60381994.0,
+    "Handelsbalans_3":-2761253.0
+  },
+  {
+    "ID":169,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM01",
+    "Invoerwaarde_1":3287215.0,
+    "Uitvoerwaarde_2":4120723.0,
+    "Handelsbalans_3":833508.0
+  },
+  {
+    "ID":170,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM02",
+    "Invoerwaarde_1":2970037.0,
+    "Uitvoerwaarde_2":3651816.0,
+    "Handelsbalans_3":681779.0
+  },
+  {
+    "ID":171,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM03",
+    "Invoerwaarde_1":3436547.0,
+    "Uitvoerwaarde_2":3345040.0,
+    "Handelsbalans_3":-91507.0
+  },
+  {
+    "ID":172,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM04",
+    "Invoerwaarde_1":3339099.0,
+    "Uitvoerwaarde_2":3002763.0,
+    "Handelsbalans_3":-336336.0
+  },
+  {
+    "ID":173,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM05",
+    "Invoerwaarde_1":3661160.0,
+    "Uitvoerwaarde_2":3090877.0,
+    "Handelsbalans_3":-570283.0
+  },
+  {
+    "ID":174,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM06",
+    "Invoerwaarde_1":3675026.0,
+    "Uitvoerwaarde_2":2821673.0,
+    "Handelsbalans_3":-853353.0
+  },
+  {
+    "ID":175,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM07",
+    "Invoerwaarde_1":3917675.0,
+    "Uitvoerwaarde_2":3212056.0,
+    "Handelsbalans_3":-705619.0
+  },
+  {
+    "ID":176,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM08",
+    "Invoerwaarde_1":3942501.0,
+    "Uitvoerwaarde_2":3352410.0,
+    "Handelsbalans_3":-590091.0
+  },
+  {
+    "ID":177,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM09",
+    "Invoerwaarde_1":3848079.0,
+    "Uitvoerwaarde_2":3206144.0,
+    "Handelsbalans_3":-641935.0
+  },
+  {
+    "ID":178,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM10",
+    "Invoerwaarde_1":3993974.0,
+    "Uitvoerwaarde_2":3464947.0,
+    "Handelsbalans_3":-529027.0
+  },
+  {
+    "ID":179,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM11",
+    "Invoerwaarde_1":3977059.0,
+    "Uitvoerwaarde_2":3820635.0,
+    "Handelsbalans_3":-156424.0
+  },
+  {
+    "ID":180,
+    "LandenGroepen":" 1",
+    "Perioden":"2009MM12",
+    "Invoerwaarde_1":4406890.0,
+    "Uitvoerwaarde_2":3959591.0,
+    "Handelsbalans_3":-447299.0
+  },
+  {
+    "ID":181,
+    "LandenGroepen":" 1",
+    "Perioden":"2009JJ00",
+    "Invoerwaarde_1":44455262.0,
+    "Uitvoerwaarde_2":41048675.0,
+    "Handelsbalans_3":-3406587.0
+  },
+  {
+    "ID":182,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM01",
+    "Invoerwaarde_1":4827736.0,
+    "Uitvoerwaarde_2":4183320.0,
+    "Handelsbalans_3":-644416.0
+  },
+  {
+    "ID":183,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM02",
+    "Invoerwaarde_1":4507189.0,
+    "Uitvoerwaarde_2":4285128.0,
+    "Handelsbalans_3":-222061.0
+  },
+  {
+    "ID":184,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM03",
+    "Invoerwaarde_1":5249062.0,
+    "Uitvoerwaarde_2":4874043.0,
+    "Handelsbalans_3":-375019.0
+  },
+  {
+    "ID":185,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM04",
+    "Invoerwaarde_1":5009908.0,
+    "Uitvoerwaarde_2":4317950.0,
+    "Handelsbalans_3":-691958.0
+  },
+  {
+    "ID":186,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM05",
+    "Invoerwaarde_1":5195771.0,
+    "Uitvoerwaarde_2":4374064.0,
+    "Handelsbalans_3":-821707.0
+  },
+  {
+    "ID":187,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM06",
+    "Invoerwaarde_1":5079423.0,
+    "Uitvoerwaarde_2":4178154.0,
+    "Handelsbalans_3":-901269.0
+  },
+  {
+    "ID":188,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM07",
+    "Invoerwaarde_1":5531062.0,
+    "Uitvoerwaarde_2":4417888.0,
+    "Handelsbalans_3":-1113174.0
+  },
+  {
+    "ID":189,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM08",
+    "Invoerwaarde_1":5109363.0,
+    "Uitvoerwaarde_2":4458840.0,
+    "Handelsbalans_3":-650523.0
+  },
+  {
+    "ID":190,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM09",
+    "Invoerwaarde_1":4773753.0,
+    "Uitvoerwaarde_2":4419393.0,
+    "Handelsbalans_3":-354360.0
+  },
+  {
+    "ID":191,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM10",
+    "Invoerwaarde_1":5347125.0,
+    "Uitvoerwaarde_2":4625557.0,
+    "Handelsbalans_3":-721568.0
+  },
+  {
+    "ID":192,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM11",
+    "Invoerwaarde_1":5379543.0,
+    "Uitvoerwaarde_2":5126943.0,
+    "Handelsbalans_3":-252600.0
+  },
+  {
+    "ID":193,
+    "LandenGroepen":" 1",
+    "Perioden":"2010MM12",
+    "Invoerwaarde_1":6114549.0,
+    "Uitvoerwaarde_2":5842767.0,
+    "Handelsbalans_3":-271782.0
+  },
+  {
+    "ID":194,
+    "LandenGroepen":" 1",
+    "Perioden":"2010JJ00",
+    "Invoerwaarde_1":62124484.0,
+    "Uitvoerwaarde_2":55104047.0,
+    "Handelsbalans_3":-7020437.0
+  },
+  {
+    "ID":195,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM01",
+    "Invoerwaarde_1":6346091.0,
+    "Uitvoerwaarde_2":6002001.0,
+    "Handelsbalans_3":-344090.0
+  },
+  {
+    "ID":196,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM02",
+    "Invoerwaarde_1":5900935.0,
+    "Uitvoerwaarde_2":6050704.0,
+    "Handelsbalans_3":149769.0
+  },
+  {
+    "ID":197,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM03",
+    "Invoerwaarde_1":7265533.0,
+    "Uitvoerwaarde_2":6562786.0,
+    "Handelsbalans_3":-702747.0
+  },
+  {
+    "ID":198,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM04",
+    "Invoerwaarde_1":6115096.0,
+    "Uitvoerwaarde_2":6374603.0,
+    "Handelsbalans_3":259507.0
+  },
+  {
+    "ID":199,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM05",
+    "Invoerwaarde_1":7062343.0,
+    "Uitvoerwaarde_2":5710285.0,
+    "Handelsbalans_3":-1352058.0
+  },
+  {
+    "ID":200,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM06",
+    "Invoerwaarde_1":7027841.0,
+    "Uitvoerwaarde_2":5449212.0,
+    "Handelsbalans_3":-1578629.0
+  },
+  {
+    "ID":201,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM07",
+    "Invoerwaarde_1":6644644.0,
+    "Uitvoerwaarde_2":5671972.0,
+    "Handelsbalans_3":-972672.0
+  },
+  {
+    "ID":202,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM08",
+    "Invoerwaarde_1":7359822.0,
+    "Uitvoerwaarde_2":5678734.0,
+    "Handelsbalans_3":-1681088.0
+  },
+  {
+    "ID":203,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM09",
+    "Invoerwaarde_1":7192534.0,
+    "Uitvoerwaarde_2":5673383.0,
+    "Handelsbalans_3":-1519151.0
+  },
+  {
+    "ID":204,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM10",
+    "Invoerwaarde_1":7065705.0,
+    "Uitvoerwaarde_2":5988141.0,
+    "Handelsbalans_3":-1077564.0
+  },
+  {
+    "ID":205,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM11",
+    "Invoerwaarde_1":7788175.0,
+    "Uitvoerwaarde_2":6916246.0,
+    "Handelsbalans_3":-871929.0
+  },
+  {
+    "ID":206,
+    "LandenGroepen":" 1",
+    "Perioden":"2011MM12",
+    "Invoerwaarde_1":6934803.0,
+    "Uitvoerwaarde_2":6997338.0,
+    "Handelsbalans_3":62535.0
+  },
+  {
+    "ID":207,
+    "LandenGroepen":" 1",
+    "Perioden":"2011JJ00",
+    "Invoerwaarde_1":82703522.0,
+    "Uitvoerwaarde_2":73075405.0,
+    "Handelsbalans_3":-9628117.0
+  },
+  {
+    "ID":208,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM01",
+    "Invoerwaarde_1":7492202.0,
+    "Uitvoerwaarde_2":7420119.0,
+    "Handelsbalans_3":-72083.0
+  },
+  {
+    "ID":209,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM02",
+    "Invoerwaarde_1":8478866.0,
+    "Uitvoerwaarde_2":7757720.0,
+    "Handelsbalans_3":-721146.0
+  },
+  {
+    "ID":210,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM03",
+    "Invoerwaarde_1":8748316.0,
+    "Uitvoerwaarde_2":7426572.0,
+    "Handelsbalans_3":-1321744.0
+  },
+  {
+    "ID":211,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM04",
+    "Invoerwaarde_1":8382956.0,
+    "Uitvoerwaarde_2":7621181.0,
+    "Handelsbalans_3":-761775.0
+  },
+  {
+    "ID":212,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM05",
+    "Invoerwaarde_1":8414863.0,
+    "Uitvoerwaarde_2":7201402.0,
+    "Handelsbalans_3":-1213461.0
+  },
+  {
+    "ID":213,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM06",
+    "Invoerwaarde_1":7501787.0,
+    "Uitvoerwaarde_2":6378168.0,
+    "Handelsbalans_3":-1123619.0
+  },
+  {
+    "ID":214,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM07",
+    "Invoerwaarde_1":8031203.0,
+    "Uitvoerwaarde_2":6741755.0,
+    "Handelsbalans_3":-1289448.0
+  },
+  {
+    "ID":215,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM08",
+    "Invoerwaarde_1":9198243.0,
+    "Uitvoerwaarde_2":6600515.0,
+    "Handelsbalans_3":-2597728.0
+  },
+  {
+    "ID":216,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM09",
+    "Invoerwaarde_1":8500998.0,
+    "Uitvoerwaarde_2":7133484.0,
+    "Handelsbalans_3":-1367514.0
+  },
+  {
+    "ID":217,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM10",
+    "Invoerwaarde_1":9260617.0,
+    "Uitvoerwaarde_2":8128271.0,
+    "Handelsbalans_3":-1132346.0
+  },
+  {
+    "ID":218,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM11",
+    "Invoerwaarde_1":9494903.0,
+    "Uitvoerwaarde_2":7937433.0,
+    "Handelsbalans_3":-1557470.0
+  },
+  {
+    "ID":219,
+    "LandenGroepen":" 1",
+    "Perioden":"2012MM12",
+    "Invoerwaarde_1":8791918.0,
+    "Uitvoerwaarde_2":7760865.0,
+    "Handelsbalans_3":-1031053.0
+  },
+  {
+    "ID":220,
+    "LandenGroepen":" 1",
+    "Perioden":"2012JJ00",
+    "Invoerwaarde_1":102296872.0,
+    "Uitvoerwaarde_2":88107485.0,
+    "Handelsbalans_3":-14189387.0
+  },
+  {
+    "ID":221,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM01",
+    "Invoerwaarde_1":8568871.0,
+    "Uitvoerwaarde_2":8074259.0,
+    "Handelsbalans_3":-494612.0
+  },
+  {
+    "ID":222,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM02",
+    "Invoerwaarde_1":8570003.0,
+    "Uitvoerwaarde_2":7662976.0,
+    "Handelsbalans_3":-907027.0
+  },
+  {
+    "ID":223,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM03",
+    "Invoerwaarde_1":8066695.0,
+    "Uitvoerwaarde_2":8285029.0,
+    "Handelsbalans_3":218334.0
+  },
+  {
+    "ID":224,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM04",
+    "Invoerwaarde_1":7800532.0,
+    "Uitvoerwaarde_2":7152252.0,
+    "Handelsbalans_3":-648280.0
+  },
+  {
+    "ID":225,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM05",
+    "Invoerwaarde_1":8136832.0,
+    "Uitvoerwaarde_2":7593728.0,
+    "Handelsbalans_3":-543104.0
+  },
+  {
+    "ID":226,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM06",
+    "Invoerwaarde_1":7713840.0,
+    "Uitvoerwaarde_2":6720641.0,
+    "Handelsbalans_3":-993199.0
+  },
+  {
+    "ID":227,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM07",
+    "Invoerwaarde_1":7986953.0,
+    "Uitvoerwaarde_2":7060205.0,
+    "Handelsbalans_3":-926748.0
+  },
+  {
+    "ID":228,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM08",
+    "Invoerwaarde_1":7479868.0,
+    "Uitvoerwaarde_2":6776619.0,
+    "Handelsbalans_3":-703249.0
+  },
+  {
+    "ID":229,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM09",
+    "Invoerwaarde_1":7917564.0,
+    "Uitvoerwaarde_2":6361591.0,
+    "Handelsbalans_3":-1555973.0
+  },
+  {
+    "ID":230,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM10",
+    "Invoerwaarde_1":8055845.0,
+    "Uitvoerwaarde_2":7466450.0,
+    "Handelsbalans_3":-589395.0
+  },
+  {
+    "ID":231,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM11",
+    "Invoerwaarde_1":7490221.0,
+    "Uitvoerwaarde_2":7460457.0,
+    "Handelsbalans_3":-29764.0
+  },
+  {
+    "ID":232,
+    "LandenGroepen":" 1",
+    "Perioden":"2013MM12",
+    "Invoerwaarde_1":7648110.0,
+    "Uitvoerwaarde_2":7121340.0,
+    "Handelsbalans_3":-526770.0
+  },
+  {
+    "ID":233,
+    "LandenGroepen":" 1",
+    "Perioden":"2013JJ00",
+    "Invoerwaarde_1":95435334.0,
+    "Uitvoerwaarde_2":87735547.0,
+    "Handelsbalans_3":-7699787.0
+  },
+  {
+    "ID":234,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM01",
+    "Invoerwaarde_1":7736798.0,
+    "Uitvoerwaarde_2":7651490.0,
+    "Handelsbalans_3":-85308.0
+  },
+  {
+    "ID":235,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM02",
+    "Invoerwaarde_1":6895711.0,
+    "Uitvoerwaarde_2":6837525.0,
+    "Handelsbalans_3":-58186.0
+  },
+  {
+    "ID":236,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM03",
+    "Invoerwaarde_1":7500660.0,
+    "Uitvoerwaarde_2":6512368.0,
+    "Handelsbalans_3":-988292.0
+  },
+  {
+    "ID":237,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM04",
+    "Invoerwaarde_1":7265998.0,
+    "Uitvoerwaarde_2":6726057.0,
+    "Handelsbalans_3":-539941.0
+  },
+  {
+    "ID":238,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM05",
+    "Invoerwaarde_1":7831918.0,
+    "Uitvoerwaarde_2":5986591.0,
+    "Handelsbalans_3":-1845327.0
+  },
+  {
+    "ID":239,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM06",
+    "Invoerwaarde_1":6964027.0,
+    "Uitvoerwaarde_2":6007523.0,
+    "Handelsbalans_3":-956504.0
+  },
+  {
+    "ID":240,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM07",
+    "Invoerwaarde_1":7660324.0,
+    "Uitvoerwaarde_2":6155017.0,
+    "Handelsbalans_3":-1505307.0
+  },
+  {
+    "ID":241,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM08",
+    "Invoerwaarde_1":7037419.0,
+    "Uitvoerwaarde_2":5478583.0,
+    "Handelsbalans_3":-1558836.0
+  },
+  {
+    "ID":242,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM09",
+    "Invoerwaarde_1":6750410.0,
+    "Uitvoerwaarde_2":5945955.0,
+    "Handelsbalans_3":-804455.0
+  },
+  {
+    "ID":243,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM10",
+    "Invoerwaarde_1":6423873.0,
+    "Uitvoerwaarde_2":6313637.0,
+    "Handelsbalans_3":-110236.0
+  },
+  {
+    "ID":244,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM11",
+    "Invoerwaarde_1":5632715.0,
+    "Uitvoerwaarde_2":6040224.0,
+    "Handelsbalans_3":407509.0
+  },
+  {
+    "ID":245,
+    "LandenGroepen":" 1",
+    "Perioden":"2014MM12",
+    "Invoerwaarde_1":5455917.0,
+    "Uitvoerwaarde_2":5834772.0,
+    "Handelsbalans_3":378855.0
+  },
+  {
+    "ID":246,
+    "LandenGroepen":" 1",
+    "Perioden":"2014JJ00",
+    "Invoerwaarde_1":83155770.0,
+    "Uitvoerwaarde_2":75489742.0,
+    "Handelsbalans_3":-7666028.0
+  },
+  {
+    "ID":247,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM01",
+    "Invoerwaarde_1":4806528.0,
+    "Uitvoerwaarde_2":5239361.0,
+    "Handelsbalans_3":432833.0
+  },
+  {
+    "ID":248,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM02",
+    "Invoerwaarde_1":4855472.0,
+    "Uitvoerwaarde_2":5337947.0,
+    "Handelsbalans_3":482475.0
+  },
+  {
+    "ID":249,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM03",
+    "Invoerwaarde_1":5990350.0,
+    "Uitvoerwaarde_2":5854190.0,
+    "Handelsbalans_3":-136160.0
+  },
+  {
+    "ID":250,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM04",
+    "Invoerwaarde_1":6000597.0,
+    "Uitvoerwaarde_2":5354040.0,
+    "Handelsbalans_3":-646557.0
+  },
+  {
+    "ID":251,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM05",
+    "Invoerwaarde_1":6532479.0,
+    "Uitvoerwaarde_2":4942080.0,
+    "Handelsbalans_3":-1590399.0
+  },
+  {
+    "ID":252,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM06",
+    "Invoerwaarde_1":6104264.0,
+    "Uitvoerwaarde_2":5323956.0,
+    "Handelsbalans_3":-780308.0
+  },
+  {
+    "ID":253,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM07",
+    "Invoerwaarde_1":5951165.0,
+    "Uitvoerwaarde_2":4867608.0,
+    "Handelsbalans_3":-1083557.0
+  },
+  {
+    "ID":254,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM08",
+    "Invoerwaarde_1":5389324.0,
+    "Uitvoerwaarde_2":4384429.0,
+    "Handelsbalans_3":-1004895.0
+  },
+  {
+    "ID":255,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM09",
+    "Invoerwaarde_1":5161036.0,
+    "Uitvoerwaarde_2":4220160.0,
+    "Handelsbalans_3":-940876.0
+  },
+  {
+    "ID":256,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM10",
+    "Invoerwaarde_1":5109199.0,
+    "Uitvoerwaarde_2":4383726.0,
+    "Handelsbalans_3":-725473.0
+  },
+  {
+    "ID":257,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM11",
+    "Invoerwaarde_1":4295486.0,
+    "Uitvoerwaarde_2":4034767.0,
+    "Handelsbalans_3":-260719.0
+  },
+  {
+    "ID":258,
+    "LandenGroepen":" 1",
+    "Perioden":"2015MM12",
+    "Invoerwaarde_1":4406008.0,
+    "Uitvoerwaarde_2":4456398.0,
+    "Handelsbalans_3":50390.0
+  },
+  {
+    "ID":259,
+    "LandenGroepen":" 1",
+    "Perioden":"2015JJ00",
+    "Invoerwaarde_1":64601908.0,
+    "Uitvoerwaarde_2":58398662.0,
+    "Handelsbalans_3":-6203246.0
+  },
+  {
+    "ID":260,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM01",
+    "Invoerwaarde_1":3792689.0,
+    "Uitvoerwaarde_2":3924378.0,
+    "Handelsbalans_3":131689.0
+  },
+  {
+    "ID":261,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM02",
+    "Invoerwaarde_1":3725896.0,
+    "Uitvoerwaarde_2":3746787.0,
+    "Handelsbalans_3":20891.0
+  },
+  {
+    "ID":262,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM03",
+    "Invoerwaarde_1":3967283.0,
+    "Uitvoerwaarde_2":4012188.0,
+    "Handelsbalans_3":44905.0
+  },
+  {
+    "ID":263,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM04",
+    "Invoerwaarde_1":4351035.0,
+    "Uitvoerwaarde_2":4052452.0,
+    "Handelsbalans_3":-298583.0
+  },
+  {
+    "ID":264,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM05",
+    "Invoerwaarde_1":4770482.0,
+    "Uitvoerwaarde_2":4213972.0,
+    "Handelsbalans_3":-556510.0
+  },
+  {
+    "ID":265,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM06",
+    "Invoerwaarde_1":4634293.0,
+    "Uitvoerwaarde_2":4197597.0,
+    "Handelsbalans_3":-436696.0
+  },
+  {
+    "ID":266,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM07",
+    "Invoerwaarde_1":4768976.0,
+    "Uitvoerwaarde_2":4175021.0,
+    "Handelsbalans_3":-593955.0
+  },
+  {
+    "ID":267,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM08",
+    "Invoerwaarde_1":4439980.0,
+    "Uitvoerwaarde_2":4136808.0,
+    "Handelsbalans_3":-303172.0
+  },
+  {
+    "ID":268,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM09",
+    "Invoerwaarde_1":4665125.0,
+    "Uitvoerwaarde_2":4208019.0,
+    "Handelsbalans_3":-457106.0
+  },
+  {
+    "ID":269,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM10",
+    "Invoerwaarde_1":5281941.0,
+    "Uitvoerwaarde_2":4906891.0,
+    "Handelsbalans_3":-375050.0
+  },
+  {
+    "ID":270,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM11",
+    "Invoerwaarde_1":5089095.0,
+    "Uitvoerwaarde_2":5209583.0,
+    "Handelsbalans_3":120488.0
+  },
+  {
+    "ID":271,
+    "LandenGroepen":" 1",
+    "Perioden":"2016MM12",
+    "Invoerwaarde_1":5541510.0,
+    "Uitvoerwaarde_2":5494503.0,
+    "Handelsbalans_3":-47007.0
+  },
+  {
+    "ID":272,
+    "LandenGroepen":" 1",
+    "Perioden":"2016JJ00",
+    "Invoerwaarde_1":55028305.0,
+    "Uitvoerwaarde_2":52278199.0,
+    "Handelsbalans_3":-2750106.0
+  },
+  {
+    "ID":273,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM01",
+    "Invoerwaarde_1":6149254.0,
+    "Uitvoerwaarde_2":5832585.0,
+    "Handelsbalans_3":-316669.0
+  },
+  {
+    "ID":274,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM02",
+    "Invoerwaarde_1":5715797.0,
+    "Uitvoerwaarde_2":5888592.0,
+    "Handelsbalans_3":172795.0
+  },
+  {
+    "ID":275,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM03",
+    "Invoerwaarde_1":6031454.0,
+    "Uitvoerwaarde_2":5661682.0,
+    "Handelsbalans_3":-369772.0
+  },
+  {
+    "ID":276,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM04",
+    "Invoerwaarde_1":5589153.0,
+    "Uitvoerwaarde_2":4815660.0,
+    "Handelsbalans_3":-773493.0
+  },
+  {
+    "ID":277,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM05",
+    "Invoerwaarde_1":5418389.0,
+    "Uitvoerwaarde_2":5163336.0,
+    "Handelsbalans_3":-255053.0
+  },
+  {
+    "ID":278,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM06",
+    "Invoerwaarde_1":5175274.0,
+    "Uitvoerwaarde_2":4865816.0,
+    "Handelsbalans_3":-309458.0
+  },
+  {
+    "ID":279,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM07",
+    "Invoerwaarde_1":4856460.0,
+    "Uitvoerwaarde_2":4646994.0,
+    "Handelsbalans_3":-209466.0
+  },
+  {
+    "ID":280,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM08",
+    "Invoerwaarde_1":5149131.0,
+    "Uitvoerwaarde_2":4333729.0,
+    "Handelsbalans_3":-815402.0
+  },
+  {
+    "ID":281,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM09",
+    "Invoerwaarde_1":4973549.0,
+    "Uitvoerwaarde_2":4875544.0,
+    "Handelsbalans_3":-98005.0
+  },
+  {
+    "ID":282,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM10",
+    "Invoerwaarde_1":5146399.0,
+    "Uitvoerwaarde_2":4924944.0,
+    "Handelsbalans_3":-221455.0
+  },
+  {
+    "ID":283,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM11",
+    "Invoerwaarde_1":6159098.0,
+    "Uitvoerwaarde_2":5451230.0,
+    "Handelsbalans_3":-707868.0
+  },
+  {
+    "ID":284,
+    "LandenGroepen":" 1",
+    "Perioden":"2017MM12",
+    "Invoerwaarde_1":6256430.0,
+    "Uitvoerwaarde_2":5790470.0,
+    "Handelsbalans_3":-465960.0
+  },
+  {
+    "ID":285,
+    "LandenGroepen":" 1",
+    "Perioden":"2017JJ00",
+    "Invoerwaarde_1":66620388.0,
+    "Uitvoerwaarde_2":62250582.0,
+    "Handelsbalans_3":-4369806.0
+  },
+  {
+    "ID":286,
+    "LandenGroepen":" 1",
+    "Perioden":"2018MM01",
+    "Invoerwaarde_1":6807265.0,
+    "Uitvoerwaarde_2":5862183.0,
+    "Handelsbalans_3":-945082.0
+  },
+  {
+    "ID":287,
+    "LandenGroepen":" 1",
+    "Perioden":"2018MM02",
+    "Invoerwaarde_1":6377224.0,
+    "Uitvoerwaarde_2":5828935.0,
+    "Handelsbalans_3":-548289.0
+  },
+  {
+    "ID":288,
+    "LandenGroepen":" 1",
+    "Perioden":"2018MM03",
+    "Invoerwaarde_1":6360635.0,
+    "Uitvoerwaarde_2":5721427.0,
+    "Handelsbalans_3":-639208.0
+  },
+  {
+    "ID":289,
+    "LandenGroepen":" 1",
+    "Perioden":"2018MM04",
+    "Invoerwaarde_1":6027614.0,
+    "Uitvoerwaarde_2":5156774.0,
+    "Handelsbalans_3":-870840.0
+  },
+  {
+    "ID":290,
+    "LandenGroepen":" 1",
+    "Perioden":"2018MM05",
+    "Invoerwaarde_1":6410691.0,
+    "Uitvoerwaarde_2":6212165.0,
+    "Handelsbalans_3":-198526.0
+  },
+  {
+    "ID":291,
+    "LandenGroepen":" 1",
+    "Perioden":"2018MM06",
+    "Invoerwaarde_1":6429141.0,
+    "Uitvoerwaarde_2":5445514.0,
+    "Handelsbalans_3":-983627.0
+  },
+  {
+    "ID":292,
+    "LandenGroepen":" 1",
+    "Perioden":"2018JJ00",
+    "Invoerwaarde_1":38412570.0,
+    "Uitvoerwaarde_2":34226998.0,
+    "Handelsbalans_3":-4185572.0
+  },
+  {
+    "ID":293,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM01",
+    "Invoerwaarde_1":211355.0,
+    "Uitvoerwaarde_2":965898.0,
+    "Handelsbalans_3":754543.0
+  },
+  {
+    "ID":294,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM02",
+    "Invoerwaarde_1":190252.0,
+    "Uitvoerwaarde_2":951004.0,
+    "Handelsbalans_3":760752.0
+  },
+  {
+    "ID":295,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM03",
+    "Invoerwaarde_1":245754.0,
+    "Uitvoerwaarde_2":1042346.0,
+    "Handelsbalans_3":796592.0
+  },
+  {
+    "ID":296,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM04",
+    "Invoerwaarde_1":233501.0,
+    "Uitvoerwaarde_2":840424.0,
+    "Handelsbalans_3":606923.0
+  },
+  {
+    "ID":297,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM05",
+    "Invoerwaarde_1":232133.0,
+    "Uitvoerwaarde_2":786083.0,
+    "Handelsbalans_3":553950.0
+  },
+  {
+    "ID":298,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM06",
+    "Invoerwaarde_1":212624.0,
+    "Uitvoerwaarde_2":750883.0,
+    "Handelsbalans_3":538259.0
+  },
+  {
+    "ID":299,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM07",
+    "Invoerwaarde_1":198595.0,
+    "Uitvoerwaarde_2":782666.0,
+    "Handelsbalans_3":584071.0
+  },
+  {
+    "ID":300,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM08",
+    "Invoerwaarde_1":187904.0,
+    "Uitvoerwaarde_2":689816.0,
+    "Handelsbalans_3":501912.0
+  },
+  {
+    "ID":301,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM09",
+    "Invoerwaarde_1":257561.0,
+    "Uitvoerwaarde_2":873798.0,
+    "Handelsbalans_3":616237.0
+  },
+  {
+    "ID":302,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM10",
+    "Invoerwaarde_1":273938.0,
+    "Uitvoerwaarde_2":925969.0,
+    "Handelsbalans_3":652031.0
+  },
+  {
+    "ID":303,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM11",
+    "Invoerwaarde_1":276483.0,
+    "Uitvoerwaarde_2":1021253.0,
+    "Handelsbalans_3":744770.0
+  },
+  {
+    "ID":304,
+    "LandenGroepen":" 2",
+    "Perioden":"1996MM12",
+    "Invoerwaarde_1":300314.0,
+    "Uitvoerwaarde_2":1306990.0,
+    "Handelsbalans_3":1006676.0
+  },
+  {
+    "ID":305,
+    "LandenGroepen":" 2",
+    "Perioden":"1996JJ00",
+    "Invoerwaarde_1":2820414.0,
+    "Uitvoerwaarde_2":10937130.0,
+    "Handelsbalans_3":8116716.0
+  },
+  {
+    "ID":306,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM01",
+    "Invoerwaarde_1":339188.0,
+    "Uitvoerwaarde_2":1340709.0,
+    "Handelsbalans_3":1001521.0
+  },
+  {
+    "ID":307,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM02",
+    "Invoerwaarde_1":323567.0,
+    "Uitvoerwaarde_2":1024141.0,
+    "Handelsbalans_3":700574.0
+  },
+  {
+    "ID":308,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM03",
+    "Invoerwaarde_1":299224.0,
+    "Uitvoerwaarde_2":981018.0,
+    "Handelsbalans_3":681794.0
+  },
+  {
+    "ID":309,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM04",
+    "Invoerwaarde_1":314038.0,
+    "Uitvoerwaarde_2":942485.0,
+    "Handelsbalans_3":628447.0
+  },
+  {
+    "ID":310,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM05",
+    "Invoerwaarde_1":339386.0,
+    "Uitvoerwaarde_2":888266.0,
+    "Handelsbalans_3":548880.0
+  },
+  {
+    "ID":311,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM06",
+    "Invoerwaarde_1":281445.0,
+    "Uitvoerwaarde_2":850445.0,
+    "Handelsbalans_3":569000.0
+  },
+  {
+    "ID":312,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM07",
+    "Invoerwaarde_1":290798.0,
+    "Uitvoerwaarde_2":856789.0,
+    "Handelsbalans_3":565991.0
+  },
+  {
+    "ID":313,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM08",
+    "Invoerwaarde_1":279652.0,
+    "Uitvoerwaarde_2":888504.0,
+    "Handelsbalans_3":608852.0
+  },
+  {
+    "ID":314,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM09",
+    "Invoerwaarde_1":320750.0,
+    "Uitvoerwaarde_2":867160.0,
+    "Handelsbalans_3":546410.0
+  },
+  {
+    "ID":315,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM10",
+    "Invoerwaarde_1":307500.0,
+    "Uitvoerwaarde_2":987228.0,
+    "Handelsbalans_3":679728.0
+  },
+  {
+    "ID":316,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM11",
+    "Invoerwaarde_1":307323.0,
+    "Uitvoerwaarde_2":1050169.0,
+    "Handelsbalans_3":742846.0
+  },
+  {
+    "ID":317,
+    "LandenGroepen":" 2",
+    "Perioden":"1997MM12",
+    "Invoerwaarde_1":298954.0,
+    "Uitvoerwaarde_2":1085539.0,
+    "Handelsbalans_3":786585.0
+  },
+  {
+    "ID":318,
+    "LandenGroepen":" 2",
+    "Perioden":"1997JJ00",
+    "Invoerwaarde_1":3701825.0,
+    "Uitvoerwaarde_2":11762453.0,
+    "Handelsbalans_3":8060628.0
+  },
+  {
+    "ID":319,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM01",
+    "Invoerwaarde_1":249772.0,
+    "Uitvoerwaarde_2":1034283.0,
+    "Handelsbalans_3":784511.0
+  },
+  {
+    "ID":320,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM02",
+    "Invoerwaarde_1":263180.0,
+    "Uitvoerwaarde_2":889558.0,
+    "Handelsbalans_3":626378.0
+  },
+  {
+    "ID":321,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM03",
+    "Invoerwaarde_1":304970.0,
+    "Uitvoerwaarde_2":967890.0,
+    "Handelsbalans_3":662920.0
+  },
+  {
+    "ID":322,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM04",
+    "Invoerwaarde_1":321066.0,
+    "Uitvoerwaarde_2":841377.0,
+    "Handelsbalans_3":520311.0
+  },
+  {
+    "ID":323,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM05",
+    "Invoerwaarde_1":276439.0,
+    "Uitvoerwaarde_2":706362.0,
+    "Handelsbalans_3":429923.0
+  },
+  {
+    "ID":324,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM06",
+    "Invoerwaarde_1":261846.0,
+    "Uitvoerwaarde_2":650547.0,
+    "Handelsbalans_3":388701.0
+  },
+  {
+    "ID":325,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM07",
+    "Invoerwaarde_1":283304.0,
+    "Uitvoerwaarde_2":713404.0,
+    "Handelsbalans_3":430100.0
+  },
+  {
+    "ID":326,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM08",
+    "Invoerwaarde_1":262294.0,
+    "Uitvoerwaarde_2":671998.0,
+    "Handelsbalans_3":409704.0
+  },
+  {
+    "ID":327,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM09",
+    "Invoerwaarde_1":224857.0,
+    "Uitvoerwaarde_2":680449.0,
+    "Handelsbalans_3":455592.0
+  },
+  {
+    "ID":328,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM10",
+    "Invoerwaarde_1":270930.0,
+    "Uitvoerwaarde_2":724027.0,
+    "Handelsbalans_3":453097.0
+  },
+  {
+    "ID":329,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM11",
+    "Invoerwaarde_1":221558.0,
+    "Uitvoerwaarde_2":823628.0,
+    "Handelsbalans_3":602070.0
+  },
+  {
+    "ID":330,
+    "LandenGroepen":" 2",
+    "Perioden":"1998MM12",
+    "Invoerwaarde_1":231894.0,
+    "Uitvoerwaarde_2":833110.0,
+    "Handelsbalans_3":601216.0
+  },
+  {
+    "ID":331,
+    "LandenGroepen":" 2",
+    "Perioden":"1998JJ00",
+    "Invoerwaarde_1":3172110.0,
+    "Uitvoerwaarde_2":9536633.0,
+    "Handelsbalans_3":6364523.0
+  },
+  {
+    "ID":332,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM01",
+    "Invoerwaarde_1":254351.0,
+    "Uitvoerwaarde_2":768652.0,
+    "Handelsbalans_3":514301.0
+  },
+  {
+    "ID":333,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM02",
+    "Invoerwaarde_1":252225.0,
+    "Uitvoerwaarde_2":737976.0,
+    "Handelsbalans_3":485751.0
+  },
+  {
+    "ID":334,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM03",
+    "Invoerwaarde_1":276713.0,
+    "Uitvoerwaarde_2":839972.0,
+    "Handelsbalans_3":563259.0
+  },
+  {
+    "ID":335,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM04",
+    "Invoerwaarde_1":288165.0,
+    "Uitvoerwaarde_2":759182.0,
+    "Handelsbalans_3":471017.0
+  },
+  {
+    "ID":336,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM05",
+    "Invoerwaarde_1":302829.0,
+    "Uitvoerwaarde_2":682910.0,
+    "Handelsbalans_3":380081.0
+  },
+  {
+    "ID":337,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM06",
+    "Invoerwaarde_1":281001.0,
+    "Uitvoerwaarde_2":688808.0,
+    "Handelsbalans_3":407807.0
+  },
+  {
+    "ID":338,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM07",
+    "Invoerwaarde_1":356070.0,
+    "Uitvoerwaarde_2":762080.0,
+    "Handelsbalans_3":406010.0
+  },
+  {
+    "ID":339,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM08",
+    "Invoerwaarde_1":369231.0,
+    "Uitvoerwaarde_2":879079.0,
+    "Handelsbalans_3":509848.0
+  },
+  {
+    "ID":340,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM09",
+    "Invoerwaarde_1":442236.0,
+    "Uitvoerwaarde_2":925700.0,
+    "Handelsbalans_3":483464.0
+  },
+  {
+    "ID":341,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM10",
+    "Invoerwaarde_1":405351.0,
+    "Uitvoerwaarde_2":1020295.0,
+    "Handelsbalans_3":614944.0
+  },
+  {
+    "ID":342,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM11",
+    "Invoerwaarde_1":465259.0,
+    "Uitvoerwaarde_2":1243385.0,
+    "Handelsbalans_3":778126.0
+  },
+  {
+    "ID":343,
+    "LandenGroepen":" 2",
+    "Perioden":"1999MM12",
+    "Invoerwaarde_1":546615.0,
+    "Uitvoerwaarde_2":1446679.0,
+    "Handelsbalans_3":900064.0
+  },
+  {
+    "ID":344,
+    "LandenGroepen":" 2",
+    "Perioden":"1999JJ00",
+    "Invoerwaarde_1":4240046.0,
+    "Uitvoerwaarde_2":10754718.0,
+    "Handelsbalans_3":6514672.0
+  },
+  {
+    "ID":345,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM01",
+    "Invoerwaarde_1":642139.0,
+    "Uitvoerwaarde_2":1469041.0,
+    "Handelsbalans_3":826902.0
+  },
+  {
+    "ID":346,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM02",
+    "Invoerwaarde_1":593875.0,
+    "Uitvoerwaarde_2":1525961.0,
+    "Handelsbalans_3":932086.0
+  },
+  {
+    "ID":347,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM03",
+    "Invoerwaarde_1":682216.0,
+    "Uitvoerwaarde_2":1558171.0,
+    "Handelsbalans_3":875955.0
+  },
+  {
+    "ID":348,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM04",
+    "Invoerwaarde_1":692118.0,
+    "Uitvoerwaarde_2":1374195.0,
+    "Handelsbalans_3":682077.0
+  },
+  {
+    "ID":349,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM05",
+    "Invoerwaarde_1":690832.0,
+    "Uitvoerwaarde_2":1470399.0,
+    "Handelsbalans_3":779567.0
+  },
+  {
+    "ID":350,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM06",
+    "Invoerwaarde_1":655842.0,
+    "Uitvoerwaarde_2":1453845.0,
+    "Handelsbalans_3":798003.0
+  },
+  {
+    "ID":351,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM07",
+    "Invoerwaarde_1":696830.0,
+    "Uitvoerwaarde_2":1552475.0,
+    "Handelsbalans_3":855645.0
+  },
+  {
+    "ID":352,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM08",
+    "Invoerwaarde_1":678618.0,
+    "Uitvoerwaarde_2":1539073.0,
+    "Handelsbalans_3":860455.0
+  },
+  {
+    "ID":353,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM09",
+    "Invoerwaarde_1":601493.0,
+    "Uitvoerwaarde_2":1570971.0,
+    "Handelsbalans_3":969478.0
+  },
+  {
+    "ID":354,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM10",
+    "Invoerwaarde_1":766298.0,
+    "Uitvoerwaarde_2":1778543.0,
+    "Handelsbalans_3":1012245.0
+  },
+  {
+    "ID":355,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM11",
+    "Invoerwaarde_1":832032.0,
+    "Uitvoerwaarde_2":1976561.0,
+    "Handelsbalans_3":1144529.0
+  },
+  {
+    "ID":356,
+    "LandenGroepen":" 2",
+    "Perioden":"2000MM12",
+    "Invoerwaarde_1":842801.0,
+    "Uitvoerwaarde_2":1810440.0,
+    "Handelsbalans_3":967639.0
+  },
+  {
+    "ID":357,
+    "LandenGroepen":" 2",
+    "Perioden":"2000JJ00",
+    "Invoerwaarde_1":8375094.0,
+    "Uitvoerwaarde_2":19079675.0,
+    "Handelsbalans_3":10704581.0
+  },
+  {
+    "ID":358,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM01",
+    "Invoerwaarde_1":809451.0,
+    "Uitvoerwaarde_2":2128173.0,
+    "Handelsbalans_3":1318722.0
+  },
+  {
+    "ID":359,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM02",
+    "Invoerwaarde_1":718951.0,
+    "Uitvoerwaarde_2":1815095.0,
+    "Handelsbalans_3":1096144.0
+  },
+  {
+    "ID":360,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM03",
+    "Invoerwaarde_1":658536.0,
+    "Uitvoerwaarde_2":1943025.0,
+    "Handelsbalans_3":1284489.0
+  },
+  {
+    "ID":361,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM04",
+    "Invoerwaarde_1":645618.0,
+    "Uitvoerwaarde_2":2011657.0,
+    "Handelsbalans_3":1366039.0
+  },
+  {
+    "ID":362,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM05",
+    "Invoerwaarde_1":792075.0,
+    "Uitvoerwaarde_2":1988519.0,
+    "Handelsbalans_3":1196444.0
+  },
+  {
+    "ID":363,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM06",
+    "Invoerwaarde_1":680508.0,
+    "Uitvoerwaarde_2":1648608.0,
+    "Handelsbalans_3":968100.0
+  },
+  {
+    "ID":364,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM07",
+    "Invoerwaarde_1":640864.0,
+    "Uitvoerwaarde_2":1622584.0,
+    "Handelsbalans_3":981720.0
+  },
+  {
+    "ID":365,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM08",
+    "Invoerwaarde_1":689471.0,
+    "Uitvoerwaarde_2":1584246.0,
+    "Handelsbalans_3":894775.0
+  },
+  {
+    "ID":366,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM09",
+    "Invoerwaarde_1":683101.0,
+    "Uitvoerwaarde_2":1679735.0,
+    "Handelsbalans_3":996634.0
+  },
+  {
+    "ID":367,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM10",
+    "Invoerwaarde_1":586374.0,
+    "Uitvoerwaarde_2":1644591.0,
+    "Handelsbalans_3":1058217.0
+  },
+  {
+    "ID":368,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM11",
+    "Invoerwaarde_1":609424.0,
+    "Uitvoerwaarde_2":1640032.0,
+    "Handelsbalans_3":1030608.0
+  },
+  {
+    "ID":369,
+    "LandenGroepen":" 2",
+    "Perioden":"2001MM12",
+    "Invoerwaarde_1":619221.0,
+    "Uitvoerwaarde_2":1700093.0,
+    "Handelsbalans_3":1080872.0
+  },
+  {
+    "ID":370,
+    "LandenGroepen":" 2",
+    "Perioden":"2001JJ00",
+    "Invoerwaarde_1":8133594.0,
+    "Uitvoerwaarde_2":21406358.0,
+    "Handelsbalans_3":13272764.0
+  },
+  {
+    "ID":371,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM01",
+    "Invoerwaarde_1":669622.0,
+    "Uitvoerwaarde_2":1646904.0,
+    "Handelsbalans_3":977282.0
+  },
+  {
+    "ID":372,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM02",
+    "Invoerwaarde_1":710136.0,
+    "Uitvoerwaarde_2":1438685.0,
+    "Handelsbalans_3":728549.0
+  },
+  {
+    "ID":373,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM03",
+    "Invoerwaarde_1":857027.0,
+    "Uitvoerwaarde_2":1653595.0,
+    "Handelsbalans_3":796568.0
+  },
+  {
+    "ID":374,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM04",
+    "Invoerwaarde_1":839611.0,
+    "Uitvoerwaarde_2":1457505.0,
+    "Handelsbalans_3":617894.0
+  },
+  {
+    "ID":375,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM05",
+    "Invoerwaarde_1":733457.0,
+    "Uitvoerwaarde_2":1409088.0,
+    "Handelsbalans_3":675631.0
+  },
+  {
+    "ID":376,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM06",
+    "Invoerwaarde_1":837977.0,
+    "Uitvoerwaarde_2":1418975.0,
+    "Handelsbalans_3":580998.0
+  },
+  {
+    "ID":377,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM07",
+    "Invoerwaarde_1":593647.0,
+    "Uitvoerwaarde_2":1270632.0,
+    "Handelsbalans_3":676985.0
+  },
+  {
+    "ID":378,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM08",
+    "Invoerwaarde_1":731788.0,
+    "Uitvoerwaarde_2":1275033.0,
+    "Handelsbalans_3":543245.0
+  },
+  {
+    "ID":379,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM09",
+    "Invoerwaarde_1":859316.0,
+    "Uitvoerwaarde_2":1523740.0,
+    "Handelsbalans_3":664424.0
+  },
+  {
+    "ID":380,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM10",
+    "Invoerwaarde_1":729506.0,
+    "Uitvoerwaarde_2":1533769.0,
+    "Handelsbalans_3":804263.0
+  },
+  {
+    "ID":381,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM11",
+    "Invoerwaarde_1":691317.0,
+    "Uitvoerwaarde_2":1402708.0,
+    "Handelsbalans_3":711391.0
+  },
+  {
+    "ID":382,
+    "LandenGroepen":" 2",
+    "Perioden":"2002MM12",
+    "Invoerwaarde_1":973575.0,
+    "Uitvoerwaarde_2":1966434.0,
+    "Handelsbalans_3":992859.0
+  },
+  {
+    "ID":383,
+    "LandenGroepen":" 2",
+    "Perioden":"2002JJ00",
+    "Invoerwaarde_1":9226979.0,
+    "Uitvoerwaarde_2":17997068.0,
+    "Handelsbalans_3":8770089.0
+  },
+  {
+    "ID":384,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM01",
+    "Invoerwaarde_1":777063.0,
+    "Uitvoerwaarde_2":1867466.0,
+    "Handelsbalans_3":1090403.0
+  },
+  {
+    "ID":385,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM02",
+    "Invoerwaarde_1":833215.0,
+    "Uitvoerwaarde_2":1885764.0,
+    "Handelsbalans_3":1052549.0
+  },
+  {
+    "ID":386,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM03",
+    "Invoerwaarde_1":1061743.0,
+    "Uitvoerwaarde_2":1860706.0,
+    "Handelsbalans_3":798963.0
+  },
+  {
+    "ID":387,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM04",
+    "Invoerwaarde_1":807785.0,
+    "Uitvoerwaarde_2":1328357.0,
+    "Handelsbalans_3":520572.0
+  },
+  {
+    "ID":388,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM05",
+    "Invoerwaarde_1":741844.0,
+    "Uitvoerwaarde_2":1244533.0,
+    "Handelsbalans_3":502689.0
+  },
+  {
+    "ID":389,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM06",
+    "Invoerwaarde_1":760151.0,
+    "Uitvoerwaarde_2":1305863.0,
+    "Handelsbalans_3":545712.0
+  },
+  {
+    "ID":390,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM07",
+    "Invoerwaarde_1":774124.0,
+    "Uitvoerwaarde_2":1263355.0,
+    "Handelsbalans_3":489231.0
+  },
+  {
+    "ID":391,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM08",
+    "Invoerwaarde_1":786530.0,
+    "Uitvoerwaarde_2":1236233.0,
+    "Handelsbalans_3":449703.0
+  },
+  {
+    "ID":392,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM09",
+    "Invoerwaarde_1":663761.0,
+    "Uitvoerwaarde_2":1227266.0,
+    "Handelsbalans_3":563505.0
+  },
+  {
+    "ID":393,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM10",
+    "Invoerwaarde_1":771845.0,
+    "Uitvoerwaarde_2":1666481.0,
+    "Handelsbalans_3":894636.0
+  },
+  {
+    "ID":394,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM11",
+    "Invoerwaarde_1":834151.0,
+    "Uitvoerwaarde_2":1601603.0,
+    "Handelsbalans_3":767452.0
+  },
+  {
+    "ID":395,
+    "LandenGroepen":" 2",
+    "Perioden":"2003MM12",
+    "Invoerwaarde_1":841260.0,
+    "Uitvoerwaarde_2":1727947.0,
+    "Handelsbalans_3":886687.0
+  },
+  {
+    "ID":396,
+    "LandenGroepen":" 2",
+    "Perioden":"2003JJ00",
+    "Invoerwaarde_1":9653472.0,
+    "Uitvoerwaarde_2":18215574.0,
+    "Handelsbalans_3":8562102.0
+  },
+  {
+    "ID":397,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM01",
+    "Invoerwaarde_1":829669.0,
+    "Uitvoerwaarde_2":1714525.0,
+    "Handelsbalans_3":884856.0
+  },
+  {
+    "ID":398,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM02",
+    "Invoerwaarde_1":830392.0,
+    "Uitvoerwaarde_2":1594650.0,
+    "Handelsbalans_3":764258.0
+  },
+  {
+    "ID":399,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM03",
+    "Invoerwaarde_1":921545.0,
+    "Uitvoerwaarde_2":1681121.0,
+    "Handelsbalans_3":759576.0
+  },
+  {
+    "ID":400,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM04",
+    "Invoerwaarde_1":916604.0,
+    "Uitvoerwaarde_2":1529792.0,
+    "Handelsbalans_3":613188.0
+  },
+  {
+    "ID":401,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM05",
+    "Invoerwaarde_1":971548.0,
+    "Uitvoerwaarde_2":1548064.0,
+    "Handelsbalans_3":576516.0
+  },
+  {
+    "ID":402,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM06",
+    "Invoerwaarde_1":1113403.0,
+    "Uitvoerwaarde_2":1429651.0,
+    "Handelsbalans_3":316248.0
+  },
+  {
+    "ID":403,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM07",
+    "Invoerwaarde_1":1000499.0,
+    "Uitvoerwaarde_2":1686796.0,
+    "Handelsbalans_3":686297.0
+  },
+  {
+    "ID":404,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM08",
+    "Invoerwaarde_1":1262332.0,
+    "Uitvoerwaarde_2":1692716.0,
+    "Handelsbalans_3":430384.0
+  },
+  {
+    "ID":405,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM09",
+    "Invoerwaarde_1":1153247.0,
+    "Uitvoerwaarde_2":1837007.0,
+    "Handelsbalans_3":683760.0
+  },
+  {
+    "ID":406,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM10",
+    "Invoerwaarde_1":1173083.0,
+    "Uitvoerwaarde_2":2042080.0,
+    "Handelsbalans_3":868997.0
+  },
+  {
+    "ID":407,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM11",
+    "Invoerwaarde_1":1098996.0,
+    "Uitvoerwaarde_2":2037736.0,
+    "Handelsbalans_3":938740.0
+  },
+  {
+    "ID":408,
+    "LandenGroepen":" 2",
+    "Perioden":"2004MM12",
+    "Invoerwaarde_1":1042083.0,
+    "Uitvoerwaarde_2":2189531.0,
+    "Handelsbalans_3":1147448.0
+  },
+  {
+    "ID":409,
+    "LandenGroepen":" 2",
+    "Perioden":"2004JJ00",
+    "Invoerwaarde_1":12313401.0,
+    "Uitvoerwaarde_2":20983669.0,
+    "Handelsbalans_3":8670268.0
+  },
+  {
+    "ID":410,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM01",
+    "Invoerwaarde_1":1211930.0,
+    "Uitvoerwaarde_2":2210587.0,
+    "Handelsbalans_3":998657.0
+  },
+  {
+    "ID":411,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM02",
+    "Invoerwaarde_1":1020803.0,
+    "Uitvoerwaarde_2":2108273.0,
+    "Handelsbalans_3":1087470.0
+  },
+  {
+    "ID":412,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM03",
+    "Invoerwaarde_1":1332336.0,
+    "Uitvoerwaarde_2":2243585.0,
+    "Handelsbalans_3":911249.0
+  },
+  {
+    "ID":413,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM04",
+    "Invoerwaarde_1":1313557.0,
+    "Uitvoerwaarde_2":2148021.0,
+    "Handelsbalans_3":834464.0
+  },
+  {
+    "ID":414,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM05",
+    "Invoerwaarde_1":1271640.0,
+    "Uitvoerwaarde_2":1838403.0,
+    "Handelsbalans_3":566763.0
+  },
+  {
+    "ID":415,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM06",
+    "Invoerwaarde_1":1215307.0,
+    "Uitvoerwaarde_2":1877867.0,
+    "Handelsbalans_3":662560.0
+  },
+  {
+    "ID":416,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM07",
+    "Invoerwaarde_1":1336791.0,
+    "Uitvoerwaarde_2":1967986.0,
+    "Handelsbalans_3":631195.0
+  },
+  {
+    "ID":417,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM08",
+    "Invoerwaarde_1":1258939.0,
+    "Uitvoerwaarde_2":2056123.0,
+    "Handelsbalans_3":797184.0
+  },
+  {
+    "ID":418,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM09",
+    "Invoerwaarde_1":1401190.0,
+    "Uitvoerwaarde_2":2326453.0,
+    "Handelsbalans_3":925263.0
+  },
+  {
+    "ID":419,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM10",
+    "Invoerwaarde_1":1547214.0,
+    "Uitvoerwaarde_2":2507425.0,
+    "Handelsbalans_3":960211.0
+  },
+  {
+    "ID":420,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM11",
+    "Invoerwaarde_1":1454092.0,
+    "Uitvoerwaarde_2":2830195.0,
+    "Handelsbalans_3":1376103.0
+  },
+  {
+    "ID":421,
+    "LandenGroepen":" 2",
+    "Perioden":"2005MM12",
+    "Invoerwaarde_1":1574997.0,
+    "Uitvoerwaarde_2":3083780.0,
+    "Handelsbalans_3":1508783.0
+  },
+  {
+    "ID":422,
+    "LandenGroepen":" 2",
+    "Perioden":"2005JJ00",
+    "Invoerwaarde_1":15938796.0,
+    "Uitvoerwaarde_2":27198698.0,
+    "Handelsbalans_3":11259902.0
+  },
+  {
+    "ID":423,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM01",
+    "Invoerwaarde_1":1821768.0,
+    "Uitvoerwaarde_2":3291390.0,
+    "Handelsbalans_3":1469622.0
+  },
+  {
+    "ID":424,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM02",
+    "Invoerwaarde_1":1509825.0,
+    "Uitvoerwaarde_2":3153987.0,
+    "Handelsbalans_3":1644162.0
+  },
+  {
+    "ID":425,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM03",
+    "Invoerwaarde_1":1842740.0,
+    "Uitvoerwaarde_2":3700216.0,
+    "Handelsbalans_3":1857476.0
+  },
+  {
+    "ID":426,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM04",
+    "Invoerwaarde_1":2017727.0,
+    "Uitvoerwaarde_2":2867402.0,
+    "Handelsbalans_3":849675.0
+  },
+  {
+    "ID":427,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM05",
+    "Invoerwaarde_1":2314143.0,
+    "Uitvoerwaarde_2":2570099.0,
+    "Handelsbalans_3":255956.0
+  },
+  {
+    "ID":428,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM06",
+    "Invoerwaarde_1":1929023.0,
+    "Uitvoerwaarde_2":2621508.0,
+    "Handelsbalans_3":692485.0
+  },
+  {
+    "ID":429,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM07",
+    "Invoerwaarde_1":2262004.0,
+    "Uitvoerwaarde_2":2519699.0,
+    "Handelsbalans_3":257695.0
+  },
+  {
+    "ID":430,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM08",
+    "Invoerwaarde_1":2072082.0,
+    "Uitvoerwaarde_2":2914258.0,
+    "Handelsbalans_3":842176.0
+  },
+  {
+    "ID":431,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM09",
+    "Invoerwaarde_1":1829259.0,
+    "Uitvoerwaarde_2":2556130.0,
+    "Handelsbalans_3":726871.0
+  },
+  {
+    "ID":432,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM10",
+    "Invoerwaarde_1":1859189.0,
+    "Uitvoerwaarde_2":2945068.0,
+    "Handelsbalans_3":1085879.0
+  },
+  {
+    "ID":433,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM11",
+    "Invoerwaarde_1":1670998.0,
+    "Uitvoerwaarde_2":3043577.0,
+    "Handelsbalans_3":1372579.0
+  },
+  {
+    "ID":434,
+    "LandenGroepen":" 2",
+    "Perioden":"2006MM12",
+    "Invoerwaarde_1":1704939.0,
+    "Uitvoerwaarde_2":3188276.0,
+    "Handelsbalans_3":1483337.0
+  },
+  {
+    "ID":435,
+    "LandenGroepen":" 2",
+    "Perioden":"2006JJ00",
+    "Invoerwaarde_1":22833697.0,
+    "Uitvoerwaarde_2":35371610.0,
+    "Handelsbalans_3":12537913.0
+  },
+  {
+    "ID":436,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM01",
+    "Invoerwaarde_1":1659836.0,
+    "Uitvoerwaarde_2":2864778.0,
+    "Handelsbalans_3":1204942.0
+  },
+  {
+    "ID":437,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM02",
+    "Invoerwaarde_1":1702874.0,
+    "Uitvoerwaarde_2":2623901.0,
+    "Handelsbalans_3":921027.0
+  },
+  {
+    "ID":438,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM03",
+    "Invoerwaarde_1":2019310.0,
+    "Uitvoerwaarde_2":2626379.0,
+    "Handelsbalans_3":607069.0
+  },
+  {
+    "ID":439,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM04",
+    "Invoerwaarde_1":1999523.0,
+    "Uitvoerwaarde_2":2513351.0,
+    "Handelsbalans_3":513828.0
+  },
+  {
+    "ID":440,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM05",
+    "Invoerwaarde_1":2201754.0,
+    "Uitvoerwaarde_2":2489479.0,
+    "Handelsbalans_3":287725.0
+  },
+  {
+    "ID":441,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM06",
+    "Invoerwaarde_1":2129001.0,
+    "Uitvoerwaarde_2":2377005.0,
+    "Handelsbalans_3":248004.0
+  },
+  {
+    "ID":442,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM07",
+    "Invoerwaarde_1":2098450.0,
+    "Uitvoerwaarde_2":2624048.0,
+    "Handelsbalans_3":525598.0
+  },
+  {
+    "ID":443,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM08",
+    "Invoerwaarde_1":2161789.0,
+    "Uitvoerwaarde_2":2606794.0,
+    "Handelsbalans_3":445005.0
+  },
+  {
+    "ID":444,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM09",
+    "Invoerwaarde_1":2089273.0,
+    "Uitvoerwaarde_2":2770540.0,
+    "Handelsbalans_3":681267.0
+  },
+  {
+    "ID":445,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM10",
+    "Invoerwaarde_1":1959861.0,
+    "Uitvoerwaarde_2":3251208.0,
+    "Handelsbalans_3":1291347.0
+  },
+  {
+    "ID":446,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM11",
+    "Invoerwaarde_1":2425512.0,
+    "Uitvoerwaarde_2":3835166.0,
+    "Handelsbalans_3":1409654.0
+  },
+  {
+    "ID":447,
+    "LandenGroepen":" 2",
+    "Perioden":"2007MM12",
+    "Invoerwaarde_1":2097028.0,
+    "Uitvoerwaarde_2":4101505.0,
+    "Handelsbalans_3":2004477.0
+  },
+  {
+    "ID":448,
+    "LandenGroepen":" 2",
+    "Perioden":"2007JJ00",
+    "Invoerwaarde_1":24544211.0,
+    "Uitvoerwaarde_2":34684154.0,
+    "Handelsbalans_3":10139943.0
+  },
+  {
+    "ID":449,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM01",
+    "Invoerwaarde_1":2007229.0,
+    "Uitvoerwaarde_2":4018312.0,
+    "Handelsbalans_3":2011083.0
+  },
+  {
+    "ID":450,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM02",
+    "Invoerwaarde_1":1976224.0,
+    "Uitvoerwaarde_2":3886939.0,
+    "Handelsbalans_3":1910715.0
+  },
+  {
+    "ID":451,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM03",
+    "Invoerwaarde_1":2061721.0,
+    "Uitvoerwaarde_2":4137989.0,
+    "Handelsbalans_3":2076268.0
+  },
+  {
+    "ID":452,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM04",
+    "Invoerwaarde_1":1875500.0,
+    "Uitvoerwaarde_2":3841177.0,
+    "Handelsbalans_3":1965677.0
+  },
+  {
+    "ID":453,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM05",
+    "Invoerwaarde_1":2226957.0,
+    "Uitvoerwaarde_2":3591775.0,
+    "Handelsbalans_3":1364818.0
+  },
+  {
+    "ID":454,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM06",
+    "Invoerwaarde_1":2241090.0,
+    "Uitvoerwaarde_2":3686210.0,
+    "Handelsbalans_3":1445120.0
+  },
+  {
+    "ID":455,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM07",
+    "Invoerwaarde_1":2314821.0,
+    "Uitvoerwaarde_2":4025072.0,
+    "Handelsbalans_3":1710251.0
+  },
+  {
+    "ID":456,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM08",
+    "Invoerwaarde_1":2197270.0,
+    "Uitvoerwaarde_2":3905901.0,
+    "Handelsbalans_3":1708631.0
+  },
+  {
+    "ID":457,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM09",
+    "Invoerwaarde_1":2188000.0,
+    "Uitvoerwaarde_2":3952838.0,
+    "Handelsbalans_3":1764838.0
+  },
+  {
+    "ID":458,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM10",
+    "Invoerwaarde_1":1981045.0,
+    "Uitvoerwaarde_2":4199528.0,
+    "Handelsbalans_3":2218483.0
+  },
+  {
+    "ID":459,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM11",
+    "Invoerwaarde_1":1418642.0,
+    "Uitvoerwaarde_2":3716685.0,
+    "Handelsbalans_3":2298043.0
+  },
+  {
+    "ID":460,
+    "LandenGroepen":" 2",
+    "Perioden":"2008MM12",
+    "Invoerwaarde_1":1105385.0,
+    "Uitvoerwaarde_2":3185491.0,
+    "Handelsbalans_3":2080106.0
+  },
+  {
+    "ID":461,
+    "LandenGroepen":" 2",
+    "Perioden":"2008JJ00",
+    "Invoerwaarde_1":23593884.0,
+    "Uitvoerwaarde_2":46147917.0,
+    "Handelsbalans_3":22554033.0
+  },
+  {
+    "ID":462,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM01",
+    "Invoerwaarde_1":1110115.0,
+    "Uitvoerwaarde_2":3295800.0,
+    "Handelsbalans_3":2185685.0
+  },
+  {
+    "ID":463,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM02",
+    "Invoerwaarde_1":1245177.0,
+    "Uitvoerwaarde_2":2967309.0,
+    "Handelsbalans_3":1722132.0
+  },
+  {
+    "ID":464,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM03",
+    "Invoerwaarde_1":1287427.0,
+    "Uitvoerwaarde_2":2522820.0,
+    "Handelsbalans_3":1235393.0
+  },
+  {
+    "ID":465,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM04",
+    "Invoerwaarde_1":1165690.0,
+    "Uitvoerwaarde_2":2129477.0,
+    "Handelsbalans_3":963787.0
+  },
+  {
+    "ID":466,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM05",
+    "Invoerwaarde_1":1312752.0,
+    "Uitvoerwaarde_2":2026279.0,
+    "Handelsbalans_3":713527.0
+  },
+  {
+    "ID":467,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM06",
+    "Invoerwaarde_1":1475347.0,
+    "Uitvoerwaarde_2":1949583.0,
+    "Handelsbalans_3":474236.0
+  },
+  {
+    "ID":468,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM07",
+    "Invoerwaarde_1":1554008.0,
+    "Uitvoerwaarde_2":1992109.0,
+    "Handelsbalans_3":438101.0
+  },
+  {
+    "ID":469,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM08",
+    "Invoerwaarde_1":1452565.0,
+    "Uitvoerwaarde_2":2070353.0,
+    "Handelsbalans_3":617788.0
+  },
+  {
+    "ID":470,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM09",
+    "Invoerwaarde_1":1476306.0,
+    "Uitvoerwaarde_2":2164365.0,
+    "Handelsbalans_3":688059.0
+  },
+  {
+    "ID":471,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM10",
+    "Invoerwaarde_1":1505867.0,
+    "Uitvoerwaarde_2":2536466.0,
+    "Handelsbalans_3":1030599.0
+  },
+  {
+    "ID":472,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM11",
+    "Invoerwaarde_1":1392078.0,
+    "Uitvoerwaarde_2":2782588.0,
+    "Handelsbalans_3":1390510.0
+  },
+  {
+    "ID":473,
+    "LandenGroepen":" 2",
+    "Perioden":"2009MM12",
+    "Invoerwaarde_1":1708329.0,
+    "Uitvoerwaarde_2":2958935.0,
+    "Handelsbalans_3":1250606.0
+  },
+  {
+    "ID":474,
+    "LandenGroepen":" 2",
+    "Perioden":"2009JJ00",
+    "Invoerwaarde_1":16685661.0,
+    "Uitvoerwaarde_2":29396084.0,
+    "Handelsbalans_3":12710423.0
+  },
+  {
+    "ID":475,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM01",
+    "Invoerwaarde_1":1668039.0,
+    "Uitvoerwaarde_2":3228125.0,
+    "Handelsbalans_3":1560086.0
+  },
+  {
+    "ID":476,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM02",
+    "Invoerwaarde_1":1874881.0,
+    "Uitvoerwaarde_2":3138656.0,
+    "Handelsbalans_3":1263775.0
+  },
+  {
+    "ID":477,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM03",
+    "Invoerwaarde_1":2145075.0,
+    "Uitvoerwaarde_2":3623314.0,
+    "Handelsbalans_3":1478239.0
+  },
+  {
+    "ID":478,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM04",
+    "Invoerwaarde_1":1957804.0,
+    "Uitvoerwaarde_2":3064293.0,
+    "Handelsbalans_3":1106489.0
+  },
+  {
+    "ID":479,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM05",
+    "Invoerwaarde_1":2105763.0,
+    "Uitvoerwaarde_2":3077243.0,
+    "Handelsbalans_3":971480.0
+  },
+  {
+    "ID":480,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM06",
+    "Invoerwaarde_1":2053461.0,
+    "Uitvoerwaarde_2":2817969.0,
+    "Handelsbalans_3":764508.0
+  },
+  {
+    "ID":481,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM07",
+    "Invoerwaarde_1":2115591.0,
+    "Uitvoerwaarde_2":2875189.0,
+    "Handelsbalans_3":759598.0
+  },
+  {
+    "ID":482,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM08",
+    "Invoerwaarde_1":1884213.0,
+    "Uitvoerwaarde_2":2793462.0,
+    "Handelsbalans_3":909249.0
+  },
+  {
+    "ID":483,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM09",
+    "Invoerwaarde_1":1838120.0,
+    "Uitvoerwaarde_2":2884305.0,
+    "Handelsbalans_3":1046185.0
+  },
+  {
+    "ID":484,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM10",
+    "Invoerwaarde_1":1783609.0,
+    "Uitvoerwaarde_2":3289505.0,
+    "Handelsbalans_3":1505896.0
+  },
+  {
+    "ID":485,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM11",
+    "Invoerwaarde_1":2130684.0,
+    "Uitvoerwaarde_2":4027254.0,
+    "Handelsbalans_3":1896570.0
+  },
+  {
+    "ID":486,
+    "LandenGroepen":" 2",
+    "Perioden":"2010MM12",
+    "Invoerwaarde_1":2158554.0,
+    "Uitvoerwaarde_2":4564293.0,
+    "Handelsbalans_3":2405739.0
+  },
+  {
+    "ID":487,
+    "LandenGroepen":" 2",
+    "Perioden":"2010JJ00",
+    "Invoerwaarde_1":23715794.0,
+    "Uitvoerwaarde_2":39383608.0,
+    "Handelsbalans_3":15667814.0
+  },
+  {
+    "ID":488,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM01",
+    "Invoerwaarde_1":2256865.0,
+    "Uitvoerwaarde_2":4531736.0,
+    "Handelsbalans_3":2274871.0
+  },
+  {
+    "ID":489,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM02",
+    "Invoerwaarde_1":2777541.0,
+    "Uitvoerwaarde_2":4551377.0,
+    "Handelsbalans_3":1773836.0
+  },
+  {
+    "ID":490,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM03",
+    "Invoerwaarde_1":2750452.0,
+    "Uitvoerwaarde_2":5008744.0,
+    "Handelsbalans_3":2258292.0
+  },
+  {
+    "ID":491,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM04",
+    "Invoerwaarde_1":2243311.0,
+    "Uitvoerwaarde_2":4319974.0,
+    "Handelsbalans_3":2076663.0
+  },
+  {
+    "ID":492,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM05",
+    "Invoerwaarde_1":2745844.0,
+    "Uitvoerwaarde_2":4045133.0,
+    "Handelsbalans_3":1299289.0
+  },
+  {
+    "ID":493,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM06",
+    "Invoerwaarde_1":2687289.0,
+    "Uitvoerwaarde_2":3910731.0,
+    "Handelsbalans_3":1223442.0
+  },
+  {
+    "ID":494,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM07",
+    "Invoerwaarde_1":2602030.0,
+    "Uitvoerwaarde_2":3949916.0,
+    "Handelsbalans_3":1347886.0
+  },
+  {
+    "ID":495,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM08",
+    "Invoerwaarde_1":2862158.0,
+    "Uitvoerwaarde_2":4073348.0,
+    "Handelsbalans_3":1211190.0
+  },
+  {
+    "ID":496,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM09",
+    "Invoerwaarde_1":2559781.0,
+    "Uitvoerwaarde_2":4093959.0,
+    "Handelsbalans_3":1534178.0
+  },
+  {
+    "ID":497,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM10",
+    "Invoerwaarde_1":2640000.0,
+    "Uitvoerwaarde_2":4630353.0,
+    "Handelsbalans_3":1990353.0
+  },
+  {
+    "ID":498,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM11",
+    "Invoerwaarde_1":2787941.0,
+    "Uitvoerwaarde_2":5035641.0,
+    "Handelsbalans_3":2247700.0
+  },
+  {
+    "ID":499,
+    "LandenGroepen":" 2",
+    "Perioden":"2011MM12",
+    "Invoerwaarde_1":2575937.0,
+    "Uitvoerwaarde_2":5330392.0,
+    "Handelsbalans_3":2754455.0
+  },
+  {
+    "ID":500,
+    "LandenGroepen":" 2",
+    "Perioden":"2011JJ00",
+    "Invoerwaarde_1":31489149.0,
+    "Uitvoerwaarde_2":53481304.0,
+    "Handelsbalans_3":21992155.0
+  },
+  {
+    "ID":501,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM01",
+    "Invoerwaarde_1":2584156.0,
+    "Uitvoerwaarde_2":5245748.0,
+    "Handelsbalans_3":2661592.0
+  },
+  {
+    "ID":502,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM02",
+    "Invoerwaarde_1":2942447.0,
+    "Uitvoerwaarde_2":5574707.0,
+    "Handelsbalans_3":2632260.0
+  },
+  {
+    "ID":503,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM03",
+    "Invoerwaarde_1":3394917.0,
+    "Uitvoerwaarde_2":5467585.0,
+    "Handelsbalans_3":2072668.0
+  },
+  {
+    "ID":504,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM04",
+    "Invoerwaarde_1":3118855.0,
+    "Uitvoerwaarde_2":4877961.0,
+    "Handelsbalans_3":1759106.0
+  },
+  {
+    "ID":505,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM05",
+    "Invoerwaarde_1":3162388.0,
+    "Uitvoerwaarde_2":4688608.0,
+    "Handelsbalans_3":1526220.0
+  },
+  {
+    "ID":506,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM06",
+    "Invoerwaarde_1":3058817.0,
+    "Uitvoerwaarde_2":4177746.0,
+    "Handelsbalans_3":1118929.0
+  },
+  {
+    "ID":507,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM07",
+    "Invoerwaarde_1":3180779.0,
+    "Uitvoerwaarde_2":4895667.0,
+    "Handelsbalans_3":1714888.0
+  },
+  {
+    "ID":508,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM08",
+    "Invoerwaarde_1":3349102.0,
+    "Uitvoerwaarde_2":4655269.0,
+    "Handelsbalans_3":1306167.0
+  },
+  {
+    "ID":509,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM09",
+    "Invoerwaarde_1":3496358.0,
+    "Uitvoerwaarde_2":4963383.0,
+    "Handelsbalans_3":1467025.0
+  },
+  {
+    "ID":510,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM10",
+    "Invoerwaarde_1":3462220.0,
+    "Uitvoerwaarde_2":5952186.0,
+    "Handelsbalans_3":2489966.0
+  },
+  {
+    "ID":511,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM11",
+    "Invoerwaarde_1":3607530.0,
+    "Uitvoerwaarde_2":6101473.0,
+    "Handelsbalans_3":2493943.0
+  },
+  {
+    "ID":512,
+    "LandenGroepen":" 2",
+    "Perioden":"2012MM12",
+    "Invoerwaarde_1":3499125.0,
+    "Uitvoerwaarde_2":5680531.0,
+    "Handelsbalans_3":2181406.0
+  },
+  {
+    "ID":513,
+    "LandenGroepen":" 2",
+    "Perioden":"2012JJ00",
+    "Invoerwaarde_1":38856694.0,
+    "Uitvoerwaarde_2":62280864.0,
+    "Handelsbalans_3":23424170.0
+  },
+  {
+    "ID":514,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM01",
+    "Invoerwaarde_1":3478404.0,
+    "Uitvoerwaarde_2":5671605.0,
+    "Handelsbalans_3":2193201.0
+  },
+  {
+    "ID":515,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM02",
+    "Invoerwaarde_1":3484380.0,
+    "Uitvoerwaarde_2":5381784.0,
+    "Handelsbalans_3":1897404.0
+  },
+  {
+    "ID":516,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM03",
+    "Invoerwaarde_1":3217030.0,
+    "Uitvoerwaarde_2":5660775.0,
+    "Handelsbalans_3":2443745.0
+  },
+  {
+    "ID":517,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM04",
+    "Invoerwaarde_1":2972393.0,
+    "Uitvoerwaarde_2":4950539.0,
+    "Handelsbalans_3":1978146.0
+  },
+  {
+    "ID":518,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM05",
+    "Invoerwaarde_1":3235501.0,
+    "Uitvoerwaarde_2":4896206.0,
+    "Handelsbalans_3":1660705.0
+  },
+  {
+    "ID":519,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM06",
+    "Invoerwaarde_1":3146691.0,
+    "Uitvoerwaarde_2":4793121.0,
+    "Handelsbalans_3":1646430.0
+  },
+  {
+    "ID":520,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM07",
+    "Invoerwaarde_1":3047102.0,
+    "Uitvoerwaarde_2":4711964.0,
+    "Handelsbalans_3":1664862.0
+  },
+  {
+    "ID":521,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM08",
+    "Invoerwaarde_1":2706549.0,
+    "Uitvoerwaarde_2":4585658.0,
+    "Handelsbalans_3":1879109.0
+  },
+  {
+    "ID":522,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM09",
+    "Invoerwaarde_1":2534776.0,
+    "Uitvoerwaarde_2":4755793.0,
+    "Handelsbalans_3":2221017.0
+  },
+  {
+    "ID":523,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM10",
+    "Invoerwaarde_1":2331500.0,
+    "Uitvoerwaarde_2":5687924.0,
+    "Handelsbalans_3":3356424.0
+  },
+  {
+    "ID":524,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM11",
+    "Invoerwaarde_1":2496391.0,
+    "Uitvoerwaarde_2":5572465.0,
+    "Handelsbalans_3":3076074.0
+  },
+  {
+    "ID":525,
+    "LandenGroepen":" 2",
+    "Perioden":"2013MM12",
+    "Invoerwaarde_1":2997936.0,
+    "Uitvoerwaarde_2":5624090.0,
+    "Handelsbalans_3":2626154.0
+  },
+  {
+    "ID":526,
+    "LandenGroepen":" 2",
+    "Perioden":"2013JJ00",
+    "Invoerwaarde_1":35648653.0,
+    "Uitvoerwaarde_2":62291924.0,
+    "Handelsbalans_3":26643271.0
+  },
+  {
+    "ID":527,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM01",
+    "Invoerwaarde_1":2897989.0,
+    "Uitvoerwaarde_2":5580836.0,
+    "Handelsbalans_3":2682847.0
+  },
+  {
+    "ID":528,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM02",
+    "Invoerwaarde_1":2733045.0,
+    "Uitvoerwaarde_2":4719723.0,
+    "Handelsbalans_3":1986678.0
+  },
+  {
+    "ID":529,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM03",
+    "Invoerwaarde_1":2870656.0,
+    "Uitvoerwaarde_2":4547684.0,
+    "Handelsbalans_3":1677028.0
+  },
+  {
+    "ID":530,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM04",
+    "Invoerwaarde_1":3036448.0,
+    "Uitvoerwaarde_2":4787563.0,
+    "Handelsbalans_3":1751115.0
+  },
+  {
+    "ID":531,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM05",
+    "Invoerwaarde_1":3042646.0,
+    "Uitvoerwaarde_2":4160907.0,
+    "Handelsbalans_3":1118261.0
+  },
+  {
+    "ID":532,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM06",
+    "Invoerwaarde_1":2510919.0,
+    "Uitvoerwaarde_2":4275605.0,
+    "Handelsbalans_3":1764686.0
+  },
+  {
+    "ID":533,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM07",
+    "Invoerwaarde_1":2701013.0,
+    "Uitvoerwaarde_2":4321537.0,
+    "Handelsbalans_3":1620524.0
+  },
+  {
+    "ID":534,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM08",
+    "Invoerwaarde_1":2221954.0,
+    "Uitvoerwaarde_2":3912877.0,
+    "Handelsbalans_3":1690923.0
+  },
+  {
+    "ID":535,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM09",
+    "Invoerwaarde_1":2524633.0,
+    "Uitvoerwaarde_2":4298967.0,
+    "Handelsbalans_3":1774334.0
+  },
+  {
+    "ID":536,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM10",
+    "Invoerwaarde_1":2442258.0,
+    "Uitvoerwaarde_2":4315462.0,
+    "Handelsbalans_3":1873204.0
+  },
+  {
+    "ID":537,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM11",
+    "Invoerwaarde_1":2163406.0,
+    "Uitvoerwaarde_2":4296537.0,
+    "Handelsbalans_3":2133131.0
+  },
+  {
+    "ID":538,
+    "LandenGroepen":" 2",
+    "Perioden":"2014MM12",
+    "Invoerwaarde_1":1937536.0,
+    "Uitvoerwaarde_2":4342831.0,
+    "Handelsbalans_3":2405295.0
+  },
+  {
+    "ID":539,
+    "LandenGroepen":" 2",
+    "Perioden":"2014JJ00",
+    "Invoerwaarde_1":31082503.0,
+    "Uitvoerwaarde_2":53560529.0,
+    "Handelsbalans_3":22478026.0
+  },
+  {
+    "ID":540,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM01",
+    "Invoerwaarde_1":1909909.0,
+    "Uitvoerwaarde_2":3822556.0,
+    "Handelsbalans_3":1912647.0
+  },
+  {
+    "ID":541,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM02",
+    "Invoerwaarde_1":1654930.0,
+    "Uitvoerwaarde_2":3963780.0,
+    "Handelsbalans_3":2308850.0
+  },
+  {
+    "ID":542,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM03",
+    "Invoerwaarde_1":2254318.0,
+    "Uitvoerwaarde_2":4139496.0,
+    "Handelsbalans_3":1885178.0
+  },
+  {
+    "ID":543,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM04",
+    "Invoerwaarde_1":2116527.0,
+    "Uitvoerwaarde_2":3505298.0,
+    "Handelsbalans_3":1388771.0
+  },
+  {
+    "ID":544,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM05",
+    "Invoerwaarde_1":2424495.0,
+    "Uitvoerwaarde_2":3217240.0,
+    "Handelsbalans_3":792745.0
+  },
+  {
+    "ID":545,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM06",
+    "Invoerwaarde_1":2304325.0,
+    "Uitvoerwaarde_2":3535115.0,
+    "Handelsbalans_3":1230790.0
+  },
+  {
+    "ID":546,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM07",
+    "Invoerwaarde_1":2249440.0,
+    "Uitvoerwaarde_2":3280754.0,
+    "Handelsbalans_3":1031314.0
+  },
+  {
+    "ID":547,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM08",
+    "Invoerwaarde_1":2008858.0,
+    "Uitvoerwaarde_2":3017939.0,
+    "Handelsbalans_3":1009081.0
+  },
+  {
+    "ID":548,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM09",
+    "Invoerwaarde_1":1919184.0,
+    "Uitvoerwaarde_2":3041549.0,
+    "Handelsbalans_3":1122365.0
+  },
+  {
+    "ID":549,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM10",
+    "Invoerwaarde_1":1905281.0,
+    "Uitvoerwaarde_2":2965294.0,
+    "Handelsbalans_3":1060013.0
+  },
+  {
+    "ID":550,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM11",
+    "Invoerwaarde_1":1608368.0,
+    "Uitvoerwaarde_2":2925150.0,
+    "Handelsbalans_3":1316782.0
+  },
+  {
+    "ID":551,
+    "LandenGroepen":" 2",
+    "Perioden":"2015MM12",
+    "Invoerwaarde_1":1797995.0,
+    "Uitvoerwaarde_2":3123891.0,
+    "Handelsbalans_3":1325896.0
+  },
+  {
+    "ID":552,
+    "LandenGroepen":" 2",
+    "Perioden":"2015JJ00",
+    "Invoerwaarde_1":24153630.0,
+    "Uitvoerwaarde_2":40538062.0,
+    "Handelsbalans_3":16384432.0
+  },
+  {
+    "ID":553,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM01",
+    "Invoerwaarde_1":1619988.0,
+    "Uitvoerwaarde_2":2719395.0,
+    "Handelsbalans_3":1099407.0
+  },
+  {
+    "ID":554,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM02",
+    "Invoerwaarde_1":1545968.0,
+    "Uitvoerwaarde_2":2650244.0,
+    "Handelsbalans_3":1104276.0
+  },
+  {
+    "ID":555,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM03",
+    "Invoerwaarde_1":1705176.0,
+    "Uitvoerwaarde_2":2888181.0,
+    "Handelsbalans_3":1183005.0
+  },
+  {
+    "ID":556,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM04",
+    "Invoerwaarde_1":1656208.0,
+    "Uitvoerwaarde_2":2629954.0,
+    "Handelsbalans_3":973746.0
+  },
+  {
+    "ID":557,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM05",
+    "Invoerwaarde_1":1787995.0,
+    "Uitvoerwaarde_2":2673332.0,
+    "Handelsbalans_3":885337.0
+  },
+  {
+    "ID":558,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM06",
+    "Invoerwaarde_1":1799031.0,
+    "Uitvoerwaarde_2":2725923.0,
+    "Handelsbalans_3":926892.0
+  },
+  {
+    "ID":559,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM07",
+    "Invoerwaarde_1":1876531.0,
+    "Uitvoerwaarde_2":2643839.0,
+    "Handelsbalans_3":767308.0
+  },
+  {
+    "ID":560,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM08",
+    "Invoerwaarde_1":1942502.0,
+    "Uitvoerwaarde_2":2546588.0,
+    "Handelsbalans_3":604086.0
+  },
+  {
+    "ID":561,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM09",
+    "Invoerwaarde_1":1723223.0,
+    "Uitvoerwaarde_2":2594932.0,
+    "Handelsbalans_3":871709.0
+  },
+  {
+    "ID":562,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM10",
+    "Invoerwaarde_1":1889022.0,
+    "Uitvoerwaarde_2":3149886.0,
+    "Handelsbalans_3":1260864.0
+  },
+  {
+    "ID":563,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM11",
+    "Invoerwaarde_1":1909468.0,
+    "Uitvoerwaarde_2":3483505.0,
+    "Handelsbalans_3":1574037.0
+  },
+  {
+    "ID":564,
+    "LandenGroepen":" 2",
+    "Perioden":"2016MM12",
+    "Invoerwaarde_1":2036065.0,
+    "Uitvoerwaarde_2":3691519.0,
+    "Handelsbalans_3":1655454.0
+  },
+  {
+    "ID":565,
+    "LandenGroepen":" 2",
+    "Perioden":"2016JJ00",
+    "Invoerwaarde_1":21491177.0,
+    "Uitvoerwaarde_2":34397298.0,
+    "Handelsbalans_3":12906121.0
+  },
+  {
+    "ID":566,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM01",
+    "Invoerwaarde_1":2206250.0,
+    "Uitvoerwaarde_2":3765717.0,
+    "Handelsbalans_3":1559467.0
+  },
+  {
+    "ID":567,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM02",
+    "Invoerwaarde_1":2012738.0,
+    "Uitvoerwaarde_2":3792018.0,
+    "Handelsbalans_3":1779280.0
+  },
+  {
+    "ID":568,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM03",
+    "Invoerwaarde_1":2346389.0,
+    "Uitvoerwaarde_2":3633120.0,
+    "Handelsbalans_3":1286731.0
+  },
+  {
+    "ID":569,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM04",
+    "Invoerwaarde_1":2044893.0,
+    "Uitvoerwaarde_2":2802095.0,
+    "Handelsbalans_3":757202.0
+  },
+  {
+    "ID":570,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM05",
+    "Invoerwaarde_1":2120945.0,
+    "Uitvoerwaarde_2":3094011.0,
+    "Handelsbalans_3":973066.0
+  },
+  {
+    "ID":571,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM06",
+    "Invoerwaarde_1":1978322.0,
+    "Uitvoerwaarde_2":2861416.0,
+    "Handelsbalans_3":883094.0
+  },
+  {
+    "ID":572,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM07",
+    "Invoerwaarde_1":2231749.0,
+    "Uitvoerwaarde_2":2867987.0,
+    "Handelsbalans_3":636238.0
+  },
+  {
+    "ID":573,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM08",
+    "Invoerwaarde_1":2147935.0,
+    "Uitvoerwaarde_2":2691587.0,
+    "Handelsbalans_3":543652.0
+  },
+  {
+    "ID":574,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM09",
+    "Invoerwaarde_1":2003079.0,
+    "Uitvoerwaarde_2":2805893.0,
+    "Handelsbalans_3":802814.0
+  },
+  {
+    "ID":575,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM10",
+    "Invoerwaarde_1":1876764.0,
+    "Uitvoerwaarde_2":3063145.0,
+    "Handelsbalans_3":1186381.0
+  },
+  {
+    "ID":576,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM11",
+    "Invoerwaarde_1":2807461.0,
+    "Uitvoerwaarde_2":3512816.0,
+    "Handelsbalans_3":705355.0
+  },
+  {
+    "ID":577,
+    "LandenGroepen":" 2",
+    "Perioden":"2017MM12",
+    "Invoerwaarde_1":2735162.0,
+    "Uitvoerwaarde_2":3607758.0,
+    "Handelsbalans_3":872596.0
+  },
+  {
+    "ID":578,
+    "LandenGroepen":" 2",
+    "Perioden":"2017JJ00",
+    "Invoerwaarde_1":26511687.0,
+    "Uitvoerwaarde_2":38497563.0,
+    "Handelsbalans_3":11985876.0
+  },
+  {
+    "ID":579,
+    "LandenGroepen":" 2",
+    "Perioden":"2018MM01",
+    "Invoerwaarde_1":2641188.0,
+    "Uitvoerwaarde_2":3665770.0,
+    "Handelsbalans_3":1024582.0
+  },
+  {
+    "ID":580,
+    "LandenGroepen":" 2",
+    "Perioden":"2018MM02",
+    "Invoerwaarde_1":2701604.0,
+    "Uitvoerwaarde_2":3495398.0,
+    "Handelsbalans_3":793794.0
+  },
+  {
+    "ID":581,
+    "LandenGroepen":" 2",
+    "Perioden":"2018MM03",
+    "Invoerwaarde_1":2844119.0,
+    "Uitvoerwaarde_2":3658001.0,
+    "Handelsbalans_3":813882.0
+  },
+  {
+    "ID":582,
+    "LandenGroepen":" 2",
+    "Perioden":"2018MM04",
+    "Invoerwaarde_1":2255509.0,
+    "Uitvoerwaarde_2":3432841.0,
+    "Handelsbalans_3":1177332.0
+  },
+  {
+    "ID":583,
+    "LandenGroepen":" 2",
+    "Perioden":"2018MM05",
+    "Invoerwaarde_1":2379642.0,
+    "Uitvoerwaarde_2":3890315.0,
+    "Handelsbalans_3":1510673.0
+  },
+  {
+    "ID":584,
+    "LandenGroepen":" 2",
+    "Perioden":"2018MM06",
+    "Invoerwaarde_1":2680427.0,
+    "Uitvoerwaarde_2":3447396.0,
+    "Handelsbalans_3":766969.0
+  },
+  {
+    "ID":585,
+    "LandenGroepen":" 2",
+    "Perioden":"2018JJ00",
+    "Invoerwaarde_1":15502489.0,
+    "Uitvoerwaarde_2":21589721.0,
+    "Handelsbalans_3":6087232.0
+  },
+  {
+    "ID":586,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM01",
+    "Invoerwaarde_1":692148.0,
+    "Uitvoerwaarde_2":133705.0,
+    "Handelsbalans_3":-558443.0
+  },
+  {
+    "ID":587,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM02",
+    "Invoerwaarde_1":621214.0,
+    "Uitvoerwaarde_2":110130.0,
+    "Handelsbalans_3":-511084.0
+  },
+  {
+    "ID":588,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM03",
+    "Invoerwaarde_1":621396.0,
+    "Uitvoerwaarde_2":122693.0,
+    "Handelsbalans_3":-498703.0
+  },
+  {
+    "ID":589,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM04",
+    "Invoerwaarde_1":730678.0,
+    "Uitvoerwaarde_2":139814.0,
+    "Handelsbalans_3":-590864.0
+  },
+  {
+    "ID":590,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM05",
+    "Invoerwaarde_1":689337.0,
+    "Uitvoerwaarde_2":146918.0,
+    "Handelsbalans_3":-542419.0
+  },
+  {
+    "ID":591,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM06",
+    "Invoerwaarde_1":605770.0,
+    "Uitvoerwaarde_2":120709.0,
+    "Handelsbalans_3":-485061.0
+  },
+  {
+    "ID":592,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM07",
+    "Invoerwaarde_1":747536.0,
+    "Uitvoerwaarde_2":134799.0,
+    "Handelsbalans_3":-612737.0
+  },
+  {
+    "ID":593,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM08",
+    "Invoerwaarde_1":769006.0,
+    "Uitvoerwaarde_2":139693.0,
+    "Handelsbalans_3":-629313.0
+  },
+  {
+    "ID":594,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM09",
+    "Invoerwaarde_1":704293.0,
+    "Uitvoerwaarde_2":119288.0,
+    "Handelsbalans_3":-585005.0
+  },
+  {
+    "ID":595,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM10",
+    "Invoerwaarde_1":909257.0,
+    "Uitvoerwaarde_2":117751.0,
+    "Handelsbalans_3":-791506.0
+  },
+  {
+    "ID":596,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM11",
+    "Invoerwaarde_1":966716.0,
+    "Uitvoerwaarde_2":142000.0,
+    "Handelsbalans_3":-824716.0
+  },
+  {
+    "ID":597,
+    "LandenGroepen":" 3",
+    "Perioden":"1996MM12",
+    "Invoerwaarde_1":944038.0,
+    "Uitvoerwaarde_2":136288.0,
+    "Handelsbalans_3":-807750.0
+  },
+  {
+    "ID":598,
+    "LandenGroepen":" 3",
+    "Perioden":"1996JJ00",
+    "Invoerwaarde_1":9001389.0,
+    "Uitvoerwaarde_2":1563788.0,
+    "Handelsbalans_3":-7437601.0
+  },
+  {
+    "ID":599,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM01",
+    "Invoerwaarde_1":924653.0,
+    "Uitvoerwaarde_2":142541.0,
+    "Handelsbalans_3":-782112.0
+  },
+  {
+    "ID":600,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM02",
+    "Invoerwaarde_1":802668.0,
+    "Uitvoerwaarde_2":100931.0,
+    "Handelsbalans_3":-701737.0
+  },
+  {
+    "ID":601,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM03",
+    "Invoerwaarde_1":740783.0,
+    "Uitvoerwaarde_2":137317.0,
+    "Handelsbalans_3":-603466.0
+  },
+  {
+    "ID":602,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM04",
+    "Invoerwaarde_1":796785.0,
+    "Uitvoerwaarde_2":151288.0,
+    "Handelsbalans_3":-645497.0
+  },
+  {
+    "ID":603,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM05",
+    "Invoerwaarde_1":727520.0,
+    "Uitvoerwaarde_2":161479.0,
+    "Handelsbalans_3":-566041.0
+  },
+  {
+    "ID":604,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM06",
+    "Invoerwaarde_1":745696.0,
+    "Uitvoerwaarde_2":126734.0,
+    "Handelsbalans_3":-618962.0
+  },
+  {
+    "ID":605,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM07",
+    "Invoerwaarde_1":871470.0,
+    "Uitvoerwaarde_2":142522.0,
+    "Handelsbalans_3":-728948.0
+  },
+  {
+    "ID":606,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM08",
+    "Invoerwaarde_1":949914.0,
+    "Uitvoerwaarde_2":141091.0,
+    "Handelsbalans_3":-808823.0
+  },
+  {
+    "ID":607,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM09",
+    "Invoerwaarde_1":710063.0,
+    "Uitvoerwaarde_2":130079.0,
+    "Handelsbalans_3":-579984.0
+  },
+  {
+    "ID":608,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM10",
+    "Invoerwaarde_1":829864.0,
+    "Uitvoerwaarde_2":119346.0,
+    "Handelsbalans_3":-710518.0
+  },
+  {
+    "ID":609,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM11",
+    "Invoerwaarde_1":728422.0,
+    "Uitvoerwaarde_2":115540.0,
+    "Handelsbalans_3":-612882.0
+  },
+  {
+    "ID":610,
+    "LandenGroepen":" 3",
+    "Perioden":"1997MM12",
+    "Invoerwaarde_1":651569.0,
+    "Uitvoerwaarde_2":115473.0,
+    "Handelsbalans_3":-536096.0
+  },
+  {
+    "ID":611,
+    "LandenGroepen":" 3",
+    "Perioden":"1997JJ00",
+    "Invoerwaarde_1":9479407.0,
+    "Uitvoerwaarde_2":1584341.0,
+    "Handelsbalans_3":-7895066.0
+  },
+  {
+    "ID":612,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM01",
+    "Invoerwaarde_1":759086.0,
+    "Uitvoerwaarde_2":142048.0,
+    "Handelsbalans_3":-617038.0
+  },
+  {
+    "ID":613,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM02",
+    "Invoerwaarde_1":660126.0,
+    "Uitvoerwaarde_2":97884.0,
+    "Handelsbalans_3":-562242.0
+  },
+  {
+    "ID":614,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM03",
+    "Invoerwaarde_1":629258.0,
+    "Uitvoerwaarde_2":133626.0,
+    "Handelsbalans_3":-495632.0
+  },
+  {
+    "ID":615,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM04",
+    "Invoerwaarde_1":598485.0,
+    "Uitvoerwaarde_2":117927.0,
+    "Handelsbalans_3":-480558.0
+  },
+  {
+    "ID":616,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM05",
+    "Invoerwaarde_1":583661.0,
+    "Uitvoerwaarde_2":128489.0,
+    "Handelsbalans_3":-455172.0
+  },
+  {
+    "ID":617,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM06",
+    "Invoerwaarde_1":550025.0,
+    "Uitvoerwaarde_2":151164.0,
+    "Handelsbalans_3":-398861.0
+  },
+  {
+    "ID":618,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM07",
+    "Invoerwaarde_1":548046.0,
+    "Uitvoerwaarde_2":132401.0,
+    "Handelsbalans_3":-415645.0
+  },
+  {
+    "ID":619,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM08",
+    "Invoerwaarde_1":583597.0,
+    "Uitvoerwaarde_2":121238.0,
+    "Handelsbalans_3":-462359.0
+  },
+  {
+    "ID":620,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM09",
+    "Invoerwaarde_1":611939.0,
+    "Uitvoerwaarde_2":107256.0,
+    "Handelsbalans_3":-504683.0
+  },
+  {
+    "ID":621,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM10",
+    "Invoerwaarde_1":524533.0,
+    "Uitvoerwaarde_2":122075.0,
+    "Handelsbalans_3":-402458.0
+  },
+  {
+    "ID":622,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM11",
+    "Invoerwaarde_1":437750.0,
+    "Uitvoerwaarde_2":97162.0,
+    "Handelsbalans_3":-340588.0
+  },
+  {
+    "ID":623,
+    "LandenGroepen":" 3",
+    "Perioden":"1998MM12",
+    "Invoerwaarde_1":451107.0,
+    "Uitvoerwaarde_2":112555.0,
+    "Handelsbalans_3":-338552.0
+  },
+  {
+    "ID":624,
+    "LandenGroepen":" 3",
+    "Perioden":"1998JJ00",
+    "Invoerwaarde_1":6937613.0,
+    "Uitvoerwaarde_2":1463825.0,
+    "Handelsbalans_3":-5473788.0
+  },
+  {
+    "ID":625,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM01",
+    "Invoerwaarde_1":527731.0,
+    "Uitvoerwaarde_2":99978.0,
+    "Handelsbalans_3":-427753.0
+  },
+  {
+    "ID":626,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM02",
+    "Invoerwaarde_1":410110.0,
+    "Uitvoerwaarde_2":91386.0,
+    "Handelsbalans_3":-318724.0
+  },
+  {
+    "ID":627,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM03",
+    "Invoerwaarde_1":586479.0,
+    "Uitvoerwaarde_2":100848.0,
+    "Handelsbalans_3":-485631.0
+  },
+  {
+    "ID":628,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM04",
+    "Invoerwaarde_1":616281.0,
+    "Uitvoerwaarde_2":105419.0,
+    "Handelsbalans_3":-510862.0
+  },
+  {
+    "ID":629,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM05",
+    "Invoerwaarde_1":639088.0,
+    "Uitvoerwaarde_2":101267.0,
+    "Handelsbalans_3":-537821.0
+  },
+  {
+    "ID":630,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM06",
+    "Invoerwaarde_1":665043.0,
+    "Uitvoerwaarde_2":112540.0,
+    "Handelsbalans_3":-552503.0
+  },
+  {
+    "ID":631,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM07",
+    "Invoerwaarde_1":810679.0,
+    "Uitvoerwaarde_2":105232.0,
+    "Handelsbalans_3":-705447.0
+  },
+  {
+    "ID":632,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM08",
+    "Invoerwaarde_1":698639.0,
+    "Uitvoerwaarde_2":90048.0,
+    "Handelsbalans_3":-608591.0
+  },
+  {
+    "ID":633,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM09",
+    "Invoerwaarde_1":803683.0,
+    "Uitvoerwaarde_2":97187.0,
+    "Handelsbalans_3":-706496.0
+  },
+  {
+    "ID":634,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM10",
+    "Invoerwaarde_1":805483.0,
+    "Uitvoerwaarde_2":133373.0,
+    "Handelsbalans_3":-672110.0
+  },
+  {
+    "ID":635,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM11",
+    "Invoerwaarde_1":903198.0,
+    "Uitvoerwaarde_2":119872.0,
+    "Handelsbalans_3":-783326.0
+  },
+  {
+    "ID":636,
+    "LandenGroepen":" 3",
+    "Perioden":"1999MM12",
+    "Invoerwaarde_1":951925.0,
+    "Uitvoerwaarde_2":125482.0,
+    "Handelsbalans_3":-826443.0
+  },
+  {
+    "ID":637,
+    "LandenGroepen":" 3",
+    "Perioden":"1999JJ00",
+    "Invoerwaarde_1":8418339.0,
+    "Uitvoerwaarde_2":1282632.0,
+    "Handelsbalans_3":-7135707.0
+  },
+  {
+    "ID":638,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM01",
+    "Invoerwaarde_1":1034196.0,
+    "Uitvoerwaarde_2":166706.0,
+    "Handelsbalans_3":-867490.0
+  },
+  {
+    "ID":639,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM02",
+    "Invoerwaarde_1":1185146.0,
+    "Uitvoerwaarde_2":169109.0,
+    "Handelsbalans_3":-1016037.0
+  },
+  {
+    "ID":640,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM03",
+    "Invoerwaarde_1":951738.0,
+    "Uitvoerwaarde_2":178823.0,
+    "Handelsbalans_3":-772915.0
+  },
+  {
+    "ID":641,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM04",
+    "Invoerwaarde_1":932616.0,
+    "Uitvoerwaarde_2":179900.0,
+    "Handelsbalans_3":-752716.0
+  },
+  {
+    "ID":642,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM05",
+    "Invoerwaarde_1":1035356.0,
+    "Uitvoerwaarde_2":180708.0,
+    "Handelsbalans_3":-854648.0
+  },
+  {
+    "ID":643,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM06",
+    "Invoerwaarde_1":1374759.0,
+    "Uitvoerwaarde_2":207597.0,
+    "Handelsbalans_3":-1167162.0
+  },
+  {
+    "ID":644,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM07",
+    "Invoerwaarde_1":1314972.0,
+    "Uitvoerwaarde_2":198986.0,
+    "Handelsbalans_3":-1115986.0
+  },
+  {
+    "ID":645,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM08",
+    "Invoerwaarde_1":1159032.0,
+    "Uitvoerwaarde_2":179623.0,
+    "Handelsbalans_3":-979409.0
+  },
+  {
+    "ID":646,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM09",
+    "Invoerwaarde_1":1693132.0,
+    "Uitvoerwaarde_2":263672.0,
+    "Handelsbalans_3":-1429460.0
+  },
+  {
+    "ID":647,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM10",
+    "Invoerwaarde_1":1356629.0,
+    "Uitvoerwaarde_2":213384.0,
+    "Handelsbalans_3":-1143245.0
+  },
+  {
+    "ID":648,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM11",
+    "Invoerwaarde_1":1331517.0,
+    "Uitvoerwaarde_2":208254.0,
+    "Handelsbalans_3":-1123263.0
+  },
+  {
+    "ID":649,
+    "LandenGroepen":" 3",
+    "Perioden":"2000MM12",
+    "Invoerwaarde_1":1181190.0,
+    "Uitvoerwaarde_2":216548.0,
+    "Handelsbalans_3":-964642.0
+  },
+  {
+    "ID":650,
+    "LandenGroepen":" 3",
+    "Perioden":"2000JJ00",
+    "Invoerwaarde_1":14550283.0,
+    "Uitvoerwaarde_2":2363310.0,
+    "Handelsbalans_3":-12186973.0
+  },
+  {
+    "ID":651,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM01",
+    "Invoerwaarde_1":1251605.0,
+    "Uitvoerwaarde_2":188152.0,
+    "Handelsbalans_3":-1063453.0
+  },
+  {
+    "ID":652,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM02",
+    "Invoerwaarde_1":1072448.0,
+    "Uitvoerwaarde_2":242265.0,
+    "Handelsbalans_3":-830183.0
+  },
+  {
+    "ID":653,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM03",
+    "Invoerwaarde_1":1370084.0,
+    "Uitvoerwaarde_2":188870.0,
+    "Handelsbalans_3":-1181214.0
+  },
+  {
+    "ID":654,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM04",
+    "Invoerwaarde_1":1282660.0,
+    "Uitvoerwaarde_2":204775.0,
+    "Handelsbalans_3":-1077885.0
+  },
+  {
+    "ID":655,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM05",
+    "Invoerwaarde_1":1442881.0,
+    "Uitvoerwaarde_2":227498.0,
+    "Handelsbalans_3":-1215383.0
+  },
+  {
+    "ID":656,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM06",
+    "Invoerwaarde_1":1363174.0,
+    "Uitvoerwaarde_2":215747.0,
+    "Handelsbalans_3":-1147427.0
+  },
+  {
+    "ID":657,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM07",
+    "Invoerwaarde_1":1427123.0,
+    "Uitvoerwaarde_2":183610.0,
+    "Handelsbalans_3":-1243513.0
+  },
+  {
+    "ID":658,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM08",
+    "Invoerwaarde_1":1286180.0,
+    "Uitvoerwaarde_2":182845.0,
+    "Handelsbalans_3":-1103335.0
+  },
+  {
+    "ID":659,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM09",
+    "Invoerwaarde_1":1111003.0,
+    "Uitvoerwaarde_2":208720.0,
+    "Handelsbalans_3":-902283.0
+  },
+  {
+    "ID":660,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM10",
+    "Invoerwaarde_1":992337.0,
+    "Uitvoerwaarde_2":133522.0,
+    "Handelsbalans_3":-858815.0
+  },
+  {
+    "ID":661,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM11",
+    "Invoerwaarde_1":1066876.0,
+    "Uitvoerwaarde_2":132477.0,
+    "Handelsbalans_3":-934399.0
+  },
+  {
+    "ID":662,
+    "LandenGroepen":" 3",
+    "Perioden":"2001MM12",
+    "Invoerwaarde_1":977801.0,
+    "Uitvoerwaarde_2":131244.0,
+    "Handelsbalans_3":-846557.0
+  },
+  {
+    "ID":663,
+    "LandenGroepen":" 3",
+    "Perioden":"2001JJ00",
+    "Invoerwaarde_1":14644172.0,
+    "Uitvoerwaarde_2":2239725.0,
+    "Handelsbalans_3":-12404447.0
+  },
+  {
+    "ID":664,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM01",
+    "Invoerwaarde_1":918863.0,
+    "Uitvoerwaarde_2":155252.0,
+    "Handelsbalans_3":-763611.0
+  },
+  {
+    "ID":665,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM02",
+    "Invoerwaarde_1":978407.0,
+    "Uitvoerwaarde_2":192185.0,
+    "Handelsbalans_3":-786222.0
+  },
+  {
+    "ID":666,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM03",
+    "Invoerwaarde_1":1107550.0,
+    "Uitvoerwaarde_2":193585.0,
+    "Handelsbalans_3":-913965.0
+  },
+  {
+    "ID":667,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM04",
+    "Invoerwaarde_1":975389.0,
+    "Uitvoerwaarde_2":308165.0,
+    "Handelsbalans_3":-667224.0
+  },
+  {
+    "ID":668,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM05",
+    "Invoerwaarde_1":1208684.0,
+    "Uitvoerwaarde_2":274965.0,
+    "Handelsbalans_3":-933719.0
+  },
+  {
+    "ID":669,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM06",
+    "Invoerwaarde_1":1008175.0,
+    "Uitvoerwaarde_2":272315.0,
+    "Handelsbalans_3":-735860.0
+  },
+  {
+    "ID":670,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM07",
+    "Invoerwaarde_1":950691.0,
+    "Uitvoerwaarde_2":272039.0,
+    "Handelsbalans_3":-678652.0
+  },
+  {
+    "ID":671,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM08",
+    "Invoerwaarde_1":1053962.0,
+    "Uitvoerwaarde_2":238055.0,
+    "Handelsbalans_3":-815907.0
+  },
+  {
+    "ID":672,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM09",
+    "Invoerwaarde_1":968782.0,
+    "Uitvoerwaarde_2":240342.0,
+    "Handelsbalans_3":-728440.0
+  },
+  {
+    "ID":673,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM10",
+    "Invoerwaarde_1":1216619.0,
+    "Uitvoerwaarde_2":320981.0,
+    "Handelsbalans_3":-895638.0
+  },
+  {
+    "ID":674,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM11",
+    "Invoerwaarde_1":1050369.0,
+    "Uitvoerwaarde_2":232850.0,
+    "Handelsbalans_3":-817519.0
+  },
+  {
+    "ID":675,
+    "LandenGroepen":" 3",
+    "Perioden":"2002MM12",
+    "Invoerwaarde_1":1065745.0,
+    "Uitvoerwaarde_2":207297.0,
+    "Handelsbalans_3":-858448.0
+  },
+  {
+    "ID":676,
+    "LandenGroepen":" 3",
+    "Perioden":"2002JJ00",
+    "Invoerwaarde_1":12503236.0,
+    "Uitvoerwaarde_2":2908031.0,
+    "Handelsbalans_3":-9595205.0
+  },
+  {
+    "ID":677,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM01",
+    "Invoerwaarde_1":1162121.0,
+    "Uitvoerwaarde_2":317614.0,
+    "Handelsbalans_3":-844507.0
+  },
+  {
+    "ID":678,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM02",
+    "Invoerwaarde_1":1107474.0,
+    "Uitvoerwaarde_2":251153.0,
+    "Handelsbalans_3":-856321.0
+  },
+  {
+    "ID":679,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM03",
+    "Invoerwaarde_1":1113827.0,
+    "Uitvoerwaarde_2":261083.0,
+    "Handelsbalans_3":-852744.0
+  },
+  {
+    "ID":680,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM04",
+    "Invoerwaarde_1":1133759.0,
+    "Uitvoerwaarde_2":260452.0,
+    "Handelsbalans_3":-873307.0
+  },
+  {
+    "ID":681,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM05",
+    "Invoerwaarde_1":1019578.0,
+    "Uitvoerwaarde_2":279686.0,
+    "Handelsbalans_3":-739892.0
+  },
+  {
+    "ID":682,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM06",
+    "Invoerwaarde_1":1030027.0,
+    "Uitvoerwaarde_2":226572.0,
+    "Handelsbalans_3":-803455.0
+  },
+  {
+    "ID":683,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM07",
+    "Invoerwaarde_1":1014206.0,
+    "Uitvoerwaarde_2":264177.0,
+    "Handelsbalans_3":-750029.0
+  },
+  {
+    "ID":684,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM08",
+    "Invoerwaarde_1":1243040.0,
+    "Uitvoerwaarde_2":249821.0,
+    "Handelsbalans_3":-993219.0
+  },
+  {
+    "ID":685,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM09",
+    "Invoerwaarde_1":1067431.0,
+    "Uitvoerwaarde_2":256566.0,
+    "Handelsbalans_3":-810865.0
+  },
+  {
+    "ID":686,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM10",
+    "Invoerwaarde_1":1029177.0,
+    "Uitvoerwaarde_2":283838.0,
+    "Handelsbalans_3":-745339.0
+  },
+  {
+    "ID":687,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM11",
+    "Invoerwaarde_1":875667.0,
+    "Uitvoerwaarde_2":211903.0,
+    "Handelsbalans_3":-663764.0
+  },
+  {
+    "ID":688,
+    "LandenGroepen":" 3",
+    "Perioden":"2003MM12",
+    "Invoerwaarde_1":1035161.0,
+    "Uitvoerwaarde_2":236107.0,
+    "Handelsbalans_3":-799054.0
+  },
+  {
+    "ID":689,
+    "LandenGroepen":" 3",
+    "Perioden":"2003JJ00",
+    "Invoerwaarde_1":12831468.0,
+    "Uitvoerwaarde_2":3098972.0,
+    "Handelsbalans_3":-9732496.0
+  },
+  {
+    "ID":690,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM01",
+    "Invoerwaarde_1":1091720.0,
+    "Uitvoerwaarde_2":296052.0,
+    "Handelsbalans_3":-795668.0
+  },
+  {
+    "ID":691,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM02",
+    "Invoerwaarde_1":1037704.0,
+    "Uitvoerwaarde_2":279404.0,
+    "Handelsbalans_3":-758300.0
+  },
+  {
+    "ID":692,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM03",
+    "Invoerwaarde_1":1209127.0,
+    "Uitvoerwaarde_2":397190.0,
+    "Handelsbalans_3":-811937.0
+  },
+  {
+    "ID":693,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM04",
+    "Invoerwaarde_1":1136114.0,
+    "Uitvoerwaarde_2":294293.0,
+    "Handelsbalans_3":-841821.0
+  },
+  {
+    "ID":694,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM05",
+    "Invoerwaarde_1":1312006.0,
+    "Uitvoerwaarde_2":380923.0,
+    "Handelsbalans_3":-931083.0
+  },
+  {
+    "ID":695,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM06",
+    "Invoerwaarde_1":1263765.0,
+    "Uitvoerwaarde_2":353213.0,
+    "Handelsbalans_3":-910552.0
+  },
+  {
+    "ID":696,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM07",
+    "Invoerwaarde_1":1451765.0,
+    "Uitvoerwaarde_2":327023.0,
+    "Handelsbalans_3":-1124742.0
+  },
+  {
+    "ID":697,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM08",
+    "Invoerwaarde_1":1506084.0,
+    "Uitvoerwaarde_2":364218.0,
+    "Handelsbalans_3":-1141866.0
+  },
+  {
+    "ID":698,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM09",
+    "Invoerwaarde_1":1456098.0,
+    "Uitvoerwaarde_2":298508.0,
+    "Handelsbalans_3":-1157590.0
+  },
+  {
+    "ID":699,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM10",
+    "Invoerwaarde_1":1521839.0,
+    "Uitvoerwaarde_2":337813.0,
+    "Handelsbalans_3":-1184026.0
+  },
+  {
+    "ID":700,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM11",
+    "Invoerwaarde_1":1432752.0,
+    "Uitvoerwaarde_2":353979.0,
+    "Handelsbalans_3":-1078773.0
+  },
+  {
+    "ID":701,
+    "LandenGroepen":" 3",
+    "Perioden":"2004MM12",
+    "Invoerwaarde_1":1385248.0,
+    "Uitvoerwaarde_2":245983.0,
+    "Handelsbalans_3":-1139265.0
+  },
+  {
+    "ID":702,
+    "LandenGroepen":" 3",
+    "Perioden":"2004JJ00",
+    "Invoerwaarde_1":15804222.0,
+    "Uitvoerwaarde_2":3928599.0,
+    "Handelsbalans_3":-11875623.0
+  },
+  {
+    "ID":703,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM01",
+    "Invoerwaarde_1":1336655.0,
+    "Uitvoerwaarde_2":403222.0,
+    "Handelsbalans_3":-933433.0
+  },
+  {
+    "ID":704,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM02",
+    "Invoerwaarde_1":1457855.0,
+    "Uitvoerwaarde_2":333550.0,
+    "Handelsbalans_3":-1124305.0
+  },
+  {
+    "ID":705,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM03",
+    "Invoerwaarde_1":1734854.0,
+    "Uitvoerwaarde_2":277318.0,
+    "Handelsbalans_3":-1457536.0
+  },
+  {
+    "ID":706,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM04",
+    "Invoerwaarde_1":1570537.0,
+    "Uitvoerwaarde_2":480874.0,
+    "Handelsbalans_3":-1089663.0
+  },
+  {
+    "ID":707,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM05",
+    "Invoerwaarde_1":1647542.0,
+    "Uitvoerwaarde_2":697363.0,
+    "Handelsbalans_3":-950179.0
+  },
+  {
+    "ID":708,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM06",
+    "Invoerwaarde_1":1797362.0,
+    "Uitvoerwaarde_2":502504.0,
+    "Handelsbalans_3":-1294858.0
+  },
+  {
+    "ID":709,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM07",
+    "Invoerwaarde_1":2033888.0,
+    "Uitvoerwaarde_2":547887.0,
+    "Handelsbalans_3":-1486001.0
+  },
+  {
+    "ID":710,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM08",
+    "Invoerwaarde_1":2167641.0,
+    "Uitvoerwaarde_2":664978.0,
+    "Handelsbalans_3":-1502663.0
+  },
+  {
+    "ID":711,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM09",
+    "Invoerwaarde_1":2140380.0,
+    "Uitvoerwaarde_2":672267.0,
+    "Handelsbalans_3":-1468113.0
+  },
+  {
+    "ID":712,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM10",
+    "Invoerwaarde_1":2092400.0,
+    "Uitvoerwaarde_2":593590.0,
+    "Handelsbalans_3":-1498810.0
+  },
+  {
+    "ID":713,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM11",
+    "Invoerwaarde_1":2214246.0,
+    "Uitvoerwaarde_2":675255.0,
+    "Handelsbalans_3":-1538991.0
+  },
+  {
+    "ID":714,
+    "LandenGroepen":" 3",
+    "Perioden":"2005MM12",
+    "Invoerwaarde_1":2126988.0,
+    "Uitvoerwaarde_2":539358.0,
+    "Handelsbalans_3":-1587630.0
+  },
+  {
+    "ID":715,
+    "LandenGroepen":" 3",
+    "Perioden":"2005JJ00",
+    "Invoerwaarde_1":22320348.0,
+    "Uitvoerwaarde_2":6388166.0,
+    "Handelsbalans_3":-15932182.0
+  },
+  {
+    "ID":716,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM01",
+    "Invoerwaarde_1":2202409.0,
+    "Uitvoerwaarde_2":641370.0,
+    "Handelsbalans_3":-1561039.0
+  },
+  {
+    "ID":717,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM02",
+    "Invoerwaarde_1":2013772.0,
+    "Uitvoerwaarde_2":631528.0,
+    "Handelsbalans_3":-1382244.0
+  },
+  {
+    "ID":718,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM03",
+    "Invoerwaarde_1":2279883.0,
+    "Uitvoerwaarde_2":734418.0,
+    "Handelsbalans_3":-1545465.0
+  },
+  {
+    "ID":719,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM04",
+    "Invoerwaarde_1":1865957.0,
+    "Uitvoerwaarde_2":888849.0,
+    "Handelsbalans_3":-977108.0
+  },
+  {
+    "ID":720,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM05",
+    "Invoerwaarde_1":2093827.0,
+    "Uitvoerwaarde_2":993153.0,
+    "Handelsbalans_3":-1100674.0
+  },
+  {
+    "ID":721,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM06",
+    "Invoerwaarde_1":2409614.0,
+    "Uitvoerwaarde_2":963593.0,
+    "Handelsbalans_3":-1446021.0
+  },
+  {
+    "ID":722,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM07",
+    "Invoerwaarde_1":2216826.0,
+    "Uitvoerwaarde_2":906655.0,
+    "Handelsbalans_3":-1310171.0
+  },
+  {
+    "ID":723,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM08",
+    "Invoerwaarde_1":2626095.0,
+    "Uitvoerwaarde_2":898965.0,
+    "Handelsbalans_3":-1727130.0
+  },
+  {
+    "ID":724,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM09",
+    "Invoerwaarde_1":2335780.0,
+    "Uitvoerwaarde_2":640328.0,
+    "Handelsbalans_3":-1695452.0
+  },
+  {
+    "ID":725,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM10",
+    "Invoerwaarde_1":2368243.0,
+    "Uitvoerwaarde_2":725215.0,
+    "Handelsbalans_3":-1643028.0
+  },
+  {
+    "ID":726,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM11",
+    "Invoerwaarde_1":2099743.0,
+    "Uitvoerwaarde_2":687144.0,
+    "Handelsbalans_3":-1412599.0
+  },
+  {
+    "ID":727,
+    "LandenGroepen":" 3",
+    "Perioden":"2006MM12",
+    "Invoerwaarde_1":1973392.0,
+    "Uitvoerwaarde_2":785831.0,
+    "Handelsbalans_3":-1187561.0
+  },
+  {
+    "ID":728,
+    "LandenGroepen":" 3",
+    "Perioden":"2006JJ00",
+    "Invoerwaarde_1":26485541.0,
+    "Uitvoerwaarde_2":9497049.0,
+    "Handelsbalans_3":-16988492.0
+  },
+  {
+    "ID":729,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM01",
+    "Invoerwaarde_1":1991769.0,
+    "Uitvoerwaarde_2":656364.0,
+    "Handelsbalans_3":-1335405.0
+  },
+  {
+    "ID":730,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM02",
+    "Invoerwaarde_1":1900344.0,
+    "Uitvoerwaarde_2":702338.0,
+    "Handelsbalans_3":-1198006.0
+  },
+  {
+    "ID":731,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM03",
+    "Invoerwaarde_1":1958722.0,
+    "Uitvoerwaarde_2":887078.0,
+    "Handelsbalans_3":-1071644.0
+  },
+  {
+    "ID":732,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM04",
+    "Invoerwaarde_1":2063852.0,
+    "Uitvoerwaarde_2":1069408.0,
+    "Handelsbalans_3":-994444.0
+  },
+  {
+    "ID":733,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM05",
+    "Invoerwaarde_1":2443933.0,
+    "Uitvoerwaarde_2":1008718.0,
+    "Handelsbalans_3":-1435215.0
+  },
+  {
+    "ID":734,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM06",
+    "Invoerwaarde_1":2054115.0,
+    "Uitvoerwaarde_2":1182217.0,
+    "Handelsbalans_3":-871898.0
+  },
+  {
+    "ID":735,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM07",
+    "Invoerwaarde_1":2235499.0,
+    "Uitvoerwaarde_2":1082982.0,
+    "Handelsbalans_3":-1152517.0
+  },
+  {
+    "ID":736,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM08",
+    "Invoerwaarde_1":2244365.0,
+    "Uitvoerwaarde_2":1032812.0,
+    "Handelsbalans_3":-1211553.0
+  },
+  {
+    "ID":737,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM09",
+    "Invoerwaarde_1":2301161.0,
+    "Uitvoerwaarde_2":1022748.0,
+    "Handelsbalans_3":-1278413.0
+  },
+  {
+    "ID":738,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM10",
+    "Invoerwaarde_1":2257804.0,
+    "Uitvoerwaarde_2":1061921.0,
+    "Handelsbalans_3":-1195883.0
+  },
+  {
+    "ID":739,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM11",
+    "Invoerwaarde_1":2665665.0,
+    "Uitvoerwaarde_2":1009259.0,
+    "Handelsbalans_3":-1656406.0
+  },
+  {
+    "ID":740,
+    "LandenGroepen":" 3",
+    "Perioden":"2007MM12",
+    "Invoerwaarde_1":2760682.0,
+    "Uitvoerwaarde_2":933453.0,
+    "Handelsbalans_3":-1827229.0
+  },
+  {
+    "ID":741,
+    "LandenGroepen":" 3",
+    "Perioden":"2007JJ00",
+    "Invoerwaarde_1":26877911.0,
+    "Uitvoerwaarde_2":11649298.0,
+    "Handelsbalans_3":-15228613.0
+  },
+  {
+    "ID":742,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM01",
+    "Invoerwaarde_1":3112447.0,
+    "Uitvoerwaarde_2":885356.0,
+    "Handelsbalans_3":-2227091.0
+  },
+  {
+    "ID":743,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM02",
+    "Invoerwaarde_1":2761390.0,
+    "Uitvoerwaarde_2":1140944.0,
+    "Handelsbalans_3":-1620446.0
+  },
+  {
+    "ID":744,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM03",
+    "Invoerwaarde_1":3363534.0,
+    "Uitvoerwaarde_2":1007513.0,
+    "Handelsbalans_3":-2356021.0
+  },
+  {
+    "ID":745,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM04",
+    "Invoerwaarde_1":3319896.0,
+    "Uitvoerwaarde_2":1529053.0,
+    "Handelsbalans_3":-1790843.0
+  },
+  {
+    "ID":746,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM05",
+    "Invoerwaarde_1":3552626.0,
+    "Uitvoerwaarde_2":1175772.0,
+    "Handelsbalans_3":-2376854.0
+  },
+  {
+    "ID":747,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM06",
+    "Invoerwaarde_1":4057562.0,
+    "Uitvoerwaarde_2":1768813.0,
+    "Handelsbalans_3":-2288749.0
+  },
+  {
+    "ID":748,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM07",
+    "Invoerwaarde_1":3861123.0,
+    "Uitvoerwaarde_2":1212852.0,
+    "Handelsbalans_3":-2648271.0
+  },
+  {
+    "ID":749,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM08",
+    "Invoerwaarde_1":4020383.0,
+    "Uitvoerwaarde_2":1451656.0,
+    "Handelsbalans_3":-2568727.0
+  },
+  {
+    "ID":750,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM09",
+    "Invoerwaarde_1":3898619.0,
+    "Uitvoerwaarde_2":1451079.0,
+    "Handelsbalans_3":-2447540.0
+  },
+  {
+    "ID":751,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM10",
+    "Invoerwaarde_1":3079205.0,
+    "Uitvoerwaarde_2":1237715.0,
+    "Handelsbalans_3":-1841490.0
+  },
+  {
+    "ID":752,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM11",
+    "Invoerwaarde_1":2531565.0,
+    "Uitvoerwaarde_2":691489.0,
+    "Handelsbalans_3":-1840076.0
+  },
+  {
+    "ID":753,
+    "LandenGroepen":" 3",
+    "Perioden":"2008MM12",
+    "Invoerwaarde_1":1991013.0,
+    "Uitvoerwaarde_2":681835.0,
+    "Handelsbalans_3":-1309178.0
+  },
+  {
+    "ID":754,
+    "LandenGroepen":" 3",
+    "Perioden":"2008JJ00",
+    "Invoerwaarde_1":39549363.0,
+    "Uitvoerwaarde_2":14234077.0,
+    "Handelsbalans_3":-25315286.0
+  },
+  {
+    "ID":755,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM01",
+    "Invoerwaarde_1":2177100.0,
+    "Uitvoerwaarde_2":824923.0,
+    "Handelsbalans_3":-1352177.0
+  },
+  {
+    "ID":756,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM02",
+    "Invoerwaarde_1":1724860.0,
+    "Uitvoerwaarde_2":684507.0,
+    "Handelsbalans_3":-1040353.0
+  },
+  {
+    "ID":757,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM03",
+    "Invoerwaarde_1":2149120.0,
+    "Uitvoerwaarde_2":822220.0,
+    "Handelsbalans_3":-1326900.0
+  },
+  {
+    "ID":758,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM04",
+    "Invoerwaarde_1":2173409.0,
+    "Uitvoerwaarde_2":873286.0,
+    "Handelsbalans_3":-1300123.0
+  },
+  {
+    "ID":759,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM05",
+    "Invoerwaarde_1":2348408.0,
+    "Uitvoerwaarde_2":1064598.0,
+    "Handelsbalans_3":-1283810.0
+  },
+  {
+    "ID":760,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM06",
+    "Invoerwaarde_1":2199679.0,
+    "Uitvoerwaarde_2":872090.0,
+    "Handelsbalans_3":-1327589.0
+  },
+  {
+    "ID":761,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM07",
+    "Invoerwaarde_1":2363667.0,
+    "Uitvoerwaarde_2":1219947.0,
+    "Handelsbalans_3":-1143720.0
+  },
+  {
+    "ID":762,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM08",
+    "Invoerwaarde_1":2489936.0,
+    "Uitvoerwaarde_2":1282057.0,
+    "Handelsbalans_3":-1207879.0
+  },
+  {
+    "ID":763,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM09",
+    "Invoerwaarde_1":2371773.0,
+    "Uitvoerwaarde_2":1041779.0,
+    "Handelsbalans_3":-1329994.0
+  },
+  {
+    "ID":764,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM10",
+    "Invoerwaarde_1":2488107.0,
+    "Uitvoerwaarde_2":928481.0,
+    "Handelsbalans_3":-1559626.0
+  },
+  {
+    "ID":765,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM11",
+    "Invoerwaarde_1":2584981.0,
+    "Uitvoerwaarde_2":1038047.0,
+    "Handelsbalans_3":-1546934.0
+  },
+  {
+    "ID":766,
+    "LandenGroepen":" 3",
+    "Perioden":"2009MM12",
+    "Invoerwaarde_1":2698561.0,
+    "Uitvoerwaarde_2":1000656.0,
+    "Handelsbalans_3":-1697905.0
+  },
+  {
+    "ID":767,
+    "LandenGroepen":" 3",
+    "Perioden":"2009JJ00",
+    "Invoerwaarde_1":27769601.0,
+    "Uitvoerwaarde_2":11652591.0,
+    "Handelsbalans_3":-16117010.0
+  },
+  {
+    "ID":768,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM01",
+    "Invoerwaarde_1":3159697.0,
+    "Uitvoerwaarde_2":955195.0,
+    "Handelsbalans_3":-2204502.0
+  },
+  {
+    "ID":769,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM02",
+    "Invoerwaarde_1":2632308.0,
+    "Uitvoerwaarde_2":1146472.0,
+    "Handelsbalans_3":-1485836.0
+  },
+  {
+    "ID":770,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM03",
+    "Invoerwaarde_1":3103987.0,
+    "Uitvoerwaarde_2":1250729.0,
+    "Handelsbalans_3":-1853258.0
+  },
+  {
+    "ID":771,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM04",
+    "Invoerwaarde_1":3052104.0,
+    "Uitvoerwaarde_2":1253657.0,
+    "Handelsbalans_3":-1798447.0
+  },
+  {
+    "ID":772,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM05",
+    "Invoerwaarde_1":3090008.0,
+    "Uitvoerwaarde_2":1296821.0,
+    "Handelsbalans_3":-1793187.0
+  },
+  {
+    "ID":773,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM06",
+    "Invoerwaarde_1":3025962.0,
+    "Uitvoerwaarde_2":1360185.0,
+    "Handelsbalans_3":-1665777.0
+  },
+  {
+    "ID":774,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM07",
+    "Invoerwaarde_1":3415471.0,
+    "Uitvoerwaarde_2":1542699.0,
+    "Handelsbalans_3":-1872772.0
+  },
+  {
+    "ID":775,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM08",
+    "Invoerwaarde_1":3225150.0,
+    "Uitvoerwaarde_2":1665378.0,
+    "Handelsbalans_3":-1559772.0
+  },
+  {
+    "ID":776,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM09",
+    "Invoerwaarde_1":2935633.0,
+    "Uitvoerwaarde_2":1535088.0,
+    "Handelsbalans_3":-1400545.0
+  },
+  {
+    "ID":777,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM10",
+    "Invoerwaarde_1":3563516.0,
+    "Uitvoerwaarde_2":1336052.0,
+    "Handelsbalans_3":-2227464.0
+  },
+  {
+    "ID":778,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM11",
+    "Invoerwaarde_1":3248859.0,
+    "Uitvoerwaarde_2":1099689.0,
+    "Handelsbalans_3":-2149170.0
+  },
+  {
+    "ID":779,
+    "LandenGroepen":" 3",
+    "Perioden":"2010MM12",
+    "Invoerwaarde_1":3955995.0,
+    "Uitvoerwaarde_2":1278474.0,
+    "Handelsbalans_3":-2677521.0
+  },
+  {
+    "ID":780,
+    "LandenGroepen":" 3",
+    "Perioden":"2010JJ00",
+    "Invoerwaarde_1":38408690.0,
+    "Uitvoerwaarde_2":15720439.0,
+    "Handelsbalans_3":-22688251.0
+  },
+  {
+    "ID":781,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM01",
+    "Invoerwaarde_1":4089226.0,
+    "Uitvoerwaarde_2":1470265.0,
+    "Handelsbalans_3":-2618961.0
+  },
+  {
+    "ID":782,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM02",
+    "Invoerwaarde_1":3123394.0,
+    "Uitvoerwaarde_2":1499327.0,
+    "Handelsbalans_3":-1624067.0
+  },
+  {
+    "ID":783,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM03",
+    "Invoerwaarde_1":4515081.0,
+    "Uitvoerwaarde_2":1554042.0,
+    "Handelsbalans_3":-2961039.0
+  },
+  {
+    "ID":784,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM04",
+    "Invoerwaarde_1":3871785.0,
+    "Uitvoerwaarde_2":2054629.0,
+    "Handelsbalans_3":-1817156.0
+  },
+  {
+    "ID":785,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM05",
+    "Invoerwaarde_1":4316499.0,
+    "Uitvoerwaarde_2":1665152.0,
+    "Handelsbalans_3":-2651347.0
+  },
+  {
+    "ID":786,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM06",
+    "Invoerwaarde_1":4340552.0,
+    "Uitvoerwaarde_2":1538481.0,
+    "Handelsbalans_3":-2802071.0
+  },
+  {
+    "ID":787,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM07",
+    "Invoerwaarde_1":4042614.0,
+    "Uitvoerwaarde_2":1722056.0,
+    "Handelsbalans_3":-2320558.0
+  },
+  {
+    "ID":788,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM08",
+    "Invoerwaarde_1":4497664.0,
+    "Uitvoerwaarde_2":1605386.0,
+    "Handelsbalans_3":-2892278.0
+  },
+  {
+    "ID":789,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM09",
+    "Invoerwaarde_1":4632753.0,
+    "Uitvoerwaarde_2":1579424.0,
+    "Handelsbalans_3":-3053329.0
+  },
+  {
+    "ID":790,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM10",
+    "Invoerwaarde_1":4425705.0,
+    "Uitvoerwaarde_2":1357788.0,
+    "Handelsbalans_3":-3067917.0
+  },
+  {
+    "ID":791,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM11",
+    "Invoerwaarde_1":5000234.0,
+    "Uitvoerwaarde_2":1880605.0,
+    "Handelsbalans_3":-3119629.0
+  },
+  {
+    "ID":792,
+    "LandenGroepen":" 3",
+    "Perioden":"2011MM12",
+    "Invoerwaarde_1":4358866.0,
+    "Uitvoerwaarde_2":1666946.0,
+    "Handelsbalans_3":-2691920.0
+  },
+  {
+    "ID":793,
+    "LandenGroepen":" 3",
+    "Perioden":"2011JJ00",
+    "Invoerwaarde_1":51214373.0,
+    "Uitvoerwaarde_2":19594101.0,
+    "Handelsbalans_3":-31620272.0
+  },
+  {
+    "ID":794,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM01",
+    "Invoerwaarde_1":4908046.0,
+    "Uitvoerwaarde_2":2174371.0,
+    "Handelsbalans_3":-2733675.0
+  },
+  {
+    "ID":795,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM02",
+    "Invoerwaarde_1":5536419.0,
+    "Uitvoerwaarde_2":2183013.0,
+    "Handelsbalans_3":-3353406.0
+  },
+  {
+    "ID":796,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM03",
+    "Invoerwaarde_1":5353399.0,
+    "Uitvoerwaarde_2":1958987.0,
+    "Handelsbalans_3":-3394412.0
+  },
+  {
+    "ID":797,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM04",
+    "Invoerwaarde_1":5264101.0,
+    "Uitvoerwaarde_2":2743220.0,
+    "Handelsbalans_3":-2520881.0
+  },
+  {
+    "ID":798,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM05",
+    "Invoerwaarde_1":5252475.0,
+    "Uitvoerwaarde_2":2512794.0,
+    "Handelsbalans_3":-2739681.0
+  },
+  {
+    "ID":799,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM06",
+    "Invoerwaarde_1":4442970.0,
+    "Uitvoerwaarde_2":2200422.0,
+    "Handelsbalans_3":-2242548.0
+  },
+  {
+    "ID":800,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM07",
+    "Invoerwaarde_1":4850424.0,
+    "Uitvoerwaarde_2":1846088.0,
+    "Handelsbalans_3":-3004336.0
+  },
+  {
+    "ID":801,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM08",
+    "Invoerwaarde_1":5849141.0,
+    "Uitvoerwaarde_2":1945246.0,
+    "Handelsbalans_3":-3903895.0
+  },
+  {
+    "ID":802,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM09",
+    "Invoerwaarde_1":5004640.0,
+    "Uitvoerwaarde_2":2170101.0,
+    "Handelsbalans_3":-2834539.0
+  },
+  {
+    "ID":803,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM10",
+    "Invoerwaarde_1":5798397.0,
+    "Uitvoerwaarde_2":2176085.0,
+    "Handelsbalans_3":-3622312.0
+  },
+  {
+    "ID":804,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM11",
+    "Invoerwaarde_1":5887373.0,
+    "Uitvoerwaarde_2":1835960.0,
+    "Handelsbalans_3":-4051413.0
+  },
+  {
+    "ID":805,
+    "LandenGroepen":" 3",
+    "Perioden":"2012MM12",
+    "Invoerwaarde_1":5292793.0,
+    "Uitvoerwaarde_2":2080334.0,
+    "Handelsbalans_3":-3212459.0
+  },
+  {
+    "ID":806,
+    "LandenGroepen":" 3",
+    "Perioden":"2012JJ00",
+    "Invoerwaarde_1":63440178.0,
+    "Uitvoerwaarde_2":25826621.0,
+    "Handelsbalans_3":-37613557.0
+  },
+  {
+    "ID":807,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM01",
+    "Invoerwaarde_1":5090467.0,
+    "Uitvoerwaarde_2":2402654.0,
+    "Handelsbalans_3":-2687813.0
+  },
+  {
+    "ID":808,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM02",
+    "Invoerwaarde_1":5085623.0,
+    "Uitvoerwaarde_2":2281192.0,
+    "Handelsbalans_3":-2804431.0
+  },
+  {
+    "ID":809,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM03",
+    "Invoerwaarde_1":4849665.0,
+    "Uitvoerwaarde_2":2624254.0,
+    "Handelsbalans_3":-2225411.0
+  },
+  {
+    "ID":810,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM04",
+    "Invoerwaarde_1":4828139.0,
+    "Uitvoerwaarde_2":2201713.0,
+    "Handelsbalans_3":-2626426.0
+  },
+  {
+    "ID":811,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM05",
+    "Invoerwaarde_1":4901331.0,
+    "Uitvoerwaarde_2":2697522.0,
+    "Handelsbalans_3":-2203809.0
+  },
+  {
+    "ID":812,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM06",
+    "Invoerwaarde_1":4567149.0,
+    "Uitvoerwaarde_2":1927520.0,
+    "Handelsbalans_3":-2639629.0
+  },
+  {
+    "ID":813,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM07",
+    "Invoerwaarde_1":4939851.0,
+    "Uitvoerwaarde_2":2348241.0,
+    "Handelsbalans_3":-2591610.0
+  },
+  {
+    "ID":814,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM08",
+    "Invoerwaarde_1":4773319.0,
+    "Uitvoerwaarde_2":2190961.0,
+    "Handelsbalans_3":-2582358.0
+  },
+  {
+    "ID":815,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM09",
+    "Invoerwaarde_1":5382788.0,
+    "Uitvoerwaarde_2":1605798.0,
+    "Handelsbalans_3":-3776990.0
+  },
+  {
+    "ID":816,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM10",
+    "Invoerwaarde_1":5724345.0,
+    "Uitvoerwaarde_2":1778526.0,
+    "Handelsbalans_3":-3945819.0
+  },
+  {
+    "ID":817,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM11",
+    "Invoerwaarde_1":4993830.0,
+    "Uitvoerwaarde_2":1887992.0,
+    "Handelsbalans_3":-3105838.0
+  },
+  {
+    "ID":818,
+    "LandenGroepen":" 3",
+    "Perioden":"2013MM12",
+    "Invoerwaarde_1":4650174.0,
+    "Uitvoerwaarde_2":1497250.0,
+    "Handelsbalans_3":-3152924.0
+  },
+  {
+    "ID":819,
+    "LandenGroepen":" 3",
+    "Perioden":"2013JJ00",
+    "Invoerwaarde_1":59786681.0,
+    "Uitvoerwaarde_2":25443623.0,
+    "Handelsbalans_3":-34343058.0
+  },
+  {
+    "ID":820,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM01",
+    "Invoerwaarde_1":4838809.0,
+    "Uitvoerwaarde_2":2070654.0,
+    "Handelsbalans_3":-2768155.0
+  },
+  {
+    "ID":821,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM02",
+    "Invoerwaarde_1":4162666.0,
+    "Uitvoerwaarde_2":2117802.0,
+    "Handelsbalans_3":-2044864.0
+  },
+  {
+    "ID":822,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM03",
+    "Invoerwaarde_1":4630004.0,
+    "Uitvoerwaarde_2":1964684.0,
+    "Handelsbalans_3":-2665320.0
+  },
+  {
+    "ID":823,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM04",
+    "Invoerwaarde_1":4229550.0,
+    "Uitvoerwaarde_2":1938494.0,
+    "Handelsbalans_3":-2291056.0
+  },
+  {
+    "ID":824,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM05",
+    "Invoerwaarde_1":4789272.0,
+    "Uitvoerwaarde_2":1825684.0,
+    "Handelsbalans_3":-2963588.0
+  },
+  {
+    "ID":825,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM06",
+    "Invoerwaarde_1":4453108.0,
+    "Uitvoerwaarde_2":1731918.0,
+    "Handelsbalans_3":-2721190.0
+  },
+  {
+    "ID":826,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM07",
+    "Invoerwaarde_1":4959311.0,
+    "Uitvoerwaarde_2":1833480.0,
+    "Handelsbalans_3":-3125831.0
+  },
+  {
+    "ID":827,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM08",
+    "Invoerwaarde_1":4815465.0,
+    "Uitvoerwaarde_2":1565706.0,
+    "Handelsbalans_3":-3249759.0
+  },
+  {
+    "ID":828,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM09",
+    "Invoerwaarde_1":4225777.0,
+    "Uitvoerwaarde_2":1646988.0,
+    "Handelsbalans_3":-2578789.0
+  },
+  {
+    "ID":829,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM10",
+    "Invoerwaarde_1":3981615.0,
+    "Uitvoerwaarde_2":1998175.0,
+    "Handelsbalans_3":-1983440.0
+  },
+  {
+    "ID":830,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM11",
+    "Invoerwaarde_1":3469309.0,
+    "Uitvoerwaarde_2":1743687.0,
+    "Handelsbalans_3":-1725622.0
+  },
+  {
+    "ID":831,
+    "LandenGroepen":" 3",
+    "Perioden":"2014MM12",
+    "Invoerwaarde_1":3518381.0,
+    "Uitvoerwaarde_2":1491941.0,
+    "Handelsbalans_3":-2026440.0
+  },
+  {
+    "ID":832,
+    "LandenGroepen":" 3",
+    "Perioden":"2014JJ00",
+    "Invoerwaarde_1":52073267.0,
+    "Uitvoerwaarde_2":21929213.0,
+    "Handelsbalans_3":-30144054.0
+  },
+  {
+    "ID":833,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM01",
+    "Invoerwaarde_1":2896619.0,
+    "Uitvoerwaarde_2":1416805.0,
+    "Handelsbalans_3":-1479814.0
+  },
+  {
+    "ID":834,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM02",
+    "Invoerwaarde_1":3200542.0,
+    "Uitvoerwaarde_2":1374167.0,
+    "Handelsbalans_3":-1826375.0
+  },
+  {
+    "ID":835,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM03",
+    "Invoerwaarde_1":3736032.0,
+    "Uitvoerwaarde_2":1714694.0,
+    "Handelsbalans_3":-2021338.0
+  },
+  {
+    "ID":836,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM04",
+    "Invoerwaarde_1":3884070.0,
+    "Uitvoerwaarde_2":1848742.0,
+    "Handelsbalans_3":-2035328.0
+  },
+  {
+    "ID":837,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM05",
+    "Invoerwaarde_1":4107984.0,
+    "Uitvoerwaarde_2":1724840.0,
+    "Handelsbalans_3":-2383144.0
+  },
+  {
+    "ID":838,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM06",
+    "Invoerwaarde_1":3799939.0,
+    "Uitvoerwaarde_2":1788841.0,
+    "Handelsbalans_3":-2011098.0
+  },
+  {
+    "ID":839,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM07",
+    "Invoerwaarde_1":3701725.0,
+    "Uitvoerwaarde_2":1586854.0,
+    "Handelsbalans_3":-2114871.0
+  },
+  {
+    "ID":840,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM08",
+    "Invoerwaarde_1":3380466.0,
+    "Uitvoerwaarde_2":1366490.0,
+    "Handelsbalans_3":-2013976.0
+  },
+  {
+    "ID":841,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM09",
+    "Invoerwaarde_1":3241852.0,
+    "Uitvoerwaarde_2":1178611.0,
+    "Handelsbalans_3":-2063241.0
+  },
+  {
+    "ID":842,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM10",
+    "Invoerwaarde_1":3203918.0,
+    "Uitvoerwaarde_2":1418432.0,
+    "Handelsbalans_3":-1785486.0
+  },
+  {
+    "ID":843,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM11",
+    "Invoerwaarde_1":2687118.0,
+    "Uitvoerwaarde_2":1109617.0,
+    "Handelsbalans_3":-1577501.0
+  },
+  {
+    "ID":844,
+    "LandenGroepen":" 3",
+    "Perioden":"2015MM12",
+    "Invoerwaarde_1":2608013.0,
+    "Uitvoerwaarde_2":1332507.0,
+    "Handelsbalans_3":-1275506.0
+  },
+  {
+    "ID":845,
+    "LandenGroepen":" 3",
+    "Perioden":"2015JJ00",
+    "Invoerwaarde_1":40448278.0,
+    "Uitvoerwaarde_2":17860600.0,
+    "Handelsbalans_3":-22587678.0
+  },
+  {
+    "ID":846,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM01",
+    "Invoerwaarde_1":2172701.0,
+    "Uitvoerwaarde_2":1204983.0,
+    "Handelsbalans_3":-967718.0
+  },
+  {
+    "ID":847,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM02",
+    "Invoerwaarde_1":2179928.0,
+    "Uitvoerwaarde_2":1096543.0,
+    "Handelsbalans_3":-1083385.0
+  },
+  {
+    "ID":848,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM03",
+    "Invoerwaarde_1":2262107.0,
+    "Uitvoerwaarde_2":1124007.0,
+    "Handelsbalans_3":-1138100.0
+  },
+  {
+    "ID":849,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM04",
+    "Invoerwaarde_1":2694827.0,
+    "Uitvoerwaarde_2":1422498.0,
+    "Handelsbalans_3":-1272329.0
+  },
+  {
+    "ID":850,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM05",
+    "Invoerwaarde_1":2982487.0,
+    "Uitvoerwaarde_2":1540640.0,
+    "Handelsbalans_3":-1441847.0
+  },
+  {
+    "ID":851,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM06",
+    "Invoerwaarde_1":2835262.0,
+    "Uitvoerwaarde_2":1471674.0,
+    "Handelsbalans_3":-1363588.0
+  },
+  {
+    "ID":852,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM07",
+    "Invoerwaarde_1":2892445.0,
+    "Uitvoerwaarde_2":1531182.0,
+    "Handelsbalans_3":-1361263.0
+  },
+  {
+    "ID":853,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM08",
+    "Invoerwaarde_1":2497478.0,
+    "Uitvoerwaarde_2":1590220.0,
+    "Handelsbalans_3":-907258.0
+  },
+  {
+    "ID":854,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM09",
+    "Invoerwaarde_1":2941902.0,
+    "Uitvoerwaarde_2":1613087.0,
+    "Handelsbalans_3":-1328815.0
+  },
+  {
+    "ID":855,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM10",
+    "Invoerwaarde_1":3392919.0,
+    "Uitvoerwaarde_2":1757005.0,
+    "Handelsbalans_3":-1635914.0
+  },
+  {
+    "ID":856,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM11",
+    "Invoerwaarde_1":3179627.0,
+    "Uitvoerwaarde_2":1726078.0,
+    "Handelsbalans_3":-1453549.0
+  },
+  {
+    "ID":857,
+    "LandenGroepen":" 3",
+    "Perioden":"2016MM12",
+    "Invoerwaarde_1":3505445.0,
+    "Uitvoerwaarde_2":1802984.0,
+    "Handelsbalans_3":-1702461.0
+  },
+  {
+    "ID":858,
+    "LandenGroepen":" 3",
+    "Perioden":"2016JJ00",
+    "Invoerwaarde_1":33537128.0,
+    "Uitvoerwaarde_2":17880901.0,
+    "Handelsbalans_3":-15656227.0
+  },
+  {
+    "ID":859,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM01",
+    "Invoerwaarde_1":3943004.0,
+    "Uitvoerwaarde_2":2066868.0,
+    "Handelsbalans_3":-1876136.0
+  },
+  {
+    "ID":860,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM02",
+    "Invoerwaarde_1":3703059.0,
+    "Uitvoerwaarde_2":2096574.0,
+    "Handelsbalans_3":-1606485.0
+  },
+  {
+    "ID":861,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM03",
+    "Invoerwaarde_1":3685065.0,
+    "Uitvoerwaarde_2":2028562.0,
+    "Handelsbalans_3":-1656503.0
+  },
+  {
+    "ID":862,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM04",
+    "Invoerwaarde_1":3544260.0,
+    "Uitvoerwaarde_2":2013565.0,
+    "Handelsbalans_3":-1530695.0
+  },
+  {
+    "ID":863,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM05",
+    "Invoerwaarde_1":3297444.0,
+    "Uitvoerwaarde_2":2069325.0,
+    "Handelsbalans_3":-1228119.0
+  },
+  {
+    "ID":864,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM06",
+    "Invoerwaarde_1":3196952.0,
+    "Uitvoerwaarde_2":2004400.0,
+    "Handelsbalans_3":-1192552.0
+  },
+  {
+    "ID":865,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM07",
+    "Invoerwaarde_1":2624711.0,
+    "Uitvoerwaarde_2":1779007.0,
+    "Handelsbalans_3":-845704.0
+  },
+  {
+    "ID":866,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM08",
+    "Invoerwaarde_1":3001196.0,
+    "Uitvoerwaarde_2":1642142.0,
+    "Handelsbalans_3":-1359054.0
+  },
+  {
+    "ID":867,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM09",
+    "Invoerwaarde_1":2970470.0,
+    "Uitvoerwaarde_2":2069651.0,
+    "Handelsbalans_3":-900819.0
+  },
+  {
+    "ID":868,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM10",
+    "Invoerwaarde_1":3269635.0,
+    "Uitvoerwaarde_2":1861799.0,
+    "Handelsbalans_3":-1407836.0
+  },
+  {
+    "ID":869,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM11",
+    "Invoerwaarde_1":3351637.0,
+    "Uitvoerwaarde_2":1938414.0,
+    "Handelsbalans_3":-1413223.0
+  },
+  {
+    "ID":870,
+    "LandenGroepen":" 3",
+    "Perioden":"2017MM12",
+    "Invoerwaarde_1":3521268.0,
+    "Uitvoerwaarde_2":2182712.0,
+    "Handelsbalans_3":-1338556.0
+  },
+  {
+    "ID":871,
+    "LandenGroepen":" 3",
+    "Perioden":"2017JJ00",
+    "Invoerwaarde_1":40108701.0,
+    "Uitvoerwaarde_2":23753019.0,
+    "Handelsbalans_3":-16355682.0
+  },
+  {
+    "ID":872,
+    "LandenGroepen":" 3",
+    "Perioden":"2018MM01",
+    "Invoerwaarde_1":4166077.0,
+    "Uitvoerwaarde_2":2196413.0,
+    "Handelsbalans_3":-1969664.0
+  },
+  {
+    "ID":873,
+    "LandenGroepen":" 3",
+    "Perioden":"2018MM02",
+    "Invoerwaarde_1":3675620.0,
+    "Uitvoerwaarde_2":2333537.0,
+    "Handelsbalans_3":-1342083.0
+  },
+  {
+    "ID":874,
+    "LandenGroepen":" 3",
+    "Perioden":"2018MM03",
+    "Invoerwaarde_1":3516516.0,
+    "Uitvoerwaarde_2":2063426.0,
+    "Handelsbalans_3":-1453090.0
+  },
+  {
+    "ID":875,
+    "LandenGroepen":" 3",
+    "Perioden":"2018MM04",
+    "Invoerwaarde_1":3772105.0,
+    "Uitvoerwaarde_2":1723933.0,
+    "Handelsbalans_3":-2048172.0
+  },
+  {
+    "ID":876,
+    "LandenGroepen":" 3",
+    "Perioden":"2018MM05",
+    "Invoerwaarde_1":4031049.0,
+    "Uitvoerwaarde_2":2321850.0,
+    "Handelsbalans_3":-1709199.0
+  },
+  {
+    "ID":877,
+    "LandenGroepen":" 3",
+    "Perioden":"2018MM06",
+    "Invoerwaarde_1":3748714.0,
+    "Uitvoerwaarde_2":1998118.0,
+    "Handelsbalans_3":-1750596.0
+  },
+  {
+    "ID":878,
+    "LandenGroepen":" 3",
+    "Perioden":"2018JJ00",
+    "Invoerwaarde_1":22910081.0,
+    "Uitvoerwaarde_2":12637277.0,
+    "Handelsbalans_3":-10272804.0
+  }
+]

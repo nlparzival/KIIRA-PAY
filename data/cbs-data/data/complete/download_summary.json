@@ -1,0 +1,98 @@
+{
+  "download_timestamp": "2026-02-14T02:17:54.178364",
+  "total_datasets": 10,
+  "successful": 10,
+  "failed": 0,
+  "results": [
+    {
+      "id": "82610ENG",
+      "name": "Renewable Electricity Production",
+      "status": "success",
+      "rows": 525,
+      "columns": 11,
+      "periods": 35,
+      "downloaded_at": "2026-02-14T02:17:28.346440"
+    },
+    {
+      "id": "70802eng",
+      "name": "Wind Energy Production",
+      "status": "success",
+      "rows": 891,
+      "columns": 10,
+      "periods": 297,
+      "downloaded_at": "2026-02-14T02:17:30.412873"
+    },
+    {
+      "id": "80324ned",
+      "name": "Energy Prices",
+      "status": "success",
+      "rows": 2346,
+      "columns": 7,
+      "periods": 0,
+      "downloaded_at": "2026-02-14T02:17:32.476759"
+    },
+    {
+      "id": "82369ENG",
+      "name": "Industry Energy Consumption",
+      "status": "success",
+      "rows": 1032,
+      "columns": 4,
+      "periods": 86,
+      "downloaded_at": "2026-02-14T02:17:34.542040"
+    },
+    {
+      "id": "83109ENG",
+      "name": "CO2 Avoided by Renewable Energy",
+      "status": "success",
+      "rows": 4680,
+      "columns": 10,
+      "periods": 30,
+      "downloaded_at": "2026-02-14T02:17:36.621934"
+    },
+    {
+      "id": "70789eng",
+      "name": "Renewable Electricity Import/Export",
+      "status": "success",
+      "rows": 1296,
+      "columns": 13,
+      "periods": 72,
+      "downloaded_at": "2026-02-14T02:17:38.691332"
+    },
+    {
+      "id": "71457eng",
+      "name": "Renewable Energy Capacity",
+      "status": "success",
+      "rows": 1080,
+      "columns": 22,
+      "periods": 24,
+      "downloaded_at": "2026-02-14T02:17:40.751446"
+    },
+    {
+      "id": "82610NED",
+      "name": "Hernieuwbare Elektriciteit (NL)",
+      "status": "success",
+      "rows": 525,
+      "columns": 11,
+      "periods": 0,
+      "downloaded_at": "2026-02-14T02:17:49.048738"
+    },
+    {
+      "id": "84917ENG",
+      "name": "Renewable Energy Consumption by Source",
+      "status": "success",
+      "rows": 5180,
+      "columns": 6,
+      "periods": 35,
+      "downloaded_at": "2026-02-14T02:17:51.109213"
+    },
+    {
+      "id": "70802ned",
+      "name": "Windenergie (NL)",
+      "status": "success",
+      "rows": 891,
+      "columns": 10,
+      "periods": 0,
+      "downloaded_at": "2026-02-14T02:17:53.168894"
+    }
+  ]
+}

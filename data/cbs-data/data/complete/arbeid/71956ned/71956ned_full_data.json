@@ -1,0 +1,3782 @@
+[
+  {
+    "ID":0,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2282,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":1,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2273,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":2,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2256,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":3,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":495,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":4,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":496,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":5,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":492,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":6,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":293,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":7,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":298,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":8,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":299,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":9,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":152,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":10,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":153,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":11,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":146,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":12,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":74,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":13,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":73,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":14,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":63,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":15,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":430,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":16,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":423,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":17,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":430,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":18,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":838,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":19,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":830,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":20,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":827,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":21,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":1379,
+    "PercentageBedrijven250WerkzamePers_2":60
+  },
+  {
+    "ID":22,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":1393,
+    "PercentageBedrijven250WerkzamePers_2":61
+  },
+  {
+    "ID":23,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":1440,
+    "PercentageBedrijven250WerkzamePers_2":64
+  },
+  {
+    "ID":24,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":300,
+    "PercentageBedrijven250WerkzamePers_2":61
+  },
+  {
+    "ID":25,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":302,
+    "PercentageBedrijven250WerkzamePers_2":61
+  },
+  {
+    "ID":26,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":320,
+    "PercentageBedrijven250WerkzamePers_2":65
+  },
+  {
+    "ID":27,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":186,
+    "PercentageBedrijven250WerkzamePers_2":63
+  },
+  {
+    "ID":28,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":194,
+    "PercentageBedrijven250WerkzamePers_2":65
+  },
+  {
+    "ID":29,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":216,
+    "PercentageBedrijven250WerkzamePers_2":72
+  },
+  {
+    "ID":30,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":107,
+    "PercentageBedrijven250WerkzamePers_2":70
+  },
+  {
+    "ID":31,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":107,
+    "PercentageBedrijven250WerkzamePers_2":70
+  },
+  {
+    "ID":32,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":98,
+    "PercentageBedrijven250WerkzamePers_2":67
+  },
+  {
+    "ID":33,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":72,
+    "PercentageBedrijven250WerkzamePers_2":97
+  },
+  {
+    "ID":34,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":64,
+    "PercentageBedrijven250WerkzamePers_2":88
+  },
+  {
+    "ID":35,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":43,
+    "PercentageBedrijven250WerkzamePers_2":68
+  },
+  {
+    "ID":36,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":268,
+    "PercentageBedrijven250WerkzamePers_2":62
+  },
+  {
+    "ID":37,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":273,
+    "PercentageBedrijven250WerkzamePers_2":65
+  },
+  {
+    "ID":38,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":254,
+    "PercentageBedrijven250WerkzamePers_2":59
+  },
+  {
+    "ID":39,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":446,
+    "PercentageBedrijven250WerkzamePers_2":53
+  },
+  {
+    "ID":40,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":453,
+    "PercentageBedrijven250WerkzamePers_2":55
+  },
+  {
+    "ID":41,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":508,
+    "PercentageBedrijven250WerkzamePers_2":61
+  },
+  {
+    "ID":42,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":726,
+    "PercentageBedrijven250WerkzamePers_2":32
+  },
+  {
+    "ID":43,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":707,
+    "PercentageBedrijven250WerkzamePers_2":31
+  },
+  {
+    "ID":44,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":656,
+    "PercentageBedrijven250WerkzamePers_2":29
+  },
+  {
+    "ID":45,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":171,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":46,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":152,
+    "PercentageBedrijven250WerkzamePers_2":31
+  },
+  {
+    "ID":47,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":144,
+    "PercentageBedrijven250WerkzamePers_2":29
+  },
+  {
+    "ID":48,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":87,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":49,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":90,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":50,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":63,
+    "PercentageBedrijven250WerkzamePers_2":21
+  },
+  {
+    "ID":51,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":38,
+    "PercentageBedrijven250WerkzamePers_2":25
+  },
+  {
+    "ID":52,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":38,
+    "PercentageBedrijven250WerkzamePers_2":25
+  },
+  {
+    "ID":53,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":37,
+    "PercentageBedrijven250WerkzamePers_2":25
+  },
+  {
+    "ID":54,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":0,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":55,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":3,
+    "PercentageBedrijven250WerkzamePers_2":4
+  },
+  {
+    "ID":56,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":12,
+    "PercentageBedrijven250WerkzamePers_2":19
+  },
+  {
+    "ID":57,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":139,
+    "PercentageBedrijven250WerkzamePers_2":32
+  },
+  {
+    "ID":58,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":130,
+    "PercentageBedrijven250WerkzamePers_2":31
+  },
+  {
+    "ID":59,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":147,
+    "PercentageBedrijven250WerkzamePers_2":34
+  },
+  {
+    "ID":60,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":291,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":61,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":294,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":62,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":252,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":63,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":120,
+    "PercentageBedrijven250WerkzamePers_2":5
+  },
+  {
+    "ID":64,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":141,
+    "PercentageBedrijven250WerkzamePers_2":6
+  },
+  {
+    "ID":65,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":128,
+    "PercentageBedrijven250WerkzamePers_2":6
+  },
+  {
+    "ID":66,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":13,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":67,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":36,
+    "PercentageBedrijven250WerkzamePers_2":7
+  },
+  {
+    "ID":68,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":20,
+    "PercentageBedrijven250WerkzamePers_2":4
+  },
+  {
+    "ID":69,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":14,
+    "PercentageBedrijven250WerkzamePers_2":5
+  },
+  {
+    "ID":70,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":12,
+    "PercentageBedrijven250WerkzamePers_2":4
+  },
+  {
+    "ID":71,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":12,
+    "PercentageBedrijven250WerkzamePers_2":4
+  },
+  {
+    "ID":72,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":3,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":73,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":7,
+    "PercentageBedrijven250WerkzamePers_2":5
+  },
+  {
+    "ID":74,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":9,
+    "PercentageBedrijven250WerkzamePers_2":6
+  },
+  {
+    "ID":75,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":0,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":76,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":0,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":77,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":7,
+    "PercentageBedrijven250WerkzamePers_2":11
+  },
+  {
+    "ID":78,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":13,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":79,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":17,
+    "PercentageBedrijven250WerkzamePers_2":4
+  },
+  {
+    "ID":80,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":26,
+    "PercentageBedrijven250WerkzamePers_2":6
+  },
+  {
+    "ID":81,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":78,
+    "PercentageBedrijven250WerkzamePers_2":9
+  },
+  {
+    "ID":82,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":69,
+    "PercentageBedrijven250WerkzamePers_2":8
+  },
+  {
+    "ID":83,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":52,
+    "PercentageBedrijven250WerkzamePers_2":6
+  },
+  {
+    "ID":84,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":57,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":85,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":32,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":86,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":32,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":87,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":11,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":88,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":7,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":89,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":7,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":90,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":7,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":91,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":92,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":7,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":93,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":5,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":94,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":0,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":95,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":1,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":96,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":97,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":6,
+    "PercentageBedrijven250WerkzamePers_2":8
+  },
+  {
+    "ID":98,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":0,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":99,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":10,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":100,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":3,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":101,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":3,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":102,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":23,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":103,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":14,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":104,
+    "ICTStellingen":"  1",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":14,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":105,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2282,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":106,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2273,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":107,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2256,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":108,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":495,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":109,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":496,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":110,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":492,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":111,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":293,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":112,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":298,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":113,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":299,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":114,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":152,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":115,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":153,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":116,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":146,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":117,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":74,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":118,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":73,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":119,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":63,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":120,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":430,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":121,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":423,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":122,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":430,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":123,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":838,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":124,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":830,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":125,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":827,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":126,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":715,
+    "PercentageBedrijven250WerkzamePers_2":31
+  },
+  {
+    "ID":127,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":785,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":128,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":778,
+    "PercentageBedrijven250WerkzamePers_2":34
+  },
+  {
+    "ID":129,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":145,
+    "PercentageBedrijven250WerkzamePers_2":29
+  },
+  {
+    "ID":130,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":165,
+    "PercentageBedrijven250WerkzamePers_2":33
+  },
+  {
+    "ID":131,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":155,
+    "PercentageBedrijven250WerkzamePers_2":32
+  },
+  {
+    "ID":132,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":89,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":133,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":104,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":134,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":110,
+    "PercentageBedrijven250WerkzamePers_2":37
+  },
+  {
+    "ID":135,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":53,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":136,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":51,
+    "PercentageBedrijven250WerkzamePers_2":33
+  },
+  {
+    "ID":137,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":45,
+    "PercentageBedrijven250WerkzamePers_2":31
+  },
+  {
+    "ID":138,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":41,
+    "PercentageBedrijven250WerkzamePers_2":55
+  },
+  {
+    "ID":139,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":28,
+    "PercentageBedrijven250WerkzamePers_2":38
+  },
+  {
+    "ID":140,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":32,
+    "PercentageBedrijven250WerkzamePers_2":51
+  },
+  {
+    "ID":141,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":138,
+    "PercentageBedrijven250WerkzamePers_2":32
+  },
+  {
+    "ID":142,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":179,
+    "PercentageBedrijven250WerkzamePers_2":42
+  },
+  {
+    "ID":143,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":157,
+    "PercentageBedrijven250WerkzamePers_2":37
+  },
+  {
+    "ID":144,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":248,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":145,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":259,
+    "PercentageBedrijven250WerkzamePers_2":31
+  },
+  {
+    "ID":146,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":279,
+    "PercentageBedrijven250WerkzamePers_2":34
+  },
+  {
+    "ID":147,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":1130,
+    "PercentageBedrijven250WerkzamePers_2":50
+  },
+  {
+    "ID":148,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":1078,
+    "PercentageBedrijven250WerkzamePers_2":47
+  },
+  {
+    "ID":149,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":1067,
+    "PercentageBedrijven250WerkzamePers_2":47
+  },
+  {
+    "ID":150,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":256,
+    "PercentageBedrijven250WerkzamePers_2":52
+  },
+  {
+    "ID":151,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":227,
+    "PercentageBedrijven250WerkzamePers_2":46
+  },
+  {
+    "ID":152,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":234,
+    "PercentageBedrijven250WerkzamePers_2":48
+  },
+  {
+    "ID":153,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":143,
+    "PercentageBedrijven250WerkzamePers_2":49
+  },
+  {
+    "ID":154,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":150,
+    "PercentageBedrijven250WerkzamePers_2":50
+  },
+  {
+    "ID":155,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":122,
+    "PercentageBedrijven250WerkzamePers_2":41
+  },
+  {
+    "ID":156,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":83,
+    "PercentageBedrijven250WerkzamePers_2":55
+  },
+  {
+    "ID":157,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":78,
+    "PercentageBedrijven250WerkzamePers_2":51
+  },
+  {
+    "ID":158,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":84,
+    "PercentageBedrijven250WerkzamePers_2":58
+  },
+  {
+    "ID":159,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":22,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":160,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":36,
+    "PercentageBedrijven250WerkzamePers_2":49
+  },
+  {
+    "ID":161,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":15,
+    "PercentageBedrijven250WerkzamePers_2":24
+  },
+  {
+    "ID":162,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":208,
+    "PercentageBedrijven250WerkzamePers_2":48
+  },
+  {
+    "ID":163,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":182,
+    "PercentageBedrijven250WerkzamePers_2":43
+  },
+  {
+    "ID":164,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":194,
+    "PercentageBedrijven250WerkzamePers_2":45
+  },
+  {
+    "ID":165,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":417,
+    "PercentageBedrijven250WerkzamePers_2":50
+  },
+  {
+    "ID":166,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":405,
+    "PercentageBedrijven250WerkzamePers_2":49
+  },
+  {
+    "ID":167,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":418,
+    "PercentageBedrijven250WerkzamePers_2":51
+  },
+  {
+    "ID":168,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":389,
+    "PercentageBedrijven250WerkzamePers_2":17
+  },
+  {
+    "ID":169,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":382,
+    "PercentageBedrijven250WerkzamePers_2":17
+  },
+  {
+    "ID":170,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":367,
+    "PercentageBedrijven250WerkzamePers_2":16
+  },
+  {
+    "ID":171,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":85,
+    "PercentageBedrijven250WerkzamePers_2":17
+  },
+  {
+    "ID":172,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":97,
+    "PercentageBedrijven250WerkzamePers_2":20
+  },
+  {
+    "ID":173,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":95,
+    "PercentageBedrijven250WerkzamePers_2":19
+  },
+  {
+    "ID":174,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":52,
+    "PercentageBedrijven250WerkzamePers_2":18
+  },
+  {
+    "ID":175,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":42,
+    "PercentageBedrijven250WerkzamePers_2":14
+  },
+  {
+    "ID":176,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":60,
+    "PercentageBedrijven250WerkzamePers_2":20
+  },
+  {
+    "ID":177,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":12,
+    "PercentageBedrijven250WerkzamePers_2":8
+  },
+  {
+    "ID":178,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":24,
+    "PercentageBedrijven250WerkzamePers_2":16
+  },
+  {
+    "ID":179,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":15,
+    "PercentageBedrijven250WerkzamePers_2":10
+  },
+  {
+    "ID":180,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":9,
+    "PercentageBedrijven250WerkzamePers_2":12
+  },
+  {
+    "ID":181,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":10,
+    "PercentageBedrijven250WerkzamePers_2":14
+  },
+  {
+    "ID":182,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":16,
+    "PercentageBedrijven250WerkzamePers_2":25
+  },
+  {
+    "ID":183,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":72,
+    "PercentageBedrijven250WerkzamePers_2":17
+  },
+  {
+    "ID":184,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":60,
+    "PercentageBedrijven250WerkzamePers_2":14
+  },
+  {
+    "ID":185,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":74,
+    "PercentageBedrijven250WerkzamePers_2":17
+  },
+  {
+    "ID":186,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":159,
+    "PercentageBedrijven250WerkzamePers_2":19
+  },
+  {
+    "ID":187,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":149,
+    "PercentageBedrijven250WerkzamePers_2":18
+  },
+  {
+    "ID":188,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":106,
+    "PercentageBedrijven250WerkzamePers_2":13
+  },
+  {
+    "ID":189,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":48,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":190,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":28,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":191,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":43,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":192,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":8,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":193,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":7,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":194,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":7,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":195,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":8,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":196,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":197,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":7,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":198,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":4,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":199,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":0,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":200,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":0,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":201,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":202,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":0,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":203,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":0,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":204,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":12,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":205,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":206,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":5,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":207,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":15,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":208,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":18,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":209,
+    "ICTStellingen":"  2",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":23,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":210,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2282,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":211,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2273,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":212,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2256,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":213,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":495,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":214,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":496,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":215,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":492,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":216,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":293,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":217,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":298,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":218,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":299,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":219,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":152,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":220,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":153,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":221,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":146,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":222,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":74,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":223,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":73,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":224,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":63,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":225,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":430,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":226,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":423,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":227,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":430,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":228,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":838,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":229,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":830,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":230,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":827,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":231,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":1149,
+    "PercentageBedrijven250WerkzamePers_2":50
+  },
+  {
+    "ID":232,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":1160,
+    "PercentageBedrijven250WerkzamePers_2":51
+  },
+  {
+    "ID":233,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":1120,
+    "PercentageBedrijven250WerkzamePers_2":50
+  },
+  {
+    "ID":234,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":395,
+    "PercentageBedrijven250WerkzamePers_2":80
+  },
+  {
+    "ID":235,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":395,
+    "PercentageBedrijven250WerkzamePers_2":80
+  },
+  {
+    "ID":236,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":369,
+    "PercentageBedrijven250WerkzamePers_2":75
+  },
+  {
+    "ID":237,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":208,
+    "PercentageBedrijven250WerkzamePers_2":71
+  },
+  {
+    "ID":238,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":227,
+    "PercentageBedrijven250WerkzamePers_2":76
+  },
+  {
+    "ID":239,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":235,
+    "PercentageBedrijven250WerkzamePers_2":79
+  },
+  {
+    "ID":240,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":81,
+    "PercentageBedrijven250WerkzamePers_2":53
+  },
+  {
+    "ID":241,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":80,
+    "PercentageBedrijven250WerkzamePers_2":52
+  },
+  {
+    "ID":242,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":74,
+    "PercentageBedrijven250WerkzamePers_2":51
+  },
+  {
+    "ID":243,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":39,
+    "PercentageBedrijven250WerkzamePers_2":53
+  },
+  {
+    "ID":244,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":43,
+    "PercentageBedrijven250WerkzamePers_2":59
+  },
+  {
+    "ID":245,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":33,
+    "PercentageBedrijven250WerkzamePers_2":52
+  },
+  {
+    "ID":246,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":171,
+    "PercentageBedrijven250WerkzamePers_2":40
+  },
+  {
+    "ID":247,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":162,
+    "PercentageBedrijven250WerkzamePers_2":38
+  },
+  {
+    "ID":248,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":183,
+    "PercentageBedrijven250WerkzamePers_2":43
+  },
+  {
+    "ID":249,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":255,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":250,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":252,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":251,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":226,
+    "PercentageBedrijven250WerkzamePers_2":27
+  },
+  {
+    "ID":252,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":640,
+    "PercentageBedrijven250WerkzamePers_2":28
+  },
+  {
+    "ID":253,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":623,
+    "PercentageBedrijven250WerkzamePers_2":27
+  },
+  {
+    "ID":254,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":657,
+    "PercentageBedrijven250WerkzamePers_2":29
+  },
+  {
+    "ID":255,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":67,
+    "PercentageBedrijven250WerkzamePers_2":14
+  },
+  {
+    "ID":256,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":65,
+    "PercentageBedrijven250WerkzamePers_2":13
+  },
+  {
+    "ID":257,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":88,
+    "PercentageBedrijven250WerkzamePers_2":18
+  },
+  {
+    "ID":258,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":63,
+    "PercentageBedrijven250WerkzamePers_2":22
+  },
+  {
+    "ID":259,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":57,
+    "PercentageBedrijven250WerkzamePers_2":19
+  },
+  {
+    "ID":260,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":38,
+    "PercentageBedrijven250WerkzamePers_2":13
+  },
+  {
+    "ID":261,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":49,
+    "PercentageBedrijven250WerkzamePers_2":32
+  },
+  {
+    "ID":262,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":40,
+    "PercentageBedrijven250WerkzamePers_2":26
+  },
+  {
+    "ID":263,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":55,
+    "PercentageBedrijven250WerkzamePers_2":38
+  },
+  {
+    "ID":264,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":19,
+    "PercentageBedrijven250WerkzamePers_2":26
+  },
+  {
+    "ID":265,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":13,
+    "PercentageBedrijven250WerkzamePers_2":18
+  },
+  {
+    "ID":266,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":13,
+    "PercentageBedrijven250WerkzamePers_2":21
+  },
+  {
+    "ID":267,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":145,
+    "PercentageBedrijven250WerkzamePers_2":34
+  },
+  {
+    "ID":268,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":147,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":269,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":138,
+    "PercentageBedrijven250WerkzamePers_2":32
+  },
+  {
+    "ID":270,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":298,
+    "PercentageBedrijven250WerkzamePers_2":36
+  },
+  {
+    "ID":271,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":300,
+    "PercentageBedrijven250WerkzamePers_2":36
+  },
+  {
+    "ID":272,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":325,
+    "PercentageBedrijven250WerkzamePers_2":39
+  },
+  {
+    "ID":273,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":438,
+    "PercentageBedrijven250WerkzamePers_2":19
+  },
+  {
+    "ID":274,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":451,
+    "PercentageBedrijven250WerkzamePers_2":20
+  },
+  {
+    "ID":275,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":446,
+    "PercentageBedrijven250WerkzamePers_2":20
+  },
+  {
+    "ID":276,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":25,
+    "PercentageBedrijven250WerkzamePers_2":5
+  },
+  {
+    "ID":277,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":28,
+    "PercentageBedrijven250WerkzamePers_2":6
+  },
+  {
+    "ID":278,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":31,
+    "PercentageBedrijven250WerkzamePers_2":6
+  },
+  {
+    "ID":279,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":12,
+    "PercentageBedrijven250WerkzamePers_2":4
+  },
+  {
+    "ID":280,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":10,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":281,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":20,
+    "PercentageBedrijven250WerkzamePers_2":7
+  },
+  {
+    "ID":282,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":20,
+    "PercentageBedrijven250WerkzamePers_2":13
+  },
+  {
+    "ID":283,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":31,
+    "PercentageBedrijven250WerkzamePers_2":20
+  },
+  {
+    "ID":284,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":14,
+    "PercentageBedrijven250WerkzamePers_2":10
+  },
+  {
+    "ID":285,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":14,
+    "PercentageBedrijven250WerkzamePers_2":19
+  },
+  {
+    "ID":286,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":11,
+    "PercentageBedrijven250WerkzamePers_2":15
+  },
+  {
+    "ID":287,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":17,
+    "PercentageBedrijven250WerkzamePers_2":27
+  },
+  {
+    "ID":288,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":99,
+    "PercentageBedrijven250WerkzamePers_2":23
+  },
+  {
+    "ID":289,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":112,
+    "PercentageBedrijven250WerkzamePers_2":26
+  },
+  {
+    "ID":290,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":107,
+    "PercentageBedrijven250WerkzamePers_2":25
+  },
+  {
+    "ID":291,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":268,
+    "PercentageBedrijven250WerkzamePers_2":32
+  },
+  {
+    "ID":292,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":260,
+    "PercentageBedrijven250WerkzamePers_2":31
+  },
+  {
+    "ID":293,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":257,
+    "PercentageBedrijven250WerkzamePers_2":31
+  },
+  {
+    "ID":294,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":54,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":295,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":40,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":296,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":32,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":297,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":8,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":298,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":9,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":299,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":4,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":300,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":9,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":301,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":4,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":302,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":5,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":303,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":304,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":305,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":4,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":306,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":307,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":6,
+    "PercentageBedrijven250WerkzamePers_2":8
+  },
+  {
+    "ID":308,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":4,
+    "PercentageBedrijven250WerkzamePers_2":6
+  },
+  {
+    "ID":309,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":16,
+    "PercentageBedrijven250WerkzamePers_2":4
+  },
+  {
+    "ID":310,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":311,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":1,
+    "PercentageBedrijven250WerkzamePers_2":0
+  },
+  {
+    "ID":312,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":18,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":313,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":17,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":314,
+    "ICTStellingen":"  3",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":19,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":315,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2282,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":316,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2273,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":317,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2256,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":318,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":495,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":319,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":496,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":320,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":492,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":321,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":293,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":322,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":298,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":323,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":299,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":324,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":152,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":325,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":153,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":326,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":146,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":327,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":74,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":328,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":73,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":329,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":63,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":330,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":430,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":331,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":423,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":332,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":430,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":333,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":838,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":334,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":830,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":335,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  0",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":827,
+    "PercentageBedrijven250WerkzamePers_2":100
+  },
+  {
+    "ID":336,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":693,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":337,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":730,
+    "PercentageBedrijven250WerkzamePers_2":32
+  },
+  {
+    "ID":338,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":680,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":339,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":173,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":340,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":178,
+    "PercentageBedrijven250WerkzamePers_2":36
+  },
+  {
+    "ID":341,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":154,
+    "PercentageBedrijven250WerkzamePers_2":31
+  },
+  {
+    "ID":342,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":109,
+    "PercentageBedrijven250WerkzamePers_2":37
+  },
+  {
+    "ID":343,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":109,
+    "PercentageBedrijven250WerkzamePers_2":37
+  },
+  {
+    "ID":344,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":126,
+    "PercentageBedrijven250WerkzamePers_2":42
+  },
+  {
+    "ID":345,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":53,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":346,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":51,
+    "PercentageBedrijven250WerkzamePers_2":33
+  },
+  {
+    "ID":347,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":39,
+    "PercentageBedrijven250WerkzamePers_2":27
+  },
+  {
+    "ID":348,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":34,
+    "PercentageBedrijven250WerkzamePers_2":46
+  },
+  {
+    "ID":349,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":36,
+    "PercentageBedrijven250WerkzamePers_2":49
+  },
+  {
+    "ID":350,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":33,
+    "PercentageBedrijven250WerkzamePers_2":52
+  },
+  {
+    "ID":351,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":143,
+    "PercentageBedrijven250WerkzamePers_2":33
+  },
+  {
+    "ID":352,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":148,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":353,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":154,
+    "PercentageBedrijven250WerkzamePers_2":36
+  },
+  {
+    "ID":354,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":182,
+    "PercentageBedrijven250WerkzamePers_2":22
+  },
+  {
+    "ID":355,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":207,
+    "PercentageBedrijven250WerkzamePers_2":25
+  },
+  {
+    "ID":356,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  1",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":175,
+    "PercentageBedrijven250WerkzamePers_2":21
+  },
+  {
+    "ID":357,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":614,
+    "PercentageBedrijven250WerkzamePers_2":27
+  },
+  {
+    "ID":358,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":623,
+    "PercentageBedrijven250WerkzamePers_2":27
+  },
+  {
+    "ID":359,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":623,
+    "PercentageBedrijven250WerkzamePers_2":28
+  },
+  {
+    "ID":360,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":118,
+    "PercentageBedrijven250WerkzamePers_2":24
+  },
+  {
+    "ID":361,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":136,
+    "PercentageBedrijven250WerkzamePers_2":27
+  },
+  {
+    "ID":362,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":149,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":363,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":98,
+    "PercentageBedrijven250WerkzamePers_2":33
+  },
+  {
+    "ID":364,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":90,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":365,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":68,
+    "PercentageBedrijven250WerkzamePers_2":23
+  },
+  {
+    "ID":366,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":31,
+    "PercentageBedrijven250WerkzamePers_2":20
+  },
+  {
+    "ID":367,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":45,
+    "PercentageBedrijven250WerkzamePers_2":29
+  },
+  {
+    "ID":368,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":54,
+    "PercentageBedrijven250WerkzamePers_2":37
+  },
+  {
+    "ID":369,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":12,
+    "PercentageBedrijven250WerkzamePers_2":16
+  },
+  {
+    "ID":370,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":15,
+    "PercentageBedrijven250WerkzamePers_2":21
+  },
+  {
+    "ID":371,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":8,
+    "PercentageBedrijven250WerkzamePers_2":13
+  },
+  {
+    "ID":372,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":116,
+    "PercentageBedrijven250WerkzamePers_2":27
+  },
+  {
+    "ID":373,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":117,
+    "PercentageBedrijven250WerkzamePers_2":28
+  },
+  {
+    "ID":374,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":131,
+    "PercentageBedrijven250WerkzamePers_2":30
+  },
+  {
+    "ID":375,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":239,
+    "PercentageBedrijven250WerkzamePers_2":29
+  },
+  {
+    "ID":376,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":221,
+    "PercentageBedrijven250WerkzamePers_2":27
+  },
+  {
+    "ID":377,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  2",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":214,
+    "PercentageBedrijven250WerkzamePers_2":26
+  },
+  {
+    "ID":378,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":923,
+    "PercentageBedrijven250WerkzamePers_2":40
+  },
+  {
+    "ID":379,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":885,
+    "PercentageBedrijven250WerkzamePers_2":39
+  },
+  {
+    "ID":380,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":912,
+    "PercentageBedrijven250WerkzamePers_2":40
+  },
+  {
+    "ID":381,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":194,
+    "PercentageBedrijven250WerkzamePers_2":39
+  },
+  {
+    "ID":382,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":174,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":383,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":184,
+    "PercentageBedrijven250WerkzamePers_2":37
+  },
+  {
+    "ID":384,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":76,
+    "PercentageBedrijven250WerkzamePers_2":26
+  },
+  {
+    "ID":385,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":96,
+    "PercentageBedrijven250WerkzamePers_2":32
+  },
+  {
+    "ID":386,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":97,
+    "PercentageBedrijven250WerkzamePers_2":32
+  },
+  {
+    "ID":387,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":66,
+    "PercentageBedrijven250WerkzamePers_2":43
+  },
+  {
+    "ID":388,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":55,
+    "PercentageBedrijven250WerkzamePers_2":36
+  },
+  {
+    "ID":389,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":52,
+    "PercentageBedrijven250WerkzamePers_2":36
+  },
+  {
+    "ID":390,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":26,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":391,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":20,
+    "PercentageBedrijven250WerkzamePers_2":27
+  },
+  {
+    "ID":392,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":22,
+    "PercentageBedrijven250WerkzamePers_2":35
+  },
+  {
+    "ID":393,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":160,
+    "PercentageBedrijven250WerkzamePers_2":37
+  },
+  {
+    "ID":394,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":155,
+    "PercentageBedrijven250WerkzamePers_2":37
+  },
+  {
+    "ID":395,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":142,
+    "PercentageBedrijven250WerkzamePers_2":33
+  },
+  {
+    "ID":396,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":401,
+    "PercentageBedrijven250WerkzamePers_2":48
+  },
+  {
+    "ID":397,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":385,
+    "PercentageBedrijven250WerkzamePers_2":46
+  },
+  {
+    "ID":398,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  3",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":416,
+    "PercentageBedrijven250WerkzamePers_2":50
+  },
+  {
+    "ID":399,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":52,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":400,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":35,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":401,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       1",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":40,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":402,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":10,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":403,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":8,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":404,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       2",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":5,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":405,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":10,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":406,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":407,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       3",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":9,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":408,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":409,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":410,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       4",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":13,
+    "PercentageBedrijven250WerkzamePers_2":9
+  },
+  {
+    "ID":411,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":2,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":412,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":3,
+    "PercentageBedrijven250WerkzamePers_2":4
+  },
+  {
+    "ID":413,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       5",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":5,
+    "PercentageBedrijven250WerkzamePers_2":8
+  },
+  {
+    "ID":414,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":11,
+    "PercentageBedrijven250WerkzamePers_2":3
+  },
+  {
+    "ID":415,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":3,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":416,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       6",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":4,
+    "PercentageBedrijven250WerkzamePers_2":1
+  },
+  {
+    "ID":417,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2006JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":16,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":418,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2007JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":18,
+    "PercentageBedrijven250WerkzamePers_2":2
+  },
+  {
+    "ID":419,
+    "ICTStellingen":"  4",
+    "BeantwoordingICTStellingen":"  4",
+    "BedrijfstakkenBranchesSBI93":"       7",
+    "Perioden":"2008JJ00  ",
+    "AantalBedrijven250WerkzamePersonen_1":21,
+    "PercentageBedrijven250WerkzamePers_2":3
+  }
+]

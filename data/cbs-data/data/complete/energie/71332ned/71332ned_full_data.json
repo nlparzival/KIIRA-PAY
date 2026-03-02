@@ -1,0 +1,101 @@
+[
+  {
+    "ID":0,
+    "Motief":"3 ",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":10012,
+    "Overnachtingen_2":25210,
+    "Bestedingen_3":3545.0,
+    "Gasten_4":100,
+    "Overnachtingen_5":100
+  },
+  {
+    "ID":1,
+    "Motief":"3 ",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":8081,
+    "Overnachtingen_2":15143,
+    "Bestedingen_3":3102.0,
+    "Gasten_4":100,
+    "Overnachtingen_5":100
+  },
+  {
+    "ID":2,
+    "Motief":"3 ",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1931,
+    "Overnachtingen_2":10067,
+    "Bestedingen_3":442.0,
+    "Gasten_4":100,
+    "Overnachtingen_5":100
+  },
+  {
+    "ID":3,
+    "Motief":"1 ",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":6973,
+    "Overnachtingen_2":20339,
+    "Bestedingen_3":2217.0,
+    "Gasten_4":70,
+    "Overnachtingen_5":81
+  },
+  {
+    "ID":4,
+    "Motief":"1 ",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":5090,
+    "Overnachtingen_2":10573,
+    "Bestedingen_3":null,
+    "Gasten_4":63,
+    "Overnachtingen_5":70
+  },
+  {
+    "ID":5,
+    "Motief":"1 ",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1882,
+    "Overnachtingen_2":9765,
+    "Bestedingen_3":null,
+    "Gasten_4":97,
+    "Overnachtingen_5":97
+  },
+  {
+    "ID":6,
+    "Motief":"2 ",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":3039,
+    "Overnachtingen_2":4871,
+    "Bestedingen_3":1328.0,
+    "Gasten_4":30,
+    "Overnachtingen_5":19
+  },
+  {
+    "ID":7,
+    "Motief":"2 ",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":2991,
+    "Overnachtingen_2":4570,
+    "Bestedingen_3":null,
+    "Gasten_4":37,
+    "Overnachtingen_5":30
+  },
+  {
+    "ID":8,
+    "Motief":"2 ",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":49,
+    "Overnachtingen_2":302,
+    "Bestedingen_3":null,
+    "Gasten_4":3,
+    "Overnachtingen_5":3
+  }
+]

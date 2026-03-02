@@ -1,0 +1,89 @@
+{
+  "summary": {
+    "total_datasets": 730,
+    "total_files": 1511,
+    "total_size_mb": 907.16
+  },
+  "categories": {
+    "energie": {
+      "datasets": 145,
+      "files": 318,
+      "csv": 145,
+      "json": 173,
+      "parquet": 0,
+      "size_mb": 139.2534065246582
+    },
+    "hernieuwbaar": {
+      "datasets": 74,
+      "files": 148,
+      "csv": 74,
+      "json": 74,
+      "parquet": 0,
+      "size_mb": 75.45694351196289
+    },
+    "economie": {
+      "datasets": 0,
+      "files": 0,
+      "csv": 0,
+      "json": 0,
+      "parquet": 0,
+      "size_mb": 0
+    },
+    "prijzen": {
+      "datasets": 97,
+      "files": 202,
+      "csv": 97,
+      "json": 105,
+      "parquet": 0,
+      "size_mb": 83.96734046936035
+    },
+    "other": {
+      "datasets": 0,
+      "files": 0,
+      "csv": 0,
+      "json": 0,
+      "parquet": 0,
+      "size_mb": 0
+    },
+    "arbeid": {
+      "datasets": 104,
+      "files": 208,
+      "csv": 104,
+      "json": 104,
+      "parquet": 0,
+      "size_mb": 61.99528789520264
+    },
+    "woningen": {
+      "datasets": 38,
+      "files": 80,
+      "csv": 38,
+      "json": 42,
+      "parquet": 0,
+      "size_mb": 43.645365715026855
+    },
+    "verbruik": {
+      "datasets": 161,
+      "files": 327,
+      "csv": 161,
+      "json": 166,
+      "parquet": 0,
+      "size_mb": 305.79949283599854
+    },
+    "productie": {
+      "datasets": 64,
+      "files": 133,
+      "csv": 64,
+      "json": 69,
+      "parquet": 0,
+      "size_mb": 166.83719444274902
+    },
+    "co2": {
+      "datasets": 47,
+      "files": 95,
+      "csv": 47,
+      "json": 48,
+      "parquet": 0,
+      "size_mb": 30.2009916305542
+    }
+  }
+}

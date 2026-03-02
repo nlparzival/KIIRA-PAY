@@ -1,0 +1,245 @@
+[
+  {
+    "ID":0,
+    "LandVanHerkomst":"20",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":10012,
+    "Overnachtingen_2":25210,
+    "Bestedingen_3":3545.0
+  },
+  {
+    "ID":1,
+    "LandVanHerkomst":"20",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":8081,
+    "Overnachtingen_2":15143,
+    "Bestedingen_3":3102.0
+  },
+  {
+    "ID":2,
+    "LandVanHerkomst":"20",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1931,
+    "Overnachtingen_2":10067,
+    "Bestedingen_3":442.0
+  },
+  {
+    "ID":3,
+    "LandVanHerkomst":"12",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":918,
+    "Overnachtingen_2":2241,
+    "Bestedingen_3":192.0
+  },
+  {
+    "ID":4,
+    "LandVanHerkomst":"12",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":597,
+    "Overnachtingen_2":862,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":5,
+    "LandVanHerkomst":"12",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":320,
+    "Overnachtingen_2":1379,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":6,
+    "LandVanHerkomst":"11",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":2570,
+    "Overnachtingen_2":9487,
+    "Bestedingen_3":628.0
+  },
+  {
+    "ID":7,
+    "LandVanHerkomst":"11",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1266,
+    "Overnachtingen_2":2240,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":8,
+    "LandVanHerkomst":"11",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1304,
+    "Overnachtingen_2":7248,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":9,
+    "LandVanHerkomst":"14",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":527,
+    "Overnachtingen_2":985,
+    "Bestedingen_3":139.0
+  },
+  {
+    "ID":10,
+    "LandVanHerkomst":"14",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":468,
+    "Overnachtingen_2":788,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":11,
+    "LandVanHerkomst":"14",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":59,
+    "Overnachtingen_2":197,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":12,
+    "LandVanHerkomst":"13",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1853,
+    "Overnachtingen_2":4133,
+    "Bestedingen_3":874.0
+  },
+  {
+    "ID":13,
+    "LandVanHerkomst":"13",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1744,
+    "Overnachtingen_2":3440,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":14,
+    "LandVanHerkomst":"13",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":109,
+    "Overnachtingen_2":693,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":15,
+    "LandVanHerkomst":"15",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":697,
+    "Overnachtingen_2":1491,
+    "Bestedingen_3":235.0
+  },
+  {
+    "ID":16,
+    "LandVanHerkomst":"15",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":639,
+    "Overnachtingen_2":1279,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":17,
+    "LandVanHerkomst":"15",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":57,
+    "Overnachtingen_2":212,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":18,
+    "LandVanHerkomst":"17",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1339,
+    "Overnachtingen_2":2844,
+    "Bestedingen_3":505.0
+  },
+  {
+    "ID":19,
+    "LandVanHerkomst":"17",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1269,
+    "Overnachtingen_2":2558,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":20,
+    "LandVanHerkomst":"17",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":70,
+    "Overnachtingen_2":286,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":21,
+    "LandVanHerkomst":"18",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":872,
+    "Overnachtingen_2":1485,
+    "Bestedingen_3":279.0
+  },
+  {
+    "ID":22,
+    "LandVanHerkomst":"18",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":868,
+    "Overnachtingen_2":1459,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":23,
+    "LandVanHerkomst":"18",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":4,
+    "Overnachtingen_2":26,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":24,
+    "LandVanHerkomst":"19",
+    "TypeAccommodatie":"3",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1238,
+    "Overnachtingen_2":2543,
+    "Bestedingen_3":694.0
+  },
+  {
+    "ID":25,
+    "LandVanHerkomst":"19",
+    "TypeAccommodatie":"1",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":1231,
+    "Overnachtingen_2":2516,
+    "Bestedingen_3":null
+  },
+  {
+    "ID":26,
+    "LandVanHerkomst":"19",
+    "TypeAccommodatie":"2",
+    "Perioden":"2005SJ00 ",
+    "Gasten_1":7,
+    "Overnachtingen_2":27,
+    "Bestedingen_3":null
+  }
+]
