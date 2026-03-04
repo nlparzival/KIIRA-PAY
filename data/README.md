@@ -36,11 +36,12 @@ data/
 
 #### **CBS (Statistics Netherlands)**
 - **Type:** Historical statistical data
-- **Coverage:** 730 validated datasets
-- **Categories:** Energy, consumption, production, prices, emissions, labor, housing
+- **Coverage:** ~807 datasets downloaded, all must-have & should-have present
+- **Categories:** Energy, consumption, production, prices, emissions, CO2, renewables
 - **Update:** Quarterly/Annual
 - **Status:** ✅ Complete & validated
-- **Size:** ~907 MB
+- **Size:** ~4 GB lokaal (waarvan ~1.6 GB in 16 grote bestanden die niet op GitHub staan)
+- **⚠️ Let op:** 16 bestanden >50MB staan alleen lokaal, niet op GitHub. Zie `cbs-data/README.md` voor details en hoe je ze opnieuw kunt downloaden.
 
 #### **TenneT**
 - **Type:** Real-time and historical electricity grid data
