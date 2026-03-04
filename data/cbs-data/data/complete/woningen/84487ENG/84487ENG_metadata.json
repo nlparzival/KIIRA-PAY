@@ -1,0 +1,23 @@
+{
+  "ID": 0,
+  "Title": "Housing costs of households; household and dwelling characteristics",
+  "ShortTitle": "Housing costs of households",
+  "Identifier": "84487ENG",
+  "Summary": "Housing costs, housing cost ratio, skewed rent\nOwner or tenant, household characteristics, dwelling characteristics",
+  "Modified": "2022-06-09T02:00:00",
+  "ReasonDelivery": "Discontinued",
+  "ExplanatoryText": "",
+  "Language": "en",
+  "Catalog": "CBS",
+  "Frequency": "Discontinued",
+  "Period": "2012,2015,2018,2021",
+  "ShortDescription": "\nThis table contains figures on the housing costs of private households in independent homes. Households living (temporarily) in a house free of charge are not included. The figures are presented for both owners and tenants and can be further divided into various characteristics of the household and the dwelling.\n\nData available from: 2012\n\nStatus of the figures: final\n\nChanges as of Januari 12, 2026\nThe table is stopped.\n\nWhen will new figures be published?\nNot applicable. \n",
+  "Description": "CONTENTS\r\n\r\n1. General information\r\n2. Definitions and explanation of symbols\r\n3. Links to relevant tables and articles\r\n4. Sources and methods\r\n5. Further information\r\n\r\n1. GENERAL INFORMATION\r\n\r\nThis table contains figures on the housing costs of private households in independent homes. Households living (temporarily) in a house free of charge are not included. The figures are presented for both owners and tenants and can be further divided into various characteristics of the household and the dwelling.\r\n\r\nData available from: 2012\r\n\r\nStatus of the figures: final\r\n\r\nChanges as of Januari 12, 2026\r\nThe table is stopped.\r\n\r\nWhen will new figures be published?\r\nNot applicable. \r\n\r\n2. DEFINITIONS AND EXPLANATION OF SYMBOLS\r\n\r\nPrivate household:\r\nOne or more persons living in a dwelling together and meeting their own daily needs (i.e. not as companies). \r\n\r\nIndependent home:\r\nA complete dwelling, i.e. a dwelling occupied by only one household with facilities including toilet, bathroom and kitchen which are not shared with other households.\r\nExplanation of symbols:\r\n\r\nEmpty cell\t: figure not applicable\r\n. \t\t: figure is unknown, insufficiently reliable or confidential\r\n*\t\t: provisional figure \r\n**\t\t: revised provisional figure\r\n\r\nFigures are not published (.) in WoON when point estimate is based on fewer than 30 observations.\r\n\r\n3. LINKS TO RELEVANT TABLES AND ARTICLES\r\n\r\nRelevant tables: \r\n<a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/84488ENG'>Housing costs of households; household or dwelling characteristics and region</a>\r\n\r\nRelevant articles: \r\nMore information can be found at the theme page <a href='https://www.cbs.nl/en-gb/economy/construction-and-housing'>Construction and housing</a>. \r\n\r\n4. SOURCES AND METHODS\r\n\r\nThe Netherlands\u2019 Housing Survey (WoON) is a three-yearly survey on the housing situation of the Dutch population and their living requirements and needs. Elements covered include the composition of households, the dwelling and living environment, housing costs, living requirements and housing relocations.\r\n\r\nThe WoON survey is a sample survey. This implies that the figures published are estimates. The accuracy of these estimates is indicated in the table by the \u201895% confidence interval\u2019.  This interval contains the true (unknown) value with 95% certainty. \r\n\r\nThe survey method for this table can be found in the survey description of <a href='https://www.cbs.nl/en-gb/our-services/methods/surveys/korte-onderzoeksbeschrijvingen/netherlands-housing-survey--woon--'>Netherlands\u2019 Housing Survey (WoON)</a>.\r\n\r\n5. FURTHER INFORMATION\r\n\r\n<a href='https://www.cbs.nl/en-gb/about-us/contact/infoservice'>Infoservice</a>\r\n\r\nCopyright (c) Statistics Netherlands, The Hague/Heerlen\r\nReproduction is permitted, provided Statistics Netherlands is quoted as the source. \r\n",
+  "DefaultPresentation": "ts=1652434236036&graphtype=Table&r=OwnerOrTenant,Periods&k=Topics&t=HouseholdCharacteristics,DwellingCharacteristics,Accuracy",
+  "DefaultSelection": "$filter=((OwnerOrTenant eq 'T001096') or (OwnerOrTenant eq 'A025403') or (OwnerOrTenant eq 'A025404') or (OwnerOrTenant eq 'A025405') or (OwnerOrTenant eq 'A025406')) and ((HouseholdCharacteristics eq '1050010')) and ((DwellingCharacteristics eq 'T001100')) and ((Accuracy eq 'MW00000'))",
+  "GraphTypes": "Table,Bar,Line",
+  "OutputStatus": "Discontinued",
+  "Source": "CBS.",
+  "MetaDataModified": "2026-01-16T02:00:00",
+  "SearchPriority": "1"
+}

@@ -1,0 +1,82 @@
+# ===========================================
+# KIIRA-PAY .gitignore
+# ===========================================
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+.tool-versions
+
+# ----- Node -----
+node_modules/
+
+# ----- IDE -----
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ----- Logs -----
+*.log
+
+# ----- Environment -----
+.env
+.env.local
+
+# ----- Large CBS data files (>50MB) -----
+# These datasets are too large for GitHub.
+# They can be re-downloaded using the CBS API scripts.
+data/cbs-data/data/complete/energie/85140NED/85140NED_full_data.json
+data/cbs-data/data/complete/hernieuwbaar/85698NED/85698NED_full_data.csv
+data/cbs-data/data/complete/energie/83989ENG/83989ENG_full_data.json
+data/cbs-data/data/complete/energie/83989NED/83989NED_full_data.json
+data/cbs-data/data/complete/energie/82059NED/82059NED_full_data.json
+data/cbs-data/data/complete/hernieuwbaar/85534NED/85534NED_full_data.json
+data/cbs-data/data/complete/energie/82061NED/82061NED_full_data.json
+data/cbs-data/data/complete/verbruik/86159NED/86159NED_full_data.json
+data/cbs-data/data/complete/energie/85999NED/85999NED_full_data.json
+data/cbs-data/data/complete/energie/85697NED/85697NED_full_data.json
+data/cbs-data/data/complete/energie/85359NED/85359NED_full_data.json
+data/cbs-data/data/complete/energie/85677NED/85677NED_full_data.json
+data/cbs-data/data/complete/energie/85337NED/85337NED_full_data.json
+data/cbs-data/data/complete/energie/85126NED/85126NED_full_data.json
+data/cbs-data/data/complete/energie/84837NED/84837NED_full_data.json
+data/cbs-data/data/complete/co2/82505NED/82505NED_full_data.json
+
+# General rule: ignore any data file > 50MB
+# (GitHub warns at 50MB, blocks at 100MB)
+# If you add new large datasets, add them here or use Git LFS.
+
+# ----- Temporary/scratch files -----
+*.tmp
+*.bak
+*.orig
+scratch/
+temp/
+
+# ----- CBS download artifacts -----
+data/cbs-data/download_all_92.log
+data/cbs-data/download_all.log
+data/cbs-data/download_progress.log
+data/cbs-data/download_energie.log
+data/cbs-data/download_top200.log
+data/cbs-data/download_top200_v2.log
+data/cbs-data/output.log
+data/cbs-data/validation_output.txt
+data/cbs-data/validation_results_top30.json
+
+# ----- Removed/external data -----
+data/cbs-data/data/external_sources/
+data/cbs-data/data/removed_health_datasets/

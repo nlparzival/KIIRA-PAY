@@ -1,0 +1,38 @@
+[
+  {
+    "Key": "2011JJ00",
+    "Title": "2011",
+    "Description": "",
+    "Status": "Definitief"
+  },
+  {
+    "Key": "2012JJ00",
+    "Title": "2012",
+    "Description": "",
+    "Status": "Definitief"
+  },
+  {
+    "Key": "2013JJ00",
+    "Title": "2013",
+    "Description": "",
+    "Status": "Definitief"
+  },
+  {
+    "Key": "2014JJ00",
+    "Title": "2014",
+    "Description": "",
+    "Status": "Definitief"
+  },
+  {
+    "Key": "2015JJ00",
+    "Title": "2015",
+    "Description": "Revised provisional figures.",
+    "Status": "NaderVoorlopig"
+  },
+  {
+    "Key": "2016JJ00",
+    "Title": "2016",
+    "Description": "Revised provisional figures.",
+    "Status": "NaderVoorlopig"
+  }
+]
